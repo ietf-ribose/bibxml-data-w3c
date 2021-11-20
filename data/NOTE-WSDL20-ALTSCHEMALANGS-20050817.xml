@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-wsdl20-altschemalangs-20050817" target="https://www.w3.org/TR/2005/NOTE-wsdl20-altschemalangs-20050817/">
+  <front>
+    <title>Discussion of Alternative Schema Languages and Type System Support in WSDL 2.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-wsdl20-altschemalangs-20050817"/>
+    <author role="editor" fullname="Amelia Lewis"/>
+    <author role="editor" fullname="Bijan Parsia"/>
+    <date year="2005" month="August" day="17"/>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+</reference>

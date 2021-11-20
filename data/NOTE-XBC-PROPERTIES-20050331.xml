@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-xbc-properties-20050331" target="https://www.w3.org/TR/2005/NOTE-xbc-properties-20050331/">
+  <front>
+    <title>XML Binary Characterization Properties</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xbc-properties-20050331"/>
+    <author role="editor" fullname="Michael Cokus"/>
+    <author role="editor" fullname="Santiago Pericas-Geertsen"/>
+    <date year="2005" month="March" day="31"/>
+    <workgroup>XML Binary Characterization Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-api-perms-20150714" target="https://www.w3.org/TR/2015/NOTE-api-perms-20150714/">
+  <front>
+    <title>Permissions for Device API Access</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-api-perms-20150714"/>
+    <author role="editor" fullname="Dominique Hazaël-Massieux"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Paddy Byers"/>
+    <date year="2015" month="July" day="14"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>

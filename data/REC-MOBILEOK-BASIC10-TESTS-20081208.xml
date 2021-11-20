@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-mobileOK-basic10-tests-20081208" target="https://www.w3.org/TR/2008/REC-mobileOK-basic10-tests-20081208/">
+  <front>
+    <title>W3C mobileOK Basic Tests 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-mobileOK-basic10-tests-20081208"/>
+    <author role="editor" fullname="Jo Rabin"/>
+    <author role="editor" fullname="Sean Owen"/>
+    <date year="2008" month="December" day="8"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+</reference>

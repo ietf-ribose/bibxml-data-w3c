@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-di-princ-20030901" target="https://www.w3.org/TR/2003/NOTE-di-princ-20030901/">
+  <front>
+    <title>Device Independence Principles</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-di-princ-20030901"/>
+    <author role="editor" fullname="Roger Gimson"/>
+    <date year="2003" month="September" day="1"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-css-conditional-4-20200303" target="https://www.w3.org/TR/2020/WD-css-conditional-4-20200303/">
+  <front>
+    <title>CSS Conditional Rules Module Level 4</title>
+    <seriesInfo name="W3C WD" value="WD-css-conditional-4-20200303"/>
+    <author role="editor" fullname="David Baron"/>
+    <date year="2020" month="March" day="3"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

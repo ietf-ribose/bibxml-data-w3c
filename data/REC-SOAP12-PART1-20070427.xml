@@ -1,0 +1,15 @@
+<reference anchor="W3C.REC-soap12-part1-20070427" target="https://www.w3.org/TR/2007/REC-soap12-part1-20070427/">
+  <front>
+    <title>SOAP Version 1.2 Part 1: Messaging Framework (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-soap12-part1-20070427"/>
+    <author role="editor" fullname="Anish Karmarkar"/>
+    <author role="editor" fullname="Henrik Frystyk Nielsen"/>
+    <author role="editor" fullname="Jean-Jacques Moreau"/>
+    <author role="editor" fullname="Marc Hadley"/>
+    <author role="editor" fullname="Martin Gudgin"/>
+    <author role="editor" fullname="Noah Mendelsohn"/>
+    <author role="editor" fullname="Yves Lafon"/>
+    <date year="2007" month="April" day="27"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+</reference>

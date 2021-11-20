@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-owl2-new-features-20091027" target="https://www.w3.org/TR/2009/REC-owl2-new-features-20091027/">
+  <front>
+    <title>OWL 2 Web Ontology Language New Features and Rationale</title>
+    <seriesInfo name="W3C REC" value="REC-owl2-new-features-20091027"/>
+    <author role="editor" fullname="Christine Golbreich"/>
+    <author role="editor" fullname="Evan Wallace"/>
+    <date year="2009" month="October" day="27"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+</reference>

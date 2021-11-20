@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-css-typed-om-1-20180410" target="https://www.w3.org/TR/2018/WD-css-typed-om-1-20180410/">
+  <front>
+    <title>CSS Typed OM Level 1</title>
+    <seriesInfo name="W3C WD" value="WD-css-typed-om-1-20180410"/>
+    <author role="editor" fullname="Naina Raisinghani"/>
+    <author role="editor" fullname="Shane Stephens"/>
+    <author role="editor" fullname="Tab Atkins Jr."/>
+    <date year="2018" month="April" day="10"/>
+    <workgroup>Technical Architecture Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

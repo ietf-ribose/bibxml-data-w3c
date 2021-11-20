@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-ws-fragment-20111213" target="https://www.w3.org/TR/2011/REC-ws-fragment-20111213/">
+  <front>
+    <title>Web Services Fragment (WS-Fragment)</title>
+    <seriesInfo name="W3C REC" value="REC-ws-fragment-20111213"/>
+    <author role="editor" fullname="Ashok Malhotra"/>
+    <author role="editor" fullname="Doug Davis"/>
+    <author role="editor" fullname="Katy Warr"/>
+    <author role="editor" fullname="Wu Chou"/>
+    <date year="2011" month="December" day="13"/>
+    <workgroup>Web Services Resource Access Working Group</workgroup>
+  </front>
+</reference>

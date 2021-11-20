@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-WCA-19990319" target="https://www.w3.org/TR/1999/NOTE-WCA-19990319/">
+  <front>
+    <title>Web Characterization: From working group to activity</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-WCA-19990319"/>
+    <author role="editor" fullname="Henrik Frystyk Nielsen"/>
+    <author role="editor" fullname="Johan Hjelm"/>
+    <date year="1999" month="March" day="19"/>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-WCAG-EM-20140710" target="https://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/">
+  <front>
+    <title>Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-WCAG-EM-20140710"/>
+    <author role="editor" fullname="Eric Velleman"/>
+    <author role="editor" fullname="Shadi Abou-Zahra"/>
+    <date year="2014" month="July" day="10"/>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

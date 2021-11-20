@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-dx-prof-conneg-20191126" target="https://www.w3.org/TR/2019/WD-dx-prof-conneg-20191126/">
+  <front>
+    <title>Content Negotiation by Profile</title>
+    <seriesInfo name="W3C WD" value="WD-dx-prof-conneg-20191126"/>
+    <author role="editor" fullname="Lars G. Svensson"/>
+    <author role="editor" fullname="Nicholas Car"/>
+    <date year="2019" month="November" day="26"/>
+    <workgroup>Dataset Exchange Working Group</workgroup>
+  </front>
+</reference>

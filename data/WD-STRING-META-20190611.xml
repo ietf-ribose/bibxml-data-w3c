@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-string-meta-20190611" target="https://www.w3.org/TR/2019/WD-string-meta-20190611/">
+  <front>
+    <title>Strings on the Web: Language and Direction Metadata</title>
+    <seriesInfo name="W3C WD" value="WD-string-meta-20190611"/>
+    <author role="editor" fullname="Addison Phillips"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <date year="2019" month="June" day="11"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

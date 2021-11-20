@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-wasm-core-1-20191205" target="https://www.w3.org/TR/2019/REC-wasm-core-1-20191205/">
+  <front>
+    <title>WebAssembly Core Specification</title>
+    <seriesInfo name="W3C REC" value="REC-wasm-core-1-20191205"/>
+    <author role="editor" fullname="Andreas Rossberg"/>
+    <date year="2019" month="December" day="5"/>
+    <workgroup>WebAssembly Working Group</workgroup>
+  </front>
+</reference>

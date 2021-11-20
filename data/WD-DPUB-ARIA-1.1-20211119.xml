@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-dpub-aria-1.1-20211119" target="https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20211119/">
+  <front>
+    <title>Digital Publishing WAI-ARIA Module 1.1</title>
+    <seriesInfo name="W3C WD" value="WD-dpub-aria-1.1-20211119"/>
+    <author role="editor" fullname="Matt Garrish"/>
+    <author role="editor" fullname="Tzviya Siegman"/>
+    <date year="2021" month="November" day="19"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+</reference>

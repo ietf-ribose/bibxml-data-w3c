@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-xml-i18n-bp-20080213" target="https://www.w3.org/TR/2008/NOTE-xml-i18n-bp-20080213/">
+  <front>
+    <title>Best Practices for XML Internationalization</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xml-i18n-bp-20080213"/>
+    <author role="editor" fullname="Jirka Kosek"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Yves Savourel"/>
+    <date year="2008" month="February" day="13"/>
+    <workgroup>ITS Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-contacts-manager-api-20150602" target="https://www.w3.org/TR/2015/NOTE-contacts-manager-api-20150602/">
+  <front>
+    <title>Contacts Manager API</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-contacts-manager-api-20150602"/>
+    <author role="editor" fullname="Christophe Dumez"/>
+    <author role="editor" fullname="Eduardo Fullea"/>
+    <author role="editor" fullname="Jose Manuel Cantera Fonseca"/>
+    <date year="2015" month="June" day="2"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+</reference>

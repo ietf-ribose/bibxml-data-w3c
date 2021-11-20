@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-dd-landscape-20071031" target="https://www.w3.org/TR/2007/NOTE-dd-landscape-20071031/">
+  <front>
+    <title>Device Description Landscape 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-dd-landscape-20071031"/>
+    <author role="editor" fullname="Emmanuel Nkeze"/>
+    <author role="editor" fullname="Gavin James Pearce"/>
+    <author role="editor" fullname="Matt Womer"/>
+    <date year="2007" month="October" day="31"/>
+    <workgroup>Mobile Web Initiative Device Description Working Group</workgroup>
+  </front>
+</reference>

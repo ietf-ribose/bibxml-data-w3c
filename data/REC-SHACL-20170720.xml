@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-shacl-20170720" target="https://www.w3.org/TR/2017/REC-shacl-20170720/">
+  <front>
+    <title>Shapes Constraint Language (SHACL)</title>
+    <seriesInfo name="W3C REC" value="REC-shacl-20170720"/>
+    <author role="editor" fullname="Dimitris Kontokostas"/>
+    <author role="editor" fullname="Holger Knublauch"/>
+    <date year="2017" month="July" day="20"/>
+    <workgroup>RDF Data Shapes Working Group</workgroup>
+  </front>
+</reference>

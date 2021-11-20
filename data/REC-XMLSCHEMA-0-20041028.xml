@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-xmlschema-0-20041028" target="https://www.w3.org/TR/2004/REC-xmlschema-0-20041028/">
+  <front>
+    <title>XML Schema Part 0: Primer Second Edition</title>
+    <seriesInfo name="W3C REC" value="REC-xmlschema-0-20041028"/>
+    <author role="editor" fullname="David Fallside"/>
+    <author role="editor" fullname="Priscilla Walmsley"/>
+    <date year="2004" month="October" day="28"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+</reference>

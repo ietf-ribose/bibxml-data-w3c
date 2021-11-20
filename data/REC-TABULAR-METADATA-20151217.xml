@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-tabular-metadata-20151217" target="https://www.w3.org/TR/2015/REC-tabular-metadata-20151217/">
+  <front>
+    <title>Metadata Vocabulary for Tabular Data</title>
+    <seriesInfo name="W3C REC" value="REC-tabular-metadata-20151217"/>
+    <author role="editor" fullname="Gregg Kellogg"/>
+    <author role="editor" fullname="Jeni Tennison"/>
+    <date year="2015" month="December" day="17"/>
+    <workgroup>CSV on the Web Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-DOM-Level-2-Traversal-Range-20001113" target="https://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/">
+  <front>
+    <title>Document Object Model (DOM) Level 2 Traversal and Range Specification</title>
+    <seriesInfo name="W3C REC" value="REC-DOM-Level-2-Traversal-Range-20001113"/>
+    <author role="editor" fullname="Jonathan Robie"/>
+    <author role="editor" fullname="Joseph Kesselman"/>
+    <author role="editor" fullname="Lauren Wood"/>
+    <author role="editor" fullname="Mike Champion"/>
+    <author role="editor" fullname="Peter Sharpe"/>
+    <date year="2000" month="November" day="13"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+</reference>

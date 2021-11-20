@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-orientation-event-20190416" target="https://www.w3.org/TR/2019/WD-orientation-event-20190416/">
+  <front>
+    <title>DeviceOrientation Event Specification</title>
+    <seriesInfo name="W3C WD" value="WD-orientation-event-20190416"/>
+    <author role="editor" fullname="Andrei Popescu"/>
+    <author role="editor" fullname="Rich Tibbett"/>
+    <author role="editor" fullname="Stephen Block"/>
+    <author role="editor" fullname="Tim Volodine"/>
+    <date year="2019" month="April" day="16"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>

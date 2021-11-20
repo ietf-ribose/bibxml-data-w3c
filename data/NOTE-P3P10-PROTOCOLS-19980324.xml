@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-P3P10-Protocols-19980324" target="https://www.w3.org/TR/1998/NOTE-P3P10-Protocols-19980324">
+  <front>
+    <title>P3P Protocol and Data Transport Working Group Draft White Paper</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-P3P10-Protocols-19980324"/>
+    <author role="editor" fullname="Joseph Reagle"/>
+    <author role="editor" fullname="Philip DesAutels"/>
+    <author role="editor" fullname="Steven Lucas"/>
+    <date year="1998" month="March" day="24"/>
+  </front>
+</reference>

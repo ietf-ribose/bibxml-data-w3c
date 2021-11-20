@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-xmlschema11-2-20120405" target="https://www.w3.org/TR/2012/REC-xmlschema11-2-20120405/">
+  <front>
+    <title>W3C XML Schema Definition Language (XSD) 1.1 Part 2: Datatypes</title>
+    <seriesInfo name="W3C REC" value="REC-xmlschema11-2-20120405"/>
+    <author role="editor" fullname="Ashok Malhotra"/>
+    <author role="editor" fullname="David Peterson"/>
+    <author role="editor" fullname="Henry Thompson"/>
+    <author role="editor" fullname="Michael Sperberg-McQueen"/>
+    <author role="editor" fullname="Paul V. Biron"/>
+    <author role="editor" fullname="Sandy Gao"/>
+    <date year="2012" month="April" day="5"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+</reference>

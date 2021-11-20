@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-mobileOK-20090825" target="https://www.w3.org/TR/2009/NOTE-mobileOK-20090825/">
+  <front>
+    <title>W3C mobileOK Scheme 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-mobileOK-20090825"/>
+    <author role="editor" fullname="Jo Rabin"/>
+    <author role="editor" fullname="Phil Archer"/>
+    <date year="2009" month="August" day="25"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+</reference>

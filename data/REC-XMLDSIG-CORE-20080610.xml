@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-xmldsig-core-20080610" target="https://www.w3.org/TR/2008/REC-xmldsig-core-20080610/">
+  <front>
+    <title>XML Signature Syntax and Processing (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-xmldsig-core-20080610"/>
+    <author role="editor" fullname="David Solo"/>
+    <author role="editor" fullname="Donald Eastlake"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Joseph Reagle"/>
+    <author role="editor" fullname="Thomas Roessler"/>
+    <date year="2008" month="June" day="10"/>
+    <workgroup>XML Security Specifications Maintenance Working Group</workgroup>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

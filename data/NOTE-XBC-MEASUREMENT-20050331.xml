@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-xbc-measurement-20050331" target="https://www.w3.org/TR/2005/NOTE-xbc-measurement-20050331/">
+  <front>
+    <title>XML Binary Characterization Measurement Methodologies</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xbc-measurement-20050331"/>
+    <author role="editor" fullname="Peter Haggar"/>
+    <author role="editor" fullname="Stephen Williams"/>
+    <date year="2005" month="March" day="31"/>
+    <workgroup>XML Binary Characterization Working Group</workgroup>
+  </front>
+</reference>

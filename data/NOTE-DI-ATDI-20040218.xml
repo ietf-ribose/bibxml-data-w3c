@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-di-atdi-20040218" target="https://www.w3.org/TR/2004/NOTE-di-atdi-20040218/">
+  <front>
+    <title>Authoring Techniques for Device Independence</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-di-atdi-20040218"/>
+    <author role="editor" fullname="Roland Merrick"/>
+    <author role="editor" fullname="Rotan Hanrahan"/>
+    <date year="2004" month="February" day="18"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+</reference>

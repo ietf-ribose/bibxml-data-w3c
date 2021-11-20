@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-xml-20081126" target="https://www.w3.org/TR/2008/REC-xml-20081126/">
+  <front>
+    <title>Extensible Markup Language (XML) 1.0 (Fifth Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-xml-20081126"/>
+    <author role="editor" fullname="Eve Maler"/>
+    <author role="editor" fullname="François Yergeau"/>
+    <author role="editor" fullname="Jean Paoli"/>
+    <author role="editor" fullname="Michael Sperberg-McQueen"/>
+    <author role="editor" fullname="Tim Bray"/>
+    <date year="2008" month="November" day="26"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

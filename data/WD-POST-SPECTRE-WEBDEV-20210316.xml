@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-post-spectre-webdev-20210316" target="https://www.w3.org/TR/2021/WD-post-spectre-webdev-20210316/">
+  <front>
+    <title>Post-Spectre Web Development</title>
+    <seriesInfo name="W3C WD" value="WD-post-spectre-webdev-20210316"/>
+    <author role="editor" fullname="Mike West"/>
+    <date year="2021" month="March" day="16"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+</reference>

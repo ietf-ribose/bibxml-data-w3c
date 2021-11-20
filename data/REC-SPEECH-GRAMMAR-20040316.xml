@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-speech-grammar-20040316" target="https://www.w3.org/TR/2004/REC-speech-grammar-20040316/">
+  <front>
+    <title>Speech Recognition Grammar Specification Version 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-speech-grammar-20040316"/>
+    <author role="editor" fullname="Andrew Hunt"/>
+    <author role="editor" fullname="Scott McGlashan"/>
+    <date year="2004" month="March" day="16"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+</reference>

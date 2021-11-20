@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-xmlbase-20010627" target="https://www.w3.org/TR/2001/REC-xmlbase-20010627/">
+  <front>
+    <title>XML Base</title>
+    <seriesInfo name="W3C REC" value="REC-xmlbase-20010627"/>
+    <author role="editor" fullname="Jonathan Marsh"/>
+    <date year="2001" month="June" day="27"/>
+    <workgroup>XML Linking Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-pronunciation-use-cases-20200317" target="https://www.w3.org/TR/2020/NOTE-pronunciation-use-cases-20200317/">
+  <front>
+    <title>Pronunciation Use Cases</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-pronunciation-use-cases-20200317"/>
+    <author role="editor" fullname="Irfan Ali"/>
+    <author role="editor" fullname="Markku Hakkinen"/>
+    <author role="editor" fullname="Paul Grenier"/>
+    <author role="editor" fullname="Ruoxi Ran"/>
+    <date year="2020" month="March" day="17"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+</reference>

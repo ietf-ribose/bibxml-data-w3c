@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-xml-c14n2-testcases-20130618" target="https://www.w3.org/TR/2013/NOTE-xml-c14n2-testcases-20130618/">
+  <front>
+    <title>Test cases for Canonical XML 2.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xml-c14n2-testcases-20130618"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Pratik Datta"/>
+    <date year="2013" month="June" day="18"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-low-vision-needs-20160317" target="https://www.w3.org/TR/2016/WD-low-vision-needs-20160317/">
+  <front>
+    <title>Accessibility Requirements for People with Low Vision</title>
+    <seriesInfo name="W3C WD" value="WD-low-vision-needs-20160317"/>
+    <author role="editor" fullname="Andrew Kirkpatrick"/>
+    <author role="editor" fullname="Jim Allan"/>
+    <author role="editor" fullname="Shawn Lawton Henry (TAdER)"/>
+    <date year="2016" month="March" day="17"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-annotation-protocol-20170223" target="https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/">
+  <front>
+    <title>Web Annotation Protocol</title>
+    <seriesInfo name="W3C REC" value="REC-annotation-protocol-20170223"/>
+    <author role="editor" fullname="Robert Sanderson"/>
+    <date year="2017" month="February" day="23"/>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+</reference>

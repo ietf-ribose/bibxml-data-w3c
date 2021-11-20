@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-lbase-20031010" target="https://www.w3.org/TR/2003/NOTE-lbase-20031010/">
+  <front>
+    <title>LBase: Semantics for Languages of the Semantic Web</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-lbase-20031010"/>
+    <author role="editor" fullname="Patrick Hayes"/>
+    <author role="editor" fullname="Ramanathan Guha"/>
+    <date year="2003" month="October" day="10"/>
+    <workgroup>RDFCore Working Group</workgroup>
+  </front>
+</reference>

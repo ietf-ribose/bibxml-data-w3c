@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-screen-orientation-20210906" target="https://www.w3.org/TR/2021/WD-screen-orientation-20210906/">
+  <front>
+    <title>The Screen Orientation API</title>
+    <seriesInfo name="W3C WD" value="WD-screen-orientation-20210906"/>
+    <author role="editor" fullname="Johanna Herman"/>
+    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Mounir Lamouri"/>
+    <date year="2021" month="September" day="6"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

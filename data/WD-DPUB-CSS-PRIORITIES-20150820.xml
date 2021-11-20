@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-dpub-css-priorities-20150820" target="https://www.w3.org/TR/2015/WD-dpub-css-priorities-20150820/">
+  <front>
+    <title>Priorities for CSS from the Digital Publishing Interest Group</title>
+    <seriesInfo name="W3C WD" value="WD-dpub-css-priorities-20150820"/>
+    <author role="editor" fullname="Dave Cramer"/>
+    <date year="2015" month="August" day="20"/>
+    <workgroup>Digital Publishing Interest Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-webrtc-nv-use-cases-20210316" target="https://www.w3.org/TR/2021/WD-webrtc-nv-use-cases-20210316/">
+  <front>
+    <title>WebRTC Next Version Use Cases</title>
+    <seriesInfo name="W3C WD" value="WD-webrtc-nv-use-cases-20210316"/>
+    <author role="editor" fullname="Bernard Aboba"/>
+    <date year="2021" month="March" day="16"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-2dcontext2-20150929" target="https://www.w3.org/TR/2015/NOTE-2dcontext2-20150929/">
+  <front>
+    <title>HTML Canvas 2D Context, Level 2</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-2dcontext2-20150929"/>
+    <author role="editor" fullname="Ian Hickson"/>
+    <author role="editor" fullname="Jatinder Mann"/>
+    <author role="editor" fullname="Jay Munro"/>
+    <author role="editor" fullname="Rik Cabanier"/>
+    <author role="editor" fullname="Tom Wiltzius"/>
+    <date year="2015" month="September" day="29"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+</reference>

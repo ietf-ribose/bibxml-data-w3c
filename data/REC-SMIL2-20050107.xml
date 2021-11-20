@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-SMIL2-20050107" target="https://www.w3.org/TR/2005/REC-SMIL2-20050107/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 2.0) - [Second Edition]</title>
+    <seriesInfo name="W3C REC" value="REC-SMIL2-20050107"/>
+    <author role="editor" fullname="Jeffrey Ayars"/>
+    <author role="editor" fullname="Thierry Michel"/>
+    <date year="2005" month="January" day="7"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+</reference>

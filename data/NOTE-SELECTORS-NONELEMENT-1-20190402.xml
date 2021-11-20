@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-selectors-nonelement-1-20190402" target="https://www.w3.org/TR/2019/NOTE-selectors-nonelement-1-20190402/">
+  <front>
+    <title>Non-element Selectors Module Level 1</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-selectors-nonelement-1-20190402"/>
+    <author role="editor" fullname="Jirka Kosek"/>
+    <author role="editor" fullname="Tab Atkins Jr."/>
+    <date year="2019" month="April" day="2"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

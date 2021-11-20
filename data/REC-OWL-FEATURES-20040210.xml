@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-owl-features-20040210" target="https://www.w3.org/TR/2004/REC-owl-features-20040210/">
+  <front>
+    <title>OWL Web Ontology Language Overview</title>
+    <seriesInfo name="W3C REC" value="REC-owl-features-20040210"/>
+    <author role="editor" fullname="Deborah McGuinness"/>
+    <author role="editor" fullname="Frank van Harmelen"/>
+    <date year="2004" month="February" day="10"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+</reference>

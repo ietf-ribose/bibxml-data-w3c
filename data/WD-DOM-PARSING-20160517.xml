@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-DOM-Parsing-20160517" target="https://www.w3.org/TR/2016/WD-DOM-Parsing-20160517/">
+  <front>
+    <title>DOM Parsing and Serialization</title>
+    <seriesInfo name="W3C WD" value="WD-DOM-Parsing-20160517"/>
+    <author role="editor" fullname="Travis Leithead"/>
+    <date year="2016" month="May" day="17"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

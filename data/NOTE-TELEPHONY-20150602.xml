@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-telephony-20150602" target="https://www.w3.org/TR/2015/NOTE-telephony-20150602/">
+  <front>
+    <title>Web Telephony API</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-telephony-20150602"/>
+    <author role="editor" fullname="Eduardo Fullea"/>
+    <author role="editor" fullname="John Lyle"/>
+    <author role="editor" fullname="Jose Manuel Cantera Fonseca"/>
+    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Zoltan Kis"/>
+    <date year="2015" month="June" day="2"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+</reference>

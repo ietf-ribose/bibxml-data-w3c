@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-activitypub-20180123" target="https://www.w3.org/TR/2018/REC-activitypub-20180123/">
+  <front>
+    <title>ActivityPub</title>
+    <seriesInfo name="W3C REC" value="REC-activitypub-20180123"/>
+    <author role="editor" fullname="Christopher Webber"/>
+    <author role="editor" fullname="Jessica Tallon"/>
+    <date year="2018" month="January" day="23"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+</reference>

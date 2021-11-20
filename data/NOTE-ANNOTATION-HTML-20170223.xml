@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-annotation-html-20170223" target="https://www.w3.org/TR/2017/NOTE-annotation-html-20170223/">
+  <front>
+    <title>Embedding Web Annotations in HTML</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-annotation-html-20170223"/>
+    <author role="editor" fullname="Benjamin Young"/>
+    <author role="editor" fullname="Ivan Herman"/>
+    <author role="editor" fullname="Sarven Capadisli"/>
+    <author role="editor" fullname="Timothy Cole"/>
+    <date year="2017" month="February" day="23"/>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-emma20-20170202" target="https://www.w3.org/TR/2017/NOTE-emma20-20170202/">
+  <front>
+    <title>EMMA: Extensible MultiModal Annotation markup language Version 2.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-emma20-20170202"/>
+    <author role="editor" fullname="Michael Johnston"/>
+    <date year="2017" month="February" day="2"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+</reference>

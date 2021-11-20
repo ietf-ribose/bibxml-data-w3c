@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-xmlp-am-20030220" target="https://www.w3.org/TR/2003/WD-xmlp-am-20030220/">
+  <front>
+    <title>XML Protocol Abstract Model</title>
+    <seriesInfo name="W3C WD" value="WD-xmlp-am-20030220"/>
+    <author role="editor" fullname="Mark Jones"/>
+    <author role="editor" fullname="Stuart Williams"/>
+    <date year="2003" month="February" day="20"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+</reference>

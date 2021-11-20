@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-2dcontext-20151119" target="https://www.w3.org/TR/2015/REC-2dcontext-20151119/">
+  <front>
+    <title>HTML Canvas 2D Context</title>
+    <seriesInfo name="W3C REC" value="REC-2dcontext-20151119"/>
+    <author role="editor" fullname="Ian Hickson"/>
+    <author role="editor" fullname="Jatinder Mann"/>
+    <author role="editor" fullname="Jay Munro"/>
+    <author role="editor" fullname="Rik Cabanier"/>
+    <author role="editor" fullname="Tom Wiltzius"/>
+    <date year="2015" month="November" day="19"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+</reference>

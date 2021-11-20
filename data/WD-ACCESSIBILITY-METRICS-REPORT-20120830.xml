@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-accessibility-metrics-report-20120830" target="https://www.w3.org/TR/2012/WD-accessibility-metrics-report-20120830/">
+  <front>
+    <title>Research Report on Web Accessibility Metrics</title>
+    <seriesInfo name="W3C WD" value="WD-accessibility-metrics-report-20120830"/>
+    <author role="editor" fullname="Giorgio Brajnik"/>
+    <author role="editor" fullname="Joshue O'Connor"/>
+    <author role="editor" fullname="Markel Vigo"/>
+    <date year="2012" month="August" day="30"/>
+    <workgroup>Research and Development Working Group</workgroup>
+  </front>
+</reference>

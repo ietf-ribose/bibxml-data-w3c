@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-csv2rdf-20151217" target="https://www.w3.org/TR/2015/REC-csv2rdf-20151217/">
+  <front>
+    <title>Generating RDF from Tabular Data on the Web</title>
+    <seriesInfo name="W3C REC" value="REC-csv2rdf-20151217"/>
+    <author role="editor" fullname="Gregg Kellogg"/>
+    <author role="editor" fullname="Ivan Herman"/>
+    <author role="editor" fullname="Jeremy Tandy"/>
+    <date year="2015" month="December" day="17"/>
+    <workgroup>CSV on the Web Working Group</workgroup>
+  </front>
+</reference>

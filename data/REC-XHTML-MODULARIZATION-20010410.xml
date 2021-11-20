@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-xhtml-modularization-20010410" target="https://www.w3.org/TR/2001/REC-xhtml-modularization-20010410/">
+  <front>
+    <title>Modularization of XHTML™</title>
+    <seriesInfo name="W3C REC" value="REC-xhtml-modularization-20010410"/>
+    <author role="editor" fullname="Frank Boumphrey"/>
+    <author role="editor" fullname="Murray Altheim"/>
+    <author role="editor" fullname="Sam Dooley"/>
+    <author role="editor" fullname="Sebastian Schnitzenbaumer"/>
+    <author role="editor" fullname="Shane McCarron"/>
+    <author role="editor" fullname="Ted Wugofski"/>
+    <date year="2001" month="April" day="10"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

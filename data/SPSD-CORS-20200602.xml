@@ -1,0 +1,10 @@
+<reference anchor="W3C.SPSD-cors-20200602" target="https://www.w3.org/TR/2020/SPSD-cors-20200602/">
+  <front>
+    <title>Cross-Origin Resource Sharing</title>
+    <seriesInfo name="W3C REC" value="SPSD-cors-20200602"/>
+    <author role="editor" fullname="Anne van Kesteren"/>
+    <date year="2020" month="June" day="2"/>
+    <workgroup>Web Applications Working Group</workgroup>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+</reference>

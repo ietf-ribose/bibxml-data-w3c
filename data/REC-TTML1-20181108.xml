@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-ttml1-20181108" target="https://www.w3.org/TR/2018/REC-ttml1-20181108/">
+  <front>
+    <title>Timed Text Markup Language 1 (TTML1) (Third Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-ttml1-20181108"/>
+    <author role="editor" fullname="Glenn Adams"/>
+    <author role="editor" fullname="Pierre-Anthony Lemieux"/>
+    <date year="2018" month="November" day="8"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+</reference>

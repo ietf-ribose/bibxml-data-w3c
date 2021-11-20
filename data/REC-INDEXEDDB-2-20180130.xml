@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-IndexedDB-2-20180130" target="https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/">
+  <front>
+    <title>Indexed Database API 2.0</title>
+    <seriesInfo name="W3C REC" value="REC-IndexedDB-2-20180130"/>
+    <author role="editor" fullname="Ali Alabbas"/>
+    <author role="editor" fullname="Joshua Bell"/>
+    <date year="2018" month="January" day="30"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

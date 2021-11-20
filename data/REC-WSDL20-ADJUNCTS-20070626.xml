@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-wsdl20-adjuncts-20070626" target="https://www.w3.org/TR/2007/REC-wsdl20-adjuncts-20070626/">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0 Part 2: Adjuncts</title>
+    <seriesInfo name="W3C REC" value="REC-wsdl20-adjuncts-20070626"/>
+    <author role="editor" fullname="Amelia Lewis"/>
+    <author role="editor" fullname="David Orchard"/>
+    <author role="editor" fullname="Hugo Haas"/>
+    <author role="editor" fullname="Jean-Jacques Moreau"/>
+    <author role="editor" fullname="Roberto Chinnici"/>
+    <author role="editor" fullname="Sanjiva Weerawarana"/>
+    <date year="2007" month="June" day="26"/>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+</reference>

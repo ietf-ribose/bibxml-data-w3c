@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-hcls-senselab-20080604" target="https://www.w3.org/TR/2008/NOTE-hcls-senselab-20080604/">
+  <front>
+    <title>Experiences with the conversion of SenseLab databases to RDF/OWL</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-hcls-senselab-20080604"/>
+    <author role="editor" fullname="Kei-Hoi Cheung"/>
+    <author role="editor" fullname="Matthias Samwald"/>
+    <date year="2008" month="June" day="4"/>
+    <workgroup>Semantic Web Health Care and Life Sciences Interest Group</workgroup>
+  </front>
+</reference>

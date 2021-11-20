@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-tvcontrol-api-20170518" target="https://www.w3.org/TR/2017/NOTE-tvcontrol-api-20170518/">
+  <front>
+    <title>TV Control API Specification</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-tvcontrol-api-20170518"/>
+    <author role="editor" fullname="Alexander Futász"/>
+    <author role="editor" fullname="Steve Morris"/>
+    <author role="editor" fullname="Sung Hei Kim"/>
+    <date year="2017" month="May" day="18"/>
+    <workgroup>TV Control Working Group</workgroup>
+  </front>
+</reference>

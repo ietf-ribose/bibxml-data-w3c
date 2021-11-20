@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-AERT-20000426" target="https://www.w3.org/TR/2000/WD-AERT-20000426">
+  <front>
+    <title>Techniques For Accessibility Evaluation And Repair Tools</title>
+    <seriesInfo name="W3C WD" value="WD-AERT-20000426"/>
+    <author role="editor" fullname="Chris Ridpath"/>
+    <author role="editor" fullname="Wendy Chisholm"/>
+    <date year="2000" month="April" day="26"/>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+</reference>

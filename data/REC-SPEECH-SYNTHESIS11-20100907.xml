@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-speech-synthesis11-20100907" target="https://www.w3.org/TR/2010/REC-speech-synthesis11-20100907/">
+  <front>
+    <title>Speech Synthesis Markup Language (SSML) Version 1.1</title>
+    <seriesInfo name="W3C REC" value="REC-speech-synthesis11-20100907"/>
+    <author role="editor" fullname="Daniel Burnett"/>
+    <author role="editor" fullname="Zhi Wei Shuang"/>
+    <date year="2010" month="September" day="7"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+</reference>

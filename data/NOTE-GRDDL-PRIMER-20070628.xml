@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-grddl-primer-20070628" target="https://www.w3.org/TR/2007/NOTE-grddl-primer-20070628/">
+  <front>
+    <title>GRDDL Primer</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-grddl-primer-20070628"/>
+    <author role="editor" fullname="Harry Halpin"/>
+    <author role="editor" fullname="Ian Davis"/>
+    <date year="2007" month="June" day="28"/>
+    <workgroup>GRDDL Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-typography-20200520" target="https://www.w3.org/TR/2020/WD-typography-20200520/">
+  <front>
+    <title>Language enablement index</title>
+    <seriesInfo name="W3C WD" value="WD-typography-20200520"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <date year="2020" month="May" day="20"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

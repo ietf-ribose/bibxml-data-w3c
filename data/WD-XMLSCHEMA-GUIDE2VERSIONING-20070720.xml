@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-xmlschema-guide2versioning-20070720" target="https://www.w3.org/TR/2007/WD-xmlschema-guide2versioning-20070720/">
+  <front>
+    <title>Guide to Versioning XML Languages using new XML Schema 1.1 features</title>
+    <seriesInfo name="W3C WD" value="WD-xmlschema-guide2versioning-20070720"/>
+    <author role="editor" fullname="David Orchard"/>
+    <date year="2007" month="July" day="20"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+</reference>

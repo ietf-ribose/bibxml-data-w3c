@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-owl2-profiles-20121211" target="https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/">
+  <front>
+    <title>OWL 2 Web Ontology Language Profiles (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-owl2-profiles-20121211"/>
+    <author role="editor" fullname="Achille Fokoue"/>
+    <author role="editor" fullname="Bernardo Cuenca Grau"/>
+    <author role="editor" fullname="Boris Motik"/>
+    <author role="editor" fullname="Ian Horrocks"/>
+    <author role="editor" fullname="Zhe Wu"/>
+    <date year="2012" month="December" day="11"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+</reference>

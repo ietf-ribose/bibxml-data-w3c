@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-proximity-20210903" target="https://www.w3.org/TR/2021/WD-proximity-20210903/">
+  <front>
+    <title>Proximity Sensor</title>
+    <seriesInfo name="W3C WD" value="WD-proximity-20210903"/>
+    <author role="editor" fullname="Anssi Kostiainen"/>
+    <author role="editor" fullname="Rijubrata Bhaumik"/>
+    <date year="2021" month="September" day="3"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>

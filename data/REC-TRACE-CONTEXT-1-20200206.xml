@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-trace-context-1-20200206" target="https://www.w3.org/TR/2020/REC-trace-context-1-20200206/">
+  <front>
+    <title>Trace Context - Level 1</title>
+    <seriesInfo name="W3C REC" value="REC-trace-context-1-20200206"/>
+    <author role="editor" fullname="Alois Reitbauer"/>
+    <author role="editor" fullname="Bogdan Drutu"/>
+    <author role="editor" fullname="Morgan McLean"/>
+    <author role="editor" fullname="Nik Molnar"/>
+    <author role="editor" fullname="Sergey Kanzhelev"/>
+    <author role="editor" fullname="Yuri Shkuro"/>
+    <date year="2020" month="February" day="6"/>
+    <workgroup>Distributed Tracing Working Group</workgroup>
+  </front>
+</reference>

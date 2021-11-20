@@ -1,0 +1,10 @@
+<reference anchor="W3C.CR-xforms-basic-20031014" target="https://www.w3.org/TR/2003/CR-xforms-basic-20031014/">
+  <front>
+    <title>XForms 1.0 Basic Profile</title>
+    <seriesInfo name="W3C CR" value="CR-xforms-basic-20031014"/>
+    <author role="editor" fullname="Micah Dubinko"/>
+    <author role="editor" fullname="T.V. Raman"/>
+    <date year="2003" month="October" day="14"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+</reference>

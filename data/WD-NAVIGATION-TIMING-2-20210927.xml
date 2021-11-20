@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-navigation-timing-2-20210927" target="https://www.w3.org/TR/2021/WD-navigation-timing-2-20210927/">
+  <front>
+    <title>Navigation Timing Level 2</title>
+    <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20210927"/>
+    <author role="editor" fullname="Arvind Jain"/>
+    <author role="editor" fullname="Ilya Grigorik"/>
+    <author role="editor" fullname="Jatinder Mann"/>
+    <author role="editor" fullname="Noam Rosenthal"/>
+    <author role="editor" fullname="Tobin Titus"/>
+    <author role="editor" fullname="Yoav Weiss"/>
+    <date year="2021" month="September" day="27"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+</reference>

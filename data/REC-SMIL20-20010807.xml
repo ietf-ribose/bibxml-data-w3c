@@ -1,0 +1,24 @@
+<reference anchor="W3C.REC-smil20-20010807" target="https://www.w3.org/TR/2001/REC-smil20-20010807/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 2.0) Specification</title>
+    <seriesInfo name="W3C REC" value="REC-smil20-20010807"/>
+    <author role="editor" fullname="Aaron Cohen"/>
+    <author role="editor" fullname="Bridie Saccocio"/>
+    <author role="editor" fullname="Dick Bulterman"/>
+    <author role="editor" fullname="Eric Hyche"/>
+    <author role="editor" fullname="Erik Hodge"/>
+    <author role="editor" fullname="Jacco van Ossenbruggen"/>
+    <author role="editor" fullname="Jeffrey Ayars"/>
+    <author role="editor" fullname="Ken Day"/>
+    <author role="editor" fullname="Kenichi Kubota"/>
+    <author role="editor" fullname="Lloyd Rutledge"/>
+    <author role="editor" fullname="Nabil Layaida"/>
+    <author role="editor" fullname="Patrick Schmitz"/>
+    <author role="editor" fullname="Philipp Hoschka"/>
+    <author role="editor" fullname="Rob Lanphier"/>
+    <author role="editor" fullname="Thierry Michel"/>
+    <author role="editor" fullname="Warner ten Kate"/>
+    <date year="2001" month="August" day="7"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+</reference>

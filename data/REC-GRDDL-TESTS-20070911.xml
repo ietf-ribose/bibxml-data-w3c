@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-grddl-tests-20070911" target="https://www.w3.org/TR/2007/REC-grddl-tests-20070911/">
+  <front>
+    <title>GRDDL Test Cases</title>
+    <seriesInfo name="W3C REC" value="REC-grddl-tests-20070911"/>
+    <author role="editor" fullname="Chimezie Ogbuji"/>
+    <date year="2007" month="September" day="11"/>
+    <workgroup>GRDDL Working Group</workgroup>
+  </front>
+</reference>

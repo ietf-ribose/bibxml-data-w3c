@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-xslt-21-requirements-20100610" target="https://www.w3.org/TR/2010/WD-xslt-21-requirements-20100610/">
+  <front>
+    <title>Requirements and Use Cases for XSLT 2.1</title>
+    <seriesInfo name="W3C WD" value="WD-xslt-21-requirements-20100610"/>
+    <author role="editor" fullname="Petr Cimprich"/>
+    <date year="2010" month="June" day="10"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-UAAG20-Reference-20151215" target="https://www.w3.org/TR/2015/NOTE-UAAG20-Reference-20151215/">
+  <front>
+    <title>UAAG 2.0 Reference: Explanations, Examples, and Resources for User Agent Accessibility Guidelines 2.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-UAAG20-Reference-20151215"/>
+    <author role="editor" fullname="Greg Lowney"/>
+    <author role="editor" fullname="James Allan"/>
+    <author role="editor" fullname="Jeanne F Spellman"/>
+    <author role="editor" fullname="Kimberly Patch"/>
+    <date year="2015" month="December" day="15"/>
+    <workgroup>User Agent Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

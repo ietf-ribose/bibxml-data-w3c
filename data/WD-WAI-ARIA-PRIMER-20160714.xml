@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-wai-aria-primer-20160714" target="https://www.w3.org/TR/2016/WD-wai-aria-primer-20160714/">
+  <front>
+    <title>WAI-ARIA 1.0 Primer</title>
+    <seriesInfo name="W3C WD" value="WD-wai-aria-primer-20160714"/>
+    <author role="editor" fullname="Lisa Pappas"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Richard Schwerdtfeger"/>
+    <date year="2016" month="July" day="14"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+</reference>

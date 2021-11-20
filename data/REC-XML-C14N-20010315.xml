@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-xml-c14n-20010315" target="https://www.w3.org/TR/2001/REC-xml-c14n-20010315">
+  <front>
+    <title>Canonical XML Version 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-xml-c14n-20010315"/>
+    <author role="editor" fullname="John Boyer"/>
+    <date year="2001" month="March" day="15"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

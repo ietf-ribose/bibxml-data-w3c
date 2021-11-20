@@ -1,0 +1,13 @@
+<reference anchor="W3C.SPSD-dom-20201103" target="https://www.w3.org/TR/2020/SPSD-dom-20201103/">
+  <front>
+    <title>W3C DOM4</title>
+    <seriesInfo name="W3C REC" value="SPSD-dom-20201103"/>
+    <author role="editor" fullname=". Ms2ger"/>
+    <author role="editor" fullname="Alex Russell"/>
+    <author role="editor" fullname="Anne van Kesteren"/>
+    <author role="editor" fullname="Aryeh Gregor"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <date year="2020" month="November" day="3"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+</reference>

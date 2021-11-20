@@ -1,0 +1,8 @@
+<reference anchor="W3C.NOTE-XML-FRAG-REQ-19981123" target="https://www.w3.org/TR/1998/NOTE-XML-FRAG-REQ-19981123">
+  <front>
+    <title>XML Fragment Interchange Requirements, Version 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-XML-FRAG-REQ-19981123"/>
+    <author role="editor" fullname="Paul Grosso"/>
+    <date year="1998" month="November" day="23"/>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-ws-addr-soap-20060509" target="https://www.w3.org/TR/2006/REC-ws-addr-soap-20060509/">
+  <front>
+    <title>Web Services Addressing 1.0 - SOAP Binding</title>
+    <seriesInfo name="W3C REC" value="REC-ws-addr-soap-20060509"/>
+    <author role="editor" fullname="Marc Hadley"/>
+    <author role="editor" fullname="Martin Gudgin"/>
+    <author role="editor" fullname="Tony Rogers"/>
+    <date year="2006" month="May" day="9"/>
+    <workgroup>Web Services Addressing Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-xmldsig-bestpractices-20130411" target="https://www.w3.org/TR/2013/NOTE-xmldsig-bestpractices-20130411/">
+  <front>
+    <title>XML Signature Best Practices</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-bestpractices-20130411"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Pratik Datta"/>
+    <date year="2013" month="April" day="11"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="W3C.REC-soap12-testcollection-20070427" target="https://www.w3.org/TR/2007/REC-soap12-testcollection-20070427/">
+  <front>
+    <title>SOAP Version 1.2 Specification Assertions and Test Collection (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-soap12-testcollection-20070427"/>
+    <author role="editor" fullname="Anish Karmarkar"/>
+    <author role="editor" fullname="Hugo Haas"/>
+    <author role="editor" fullname="Jeff Mischkinsky"/>
+    <author role="editor" fullname="Lynne R. Thompson"/>
+    <author role="editor" fullname="Mark Jones"/>
+    <author role="editor" fullname="Oisin Hurley"/>
+    <author role="editor" fullname="Richard D. Martin"/>
+    <date year="2007" month="April" day="27"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+</reference>

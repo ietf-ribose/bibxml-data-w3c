@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-xinclude-11-20160721" target="https://www.w3.org/TR/2016/NOTE-xinclude-11-20160721/">
+  <front>
+    <title>XML Inclusions (XInclude) Version 1.1</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xinclude-11-20160721"/>
+    <author role="editor" fullname="Daniel Veillard"/>
+    <author role="editor" fullname="David Orchard"/>
+    <author role="editor" fullname="Jonathan Marsh"/>
+    <author role="editor" fullname="Norman Walsh"/>
+    <date year="2016" month="July" day="21"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

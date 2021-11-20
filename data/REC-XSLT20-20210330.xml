@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-xslt20-20210330" target="https://www.w3.org/TR/2021/REC-xslt20-20210330/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 2.0 (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-xslt20-20210330"/>
+    <author role="editor" fullname="Michael Kay"/>
+    <date year="2021" month="March" day="30"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+</reference>

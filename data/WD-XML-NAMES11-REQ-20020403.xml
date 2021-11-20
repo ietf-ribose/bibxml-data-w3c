@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-xml-names11-req-20020403" target="https://www.w3.org/TR/2002/WD-xml-names11-req-20020403/">
+  <front>
+    <title>Namespaces in XML 1.1 Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-xml-names11-req-20020403"/>
+    <author role="editor" fullname="Jonathan Marsh"/>
+    <date year="2002" month="April" day="3"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

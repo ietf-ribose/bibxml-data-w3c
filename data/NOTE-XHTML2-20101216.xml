@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-xhtml2-20101216" target="https://www.w3.org/TR/2010/NOTE-xhtml2-20101216/">
+  <front>
+    <title>XHTML™ 2.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xhtml2-20101216"/>
+    <author role="editor" fullname="Ann Navarro"/>
+    <author role="editor" fullname="Beth Epperson"/>
+    <author role="editor" fullname="Jonny Axelsson"/>
+    <author role="editor" fullname="Mark Birbeck"/>
+    <author role="editor" fullname="Markus Gylling"/>
+    <author role="editor" fullname="Masayasu Ishikawa"/>
+    <author role="editor" fullname="Micah Dubinko"/>
+    <author role="editor" fullname="Shane McCarron"/>
+    <author role="editor" fullname="Steven Pemberton"/>
+    <date year="2010" month="December" day="16"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

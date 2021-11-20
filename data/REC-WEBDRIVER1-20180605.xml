@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-webdriver1-20180605" target="https://www.w3.org/TR/2018/REC-webdriver1-20180605/">
+  <front>
+    <title>WebDriver</title>
+    <seriesInfo name="W3C REC" value="REC-webdriver1-20180605"/>
+    <author role="editor" fullname="David Burns"/>
+    <author role="editor" fullname="Simon Stewart"/>
+    <date year="2018" month="June" day="5"/>
+    <workgroup>Browser Testing and Tools Working Group</workgroup>
+  </front>
+</reference>

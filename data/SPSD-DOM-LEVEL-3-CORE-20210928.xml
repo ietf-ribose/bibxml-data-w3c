@@ -1,0 +1,15 @@
+<reference anchor="W3C.SPSD-DOM-Level-3-Core-20210928" target="https://www.w3.org/TR/2021/SPSD-DOM-Level-3-Core-20210928/">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Core Specification</title>
+    <seriesInfo name="W3C REC" value="SPSD-DOM-Level-3-Core-20210928"/>
+    <author role="editor" fullname="Arnaud Le Hors"/>
+    <author role="editor" fullname="Gavin Nicol"/>
+    <author role="editor" fullname="Jonathan Robie"/>
+    <author role="editor" fullname="Lauren Wood"/>
+    <author role="editor" fullname="Mike Champion"/>
+    <author role="editor" fullname="Philippe Le Hégaret"/>
+    <author role="editor" fullname="Steven B Byrne"/>
+    <date year="2021" month="September" day="28"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+</reference>

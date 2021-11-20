@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-raur-20210525" target="https://www.w3.org/TR/2021/NOTE-raur-20210525/">
+  <front>
+    <title>RTC Accessibility User Requirements</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-raur-20210525"/>
+    <author role="editor" fullname="Janina Sajka"/>
+    <author role="editor" fullname="Jason White"/>
+    <author role="editor" fullname="Joshue O'Connor"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <date year="2021" month="May" day="25"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+</reference>

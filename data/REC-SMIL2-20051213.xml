@@ -1,0 +1,16 @@
+<reference anchor="W3C.REC-SMIL2-20051213" target="https://www.w3.org/TR/2005/REC-SMIL2-20051213/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 2.1)</title>
+    <seriesInfo name="W3C REC" value="REC-SMIL2-20051213"/>
+    <author role="editor" fullname="Antti Koivisto"/>
+    <author role="editor" fullname="Daniel Zucker"/>
+    <author role="editor" fullname="Dick Bulterman"/>
+    <author role="editor" fullname="Guido Grassel"/>
+    <author role="editor" fullname="Jack Jansen"/>
+    <author role="editor" fullname="Nabil Layaida"/>
+    <author role="editor" fullname="Sjoerd Mullender"/>
+    <author role="editor" fullname="Thierry Michel"/>
+    <date year="2005" month="December" day="13"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+</reference>

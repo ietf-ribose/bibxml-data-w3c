@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-PICS-services-20091124" target="https://www.w3.org/TR/2009/REC-PICS-services-20091124/">
+  <front>
+    <title>PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions</title>
+    <seriesInfo name="W3C REC" value="REC-PICS-services-20091124"/>
+    <author role="editor" fullname="David Singer"/>
+    <author role="editor" fullname="Jim Miller"/>
+    <author role="editor" fullname="Paul Resnick"/>
+    <date year="2009" month="November" day="24"/>
+  </front>
+</reference>

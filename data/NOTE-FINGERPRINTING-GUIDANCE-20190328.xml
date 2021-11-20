@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-fingerprinting-guidance-20190328" target="https://www.w3.org/TR/2019/NOTE-fingerprinting-guidance-20190328/">
+  <front>
+    <title>Mitigating Browser Fingerprinting in Web Specifications</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-fingerprinting-guidance-20190328"/>
+    <author role="editor" fullname="Nick Doty"/>
+    <date year="2019" month="March" day="28"/>
+    <workgroup>Privacy Interest Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-xhtml1-20000126" target="https://www.w3.org/TR/2000/REC-xhtml1-20000126/">
+  <front>
+    <title>XHTML™ 1.0: The Extensible HyperText Markup Language - A Reformulation of HTML 4 in XML 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-xhtml1-20000126"/>
+    <author role="editor" fullname="Steven Pemberton"/>
+    <date year="2000" month="January" day="26"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

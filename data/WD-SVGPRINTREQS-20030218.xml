@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-SVGPrintReqs-20030218" target="https://www.w3.org/TR/2003/WD-SVGPrintReqs-20030218/">
+  <front>
+    <title>SVG Printing Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-SVGPrintReqs-20030218"/>
+    <author role="editor" fullname="Alex Danilo"/>
+    <author role="editor" fullname="Craig Brown"/>
+    <author role="editor" fullname="Jun Fujisawa"/>
+    <author role="editor" fullname="Lee Klosterman"/>
+    <date year="2003" month="February" day="18"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-ruby-20010531" target="https://www.w3.org/TR/2001/REC-ruby-20010531/">
+  <front>
+    <title>Ruby Annotation</title>
+    <seriesInfo name="W3C REC" value="REC-ruby-20010531"/>
+    <author role="editor" fullname="Marcin Sawicki"/>
+    <author role="editor" fullname="Martin Dürst"/>
+    <author role="editor" fullname="Masayasu Ishikawa"/>
+    <author role="editor" fullname="Michel Suignard"/>
+    <author role="editor" fullname="Tex Texin"/>
+    <date year="2001" month="May" day="31"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

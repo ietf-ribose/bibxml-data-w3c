@@ -1,0 +1,9 @@
+<reference anchor="W3C.SPSD-WebCGM-20191205" target="https://www.w3.org/TR/2019/SPSD-WebCGM-20191205">
+  <front>
+    <title>WebCGM 1.0 Second Release</title>
+    <seriesInfo name="W3C REC" value="SPSD-WebCGM-20191205"/>
+    <author role="editor" fullname="David Cruikshank"/>
+    <author role="editor" fullname="Lofton Henderson"/>
+    <date year="2019" month="December" day="5"/>
+  </front>
+</reference>

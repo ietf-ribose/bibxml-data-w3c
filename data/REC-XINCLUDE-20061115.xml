@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-xinclude-20061115" target="https://www.w3.org/TR/2006/REC-xinclude-20061115/">
+  <front>
+    <title>XML Inclusions (XInclude) Version 1.0 (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-xinclude-20061115"/>
+    <author role="editor" fullname="Daniel Veillard"/>
+    <author role="editor" fullname="David Orchard"/>
+    <author role="editor" fullname="Jonathan Marsh"/>
+    <date year="2006" month="November" day="15"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-xforms-xpath-20120807" target="https://www.w3.org/TR/2012/WD-xforms-xpath-20120807/">
+  <front>
+    <title>XForms 2.0: XPath expression module</title>
+    <seriesInfo name="W3C WD" value="WD-xforms-xpath-20120807"/>
+    <author role="editor" fullname="John Boyer"/>
+    <author role="editor" fullname="Nick Van Den Bleeken"/>
+    <date year="2012" month="August" day="7"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+</reference>

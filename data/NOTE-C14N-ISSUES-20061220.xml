@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-C14N-issues-20061220" target="https://www.w3.org/TR/2006/NOTE-C14N-issues-20061220/">
+  <front>
+    <title>Known Issues with Canonical XML 1.0 (C14N/1.0)</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-C14N-issues-20061220"/>
+    <author role="editor" fullname="José Kahan"/>
+    <author role="editor" fullname="Konrad Lanz"/>
+    <date year="2006" month="December" day="20"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

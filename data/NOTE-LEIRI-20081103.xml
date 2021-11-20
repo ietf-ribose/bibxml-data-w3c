@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-leiri-20081103" target="https://www.w3.org/TR/2008/NOTE-leiri-20081103/">
+  <front>
+    <title>Legacy extended IRIs for XML resource identification</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-leiri-20081103"/>
+    <author role="editor" fullname="Henry Thompson"/>
+    <author role="editor" fullname="Norman Walsh"/>
+    <author role="editor" fullname="Richard Tobin"/>
+    <date year="2008" month="November" day="3"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

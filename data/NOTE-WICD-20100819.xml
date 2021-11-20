@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-WICD-20100819" target="https://www.w3.org/TR/2010/NOTE-WICD-20100819/">
+  <front>
+    <title>WICD Core 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-WICD-20100819"/>
+    <author role="editor" fullname="Daniel Appelquist"/>
+    <author role="editor" fullname="Julien Quint"/>
+    <author role="editor" fullname="Lasse Pajunen"/>
+    <author role="editor" fullname="Timur Mehrvarz"/>
+    <date year="2010" month="August" day="19"/>
+    <workgroup>Compound Document Formats Working Group</workgroup>
+  </front>
+</reference>

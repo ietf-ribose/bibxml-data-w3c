@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-di-gloss-20050118" target="https://www.w3.org/TR/2005/WD-di-gloss-20050118/">
+  <front>
+    <title>Glossary of Terms for Device Independence</title>
+    <seriesInfo name="W3C WD" value="WD-di-gloss-20050118"/>
+    <author role="editor" fullname="Rhys Lewis"/>
+    <date year="2005" month="January" day="18"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+</reference>

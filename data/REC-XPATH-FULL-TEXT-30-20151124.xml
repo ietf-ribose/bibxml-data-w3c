@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-xpath-full-text-30-20151124" target="https://www.w3.org/TR/2015/REC-xpath-full-text-30-20151124/">
+  <front>
+    <title>XQuery and XPath Full Text 3.0</title>
+    <seriesInfo name="W3C REC" value="REC-xpath-full-text-30-20151124"/>
+    <author role="editor" fullname="Jim Melton"/>
+    <author role="editor" fullname="Mary Holstege"/>
+    <date year="2015" month="November" day="24"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

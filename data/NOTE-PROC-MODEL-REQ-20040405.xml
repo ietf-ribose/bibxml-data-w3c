@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-proc-model-req-20040405" target="https://www.w3.org/TR/2004/NOTE-proc-model-req-20040405/">
+  <front>
+    <title>XML Processing Model Requirements</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-proc-model-req-20040405"/>
+    <author role="editor" fullname="Dmitry Lenkov"/>
+    <author role="editor" fullname="Norman Walsh"/>
+    <date year="2004" month="April" day="5"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

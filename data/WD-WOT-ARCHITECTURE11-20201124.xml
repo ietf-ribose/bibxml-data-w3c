@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-wot-architecture11-20201124" target="https://www.w3.org/TR/2020/WD-wot-architecture11-20201124/">
+  <front>
+    <title>Web of Things (WoT) Architecture 1.1</title>
+    <seriesInfo name="W3C WD" value="WD-wot-architecture11-20201124"/>
+    <author role="editor" fullname="Kazuo Kajimoto"/>
+    <author role="editor" fullname="Kunihiko Toumura"/>
+    <author role="editor" fullname="Michael Lagally"/>
+    <author role="editor" fullname="Ryuichi Matsukura"/>
+    <author role="editor" fullname="Toru Kawaguchi"/>
+    <date year="2020" month="November" day="24"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+</reference>

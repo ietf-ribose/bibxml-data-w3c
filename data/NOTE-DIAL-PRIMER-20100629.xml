@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-dial-primer-20100629" target="https://www.w3.org/TR/2010/NOTE-dial-primer-20100629/">
+  <front>
+    <title>DIAL Part 0: Primer</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-dial-primer-20100629"/>
+    <author role="editor" fullname="Kevin Smith"/>
+    <date year="2010" month="June" day="29"/>
+    <workgroup>Ubiquitous Web Applications Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-mini-app-white-paper-20190912" target="https://www.w3.org/TR/2019/WD-mini-app-white-paper-20190912/">
+  <front>
+    <title>MiniApp Standardization White Paper</title>
+    <seriesInfo name="W3C WD" value="WD-mini-app-white-paper-20190912"/>
+    <author role="editor" fullname="Angel Li"/>
+    <author role="editor" fullname="Dapeng(Max) Liu"/>
+    <author role="editor" fullname="Fuqiao Xue"/>
+    <author role="editor" fullname="Hongru (Judy) Zhu"/>
+    <author role="editor" fullname="Lei Zhao"/>
+    <author role="editor" fullname="Qing An"/>
+    <author role="editor" fullname="Qingqian Tao"/>
+    <author role="editor" fullname="Wanming Lin"/>
+    <author role="editor" fullname="Zhiqiang Yu"/>
+    <author role="editor" fullname="Zhixing Lei"/>
+    <author role="editor" fullname="Zhou Shen"/>
+    <author role="editor" fullname="xiaowei jiang"/>
+    <date year="2019" month="September" day="12"/>
+    <workgroup>Chinese Web Interest Group</workgroup>
+  </front>
+</reference>

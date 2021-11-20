@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-ttml-imsc1.1-20181108" target="https://www.w3.org/TR/2018/REC-ttml-imsc1.1-20181108/">
+  <front>
+    <title>TTML Profiles for Internet Media Subtitles and Captions 1.1</title>
+    <seriesInfo name="W3C REC" value="REC-ttml-imsc1.1-20181108"/>
+    <author role="editor" fullname="Pierre-Anthony Lemieux"/>
+    <date year="2018" month="November" day="8"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+</reference>

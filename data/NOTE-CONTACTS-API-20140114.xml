@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-contacts-api-20140114" target="https://www.w3.org/TR/2014/NOTE-contacts-api-20140114/">
+  <front>
+    <title>Pick Contacts Intent</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-contacts-api-20140114"/>
+    <author role="editor" fullname="Jungkee Song"/>
+    <author role="editor" fullname="Richard Tibbett"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <date year="2014" month="January" day="14"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-MathML-19980407" target="https://www.w3.org/TR/1998/REC-MathML-19980407/">
+  <front>
+    <title>Mathematical Markup Language (MathML) 1.0 Specification</title>
+    <seriesInfo name="W3C REC" value="REC-MathML-19980407"/>
+    <author role="editor" fullname="Patrick D F Ion"/>
+    <author role="editor" fullname="Robert R Miner"/>
+    <date year="1998" month="April" day="7"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+</reference>

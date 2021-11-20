@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-P3P11-20180830" target="https://www.w3.org/TR/2018/NOTE-P3P11-20180830/">
+  <front>
+    <title>The Platform for Privacy Preferences 1.1 (P3P1.1) Specification</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-P3P11-20180830"/>
+    <author role="editor" fullname="Matthias Schunter"/>
+    <author role="editor" fullname="Rigo Wenning"/>
+    <date year="2018" month="August" day="30"/>
+    <workgroup>P3P Specification Working Group</workgroup>
+  </front>
+</reference>

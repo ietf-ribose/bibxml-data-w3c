@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-sml-20090512" target="https://www.w3.org/TR/2009/REC-sml-20090512/">
+  <front>
+    <title>Service Modeling Language, Version 1.1</title>
+    <seriesInfo name="W3C REC" value="REC-sml-20090512"/>
+    <author role="editor" fullname="Valentina Popescu"/>
+    <author role="editor" fullname="Virginia Smith"/>
+    <date year="2009" month="May" day="12"/>
+    <workgroup>Service Modeling Language</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-alreq-gap-20210521" target="https://www.w3.org/TR/2021/WD-alreq-gap-20210521/">
+  <front>
+    <title>Arabic and Persian Gap Analysis</title>
+    <seriesInfo name="W3C WD" value="WD-alreq-gap-20210521"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Shervin Afshar"/>
+    <date year="2021" month="May" day="21"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

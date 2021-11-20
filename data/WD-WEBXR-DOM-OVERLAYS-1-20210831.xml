@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-webxr-dom-overlays-1-20210831" target="https://www.w3.org/TR/2021/WD-webxr-dom-overlays-1-20210831/">
+  <front>
+    <title>WebXR DOM Overlays Module</title>
+    <seriesInfo name="W3C WD" value="WD-webxr-dom-overlays-1-20210831"/>
+    <author role="editor" fullname="Klaus Weidner"/>
+    <date year="2021" month="August" day="31"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+</reference>

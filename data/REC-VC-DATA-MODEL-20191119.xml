@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-vc-data-model-20191119" target="https://www.w3.org/TR/2019/REC-vc-data-model-20191119/">
+  <front>
+    <title>Verifiable Credentials Data Model 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-vc-data-model-20191119"/>
+    <author role="editor" fullname="Brent Zundel"/>
+    <author role="editor" fullname="Daniel Burnett"/>
+    <author role="editor" fullname="Dave Longley"/>
+    <author role="editor" fullname="Grant Noble"/>
+    <author role="editor" fullname="Manu Sporny"/>
+    <date year="2019" month="November" day="19"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+</reference>

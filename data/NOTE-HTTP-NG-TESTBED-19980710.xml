@@ -1,0 +1,8 @@
+<reference anchor="W3C.NOTE-HTTP-NG-testbed-19980710" target="https://www.w3.org/TR/1998/NOTE-HTTP-NG-testbed-19980710/">
+  <front>
+    <title>Design of HTTP-ng Testbed</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-HTTP-NG-testbed-19980710"/>
+    <author role="editor" fullname="Daniel Veillard"/>
+    <date year="1998" month="July" day="10"/>
+  </front>
+</reference>

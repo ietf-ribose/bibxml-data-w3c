@@ -1,0 +1,9 @@
+<reference anchor="W3C.CR-css-speech-1-20200310" target="https://www.w3.org/TR/2020/CR-css-speech-1-20200310/">
+  <front>
+    <title>CSS Speech Module</title>
+    <seriesInfo name="W3C CR" value="CR-css-speech-1-20200310"/>
+    <author role="editor" fullname="Daniel Weck"/>
+    <date year="2020" month="March" day="10"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

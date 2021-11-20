@@ -1,0 +1,19 @@
+<reference anchor="W3C.REC-mediaont-10-20120209" target="https://www.w3.org/TR/2012/REC-mediaont-10-20120209/">
+  <front>
+    <title>Ontology for Media Resources 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-mediaont-10-20120209"/>
+    <author role="editor" fullname="Felix Sasaki"/>
+    <author role="editor" fullname="Florian Stegmaier"/>
+    <author role="editor" fullname="Jean-Pierre EVAIN"/>
+    <author role="editor" fullname="Joakim Söderberg"/>
+    <author role="editor" fullname="John Strassner"/>
+    <author role="editor" fullname="Pierre-Antoine Champin"/>
+    <author role="editor" fullname="Thierry Michel"/>
+    <author role="editor" fullname="Tobias Bürger"/>
+    <author role="editor" fullname="Véronique Malaisé"/>
+    <author role="editor" fullname="Werner Bailer"/>
+    <author role="editor" fullname="Wonsuk Lee"/>
+    <date year="2012" month="February" day="9"/>
+    <workgroup>Media Annotations Working Group</workgroup>
+  </front>
+</reference>

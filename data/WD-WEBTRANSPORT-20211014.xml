@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webtransport-20211014" target="https://www.w3.org/TR/2021/WD-webtransport-20211014/">
+  <front>
+    <title>WebTransport</title>
+    <seriesInfo name="W3C WD" value="WD-webtransport-20211014"/>
+    <author role="editor" fullname="Bernard Aboba"/>
+    <author role="editor" fullname="Victor Vasiliev"/>
+    <author role="editor" fullname="Yutaka Hirano"/>
+    <date year="2021" month="October" day="14"/>
+    <workgroup>WebTransport Working Group</workgroup>
+  </front>
+</reference>

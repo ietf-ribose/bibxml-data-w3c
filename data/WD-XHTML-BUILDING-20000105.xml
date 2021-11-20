@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-xhtml-building-20000105" target="https://www.w3.org/TR/2000/WD-xhtml-building-20000105/">
+  <front>
+    <title>Building XHTML™ Modules</title>
+    <seriesInfo name="W3C WD" value="WD-xhtml-building-20000105"/>
+    <author role="editor" fullname="Murray Altheim"/>
+    <author role="editor" fullname="Shane McCarron"/>
+    <date year="2000" month="January" day="5"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

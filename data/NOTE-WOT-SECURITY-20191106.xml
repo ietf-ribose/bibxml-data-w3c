@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-wot-security-20191106" target="https://www.w3.org/TR/2019/NOTE-wot-security-20191106/">
+  <front>
+    <title>Web of Things (WoT) Security and Privacy Guidelines</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-wot-security-20191106"/>
+    <author role="editor" fullname="Elena Reshetova"/>
+    <author role="editor" fullname="Michael McCool"/>
+    <date year="2019" month="November" day="6"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+</reference>

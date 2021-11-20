@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-mmi-framework-20030506" target="https://www.w3.org/TR/2003/NOTE-mmi-framework-20030506/">
+  <front>
+    <title>W3C Multimodal Interaction Framework</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-mmi-framework-20030506"/>
+    <author role="editor" fullname="Dave Raggett"/>
+    <author role="editor" fullname="T.V. Raman"/>
+    <date year="2003" month="May" day="6"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+</reference>

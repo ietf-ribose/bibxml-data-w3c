@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-touch-events-extensions-20131031" target="https://www.w3.org/TR/2013/NOTE-touch-events-extensions-20131031/">
+  <front>
+    <title>Touch Events Extensions</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-touch-events-extensions-20131031"/>
+    <author role="editor" fullname="Doug Schepers"/>
+    <author role="editor" fullname="Matt Brubeck"/>
+    <author role="editor" fullname="Sangwhan Moon"/>
+    <date year="2013" month="October" day="31"/>
+    <workgroup>Web Events Working Group</workgroup>
+  </front>
+</reference>

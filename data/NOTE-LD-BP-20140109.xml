@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-ld-bp-20140109" target="https://www.w3.org/TR/2014/NOTE-ld-bp-20140109/">
+  <front>
+    <title>Best Practices for Publishing Linked Data</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-ld-bp-20140109"/>
+    <author role="editor" fullname="Bernadette Hyland"/>
+    <author role="editor" fullname="Boris Villazón-Terrazas"/>
+    <author role="editor" fullname="Ghislain Auguste Atemezing"/>
+    <date year="2014" month="January" day="9"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+</reference>

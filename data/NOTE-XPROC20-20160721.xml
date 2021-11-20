@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-xproc20-20160721" target="https://www.w3.org/TR/2016/NOTE-xproc20-20160721/">
+  <front>
+    <title>XProc 2.0: An XML Pipeline Language</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xproc20-20160721"/>
+    <author role="editor" fullname="Alex Miłowski"/>
+    <author role="editor" fullname="Henry Thompson"/>
+    <author role="editor" fullname="Norman Walsh"/>
+    <date year="2016" month="July" day="21"/>
+    <workgroup>XML Processing Model Working Group</workgroup>
+  </front>
+</reference>

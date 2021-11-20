@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-reporting-1-20180925" target="https://www.w3.org/TR/2018/WD-reporting-1-20180925/">
+  <front>
+    <title>Reporting API</title>
+    <seriesInfo name="W3C WD" value="WD-reporting-1-20180925"/>
+    <author role="editor" fullname="Douglas Creager"/>
+    <author role="editor" fullname="Ilya Grigorik"/>
+    <author role="editor" fullname="Mike West"/>
+    <author role="editor" fullname="Paul Meyer"/>
+    <date year="2018" month="September" day="25"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+</reference>

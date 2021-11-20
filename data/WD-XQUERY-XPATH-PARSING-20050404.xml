@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-xquery-xpath-parsing-20050404" target="https://www.w3.org/TR/2005/WD-xquery-xpath-parsing-20050404/">
+  <front>
+    <title>Building a Tokenizer for XPath or XQuery</title>
+    <seriesInfo name="W3C WD" value="WD-xquery-xpath-parsing-20050404"/>
+    <author role="editor" fullname="Scott Boag"/>
+    <date year="2005" month="April" day="4"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

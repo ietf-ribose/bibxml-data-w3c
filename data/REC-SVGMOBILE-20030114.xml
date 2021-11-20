@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-SVGMobile-20030114" target="https://www.w3.org/TR/2003/REC-SVGMobile-20030114/">
+  <front>
+    <title>Mobile SVG Profiles: SVG Tiny and SVG Basic</title>
+    <seriesInfo name="W3C REC" value="REC-SVGMobile-20030114"/>
+    <author role="editor" fullname="Tolga Capin"/>
+    <date year="2003" month="January" day="14"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

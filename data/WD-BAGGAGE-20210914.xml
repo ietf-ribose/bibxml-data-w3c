@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-baggage-20210914" target="https://www.w3.org/TR/2021/WD-baggage-20210914/">
+  <front>
+    <title>Propagation format for distributed trace context: Baggage</title>
+    <seriesInfo name="W3C WD" value="WD-baggage-20210914"/>
+    <author role="editor" fullname="Alois Reitbauer"/>
+    <author role="editor" fullname="Daniel Khan"/>
+    <author role="editor" fullname="Morgan McLean"/>
+    <author role="editor" fullname="Sergey Kanzhelev"/>
+    <author role="editor" fullname="Yuri Shkuro"/>
+    <date year="2021" month="September" day="14"/>
+    <workgroup>Distributed Tracing Working Group</workgroup>
+  </front>
+</reference>

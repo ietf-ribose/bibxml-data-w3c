@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-XForms-for-HTML-20081219" target="https://www.w3.org/TR/2008/WD-XForms-for-HTML-20081219/">
+  <front>
+    <title>XForms for HTML</title>
+    <seriesInfo name="W3C WD" value="WD-XForms-for-HTML-20081219"/>
+    <author role="editor" fullname="John Boyer"/>
+    <date year="2008" month="December" day="19"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+</reference>

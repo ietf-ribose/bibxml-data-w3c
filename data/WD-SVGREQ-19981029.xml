@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-SVGReq-19981029" target="https://www.w3.org/TR/1998/WD-SVGReq-19981029">
+  <front>
+    <title>Scalable Vector Graphics (SVG) Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-SVGReq-19981029"/>
+    <author role="editor" fullname="Jon Ferraiolo"/>
+    <date year="1998" month="October" day="29"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

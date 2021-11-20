@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-CCPP-trust-20011220" target="https://www.w3.org/TR/2001/WD-CCPP-trust-20011220/">
+  <front>
+    <title>CC/PP Implementors Guide: Privacy and Protocols</title>
+    <seriesInfo name="W3C WD" value="WD-CCPP-trust-20011220"/>
+    <author role="editor" fullname="Hidetaka Ohto"/>
+    <author role="editor" fullname="Johan Hjelm"/>
+    <author role="editor" fullname="Lalitha Suryanarayana"/>
+    <date year="2001" month="December" day="20"/>
+    <workgroup>Composite Capability/Preference Profiles Working Group</workgroup>
+  </front>
+</reference>

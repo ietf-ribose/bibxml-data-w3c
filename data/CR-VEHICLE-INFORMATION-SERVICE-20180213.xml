@@ -1,0 +1,12 @@
+<reference anchor="W3C.CR-vehicle-information-service-20180213" target="https://www.w3.org/TR/2018/CR-vehicle-information-service-20180213/">
+  <front>
+    <title>Vehicle Information Service Specification</title>
+    <seriesInfo name="W3C CR" value="CR-vehicle-information-service-20180213"/>
+    <author role="editor" fullname="Adam Crofts"/>
+    <author role="editor" fullname="Kevin Gavigan"/>
+    <author role="editor" fullname="Powell Kinney"/>
+    <author role="editor" fullname="Wonsuk Lee"/>
+    <date year="2018" month="February" day="13"/>
+    <workgroup>Automotive Working Group</workgroup>
+  </front>
+</reference>

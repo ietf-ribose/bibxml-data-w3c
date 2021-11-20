@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-xml-canonical-req-19990605" target="https://www.w3.org/TR/1999/NOTE-xml-canonical-req-19990605">
+  <front>
+    <title>XML Canonicalization Requirements</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xml-canonical-req-19990605"/>
+    <author role="editor" fullname="James Tauber"/>
+    <author role="editor" fullname="Joel Nava"/>
+    <date year="1999" month="June" day="5"/>
+  </front>
+</reference>

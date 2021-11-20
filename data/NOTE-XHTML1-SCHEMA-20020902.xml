@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-xhtml1-schema-20020902" target="https://www.w3.org/TR/2002/NOTE-xhtml1-schema-20020902/">
+  <front>
+    <title>XHTML 1.0 in XML Schema</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xhtml1-schema-20020902"/>
+    <author role="editor" fullname="Masayasu Ishikawa"/>
+    <date year="2002" month="September" day="2"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

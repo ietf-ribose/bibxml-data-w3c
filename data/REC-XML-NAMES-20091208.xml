@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-xml-names-20091208" target="https://www.w3.org/TR/2009/REC-xml-names-20091208/">
+  <front>
+    <title>Namespaces in XML 1.0 (Third Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-xml-names-20091208"/>
+    <author role="editor" fullname="Andrew Layman"/>
+    <author role="editor" fullname="Dave Hollander"/>
+    <author role="editor" fullname="Henry Thompson"/>
+    <author role="editor" fullname="Richard Tobin"/>
+    <author role="editor" fullname="Tim Bray"/>
+    <date year="2009" month="December" day="8"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

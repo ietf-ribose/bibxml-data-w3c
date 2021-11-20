@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-DOM-Level-3-Val-20040127" target="https://www.w3.org/TR/2004/REC-DOM-Level-3-Val-20040127/">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Validation Specification</title>
+    <seriesInfo name="W3C REC" value="REC-DOM-Level-3-Val-20040127"/>
+    <author role="editor" fullname="Ben Chang"/>
+    <author role="editor" fullname="Joseph Kesselman"/>
+    <author role="editor" fullname="rezaur rahman"/>
+    <date year="2004" month="January" day="27"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+</reference>

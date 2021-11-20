@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-mediaqueries-5-20200731" target="https://www.w3.org/TR/2020/WD-mediaqueries-5-20200731/">
+  <front>
+    <title>Media Queries Level 5</title>
+    <seriesInfo name="W3C WD" value="WD-mediaqueries-5-20200731"/>
+    <author role="editor" fullname="Dean Jackson"/>
+    <author role="editor" fullname="Florian Rivoal"/>
+    <author role="editor" fullname="Tab Atkins Jr."/>
+    <date year="2020" month="July" day="31"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

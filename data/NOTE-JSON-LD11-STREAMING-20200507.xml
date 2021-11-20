@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-json-ld11-streaming-20200507" target="https://www.w3.org/TR/2020/NOTE-json-ld11-streaming-20200507/">
+  <front>
+    <title>Streaming JSON-LD</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-json-ld11-streaming-20200507"/>
+    <author role="editor" fullname="Ruben Taelman"/>
+    <date year="2020" month="May" day="7"/>
+    <workgroup>JSON-LD Working Group</workgroup>
+  </front>
+</reference>

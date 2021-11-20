@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-ct-landscape-20091027" target="https://www.w3.org/TR/2009/NOTE-ct-landscape-20091027/">
+  <front>
+    <title>Content Transformation Landscape 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-ct-landscape-20091027"/>
+    <author role="editor" fullname="Andrew Swainston"/>
+    <author role="editor" fullname="Jo Rabin"/>
+    <date year="2009" month="October" day="27"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+</reference>

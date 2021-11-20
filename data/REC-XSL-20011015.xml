@@ -1,0 +1,19 @@
+<reference anchor="W3C.REC-xsl-20011015" target="https://www.w3.org/TR/2001/REC-xsl-20011015/">
+  <front>
+    <title>Extensible Stylesheet Language (XSL) Version 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-xsl-20011015"/>
+    <author role="editor" fullname="Alex Miłowski"/>
+    <author role="editor" fullname="Anders Berglund"/>
+    <author role="editor" fullname="Eduardo Gutentag"/>
+    <author role="editor" fullname="Jeffrey Caruso"/>
+    <author role="editor" fullname="Jeremy Richman"/>
+    <author role="editor" fullname="Paul Grosso"/>
+    <author role="editor" fullname="Scott Parnell"/>
+    <author role="editor" fullname="Sharon Adler"/>
+    <author role="editor" fullname="Stephen Deach"/>
+    <author role="editor" fullname="Steve Zilles"/>
+    <author role="editor" fullname="Tony Graham"/>
+    <date year="2001" month="October" day="15"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+</reference>

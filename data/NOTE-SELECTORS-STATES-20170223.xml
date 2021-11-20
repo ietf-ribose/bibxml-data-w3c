@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-selectors-states-20170223" target="https://www.w3.org/TR/2017/NOTE-selectors-states-20170223/">
+  <front>
+    <title>Selectors and States</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-selectors-states-20170223"/>
+    <author role="editor" fullname="Benjamin Young"/>
+    <author role="editor" fullname="Ivan Herman"/>
+    <author role="editor" fullname="Paolo Ciccarese"/>
+    <author role="editor" fullname="Robert Sanderson"/>
+    <date year="2017" month="February" day="23"/>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+</reference>

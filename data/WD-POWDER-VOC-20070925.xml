@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-powder-voc-20070925" target="https://www.w3.org/TR/2007/WD-powder-voc-20070925/">
+  <front>
+    <title>Protocol for Web Description Resources (POWDER): Web Description Resources (WDR) Vocabulary</title>
+    <seriesInfo name="W3C WD" value="WD-powder-voc-20070925"/>
+    <author role="editor" fullname="Andrea Perego"/>
+    <author role="editor" fullname="Phil Archer"/>
+    <date year="2007" month="September" day="25"/>
+    <workgroup>Protocol for Web Description Resources Working Group</workgroup>
+  </front>
+</reference>

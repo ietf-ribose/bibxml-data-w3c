@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-WCAG20-20081211" target="https://www.w3.org/TR/2008/REC-WCAG20-20081211/">
+  <front>
+    <title>Web Content Accessibility Guidelines (WCAG) 2.0</title>
+    <seriesInfo name="W3C REC" value="REC-WCAG20-20081211"/>
+    <author role="editor" fullname="Ben Caldwell"/>
+    <author role="editor" fullname="Gregg Vanderheiden"/>
+    <author role="editor" fullname="Loretta Guarino Reid"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <date year="2008" month="December" day="11"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

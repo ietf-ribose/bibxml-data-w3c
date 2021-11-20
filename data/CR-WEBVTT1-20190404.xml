@@ -1,0 +1,9 @@
+<reference anchor="W3C.CR-webvtt1-20190404" target="https://www.w3.org/TR/2019/CR-webvtt1-20190404/">
+  <front>
+    <title>WebVTT: The Web Video Text Tracks Format</title>
+    <seriesInfo name="W3C CR" value="CR-webvtt1-20190404"/>
+    <author role="editor" fullname="Silvia Pfeiffer"/>
+    <date year="2019" month="April" day="4"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+</reference>

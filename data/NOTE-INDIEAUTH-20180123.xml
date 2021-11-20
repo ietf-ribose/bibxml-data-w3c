@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-indieauth-20180123" target="https://www.w3.org/TR/2018/NOTE-indieauth-20180123/">
+  <front>
+    <title>IndieAuth</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-indieauth-20180123"/>
+    <author role="editor" fullname="Aaron Parecki"/>
+    <date year="2018" month="January" day="23"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+</reference>

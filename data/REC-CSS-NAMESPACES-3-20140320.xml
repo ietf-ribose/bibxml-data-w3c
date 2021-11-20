@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-css-namespaces-3-20140320" target="https://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/">
+  <front>
+    <title>CSS Namespaces Module Level 3</title>
+    <seriesInfo name="W3C REC" value="REC-css-namespaces-3-20140320"/>
+    <author role="editor" fullname="Elika Etemad"/>
+    <date year="2014" month="March" day="20"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-annotation-model-20170223" target="https://www.w3.org/TR/2017/REC-annotation-model-20170223/">
+  <front>
+    <title>Web Annotation Data Model</title>
+    <seriesInfo name="W3C REC" value="REC-annotation-model-20170223"/>
+    <author role="editor" fullname="Benjamin Young"/>
+    <author role="editor" fullname="Paolo Ciccarese"/>
+    <author role="editor" fullname="Robert Sanderson"/>
+    <date year="2017" month="February" day="23"/>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+</reference>

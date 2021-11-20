@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-xkms-pgp-20051219" target="https://www.w3.org/TR/2005/NOTE-xkms-pgp-20051219/">
+  <front>
+    <title>Using XKMS with PGP</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xkms-pgp-20051219"/>
+    <author role="editor" fullname="José Kahan"/>
+    <author role="editor" fullname="Tommy Lindberg"/>
+    <date year="2005" month="December" day="19"/>
+  </front>
+</reference>

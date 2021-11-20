@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-vbi-reqs-20020808" target="https://www.w3.org/TR/2002/WD-vbi-reqs-20020808/">
+  <front>
+    <title>Voice Browser Interoperation: Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-vbi-reqs-20020808"/>
+    <author role="editor" fullname="Kenneth Rehor"/>
+    <date year="2002" month="August" day="8"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+</reference>

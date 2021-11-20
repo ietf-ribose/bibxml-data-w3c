@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-shadow-dom-20180301" target="https://www.w3.org/TR/2018/NOTE-shadow-dom-20180301/">
+  <front>
+    <title>Shadow DOM</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-shadow-dom-20180301"/>
+    <author role="editor" fullname="Hayato Ito"/>
+    <date year="2018" month="March" day="1"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

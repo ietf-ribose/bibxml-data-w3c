@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-rex-reqs-20060202" target="https://www.w3.org/TR/2006/NOTE-rex-reqs-20060202/">
+  <front>
+    <title>Remote Events for XML (REX) Requirements</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-rex-reqs-20060202"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <date year="2006" month="February" day="2"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

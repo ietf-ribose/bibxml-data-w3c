@@ -1,0 +1,11 @@
+<reference anchor="W3C.WAI-WEBCONTENT-19990505" target="https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/">
+  <front>
+    <title>Web Content Accessibility Guidelines 1.0</title>
+    <seriesInfo name="W3C REC" value="WAI-WEBCONTENT-19990505"/>
+    <author role="editor" fullname="Gregg Vanderheiden"/>
+    <author role="editor" fullname="Ian Jacobs"/>
+    <author role="editor" fullname="Wendy Chisholm"/>
+    <date year="1999" month="May" day="5"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

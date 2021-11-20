@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-rdf-schema-20040210" target="https://www.w3.org/TR/2004/REC-rdf-schema-20040210/">
+  <front>
+    <title>RDF Vocabulary Description Language 1.0: RDF Schema</title>
+    <seriesInfo name="W3C REC" value="REC-rdf-schema-20040210"/>
+    <author role="editor" fullname="Dan Brickley"/>
+    <author role="editor" fullname="Ramanathan Guha"/>
+    <date year="2004" month="February" day="10"/>
+    <workgroup>RDFCore Working Group</workgroup>
+  </front>
+</reference>

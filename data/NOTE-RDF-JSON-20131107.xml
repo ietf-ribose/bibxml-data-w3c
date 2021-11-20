@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-rdf-json-20131107" target="https://www.w3.org/TR/2013/NOTE-rdf-json-20131107/">
+  <front>
+    <title>RDF 1.1 JSON Alternate Serialization (RDF/JSON)</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-rdf-json-20131107"/>
+    <author role="editor" fullname="Arnaud Le Hors"/>
+    <author role="editor" fullname="Ian Davis"/>
+    <author role="editor" fullname="Thomas Steiner"/>
+    <date year="2013" month="November" day="7"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+</reference>

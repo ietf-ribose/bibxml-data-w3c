@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-act-rules-format-1.0-20191031" target="https://www.w3.org/TR/2019/REC-act-rules-format-1.0-20191031/">
+  <front>
+    <title>Accessibility Conformance Testing (ACT) Rules Format 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-act-rules-format-1.0-20191031"/>
+    <author role="editor" fullname="Mary Jo Mueller"/>
+    <author role="editor" fullname="Maureen Kraft"/>
+    <author role="editor" fullname="Shadi Abou-Zahra"/>
+    <author role="editor" fullname="Wilco Fiers"/>
+    <date year="2019" month="October" day="31"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

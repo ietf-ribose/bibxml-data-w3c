@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-xpath-full-text-30-requirements-use-cases-20151210" target="https://www.w3.org/TR/2015/NOTE-xpath-full-text-30-requirements-use-cases-20151210/">
+  <front>
+    <title>XQuery and XPath Full Text 3.0 Requirements and Use Cases</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xpath-full-text-30-requirements-use-cases-20151210"/>
+    <author role="editor" fullname="Pat Case"/>
+    <date year="2015" month="December" day="10"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="W3C.CR-css-scroll-snap-1-20210311" target="https://www.w3.org/TR/2021/CR-css-scroll-snap-1-20210311/">
+  <front>
+    <title>CSS Scroll Snap Module Level 1</title>
+    <seriesInfo name="W3C CR" value="CR-css-scroll-snap-1-20210311"/>
+    <author role="editor" fullname="Elika Etemad"/>
+    <author role="editor" fullname="Jacob Rossi"/>
+    <author role="editor" fullname="Matt Rakow"/>
+    <author role="editor" fullname="Tab Atkins Jr."/>
+    <date year="2021" month="March" day="11"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

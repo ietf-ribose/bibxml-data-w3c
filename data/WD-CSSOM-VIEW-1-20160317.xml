@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-cssom-view-1-20160317" target="https://www.w3.org/TR/2016/WD-cssom-view-1-20160317/">
+  <front>
+    <title>CSSOM View Module</title>
+    <seriesInfo name="W3C WD" value="WD-cssom-view-1-20160317"/>
+    <author role="editor" fullname="Simon Pieters"/>
+    <date year="2016" month="March" day="17"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

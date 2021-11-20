@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-PICSRules-971229" target="https://www.w3.org/TR/REC-PICSRules-971229">
+  <front>
+    <title>PICSRules 1.1 Specification</title>
+    <seriesInfo name="W3C REC" value="REC-PICSRules-971229"/>
+    <author role="editor" fullname="Alex Hopmann"/>
+    <author role="editor" fullname="Christopher Evans"/>
+    <author role="editor" fullname="Martin PreslerMarshall"/>
+    <author role="editor" fullname="Paul Resnick"/>
+    <date year="1997" month="December" day="29"/>
+  </front>
+</reference>

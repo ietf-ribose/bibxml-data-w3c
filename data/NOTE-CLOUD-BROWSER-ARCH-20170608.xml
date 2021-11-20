@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-cloud-browser-arch-20170608" target="https://www.w3.org/TR/2017/NOTE-cloud-browser-arch-20170608/">
+  <front>
+    <title>Cloud Browser Architecture</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-cloud-browser-arch-20170608"/>
+    <author role="editor" fullname="Alexandra Mikityuk"/>
+    <author role="editor" fullname="Colin Meerveld"/>
+    <date year="2017" month="June" day="8"/>
+    <workgroup>Media and Entertainment Interest Group</workgroup>
+  </front>
+</reference>

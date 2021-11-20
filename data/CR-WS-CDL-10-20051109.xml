@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-ws-cdl-10-20051109" target="https://www.w3.org/TR/2005/CR-ws-cdl-10-20051109/">
+  <front>
+    <title>Web Services Choreography Description Language Version 1.0</title>
+    <seriesInfo name="W3C CR" value="CR-ws-cdl-10-20051109"/>
+    <author role="editor" fullname="Charlton Barreto"/>
+    <author role="editor" fullname="David Burdett"/>
+    <author role="editor" fullname="Greg Ritzinger"/>
+    <author role="editor" fullname="Nickolas Kavantzas"/>
+    <author role="editor" fullname="Tony Fletcher"/>
+    <author role="editor" fullname="Yves Lafon"/>
+    <date year="2005" month="November" day="9"/>
+    <workgroup>Web Services Choreography Working Group</workgroup>
+  </front>
+</reference>

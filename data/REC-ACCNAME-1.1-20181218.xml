@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-accname-1.1-20181218" target="https://www.w3.org/TR/2018/REC-accname-1.1-20181218/">
+  <front>
+    <title>Accessible Name and Description Computation 1.1</title>
+    <seriesInfo name="W3C REC" value="REC-accname-1.1-20181218"/>
+    <author role="editor" fullname="Bryan Garaventa"/>
+    <author role="editor" fullname="Joanmarie Diggs"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <date year="2018" month="December" day="18"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+</reference>

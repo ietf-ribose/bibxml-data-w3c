@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-paint-timing-20170907" target="https://www.w3.org/TR/2017/WD-paint-timing-20170907/">
+  <front>
+    <title>Paint Timing 1</title>
+    <seriesInfo name="W3C WD" value="WD-paint-timing-20170907"/>
+    <author role="editor" fullname="Shubhie Panicker"/>
+    <date year="2017" month="September" day="7"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+</reference>

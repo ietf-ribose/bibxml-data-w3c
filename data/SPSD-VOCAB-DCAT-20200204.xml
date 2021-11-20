@@ -1,0 +1,10 @@
+<reference anchor="W3C.SPSD-vocab-dcat-20200204" target="https://www.w3.org/TR/2020/SPSD-vocab-dcat-20200204/">
+  <front>
+    <title>Data Catalog Vocabulary (DCAT)</title>
+    <seriesInfo name="W3C REC" value="SPSD-vocab-dcat-20200204"/>
+    <author role="editor" fullname="Fadi Maali"/>
+    <author role="editor" fullname="John Erickson"/>
+    <date year="2020" month="February" day="4"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+</reference>

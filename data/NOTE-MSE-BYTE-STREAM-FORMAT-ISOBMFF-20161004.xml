@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-mse-byte-stream-format-isobmff-20161004" target="https://www.w3.org/TR/2016/NOTE-mse-byte-stream-format-isobmff-20161004/">
+  <front>
+    <title>ISO BMFF Byte Stream Format</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-mse-byte-stream-format-isobmff-20161004"/>
+    <author role="editor" fullname="Aaron Colwell"/>
+    <author role="editor" fullname="Adrian Bateman"/>
+    <author role="editor" fullname="Jerry Smith"/>
+    <author role="editor" fullname="Mark Watson"/>
+    <author role="editor" fullname="Matthew Wolenetz"/>
+    <date year="2016" month="October" day="4"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+</reference>

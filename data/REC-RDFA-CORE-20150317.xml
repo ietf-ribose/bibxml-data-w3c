@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-rdfa-core-20150317" target="https://www.w3.org/TR/2015/REC-rdfa-core-20150317/">
+  <front>
+    <title>RDFa Core 1.1 - Third Edition</title>
+    <seriesInfo name="W3C REC" value="REC-rdfa-core-20150317"/>
+    <author role="editor" fullname="Ben Adida"/>
+    <author role="editor" fullname="Ivan Herman"/>
+    <author role="editor" fullname="Mark Birbeck"/>
+    <author role="editor" fullname="Shane McCarron"/>
+    <date year="2015" month="March" day="17"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+</reference>

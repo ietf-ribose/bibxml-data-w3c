@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-url-1-20161206" target="https://www.w3.org/TR/2016/NOTE-url-1-20161206/">
+  <front>
+    <title>URL</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-url-1-20161206"/>
+    <author role="editor" fullname="Anne van Kesteren"/>
+    <author role="editor" fullname="Sam Ruby"/>
+    <date year="2016" month="December" day="6"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

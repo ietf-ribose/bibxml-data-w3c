@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-hash-in-uri-20120209" target="https://www.w3.org/TR/2012/NOTE-hash-in-uri-20120209/">
+  <front>
+    <title>Usage Patterns For Client-Side URI parameters</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-hash-in-uri-20120209"/>
+    <author role="editor" fullname="T.V. Raman"/>
+    <date year="2012" month="February" day="9"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+</reference>

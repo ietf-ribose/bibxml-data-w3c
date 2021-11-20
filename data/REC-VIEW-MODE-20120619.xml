@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-view-mode-20120619" target="https://www.w3.org/TR/2012/REC-view-mode-20120619/">
+  <front>
+    <title>The 'view-mode' Media Feature</title>
+    <seriesInfo name="W3C REC" value="REC-view-mode-20120619"/>
+    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <date year="2012" month="June" day="19"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

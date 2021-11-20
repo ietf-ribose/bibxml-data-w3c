@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-owl-ref-20040210" target="https://www.w3.org/TR/2004/REC-owl-ref-20040210/">
+  <front>
+    <title>OWL Web Ontology Language Reference</title>
+    <seriesInfo name="W3C REC" value="REC-owl-ref-20040210"/>
+    <author role="editor" fullname="Guus Schreiber"/>
+    <author role="editor" fullname="Mike Dean"/>
+    <date year="2004" month="February" day="10"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+</reference>

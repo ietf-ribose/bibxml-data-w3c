@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-HTTP-NG-architecture-19980710" target="https://www.w3.org/TR/1998/WD-HTTP-NG-architecture-19980710/">
+  <front>
+    <title>HTTP-ng Architectural Model</title>
+    <seriesInfo name="W3C WD" value="WD-HTTP-NG-architecture-19980710"/>
+    <author role="editor" fullname="Henrik Frystyk Nielsen"/>
+    <author role="editor" fullname="Mike Spreitzer"/>
+    <date year="1998" month="July" day="10"/>
+  </front>
+</reference>

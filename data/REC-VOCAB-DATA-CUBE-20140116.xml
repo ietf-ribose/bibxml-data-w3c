@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-vocab-data-cube-20140116" target="https://www.w3.org/TR/2014/REC-vocab-data-cube-20140116/">
+  <front>
+    <title>The RDF Data Cube Vocabulary</title>
+    <seriesInfo name="W3C REC" value="REC-vocab-data-cube-20140116"/>
+    <author role="editor" fullname="Dave Reynolds"/>
+    <author role="editor" fullname="Richard Cyganiak"/>
+    <date year="2014" month="January" day="16"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+</reference>

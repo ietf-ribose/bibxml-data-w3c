@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-CSS2-19980512" target="https://www.w3.org/TR/1998/REC-CSS2-19980512/">
+  <front>
+    <title>Cascading Style Sheets, level 2 (CSS2) Specification</title>
+    <seriesInfo name="W3C REC" value="REC-CSS2-19980512"/>
+    <author role="editor" fullname="Bert Bos"/>
+    <author role="editor" fullname="Chris Lilley"/>
+    <author role="editor" fullname="Håkon Wium Lie"/>
+    <author role="editor" fullname="Ian Jacobs"/>
+    <date year="1998" month="May" day="12"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

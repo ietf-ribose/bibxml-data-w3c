@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-WebCGM-19990121" target="https://www.w3.org/TR/1999/REC-WebCGM-19990121/">
+  <front>
+    <title>WebCGM Profile Recommendation</title>
+    <seriesInfo name="W3C REC" value="REC-WebCGM-19990121"/>
+    <author role="editor" fullname="David Cruikshank"/>
+    <author role="editor" fullname="Lofton Henderson"/>
+    <date year="1999" month="January" day="21"/>
+  </front>
+</reference>

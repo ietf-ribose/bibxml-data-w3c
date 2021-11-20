@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-capability-urls-20140218" target="https://www.w3.org/TR/2014/WD-capability-urls-20140218/">
+  <front>
+    <title>Good Practices for Capability URLs</title>
+    <seriesInfo name="W3C WD" value="WD-capability-urls-20140218"/>
+    <author role="editor" fullname="Jeni Tennison"/>
+    <date year="2014" month="February" day="18"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-gallery-20140114" target="https://www.w3.org/TR/2014/NOTE-gallery-20140114/">
+  <front>
+    <title>Pick Media Intent</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-gallery-20140114"/>
+    <author role="editor" fullname="Jungkee Song"/>
+    <author role="editor" fullname="Wonsuk Lee"/>
+    <date year="2014" month="January" day="14"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>

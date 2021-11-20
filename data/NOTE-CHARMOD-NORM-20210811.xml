@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-charmod-norm-20210811" target="https://www.w3.org/TR/2021/NOTE-charmod-norm-20210811/">
+  <front>
+    <title>Character Model for the World Wide Web: String Matching</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-charmod-norm-20210811"/>
+    <author role="editor" fullname="Addison Phillips"/>
+    <date year="2021" month="August" day="11"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

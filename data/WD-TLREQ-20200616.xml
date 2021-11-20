@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-tlreq-20200616" target="https://www.w3.org/TR/2020/WD-tlreq-20200616/">
+  <front>
+    <title>Requirements for Tibetan Text Layout and Typography</title>
+    <seriesInfo name="W3C WD" value="WD-tlreq-20200616"/>
+    <author role="editor" fullname="Chunming Hu"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <date year="2020" month="June" day="16"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

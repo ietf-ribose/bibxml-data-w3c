@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-html32-19970114" target="https://www.w3.org/TR/REC-html32-19970114">
+  <front>
+    <title>HTML 3.2 Reference Specification</title>
+    <seriesInfo name="W3C REC" value="REC-html32-19970114"/>
+    <author role="editor" fullname="Dave Raggett"/>
+    <date year="1997" month="January" day="14"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

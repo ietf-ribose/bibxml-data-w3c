@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-ldp-paging-20150630" target="https://www.w3.org/TR/2015/NOTE-ldp-paging-20150630/">
+  <front>
+    <title>Linked Data Platform Paging 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-ldp-paging-20150630"/>
+    <author role="editor" fullname="Ashok Malhotra"/>
+    <author role="editor" fullname="John Arwe"/>
+    <author role="editor" fullname="Steve Speicher"/>
+    <date year="2015" month="June" day="30"/>
+    <workgroup>Linked Data Platform Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-prov-xml-20130430" target="https://www.w3.org/TR/2013/NOTE-prov-xml-20130430/">
+  <front>
+    <title>PROV-XML: The PROV XML Schema</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-prov-xml-20130430"/>
+    <author role="editor" fullname="Curt Tilmes"/>
+    <author role="editor" fullname="Hook Hua"/>
+    <author role="editor" fullname="Stephan Zednik"/>
+    <date year="2013" month="April" day="30"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+</reference>

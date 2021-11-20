@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-user-timing-20131212" target="https://www.w3.org/TR/2013/REC-user-timing-20131212/">
+  <front>
+    <title>User Timing</title>
+    <seriesInfo name="W3C REC" value="REC-user-timing-20131212"/>
+    <author role="editor" fullname="Anderson Quach"/>
+    <author role="editor" fullname="Jatinder Mann"/>
+    <author role="editor" fullname="Zhiheng Wang"/>
+    <date year="2013" month="December" day="12"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+</reference>

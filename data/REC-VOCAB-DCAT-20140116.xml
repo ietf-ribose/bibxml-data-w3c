@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-vocab-dcat-20140116" target="https://www.w3.org/TR/2014/REC-vocab-dcat-20140116/">
+  <front>
+    <title>Data Catalog Vocabulary (DCAT)</title>
+    <seriesInfo name="W3C REC" value="REC-vocab-dcat-20140116"/>
+    <author role="editor" fullname="Fadi Maali"/>
+    <author role="editor" fullname="John Erickson"/>
+    <date year="2014" month="January" day="16"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+</reference>

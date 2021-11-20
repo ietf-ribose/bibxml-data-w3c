@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-SVGPrintPrimer12-20071221" target="https://www.w3.org/TR/2007/WD-SVGPrintPrimer12-20071221/">
+  <front>
+    <title>SVG Print 1.2, Part 1: Primer</title>
+    <seriesInfo name="W3C WD" value="WD-SVGPrintPrimer12-20071221"/>
+    <author role="editor" fullname="Andrew Shellshear"/>
+    <author role="editor" fullname="Anthony Grasso"/>
+    <author role="editor" fullname="Chris Lilley"/>
+    <date year="2007" month="December" day="21"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

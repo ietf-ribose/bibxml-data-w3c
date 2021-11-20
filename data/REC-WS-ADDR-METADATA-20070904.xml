@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-ws-addr-metadata-20070904" target="https://www.w3.org/TR/2007/REC-ws-addr-metadata-20070904/">
+  <front>
+    <title>Web Services Addressing 1.0 - Metadata</title>
+    <seriesInfo name="W3C REC" value="REC-ws-addr-metadata-20070904"/>
+    <author role="editor" fullname="Marc Hadley"/>
+    <author role="editor" fullname="Martin Gudgin"/>
+    <author role="editor" fullname="Tony Rogers"/>
+    <author role="editor" fullname="Ümit Yalçinalp"/>
+    <date year="2007" month="September" day="4"/>
+    <workgroup>Web Services Addressing Working Group</workgroup>
+  </front>
+</reference>

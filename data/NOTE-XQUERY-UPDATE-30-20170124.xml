@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-xquery-update-30-20170124" target="https://www.w3.org/TR/2017/NOTE-xquery-update-30-20170124/">
+  <front>
+    <title>XQuery Update Facility 3.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xquery-update-30-20170124"/>
+    <author role="editor" fullname="Jim Melton"/>
+    <author role="editor" fullname="John Snelson"/>
+    <date year="2017" month="January" day="24"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

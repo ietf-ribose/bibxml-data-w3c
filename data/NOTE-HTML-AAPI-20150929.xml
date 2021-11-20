@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-html-aapi-20150929" target="https://www.w3.org/TR/2015/NOTE-html-aapi-20150929/">
+  <front>
+    <title>HTML to Platform Accessibility APIs Implementation Guide</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-html-aapi-20150929"/>
+    <author role="editor" fullname="Alexander Surkov"/>
+    <author role="editor" fullname="Cynthia Shelly"/>
+    <author role="editor" fullname="Jason Kiss"/>
+    <author role="editor" fullname="Steve Faulkner"/>
+    <date year="2015" month="September" day="29"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+</reference>

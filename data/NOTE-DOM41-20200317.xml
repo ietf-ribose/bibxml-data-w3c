@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-dom41-20200317" target="https://www.w3.org/TR/2020/NOTE-dom41-20200317/">
+  <front>
+    <title>W3C DOM 4.1</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-dom41-20200317"/>
+    <author role="editor" fullname="Yongsheng Zhu"/>
+    <date year="2020" month="March" day="17"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

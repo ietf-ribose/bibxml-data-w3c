@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-webarch-20041215" target="https://www.w3.org/TR/2004/REC-webarch-20041215/">
+  <front>
+    <title>Architecture of the World Wide Web, Volume One</title>
+    <seriesInfo name="W3C REC" value="REC-webarch-20041215"/>
+    <author role="editor" fullname="Ian Jacobs"/>
+    <author role="editor" fullname="Norman Walsh"/>
+    <date year="2004" month="December" day="15"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+</reference>

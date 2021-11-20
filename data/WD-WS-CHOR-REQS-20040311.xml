@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-ws-chor-reqs-20040311" target="https://www.w3.org/TR/2004/WD-ws-chor-reqs-20040311/">
+  <front>
+    <title>Web Services Choreography Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-ws-chor-reqs-20040311"/>
+    <author role="editor" fullname="Abbie Barbir"/>
+    <author role="editor" fullname="Daniel Austin"/>
+    <author role="editor" fullname="Ed Peters"/>
+    <author role="editor" fullname="Steve Ross-Talbot"/>
+    <date year="2004" month="March" day="11"/>
+    <workgroup>Web Services Choreography Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-xmldsig-properties-20130411" target="https://www.w3.org/TR/2013/REC-xmldsig-properties-20130411/">
+  <front>
+    <title>XML Signature Properties</title>
+    <seriesInfo name="W3C REC" value="REC-xmldsig-properties-20130411"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <date year="2013" month="April" day="11"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-wai-aria-practices-1.2-20191218" target="https://www.w3.org/TR/2019/WD-wai-aria-practices-1.2-20191218/">
+  <front>
+    <title>WAI-ARIA Authoring Practices 1.2</title>
+    <seriesInfo name="W3C WD" value="WD-wai-aria-practices-1.2-20191218"/>
+    <author role="editor" fullname="JaEun Jemma Ku"/>
+    <author role="editor" fullname="James Nurthen"/>
+    <author role="editor" fullname="Joseph Scheuhammer"/>
+    <author role="editor" fullname="Lisa Pappas"/>
+    <author role="editor" fullname="Matthew King"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Richard Schwerdtfeger"/>
+    <author role="editor" fullname="Zoë Bijl"/>
+    <date year="2019" month="December" day="18"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-print-19990902" target="https://www.w3.org/TR/1999/WD-print-19990902">
+  <front>
+    <title>CSS Printing Extensions</title>
+    <seriesInfo name="W3C WD" value="WD-print-19990902"/>
+    <author role="editor" fullname="Håkon Wium Lie"/>
+    <author role="editor" fullname="Robert Stevahn"/>
+    <date year="1999" month="September" day="2"/>
+  </front>
+</reference>

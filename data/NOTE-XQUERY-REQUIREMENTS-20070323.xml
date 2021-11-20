@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-xquery-requirements-20070323" target="https://www.w3.org/TR/2007/NOTE-xquery-requirements-20070323/">
+  <front>
+    <title>XML Query (XQuery) Requirements</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xquery-requirements-20070323"/>
+    <author role="editor" fullname="Don Chamberlin"/>
+    <author role="editor" fullname="Jonathan Robie"/>
+    <author role="editor" fullname="Massimo Marchiori"/>
+    <author role="editor" fullname="Peter Fankhauser"/>
+    <date year="2007" month="March" day="23"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

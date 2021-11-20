@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-xml-schema-req-19990215" target="https://www.w3.org/TR/1999/NOTE-xml-schema-req-19990215">
+  <front>
+    <title>XML Schema Requirements</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xml-schema-req-19990215"/>
+    <author role="editor" fullname="Ashok Malhotra"/>
+    <author role="editor" fullname="Murray Maloney"/>
+    <date year="1999" month="February" day="15"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+</reference>

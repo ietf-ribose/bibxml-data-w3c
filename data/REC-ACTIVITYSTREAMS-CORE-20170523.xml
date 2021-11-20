@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-activitystreams-core-20170523" target="https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/">
+  <front>
+    <title>Activity Streams 2.0</title>
+    <seriesInfo name="W3C REC" value="REC-activitystreams-core-20170523"/>
+    <author role="editor" fullname="Evan Prodromou"/>
+    <author role="editor" fullname="James Snell"/>
+    <date year="2017" month="May" day="23"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+</reference>

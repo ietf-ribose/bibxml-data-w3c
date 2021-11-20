@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-qaframe-test-20040820" target="https://www.w3.org/TR/2004/WD-qaframe-test-20040820/">
+  <front>
+    <title>QA Framework: Test Guidelines</title>
+    <seriesInfo name="W3C WD" value="WD-qaframe-test-20040820"/>
+    <author role="editor" fullname="Dimitris Dimitriadis"/>
+    <author role="editor" fullname="Patrick Curran"/>
+    <date year="2004" month="August" day="20"/>
+    <workgroup>Quality Assurance Working Group</workgroup>
+  </front>
+</reference>

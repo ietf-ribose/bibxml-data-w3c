@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-wordnet-rdf-20060619" target="https://www.w3.org/TR/2006/WD-wordnet-rdf-20060619/">
+  <front>
+    <title>RDF/OWL Representation of WordNet</title>
+    <seriesInfo name="W3C WD" value="WD-wordnet-rdf-20060619"/>
+    <author role="editor" fullname="Aldo Gangemi"/>
+    <author role="editor" fullname="Guus Schreiber"/>
+    <author role="editor" fullname="Mark van Assem"/>
+    <date year="2006" month="June" day="19"/>
+    <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-backplane-20061116" target="https://www.w3.org/TR/2006/NOTE-backplane-20061116/">
+  <front>
+    <title>Rich Web Application Backplane</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-backplane-20061116"/>
+    <author role="editor" fullname="Alfred S. Gilman"/>
+    <author role="editor" fullname="Charles Wiecha"/>
+    <author role="editor" fullname="John Boyer"/>
+    <author role="editor" fullname="Kevin Kelly"/>
+    <author role="editor" fullname="Mark Birbeck"/>
+    <author role="editor" fullname="Steven Pemberton"/>
+    <date year="2006" month="November" day="16"/>
+    <workgroup>Hypertext Coordination Group</workgroup>
+  </front>
+</reference>

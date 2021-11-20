@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-responsible-use-spatial-20210527" target="https://www.w3.org/TR/2021/NOTE-responsible-use-spatial-20210527/">
+  <front>
+    <title>The Responsible Use of Spatial Data</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-responsible-use-spatial-20210527"/>
+    <author role="editor" fullname="Ed Parsons"/>
+    <author role="editor" fullname="JOSEPH ABHAYARATNA"/>
+    <date year="2021" month="May" day="27"/>
+    <workgroup>Spatial Data on the Web Interest Group</workgroup>
+  </front>
+</reference>

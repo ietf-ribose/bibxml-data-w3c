@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-xproc-v2-req-20131105" target="https://www.w3.org/TR/2013/WD-xproc-v2-req-20131105/">
+  <front>
+    <title>XProc V2.0 Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-xproc-v2-req-20131105"/>
+    <author role="editor" fullname="Alex Miłowski"/>
+    <author role="editor" fullname="James Fuller"/>
+    <author role="editor" fullname="Norman Walsh"/>
+    <date year="2013" month="November" day="5"/>
+    <workgroup>XML Processing Model Working Group</workgroup>
+  </front>
+</reference>

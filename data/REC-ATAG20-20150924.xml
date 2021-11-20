@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-ATAG20-20150924" target="https://www.w3.org/TR/2015/REC-ATAG20-20150924/">
+  <front>
+    <title>Authoring Tool Accessibility Guidelines (ATAG) 2.0</title>
+    <seriesInfo name="W3C REC" value="REC-ATAG20-20150924"/>
+    <author role="editor" fullname="Jan Richards"/>
+    <author role="editor" fullname="Jeanne F Spellman"/>
+    <author role="editor" fullname="Jutta Treviranus"/>
+    <date year="2015" month="September" day="24"/>
+    <workgroup>Authoring Tool Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

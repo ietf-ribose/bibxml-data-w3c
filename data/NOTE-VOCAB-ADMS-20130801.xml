@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-vocab-adms-20130801" target="https://www.w3.org/TR/2013/NOTE-vocab-adms-20130801/">
+  <front>
+    <title>Asset Description Metadata Schema (ADMS)</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-vocab-adms-20130801"/>
+    <author role="editor" fullname="Gofran Shukair"/>
+    <author role="editor" fullname="Phil Archer"/>
+    <date year="2013" month="August" day="1"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-xag-20021003" target="https://www.w3.org/TR/2002/WD-xag-20021003">
+  <front>
+    <title>XML Accessibility Guidelines</title>
+    <seriesInfo name="W3C WD" value="WD-xag-20021003"/>
+    <author role="editor" fullname="Charles McCathieNevile"/>
+    <author role="editor" fullname="Daniel Dardailler"/>
+    <author role="editor" fullname="Sean Palmer"/>
+    <date year="2002" month="October" day="3"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+</reference>

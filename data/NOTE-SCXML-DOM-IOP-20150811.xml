@@ -1,0 +1,22 @@
+<reference anchor="W3C.NOTE-scxml-dom-iop-20150811" target="https://www.w3.org/TR/2015/NOTE-scxml-dom-iop-20150811/">
+  <front>
+    <title>DOM Event I/O Processor for SCXML</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-scxml-dom-iop-20150811"/>
+    <author role="editor" fullname="Daniel Burnett"/>
+    <author role="editor" fullname="James Barnett"/>
+    <author role="editor" fullname="Jerry Carter"/>
+    <author role="editor" fullname="Johan Roxendal"/>
+    <author role="editor" fullname="Klaus Reifenrath"/>
+    <author role="editor" fullname="Marc Helbing"/>
+    <author role="editor" fullname="Michael Bodell"/>
+    <author role="editor" fullname="Noam Rosenthal"/>
+    <author role="editor" fullname="RJ Auburn"/>
+    <author role="editor" fullname="Rafah Hosn"/>
+    <author role="editor" fullname="Rahul Akolkar"/>
+    <author role="editor" fullname="Scott McGlashan"/>
+    <author role="editor" fullname="T V Raman"/>
+    <author role="editor" fullname="Torbjörn Lager"/>
+    <date year="2015" month="August" day="11"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+</reference>

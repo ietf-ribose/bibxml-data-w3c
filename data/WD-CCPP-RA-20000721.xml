@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-CCPP-ra-20000721" target="https://www.w3.org/TR/2000/WD-CCPP-ra-20000721/">
+  <front>
+    <title>Composite Capabilities/Preference Profiles: Requirements and Architecture</title>
+    <seriesInfo name="W3C WD" value="WD-CCPP-ra-20000721"/>
+    <author role="editor" fullname="Hidetaka Ohto"/>
+    <author role="editor" fullname="Johan Hjelm"/>
+    <author role="editor" fullname="Mikael Nilsson"/>
+    <date year="2000" month="July" day="21"/>
+    <workgroup>Composite Capability/Preference Profiles Working Group</workgroup>
+  </front>
+</reference>

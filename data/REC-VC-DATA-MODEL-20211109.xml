@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-vc-data-model-20211109" target="https://www.w3.org/TR/2021/REC-vc-data-model-20211109/">
+  <front>
+    <title>Verifiable Credentials Data Model v1.1</title>
+    <seriesInfo name="W3C REC" value="REC-vc-data-model-20211109"/>
+    <author role="editor" fullname="Brent Zundel"/>
+    <author role="editor" fullname="Daniel Burnett"/>
+    <author role="editor" fullname="Dave Longley"/>
+    <author role="editor" fullname="Grant Noble"/>
+    <author role="editor" fullname="Kyle Den Hartog"/>
+    <author role="editor" fullname="Manu Sporny"/>
+    <date year="2021" month="November" day="9"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+</reference>

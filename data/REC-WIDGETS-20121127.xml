@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-widgets-20121127" target="https://www.w3.org/TR/2012/REC-widgets-20121127/">
+  <front>
+    <title>Packaged Web Apps (Widgets) - Packaging and XML Configuration (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-widgets-20121127"/>
+    <author role="editor" fullname="Marcos Caceres"/>
+    <date year="2012" month="November" day="27"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

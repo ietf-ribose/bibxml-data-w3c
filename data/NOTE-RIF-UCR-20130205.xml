@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-rif-ucr-20130205" target="https://www.w3.org/TR/2013/NOTE-rif-ucr-20130205/">
+  <front>
+    <title>RIF Use Cases and Requirements (Second Edition)</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-rif-ucr-20130205"/>
+    <author role="editor" fullname="Adrian Paschke"/>
+    <author role="editor" fullname="Allen Ginsberg"/>
+    <author role="editor" fullname="David Hirtle"/>
+    <author role="editor" fullname="Francis McCabe"/>
+    <author role="editor" fullname="Leora Morgenstern"/>
+    <author role="editor" fullname="Paula-Lavinia Patranjan"/>
+    <date year="2013" month="February" day="5"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+</reference>

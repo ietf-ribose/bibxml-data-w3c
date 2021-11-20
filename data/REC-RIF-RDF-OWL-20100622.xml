@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-rif-rdf-owl-20100622" target="https://www.w3.org/TR/2010/REC-rif-rdf-owl-20100622/">
+  <front>
+    <title>RIF RDF and OWL Compatibility</title>
+    <seriesInfo name="W3C REC" value="REC-rif-rdf-owl-20100622"/>
+    <author role="editor" fullname="Jos de Bruijn"/>
+    <date year="2010" month="June" day="22"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-mathml-units-20031110" target="https://www.w3.org/TR/2003/NOTE-mathml-units-20031110/">
+  <front>
+    <title>Units in MathML</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-mathml-units-20031110"/>
+    <author role="editor" fullname="Douglas Harder"/>
+    <author role="editor" fullname="Stan Devitt"/>
+    <date year="2003" month="November" day="10"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+</reference>

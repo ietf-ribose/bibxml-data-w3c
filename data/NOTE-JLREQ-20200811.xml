@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-jlreq-20200811" target="https://www.w3.org/TR/2020/NOTE-jlreq-20200811/">
+  <front>
+    <title>Requirements for Japanese Text Layout 日本語組版処理の要件(日本語版)</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-jlreq-20200811"/>
+    <author role="editor" fullname="Atsushi Shimono"/>
+    <author role="editor" fullname="Felix Sasaki"/>
+    <author role="editor" fullname="Fuqiao Xue"/>
+    <author role="editor" fullname="Hajime Shiozawa"/>
+    <author role="editor" fullname="Hiroyuki Chiba"/>
+    <author role="editor" fullname="Junzaburo Edamoto"/>
+    <author role="editor" fullname="Nathaniel McCully"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Seiichi Kato"/>
+    <author role="editor" fullname="Tatsuo KOBAYASHI"/>
+    <author role="editor" fullname="Toshi Kobayashi"/>
+    <date year="2020" month="August" day="11"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

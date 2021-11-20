@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-arabic-math-20060131" target="https://www.w3.org/TR/2006/NOTE-arabic-math-20060131/">
+  <front>
+    <title>Arabic mathematical notation</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-arabic-math-20060131"/>
+    <author role="editor" fullname="Azzeddine Lazrek"/>
+    <author role="editor" fullname="Bruce Miller"/>
+    <date year="2006" month="January" day="31"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+</reference>

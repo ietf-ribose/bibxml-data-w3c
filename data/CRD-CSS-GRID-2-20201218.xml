@@ -1,0 +1,11 @@
+<reference anchor="W3C.CRD-css-grid-2-20201218" target="https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/">
+  <front>
+    <title>CSS Grid Layout Module Level 2</title>
+    <seriesInfo name="W3C CR" value="CRD-css-grid-2-20201218"/>
+    <author role="editor" fullname="Elika Etemad"/>
+    <author role="editor" fullname="Rossen Atanassov"/>
+    <author role="editor" fullname="Tab Atkins Jr."/>
+    <date year="2020" month="December" day="18"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-CSS1-19990111" target="https://www.w3.org/TR/1999/REC-CSS1-19990111">
+  <front>
+    <title>Cascading Style Sheets (CSS1) Level 1 Specification</title>
+    <seriesInfo name="W3C REC" value="REC-CSS1-19990111"/>
+    <author role="editor" fullname="Bert Bos"/>
+    <author role="editor" fullname="Håkon Wium Lie"/>
+    <date year="1999" month="January" day="11"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

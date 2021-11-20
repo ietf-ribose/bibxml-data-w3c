@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-css-ui-3-20180621" target="https://www.w3.org/TR/2018/REC-css-ui-3-20180621/">
+  <front>
+    <title>CSS Basic User Interface Module Level 3 (CSS3 UI)</title>
+    <seriesInfo name="W3C REC" value="REC-css-ui-3-20180621"/>
+    <author role="editor" fullname="Florian Rivoal"/>
+    <author role="editor" fullname="Tantek Çelik"/>
+    <date year="2018" month="June" day="21"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

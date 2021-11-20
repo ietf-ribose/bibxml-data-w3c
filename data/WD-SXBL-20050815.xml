@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-sXBL-20050815" target="https://www.w3.org/TR/2005/WD-sXBL-20050815/">
+  <front>
+    <title>SVG's XML Binding Language (sXBL)</title>
+    <seriesInfo name="W3C WD" value="WD-sXBL-20050815"/>
+    <author role="editor" fullname="David Hyatt"/>
+    <author role="editor" fullname="Ian Hickson"/>
+    <author role="editor" fullname="Jon Ferraiolo"/>
+    <date year="2005" month="August" day="15"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

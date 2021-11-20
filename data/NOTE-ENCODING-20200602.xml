@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-encoding-20200602" target="https://www.w3.org/TR/2020/NOTE-encoding-20200602/">
+  <front>
+    <title>Encoding</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-encoding-20200602"/>
+    <author role="editor" fullname="Addison Phillips"/>
+    <author role="editor" fullname="Anne van Kesteren"/>
+    <author role="editor" fullname="Joshua Bell"/>
+    <date year="2020" month="June" day="2"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

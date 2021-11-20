@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-rdb-direct-mapping-20120927" target="https://www.w3.org/TR/2012/REC-rdb-direct-mapping-20120927/">
+  <front>
+    <title>A Direct Mapping of Relational Data to RDF</title>
+    <seriesInfo name="W3C REC" value="REC-rdb-direct-mapping-20120927"/>
+    <author role="editor" fullname="Alexandre Bertails"/>
+    <author role="editor" fullname="Eric Prud'hommeaux"/>
+    <author role="editor" fullname="Juan Sequeda"/>
+    <author role="editor" fullname="Marcelo Arenas"/>
+    <date year="2012" month="September" day="27"/>
+    <workgroup>RDB2RDF Working Group</workgroup>
+  </front>
+</reference>

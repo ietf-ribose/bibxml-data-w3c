@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-XHTMLplusMathMLplusSVG-20020809" target="https://www.w3.org/TR/2002/WD-XHTMLplusMathMLplusSVG-20020809/">
+  <front>
+    <title>An XHTML + MathML + SVG Profile</title>
+    <seriesInfo name="W3C WD" value="WD-XHTMLplusMathMLplusSVG-20020809"/>
+    <author role="editor" fullname="Masayasu Ishikawa"/>
+    <date year="2002" month="August" day="9"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

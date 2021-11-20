@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-resize-observer-1-20200211" target="https://www.w3.org/TR/2020/WD-resize-observer-1-20200211/">
+  <front>
+    <title>Resize Observer</title>
+    <seriesInfo name="W3C WD" value="WD-resize-observer-1-20200211"/>
+    <author role="editor" fullname="Aleks Totic"/>
+    <author role="editor" fullname="Greg Whitworth"/>
+    <date year="2020" month="February" day="11"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

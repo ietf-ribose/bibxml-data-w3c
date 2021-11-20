@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-page-visibility-20131029" target="https://www.w3.org/TR/2013/REC-page-visibility-20131029/">
+  <front>
+    <title>Page Visibility (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-page-visibility-20131029"/>
+    <author role="editor" fullname="Arvind Jain"/>
+    <author role="editor" fullname="Jatinder Mann"/>
+    <date year="2013" month="October" day="29"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+</reference>

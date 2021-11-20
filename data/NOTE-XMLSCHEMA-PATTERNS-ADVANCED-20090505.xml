@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-xmlschema-patterns-advanced-20090505" target="https://www.w3.org/TR/2009/NOTE-xmlschema-patterns-advanced-20090505/">
+  <front>
+    <title>Advanced XML Schema Patterns for Databinding Version 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xmlschema-patterns-advanced-20090505"/>
+    <author role="editor" fullname="George Cowe"/>
+    <author role="editor" fullname="Jonathan Calladine"/>
+    <author role="editor" fullname="Paul Downey"/>
+    <author role="editor" fullname="Yves Lafon"/>
+    <date year="2009" month="May" day="5"/>
+    <workgroup>XML Schema Patterns for Databinding Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.SPSD-progress-events-20200602" target="https://www.w3.org/TR/2020/SPSD-progress-events-20200602/">
+  <front>
+    <title>Progress Events</title>
+    <seriesInfo name="W3C REC" value="SPSD-progress-events-20200602"/>
+    <author role="editor" fullname="Anne van Kesteren"/>
+    <author role="editor" fullname="Charles 'chaals' (McCathie) Nevile"/>
+    <author role="editor" fullname="Jungkee Song"/>
+    <date year="2020" month="June" day="2"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

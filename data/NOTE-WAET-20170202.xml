@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-WAET-20170202" target="https://www.w3.org/TR/2017/NOTE-WAET-20170202/">
+  <front>
+    <title>Developers' Guide to Features of Web Accessibility Evaluation Tools</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-WAET-20170202"/>
+    <author role="editor" fullname="Carlos A. Velasco"/>
+    <author role="editor" fullname="Shadi Abou-Zahra"/>
+    <date year="2017" month="February" day="2"/>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+</reference>

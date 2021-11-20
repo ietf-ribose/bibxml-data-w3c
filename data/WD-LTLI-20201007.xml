@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-ltli-20201007" target="https://www.w3.org/TR/2020/WD-ltli-20201007/">
+  <front>
+    <title>Language Tags and Locale Identifiers for the World Wide Web</title>
+    <seriesInfo name="W3C WD" value="WD-ltli-20201007"/>
+    <author role="editor" fullname="Addison Phillips"/>
+    <date year="2020" month="October" day="7"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

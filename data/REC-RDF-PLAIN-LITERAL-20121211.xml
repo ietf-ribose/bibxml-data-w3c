@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-rdf-plain-literal-20121211" target="https://www.w3.org/TR/2012/REC-rdf-plain-literal-20121211/">
+  <front>
+    <title>rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-rdf-plain-literal-20121211"/>
+    <author role="editor" fullname="Axel Polleres"/>
+    <author role="editor" fullname="Boris Motik"/>
+    <author role="editor" fullname="Jie Bao"/>
+    <author role="editor" fullname="Peter Patel-Schneider"/>
+    <author role="editor" fullname="Sandro Hawke"/>
+    <date year="2012" month="December" day="11"/>
+    <workgroup>RIF Working Group</workgroup>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+</reference>

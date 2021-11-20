@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-json-ld-api-20140116" target="https://www.w3.org/TR/2014/REC-json-ld-api-20140116/">
+  <front>
+    <title>JSON-LD 1.0 Processing Algorithms and API</title>
+    <seriesInfo name="W3C REC" value="REC-json-ld-api-20140116"/>
+    <author role="editor" fullname="Gregg Kellogg"/>
+    <author role="editor" fullname="Manu Sporny"/>
+    <author role="editor" fullname="Markus Lanthaler"/>
+    <date year="2014" month="January" day="16"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+</reference>

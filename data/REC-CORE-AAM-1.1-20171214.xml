@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-core-aam-1.1-20171214" target="https://www.w3.org/TR/2017/REC-core-aam-1.1-20171214/">
+  <front>
+    <title>Core Accessibility API Mappings 1.1</title>
+    <seriesInfo name="W3C REC" value="REC-core-aam-1.1-20171214"/>
+    <author role="editor" fullname="Aaron Leventhal"/>
+    <author role="editor" fullname="Andi Snow-Weaver"/>
+    <author role="editor" fullname="Joanmarie Diggs"/>
+    <author role="editor" fullname="Joseph Scheuhammer"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Richard Schwerdtfeger"/>
+    <date year="2017" month="December" day="14"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+</reference>

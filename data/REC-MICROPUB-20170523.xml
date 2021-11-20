@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-micropub-20170523" target="https://www.w3.org/TR/2017/REC-micropub-20170523/">
+  <front>
+    <title>Micropub</title>
+    <seriesInfo name="W3C REC" value="REC-micropub-20170523"/>
+    <author role="editor" fullname="Aaron Parecki"/>
+    <date year="2017" month="May" day="23"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+</reference>

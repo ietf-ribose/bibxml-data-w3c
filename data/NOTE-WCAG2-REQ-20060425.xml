@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-wcag2-req-20060425" target="https://www.w3.org/TR/2006/NOTE-wcag2-req-20060425/">
+  <front>
+    <title>Requirements for WCAG 2.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-wcag2-req-20060425"/>
+    <author role="editor" fullname="Gregg Vanderheiden"/>
+    <author role="editor" fullname="John Slatin"/>
+    <author role="editor" fullname="Wendy Chisholm"/>
+    <date year="2006" month="April" day="25"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

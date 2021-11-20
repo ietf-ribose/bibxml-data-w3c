@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-soapjms-20120216" target="https://www.w3.org/TR/2012/REC-soapjms-20120216/">
+  <front>
+    <title>SOAP over Java Message Service 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-soapjms-20120216"/>
+    <author role="editor" fullname="Eric Johnson"/>
+    <author role="editor" fullname="Mark Phillips"/>
+    <author role="editor" fullname="Peter Easton"/>
+    <author role="editor" fullname="Phil Adams"/>
+    <author role="editor" fullname="Roland Merrick"/>
+    <date year="2012" month="February" day="16"/>
+    <workgroup>SOAP-JMS Binding Working Group</workgroup>
+  </front>
+</reference>

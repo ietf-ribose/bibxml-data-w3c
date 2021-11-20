@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-xsl11-20061205" target="https://www.w3.org/TR/2006/REC-xsl11-20061205/">
+  <front>
+    <title>Extensible Stylesheet Language (XSL) Version 1.1</title>
+    <seriesInfo name="W3C REC" value="REC-xsl11-20061205"/>
+    <author role="editor" fullname="Anders Berglund"/>
+    <date year="2006" month="December" day="5"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+</reference>

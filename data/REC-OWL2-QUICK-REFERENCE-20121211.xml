@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-owl2-quick-reference-20121211" target="https://www.w3.org/TR/2012/REC-owl2-quick-reference-20121211/">
+  <front>
+    <title>OWL 2 Web Ontology Language Quick Reference Guide (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-owl2-quick-reference-20121211"/>
+    <author role="editor" fullname="Deborah McGuinness"/>
+    <author role="editor" fullname="Elisa Kendall"/>
+    <author role="editor" fullname="Jie Bao"/>
+    <author role="editor" fullname="Peter Patel-Schneider"/>
+    <date year="2012" month="December" day="11"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+</reference>

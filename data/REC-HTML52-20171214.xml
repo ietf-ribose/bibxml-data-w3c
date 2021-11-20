@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-html52-20171214" target="https://www.w3.org/TR/2017/REC-html52-20171214/">
+  <front>
+    <title>HTML 5.2</title>
+    <seriesInfo name="W3C REC" value="REC-html52-20171214"/>
+    <author role="editor" fullname="Alex Danilo"/>
+    <author role="editor" fullname="Arron Eicholz"/>
+    <author role="editor" fullname="Sangwhan Moon"/>
+    <author role="editor" fullname="Steve Faulkner"/>
+    <author role="editor" fullname="Travis Leithead"/>
+    <date year="2017" month="December" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

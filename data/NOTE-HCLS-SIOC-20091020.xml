@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-hcls-sioc-20091020" target="https://www.w3.org/TR/2009/NOTE-hcls-sioc-20091020/">
+  <front>
+    <title>SIOC, SIOC Types and Health Care and Life Sciences</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-hcls-sioc-20091020"/>
+    <author role="editor" fullname="Alexandre Passant"/>
+    <date year="2009" month="October" day="20"/>
+    <workgroup>Semantic Web Health Care and Life Sciences Interest Group</workgroup>
+  </front>
+</reference>

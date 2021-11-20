@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-SVGFilter12-20070501" target="https://www.w3.org/TR/2007/WD-SVGFilter12-20070501/">
+  <front>
+    <title>SVG Filters 1.2, Part 2: Language</title>
+    <seriesInfo name="W3C WD" value="WD-SVGFilter12-20070501"/>
+    <author role="editor" fullname="Erik Dahlström"/>
+    <date year="2007" month="May" day="1"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

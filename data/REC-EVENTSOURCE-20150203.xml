@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-eventsource-20150203" target="https://www.w3.org/TR/2015/REC-eventsource-20150203/">
+  <front>
+    <title>Server-Sent Events</title>
+    <seriesInfo name="W3C REC" value="REC-eventsource-20150203"/>
+    <author role="editor" fullname="Ian Hickson"/>
+    <date year="2015" month="February" day="3"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

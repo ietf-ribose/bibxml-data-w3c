@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-UAAG10-TECHS-20021217" target="https://www.w3.org/TR/2002/NOTE-UAAG10-TECHS-20021217/">
+  <front>
+    <title>Techniques for User Agent Accessibility Guidelines 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-UAAG10-TECHS-20021217"/>
+    <author role="editor" fullname="Eric Hansen"/>
+    <author role="editor" fullname="Ian Jacobs"/>
+    <author role="editor" fullname="Jon Gunderson"/>
+    <date year="2002" month="December" day="17"/>
+    <workgroup>User Agent Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

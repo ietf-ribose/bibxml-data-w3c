@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-coga-usable-20210429" target="https://www.w3.org/TR/2021/NOTE-coga-usable-20210429/">
+  <front>
+    <title>Making Content Usable for People with Cognitive and Learning Disabilities</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-coga-usable-20210429"/>
+    <author role="editor" fullname="Lisa Seeman-Horwitz"/>
+    <author role="editor" fullname="Rachael Bradley Montgomery"/>
+    <author role="editor" fullname="Ruoxi Ran"/>
+    <author role="editor" fullname="Steve Lee"/>
+    <date year="2021" month="April" day="29"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-rdb2rdf-test-cases-20120814" target="https://www.w3.org/TR/2012/NOTE-rdb2rdf-test-cases-20120814/">
+  <front>
+    <title>R2RML and Direct Mapping Test Cases</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-rdb2rdf-test-cases-20120814"/>
+    <author role="editor" fullname="Boris Villazón-Terrazas"/>
+    <author role="editor" fullname="Michael Hausenblas"/>
+    <date year="2012" month="August" day="14"/>
+    <workgroup>RDB2RDF Working Group</workgroup>
+  </front>
+</reference>

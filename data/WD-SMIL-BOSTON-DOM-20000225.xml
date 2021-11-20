@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-smil-boston-dom-20000225" target="https://www.w3.org/TR/2000/WD-smil-boston-dom-20000225/">
+  <front>
+    <title>Synchronized Multimedia Integration Language Document Object Model</title>
+    <seriesInfo name="W3C WD" value="WD-smil-boston-dom-20000225"/>
+    <author role="editor" fullname="Patrick Schmitz"/>
+    <author role="editor" fullname="Philippe Le Hégaret"/>
+    <date year="2000" month="February" day="25"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+</reference>

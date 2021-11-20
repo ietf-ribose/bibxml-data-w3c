@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-IFT-20210907" target="https://www.w3.org/TR/2021/WD-IFT-20210907/">
+  <front>
+    <title>Incremental Font Transfer</title>
+    <seriesInfo name="W3C WD" value="WD-IFT-20210907"/>
+    <author role="editor" fullname="Chris Lilley"/>
+    <author role="editor" fullname="Garret Rieger"/>
+    <author role="editor" fullname="Myles Maxfield"/>
+    <date year="2021" month="September" day="7"/>
+    <workgroup>Web Fonts Working Group</workgroup>
+  </front>
+</reference>

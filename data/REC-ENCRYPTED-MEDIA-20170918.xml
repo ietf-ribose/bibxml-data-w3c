@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-encrypted-media-20170918" target="https://www.w3.org/TR/2017/REC-encrypted-media-20170918/">
+  <front>
+    <title>Encrypted Media Extensions</title>
+    <seriesInfo name="W3C REC" value="REC-encrypted-media-20170918"/>
+    <author role="editor" fullname="Adrian Bateman"/>
+    <author role="editor" fullname="David Dorwin"/>
+    <author role="editor" fullname="Jerry Smith"/>
+    <author role="editor" fullname="Mark Watson"/>
+    <date year="2017" month="September" day="18"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+</reference>

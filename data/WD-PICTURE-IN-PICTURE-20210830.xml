@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-picture-in-picture-20210830" target="https://www.w3.org/TR/2021/WD-picture-in-picture-20210830/">
+  <front>
+    <title>Picture-in-Picture</title>
+    <seriesInfo name="W3C WD" value="WD-picture-in-picture-20210830"/>
+    <author role="editor" fullname="Francois Beaufort"/>
+    <author role="editor" fullname="Mounir Lamouri"/>
+    <date year="2021" month="August" day="30"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+</reference>

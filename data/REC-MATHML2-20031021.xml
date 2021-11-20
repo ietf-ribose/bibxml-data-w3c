@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-MathML2-20031021" target="https://www.w3.org/TR/2003/REC-MathML2-20031021/">
+  <front>
+    <title>Mathematical Markup Language (MathML) Version 2.0 (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-MathML2-20031021"/>
+    <author role="editor" fullname="David Carlisle"/>
+    <author role="editor" fullname="Nico Poppelier"/>
+    <author role="editor" fullname="Patrick D F Ion"/>
+    <author role="editor" fullname="Robert R Miner"/>
+    <date year="2003" month="October" day="21"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+</reference>

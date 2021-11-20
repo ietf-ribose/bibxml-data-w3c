@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-ldp-bp-20140828" target="https://www.w3.org/TR/2014/NOTE-ldp-bp-20140828/">
+  <front>
+    <title>Linked Data Platform Best Practices and Guidelines</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-ldp-bp-20140828"/>
+    <author role="editor" fullname="Cody Burleson"/>
+    <author role="editor" fullname="Miguel Esteban Gutiérrez"/>
+    <author role="editor" fullname="Nandana Mihindukulasooriya"/>
+    <date year="2014" month="August" day="28"/>
+    <workgroup>Linked Data Platform Working Group</workgroup>
+  </front>
+</reference>

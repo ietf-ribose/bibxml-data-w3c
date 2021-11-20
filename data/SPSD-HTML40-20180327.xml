@@ -1,0 +1,11 @@
+<reference anchor="W3C.SPSD-html40-20180327" target="https://www.w3.org/TR/2018/SPSD-html40-20180327/">
+  <front>
+    <title>HTML 4.0 Recommendation</title>
+    <seriesInfo name="W3C REC" value="SPSD-html40-20180327"/>
+    <author role="editor" fullname="Arnaud Le Hors"/>
+    <author role="editor" fullname="Dave Raggett"/>
+    <author role="editor" fullname="Ian Jacobs"/>
+    <date year="2018" month="March" day="27"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

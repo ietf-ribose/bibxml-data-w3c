@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-prov-n-20130430" target="https://www.w3.org/TR/2013/REC-prov-n-20130430/">
+  <front>
+    <title>PROV-N: The Provenance Notation</title>
+    <seriesInfo name="W3C REC" value="REC-prov-n-20130430"/>
+    <author role="editor" fullname="Luc Moreau"/>
+    <author role="editor" fullname="Paolo Missier"/>
+    <date year="2013" month="April" day="30"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+</reference>

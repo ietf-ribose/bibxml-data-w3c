@@ -1,0 +1,10 @@
+<reference anchor="W3C.PR-requestidlecallback-20171010" target="https://www.w3.org/TR/2017/PR-requestidlecallback-20171010/">
+  <front>
+    <title>Cooperative Scheduling of Background Tasks</title>
+    <seriesInfo name="W3C PR" value="PR-requestidlecallback-20171010"/>
+    <author role="editor" fullname="Ilya Grigorik"/>
+    <author role="editor" fullname="Ross McIlroy"/>
+    <date year="2017" month="October" day="10"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+</reference>

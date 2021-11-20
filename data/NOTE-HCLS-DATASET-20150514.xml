@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-hcls-dataset-20150514" target="https://www.w3.org/TR/2015/NOTE-hcls-dataset-20150514/">
+  <front>
+    <title>Dataset Descriptions: HCLS Community Profile</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-hcls-dataset-20150514"/>
+    <author role="editor" fullname="Alasdair Gray"/>
+    <author role="editor" fullname="M. Scott Marshall"/>
+    <author role="editor" fullname="Michel Dumontier"/>
+    <date year="2015" month="May" day="14"/>
+    <workgroup>Semantic Web Health Care and Life Sciences Interest Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-media-frags-20120925" target="https://www.w3.org/TR/2012/REC-media-frags-20120925/">
+  <front>
+    <title>Media Fragments URI 1.0 (basic)</title>
+    <seriesInfo name="W3C REC" value="REC-media-frags-20120925"/>
+    <author role="editor" fullname="Davy Van Deursen"/>
+    <author role="editor" fullname="Erik Mannens"/>
+    <author role="editor" fullname="Raphaël Troncy"/>
+    <author role="editor" fullname="Silvia Pfeiffer"/>
+    <date year="2012" month="September" day="25"/>
+    <workgroup>Media Fragments Working Group</workgroup>
+  </front>
+</reference>

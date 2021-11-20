@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-EARL10-Schema-20170202" target="https://www.w3.org/TR/2017/NOTE-EARL10-Schema-20170202/">
+  <front>
+    <title>Evaluation and Report Language (EARL) 1.0 Schema</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-EARL10-Schema-20170202"/>
+    <author role="editor" fullname="Shadi Abou-Zahra"/>
+    <date year="2017" month="February" day="2"/>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+</reference>

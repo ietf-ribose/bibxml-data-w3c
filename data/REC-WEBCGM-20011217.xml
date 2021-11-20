@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-WebCGM-20011217" target="https://www.w3.org/TR/2001/REC-WebCGM-20011217/">
+  <front>
+    <title>WebCGM 1.0 Second Release</title>
+    <seriesInfo name="W3C REC" value="REC-WebCGM-20011217"/>
+    <author role="editor" fullname="David Cruikshank"/>
+    <author role="editor" fullname="Lofton Henderson"/>
+    <date year="2001" month="December" day="17"/>
+  </front>
+</reference>

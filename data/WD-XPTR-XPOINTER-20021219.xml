@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-xptr-xpointer-20021219" target="https://www.w3.org/TR/2002/WD-xptr-xpointer-20021219/">
+  <front>
+    <title>XPointer xpointer() Scheme</title>
+    <seriesInfo name="W3C WD" value="WD-xptr-xpointer-20021219"/>
+    <author role="editor" fullname="Eve Maler"/>
+    <author role="editor" fullname="Ron Daniel"/>
+    <author role="editor" fullname="Steven DeRose"/>
+    <date year="2002" month="December" day="19"/>
+    <workgroup>XML Linking Working Group</workgroup>
+  </front>
+</reference>

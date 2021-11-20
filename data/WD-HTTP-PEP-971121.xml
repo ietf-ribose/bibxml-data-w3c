@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-http-pep-971121" target="https://www.w3.org/TR/WD-http-pep-971121">
+  <front>
+    <title>PEP Specification: an Extension Mechanism for HTTP</title>
+    <seriesInfo name="W3C WD" value="WD-http-pep-971121"/>
+    <author role="editor" fullname="Dan Connolly"/>
+    <author role="editor" fullname="Eric Prud'hommeaux"/>
+    <author role="editor" fullname="Henrik Frystyk Nielsen"/>
+    <author role="editor" fullname="Rohit Khare"/>
+    <date year="1997" month="November" day="21"/>
+  </front>
+</reference>

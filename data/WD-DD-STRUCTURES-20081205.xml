@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-dd-structures-20081205" target="https://www.w3.org/TR/2008/WD-dd-structures-20081205/">
+  <front>
+    <title>Device Description Structures</title>
+    <seriesInfo name="W3C WD" value="WD-dd-structures-20081205"/>
+    <author role="editor" fullname="Jose Manuel Cantera Fonseca"/>
+    <date year="2008" month="December" day="5"/>
+    <workgroup>Mobile Web Initiative Device Description Working Group</workgroup>
+  </front>
+</reference>

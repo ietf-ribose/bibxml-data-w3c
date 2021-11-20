@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-SVGColor12-20091001" target="https://www.w3.org/TR/2009/WD-SVGColor12-20091001/">
+  <front>
+    <title>SVG Color 1.2, Part 2: Language</title>
+    <seriesInfo name="W3C WD" value="WD-SVGColor12-20091001"/>
+    <author role="editor" fullname="Anthony Grasso"/>
+    <author role="editor" fullname="Chris Lilley"/>
+    <date year="2009" month="October" day="1"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

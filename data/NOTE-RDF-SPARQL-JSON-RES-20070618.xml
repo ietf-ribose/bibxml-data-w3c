@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-rdf-sparql-json-res-20070618" target="https://www.w3.org/TR/2007/NOTE-rdf-sparql-json-res-20070618/">
+  <front>
+    <title>Serializing SPARQL Query Results in JSON</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-rdf-sparql-json-res-20070618"/>
+    <author role="editor" fullname="Elias Torres"/>
+    <author role="editor" fullname="Kendall Clark"/>
+    <author role="editor" fullname="Lee Feigenbaum"/>
+    <date year="2007" month="June" day="18"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.SPSD-DOM-Level-2-Style-20201103" target="https://www.w3.org/TR/2020/SPSD-DOM-Level-2-Style-20201103/">
+  <front>
+    <title>Document Object Model (DOM) Level 2 Style Specification</title>
+    <seriesInfo name="W3C REC" value="SPSD-DOM-Level-2-Style-20201103"/>
+    <author role="editor" fullname="Chris Wilson"/>
+    <author role="editor" fullname="Philippe Le Hégaret"/>
+    <date year="2020" month="November" day="3"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+</reference>

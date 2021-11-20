@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-css-writing-modes-3-20191210" target="https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/">
+  <front>
+    <title>CSS Writing Modes Level 3</title>
+    <seriesInfo name="W3C REC" value="REC-css-writing-modes-3-20191210"/>
+    <author role="editor" fullname="Elika Etemad"/>
+    <author role="editor" fullname="Koji Ishii"/>
+    <date year="2019" month="December" day="10"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

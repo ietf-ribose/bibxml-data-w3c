@@ -1,0 +1,9 @@
+<reference anchor="W3C.CRD-secure-contexts-20210918" target="https://www.w3.org/TR/2021/CRD-secure-contexts-20210918/">
+  <front>
+    <title>Secure Contexts</title>
+    <seriesInfo name="W3C CR" value="CRD-secure-contexts-20210918"/>
+    <author role="editor" fullname="Mike West"/>
+    <date year="2021" month="September" day="18"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+</reference>

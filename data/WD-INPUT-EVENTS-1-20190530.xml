@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-input-events-1-20190530" target="https://www.w3.org/TR/2019/WD-input-events-1-20190530/">
+  <front>
+    <title>Input Events Level 1</title>
+    <seriesInfo name="W3C WD" value="WD-input-events-1-20190530"/>
+    <author role="editor" fullname="Ben Peters"/>
+    <author role="editor" fullname="Johannes Wilm"/>
+    <date year="2019" month="May" day="30"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

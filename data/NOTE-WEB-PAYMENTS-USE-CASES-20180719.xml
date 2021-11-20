@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-web-payments-use-cases-20180719" target="https://www.w3.org/TR/2018/NOTE-web-payments-use-cases-20180719/">
+  <front>
+    <title>Web Payments Use Cases 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-web-payments-use-cases-20180719"/>
+    <author role="editor" fullname="Ian Jacobs"/>
+    <author role="editor" fullname="Manu Sporny"/>
+    <date year="2018" month="July" day="19"/>
+    <workgroup>Web Commerce Interest Group</workgroup>
+  </front>
+</reference>

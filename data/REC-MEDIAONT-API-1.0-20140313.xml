@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-mediaont-api-1.0-20140313" target="https://www.w3.org/TR/2014/REC-mediaont-api-1.0-20140313/">
+  <front>
+    <title>Metadata API for Media Resources 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-mediaont-api-1.0-20140313"/>
+    <author role="editor" fullname="Chris Poppe"/>
+    <author role="editor" fullname="Florian Stegmaier"/>
+    <author role="editor" fullname="Martin Höffernig"/>
+    <author role="editor" fullname="Werner Bailer"/>
+    <author role="editor" fullname="Wonsuk Lee"/>
+    <date year="2014" month="March" day="13"/>
+    <workgroup>Media Annotations Working Group</workgroup>
+  </front>
+</reference>

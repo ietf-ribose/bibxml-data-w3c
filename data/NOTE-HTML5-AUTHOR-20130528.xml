@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-html5-author-20130528" target="https://www.w3.org/TR/2013/NOTE-html5-author-20130528/">
+  <front>
+    <title>HTML5: Edition for Web Authors</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-html5-author-20130528"/>
+    <author role="editor" fullname="Erika Doyle Navara"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <author role="editor" fullname="Silvia Pfeiffer"/>
+    <author role="editor" fullname="Theresa O'Connor"/>
+    <author role="editor" fullname="Travis Leithead"/>
+    <date year="2013" month="May" day="28"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+</reference>

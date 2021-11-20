@@ -1,0 +1,9 @@
+<reference anchor="W3C.SPSD-ttml-imsc1-20180626" target="https://www.w3.org/TR/2018/SPSD-ttml-imsc1-20180626/">
+  <front>
+    <title>TTML Profiles for Internet Media Subtitles and Captions 1.0 (IMSC1)</title>
+    <seriesInfo name="W3C REC" value="SPSD-ttml-imsc1-20180626"/>
+    <author role="editor" fullname="Pierre-Anthony Lemieux"/>
+    <date year="2018" month="June" day="26"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+</reference>

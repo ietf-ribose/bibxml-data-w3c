@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-CSS22-20160412" target="https://www.w3.org/TR/2016/WD-CSS22-20160412/">
+  <front>
+    <title>Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification</title>
+    <seriesInfo name="W3C WD" value="WD-CSS22-20160412"/>
+    <author role="editor" fullname="Bert Bos"/>
+    <date year="2016" month="April" day="12"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

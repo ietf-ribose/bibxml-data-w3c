@@ -1,0 +1,12 @@
+<reference anchor="W3C.PR-did-core-20210803" target="https://www.w3.org/TR/2021/PR-did-core-20210803/">
+  <front>
+    <title>Decentralized Identifiers (DIDs) v1.0</title>
+    <seriesInfo name="W3C PR" value="PR-did-core-20210803"/>
+    <author role="editor" fullname="Amy Guy"/>
+    <author role="editor" fullname="Drummond Reed"/>
+    <author role="editor" fullname="Manu Sporny"/>
+    <author role="editor" fullname="Markus Sabadello"/>
+    <date year="2021" month="August" day="3"/>
+    <workgroup>Decentralized Identifier Working Group</workgroup>
+  </front>
+</reference>

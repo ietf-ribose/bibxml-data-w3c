@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-SVGParam-20090616" target="https://www.w3.org/TR/2009/WD-SVGParam-20090616/">
+  <front>
+    <title>SVG Parameters 1.0, Part 2: Language</title>
+    <seriesInfo name="W3C WD" value="WD-SVGParam-20090616"/>
+    <author role="editor" fullname="Doug Schepers"/>
+    <date year="2009" month="June" day="16"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

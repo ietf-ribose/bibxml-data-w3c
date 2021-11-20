@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-intersection-observer-20210624" target="https://www.w3.org/TR/2021/WD-intersection-observer-20210624/">
+  <front>
+    <title>Intersection Observer</title>
+    <seriesInfo name="W3C WD" value="WD-intersection-observer-20210624"/>
+    <author role="editor" fullname="Emilio Cobos Álvarez"/>
+    <author role="editor" fullname="Michael Blain"/>
+    <author role="editor" fullname="Stefan Zager"/>
+    <date year="2021" month="June" day="24"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

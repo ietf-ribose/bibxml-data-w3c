@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-saur-20210928" target="https://www.w3.org/TR/2021/WD-saur-20210928/">
+  <front>
+    <title>Synchronization Accessibility User Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-saur-20210928"/>
+    <author role="editor" fullname="Janina Sajka"/>
+    <author role="editor" fullname="Jason White"/>
+    <author role="editor" fullname="Joshue O'Connor"/>
+    <author role="editor" fullname="Scott Hollier"/>
+    <author role="editor" fullname="Steve Noble"/>
+    <date year="2021" month="September" day="28"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+</reference>

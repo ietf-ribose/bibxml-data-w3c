@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-svg-strokes-20150409" target="https://www.w3.org/TR/2015/WD-svg-strokes-20150409/">
+  <front>
+    <title>SVG Strokes</title>
+    <seriesInfo name="W3C WD" value="WD-svg-strokes-20150409"/>
+    <author role="editor" fullname="Cameron McCormack"/>
+    <author role="editor" fullname="Dirk Schulze"/>
+    <date year="2015" month="April" day="9"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

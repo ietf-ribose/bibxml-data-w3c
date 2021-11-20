@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-SVG11-20030114" target="https://www.w3.org/TR/2003/REC-SVG11-20030114/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) 1.1 Specification</title>
+    <seriesInfo name="W3C REC" value="REC-SVG11-20030114"/>
+    <author role="editor" fullname="Dean Jackson"/>
+    <author role="editor" fullname="Jon Ferraiolo"/>
+    <author role="editor" fullname="Jun Fujisawa"/>
+    <date year="2003" month="January" day="14"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+</reference>

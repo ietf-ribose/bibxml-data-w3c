@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-web-intents-20130523" target="https://www.w3.org/TR/2013/NOTE-web-intents-20130523/">
+  <front>
+    <title>Web Intents</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-web-intents-20130523"/>
+    <author role="editor" fullname="Greg Billock"/>
+    <author role="editor" fullname="James Hawkins"/>
+    <author role="editor" fullname="Paul Kinlan"/>
+    <date year="2013" month="May" day="23"/>
+    <workgroup>Web Applications Working Group</workgroup>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>

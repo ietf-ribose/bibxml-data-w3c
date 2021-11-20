@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-resource-hints-20201005" target="https://www.w3.org/TR/2020/WD-resource-hints-20201005/">
+  <front>
+    <title>Resource Hints</title>
+    <seriesInfo name="W3C WD" value="WD-resource-hints-20201005"/>
+    <author role="editor" fullname="Ilya Grigorik"/>
+    <date year="2020" month="October" day="5"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+</reference>

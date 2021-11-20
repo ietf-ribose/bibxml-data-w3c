@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-CSS-potential-19981210" target="https://www.w3.org/TR/1998/NOTE-CSS-potential-19981210">
+  <front>
+    <title>List of suggested extensions to CSS</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-CSS-potential-19981210"/>
+    <author role="editor" fullname="Bert Bos"/>
+    <date year="1998" month="December" day="10"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

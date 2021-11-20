@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-css-fonts-3-20180920" target="https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/">
+  <front>
+    <title>CSS Fonts Module Level 3</title>
+    <seriesInfo name="W3C REC" value="REC-css-fonts-3-20180920"/>
+    <author role="editor" fullname="Chris Lilley"/>
+    <author role="editor" fullname="John Daggett"/>
+    <author role="editor" fullname="Myles Maxfield"/>
+    <date year="2018" month="September" day="20"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

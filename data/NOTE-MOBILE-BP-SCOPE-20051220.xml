@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-mobile-bp-scope-20051220" target="https://www.w3.org/TR/2005/NOTE-mobile-bp-scope-20051220/">
+  <front>
+    <title>Scope of Mobile Web Best Practices</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-mobile-bp-scope-20051220"/>
+    <author role="editor" fullname="Edward Mitukiewicz"/>
+    <author role="editor" fullname="Phil Archer"/>
+    <date year="2005" month="December" day="20"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+</reference>

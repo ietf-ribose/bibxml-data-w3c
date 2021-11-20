@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-json-ld11-api-20200716" target="https://www.w3.org/TR/2020/REC-json-ld11-api-20200716/">
+  <front>
+    <title>JSON-LD 1.1 Processing Algorithms and API</title>
+    <seriesInfo name="W3C REC" value="REC-json-ld11-api-20200716"/>
+    <author role="editor" fullname="Dave Longley"/>
+    <author role="editor" fullname="Gregg Kellogg"/>
+    <author role="editor" fullname="Pierre-Antoine Champin"/>
+    <date year="2020" month="July" day="16"/>
+    <workgroup>JSON-LD Working Group</workgroup>
+  </front>
+</reference>

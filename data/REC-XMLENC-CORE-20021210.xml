@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-xmlenc-core-20021210" target="https://www.w3.org/TR/2002/REC-xmlenc-core-20021210/">
+  <front>
+    <title>XML Encryption Syntax and Processing</title>
+    <seriesInfo name="W3C REC" value="REC-xmlenc-core-20021210"/>
+    <author role="editor" fullname="Donald Eastlake"/>
+    <author role="editor" fullname="Joseph Reagle"/>
+    <date year="2002" month="December" day="10"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-ATAG10-TECHS-20021029" target="https://www.w3.org/TR/2002/NOTE-ATAG10-TECHS-20021029/">
+  <front>
+    <title>Techniques for Authoring Tool Accessibility Guidelines 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-ATAG10-TECHS-20021029"/>
+    <author role="editor" fullname="Charles McCathieNevile"/>
+    <author role="editor" fullname="Gregory Rosmaita"/>
+    <author role="editor" fullname="Jan Richards"/>
+    <author role="editor" fullname="Jutta Treviranus"/>
+    <date year="2002" month="October" day="29"/>
+    <workgroup>Authoring Tool Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

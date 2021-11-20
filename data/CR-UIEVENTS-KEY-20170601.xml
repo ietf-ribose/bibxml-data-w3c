@@ -1,0 +1,10 @@
+<reference anchor="W3C.CR-uievents-key-20170601" target="https://www.w3.org/TR/2017/CR-uievents-key-20170601/">
+  <front>
+    <title>UI Events KeyboardEvent key Values</title>
+    <seriesInfo name="W3C CR" value="CR-uievents-key-20170601"/>
+    <author role="editor" fullname="Gary Kacmarcik"/>
+    <author role="editor" fullname="Travis Leithead"/>
+    <date year="2017" month="June" day="1"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

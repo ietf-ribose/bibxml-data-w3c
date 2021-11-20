@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-webmention-20170112" target="https://www.w3.org/TR/2017/REC-webmention-20170112/">
+  <front>
+    <title>Webmention</title>
+    <seriesInfo name="W3C REC" value="REC-webmention-20170112"/>
+    <author role="editor" fullname="Aaron Parecki"/>
+    <date year="2017" month="January" day="12"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+</reference>

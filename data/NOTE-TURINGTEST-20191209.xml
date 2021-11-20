@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-turingtest-20191209" target="https://www.w3.org/TR/2019/NOTE-turingtest-20191209/">
+  <front>
+    <title>Inaccessibility of CAPTCHA</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-turingtest-20191209"/>
+    <author role="editor" fullname="Janina Sajka"/>
+    <author role="editor" fullname="Jason White"/>
+    <author role="editor" fullname="Matthew May"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Scott Hollier"/>
+    <date year="2019" month="December" day="9"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-exi-impacts-20080903" target="https://www.w3.org/TR/2008/WD-exi-impacts-20080903/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Impacts</title>
+    <seriesInfo name="W3C WD" value="WD-exi-impacts-20080903"/>
+    <author role="editor" fullname="Jaakko Kangasharju"/>
+    <date year="2008" month="September" day="3"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+</reference>

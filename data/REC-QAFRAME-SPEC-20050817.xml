@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-qaframe-spec-20050817" target="https://www.w3.org/TR/2005/REC-qaframe-spec-20050817/">
+  <front>
+    <title>QA Framework: Specification Guidelines</title>
+    <seriesInfo name="W3C REC" value="REC-qaframe-spec-20050817"/>
+    <author role="editor" fullname="Dominique Hazaël-Massieux"/>
+    <author role="editor" fullname="Karl Dubost"/>
+    <author role="editor" fullname="Lofton Henderson"/>
+    <author role="editor" fullname="Lynne Rosenthal"/>
+    <date year="2005" month="August" day="17"/>
+    <workgroup>Quality Assurance Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-timesheets-20120328" target="https://www.w3.org/TR/2012/NOTE-timesheets-20120328/">
+  <front>
+    <title>SMIL Timesheets 1.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-timesheets-20120328"/>
+    <author role="editor" fullname="Dick Bulterman"/>
+    <author role="editor" fullname="Pablo Cesar"/>
+    <author role="editor" fullname="Petri Vuorimaa"/>
+    <date year="2012" month="March" day="28"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+</reference>

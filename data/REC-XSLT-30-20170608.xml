@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-xslt-30-20170608" target="https://www.w3.org/TR/2017/REC-xslt-30-20170608/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 3.0</title>
+    <seriesInfo name="W3C REC" value="REC-xslt-30-20170608"/>
+    <author role="editor" fullname="Michael Kay"/>
+    <date year="2017" month="June" day="8"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+</reference>

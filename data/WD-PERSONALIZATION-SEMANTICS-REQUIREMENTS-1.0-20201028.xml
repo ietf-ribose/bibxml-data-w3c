@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-personalization-semantics-requirements-1.0-20201028" target="https://www.w3.org/TR/2020/WD-personalization-semantics-requirements-1.0-20201028/">
+  <front>
+    <title>Requirements for Personalization Semantics</title>
+    <seriesInfo name="W3C WD" value="WD-personalization-semantics-requirements-1.0-20201028"/>
+    <author role="editor" fullname="Charles LaPierre"/>
+    <author role="editor" fullname="Lisa Seeman-Horwitz"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Ruoxi Ran"/>
+    <date year="2020" month="October" day="28"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+</reference>

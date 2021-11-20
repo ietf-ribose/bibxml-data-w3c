@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-ddr-core-vocabulary-20080414" target="https://www.w3.org/TR/2008/NOTE-ddr-core-vocabulary-20080414/">
+  <front>
+    <title>Device Description Repository Core Vocabulary</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-ddr-core-vocabulary-20080414"/>
+    <author role="editor" fullname="Andrea Trasatti"/>
+    <author role="editor" fullname="Jo Rabin"/>
+    <author role="editor" fullname="Rotan Hanrahan"/>
+    <date year="2008" month="April" day="14"/>
+    <workgroup>Mobile Web Initiative Device Description Working Group</workgroup>
+  </front>
+</reference>

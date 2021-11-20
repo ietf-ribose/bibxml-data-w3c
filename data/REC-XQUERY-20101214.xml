@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-xquery-20101214" target="https://www.w3.org/TR/2010/REC-xquery-20101214/">
+  <front>
+    <title>XQuery 1.0: An XML Query Language (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-xquery-20101214"/>
+    <author role="editor" fullname="Daniela Florescu"/>
+    <author role="editor" fullname="Don Chamberlin"/>
+    <author role="editor" fullname="Jerome Simeon"/>
+    <author role="editor" fullname="Jonathan Robie"/>
+    <author role="editor" fullname="Mary Fernandez"/>
+    <author role="editor" fullname="Scott Boag"/>
+    <date year="2010" month="December" day="14"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

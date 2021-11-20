@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-xml-blueberry-req-20010921" target="https://www.w3.org/TR/2001/WD-xml-blueberry-req-20010921">
+  <front>
+    <title>XML Blueberry Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-xml-blueberry-req-20010921"/>
+    <author role="editor" fullname="John Cowan"/>
+    <date year="2001" month="September" day="21"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+</reference>

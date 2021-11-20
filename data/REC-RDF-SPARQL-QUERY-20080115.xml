@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-rdf-sparql-query-20080115" target="https://www.w3.org/TR/2008/REC-rdf-sparql-query-20080115/">
+  <front>
+    <title>SPARQL Query Language for RDF</title>
+    <seriesInfo name="W3C REC" value="REC-rdf-sparql-query-20080115"/>
+    <author role="editor" fullname="Andy Seaborne"/>
+    <author role="editor" fullname="Eric Prud'hommeaux"/>
+    <date year="2008" month="January" day="15"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+</reference>

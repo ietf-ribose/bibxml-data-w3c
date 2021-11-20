@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-xforms20-20120807" target="https://www.w3.org/TR/2012/WD-xforms20-20120807/">
+  <front>
+    <title>XForms 2.0</title>
+    <seriesInfo name="W3C WD" value="WD-xforms20-20120807"/>
+    <author role="editor" fullname="John Boyer"/>
+    <author role="editor" fullname="L Klotz"/>
+    <author role="editor" fullname="Nick Van Den Bleeken"/>
+    <author role="editor" fullname="Steven Pemberton"/>
+    <date year="2012" month="August" day="7"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+</reference>

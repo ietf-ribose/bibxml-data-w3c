@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-alreq-20211026" target="https://www.w3.org/TR/2021/WD-alreq-20211026/">
+  <front>
+    <title>Text Layout Requirements for the Arabic Script</title>
+    <seriesInfo name="W3C WD" value="WD-alreq-20211026"/>
+    <author role="editor" fullname="Behnam Esfahbod"/>
+    <author role="editor" fullname="Mostafa Hajizadeh"/>
+    <author role="editor" fullname="Najib Tounsi"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Shervin Afshar"/>
+    <author role="editor" fullname="Titus Nemeth"/>
+    <date year="2021" month="October" day="26"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

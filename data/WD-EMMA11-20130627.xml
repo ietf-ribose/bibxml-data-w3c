@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-emma11-20130627" target="https://www.w3.org/TR/2013/WD-emma11-20130627/">
+  <front>
+    <title>EMMA: Extensible MultiModal Annotation markup language Version 1.1</title>
+    <seriesInfo name="W3C WD" value="WD-emma11-20130627"/>
+    <author role="editor" fullname="Michael Johnston"/>
+    <date year="2013" month="June" day="27"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+</reference>

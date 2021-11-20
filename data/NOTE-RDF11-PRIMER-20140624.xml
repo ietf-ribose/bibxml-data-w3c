@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-rdf11-primer-20140624" target="https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/">
+  <front>
+    <title>RDF 1.1 Primer</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-rdf11-primer-20140624"/>
+    <author role="editor" fullname="Guus Schreiber"/>
+    <author role="editor" fullname="Yves Raimond"/>
+    <date year="2014" month="June" day="24"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+</reference>

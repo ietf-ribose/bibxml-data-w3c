@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-publishing-linking-20130430" target="https://www.w3.org/TR/2013/NOTE-publishing-linking-20130430/">
+  <front>
+    <title>Publishing and Linking on the Web</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-publishing-linking-20130430"/>
+    <author role="editor" fullname="Ashok Malhotra"/>
+    <author role="editor" fullname="Daniel Appelquist"/>
+    <author role="editor" fullname="Jeni Tennison"/>
+    <author role="editor" fullname="Larry Masinter"/>
+    <date year="2013" month="April" day="30"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+</reference>

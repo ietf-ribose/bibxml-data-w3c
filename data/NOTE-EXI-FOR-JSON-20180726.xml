@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-exi-for-json-20180726" target="https://www.w3.org/TR/2018/NOTE-exi-for-json-20180726/">
+  <front>
+    <title>EXI for JSON (EXI4JSON)</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-exi-for-json-20180726"/>
+    <author role="editor" fullname="Daniel Peintner"/>
+    <author role="editor" fullname="Don Brutzman"/>
+    <date year="2018" month="July" day="26"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+</reference>

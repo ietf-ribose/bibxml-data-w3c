@@ -1,0 +1,15 @@
+<reference anchor="W3C.REC-ws-policy-20070904" target="https://www.w3.org/TR/2007/REC-ws-policy-20070904/">
+  <front>
+    <title>Web Services Policy 1.5 - Framework</title>
+    <seriesInfo name="W3C REC" value="REC-ws-policy-20070904"/>
+    <author role="editor" fullname="Asir Vedamuthu"/>
+    <author role="editor" fullname="David Orchard"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Maryann Hondo"/>
+    <author role="editor" fullname="Prasad Yendluri"/>
+    <author role="editor" fullname="Toufic Boubez"/>
+    <author role="editor" fullname="Ümit Yalçinalp"/>
+    <date year="2007" month="September" day="4"/>
+    <workgroup>Web Services Policy Working Group</workgroup>
+  </front>
+</reference>

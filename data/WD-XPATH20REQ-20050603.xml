@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-xpath20req-20050603" target="https://www.w3.org/TR/2005/WD-xpath20req-20050603/">
+  <front>
+    <title>XPath Requirements Version 2.0</title>
+    <seriesInfo name="W3C WD" value="WD-xpath20req-20050603"/>
+    <author role="editor" fullname="K Karun"/>
+    <author role="editor" fullname="Mark Scardina"/>
+    <author role="editor" fullname="Mary Fernandez"/>
+    <date year="2005" month="June" day="3"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

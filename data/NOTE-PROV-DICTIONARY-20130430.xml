@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-prov-dictionary-20130430" target="https://www.w3.org/TR/2013/NOTE-prov-dictionary-20130430/">
+  <front>
+    <title>PROV-Dictionary: Modeling Provenance for Dictionary Data Structures</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-prov-dictionary-20130430"/>
+    <author role="editor" fullname="Sam Coppens"/>
+    <author role="editor" fullname="Tom De Nies"/>
+    <date year="2013" month="April" day="30"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-rdfa-primer-20150317" target="https://www.w3.org/TR/2015/NOTE-rdfa-primer-20150317/">
+  <front>
+    <title>RDFa 1.1 Primer - Third Edition</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-rdfa-primer-20150317"/>
+    <author role="editor" fullname="Ben Adida"/>
+    <author role="editor" fullname="Ivan Herman"/>
+    <author role="editor" fullname="Manu Sporny"/>
+    <author role="editor" fullname="Mark Birbeck"/>
+    <date year="2015" month="March" day="17"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+</reference>

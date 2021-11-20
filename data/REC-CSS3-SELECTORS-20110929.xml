@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-css3-selectors-20110929" target="https://www.w3.org/TR/2011/REC-css3-selectors-20110929/">
+  <front>
+    <title>Selectors Level 3</title>
+    <seriesInfo name="W3C REC" value="REC-css3-selectors-20110929"/>
+    <author role="editor" fullname="Daniel Glazman"/>
+    <author role="editor" fullname="Elika Etemad"/>
+    <author role="editor" fullname="Ian Hickson"/>
+    <author role="editor" fullname="John Williams"/>
+    <author role="editor" fullname="Peter Linss"/>
+    <author role="editor" fullname="Tantek Çelik"/>
+    <date year="2011" month="September" day="29"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>

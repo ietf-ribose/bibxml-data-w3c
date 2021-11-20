@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-xslt11-20010824" target="https://www.w3.org/TR/2001/WD-xslt11-20010824/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 1.1</title>
+    <seriesInfo name="W3C WD" value="WD-xslt11-20010824"/>
+    <author role="editor" fullname="James Clark"/>
+    <date year="2001" month="August" day="24"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+</reference>

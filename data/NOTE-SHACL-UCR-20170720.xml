@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-shacl-ucr-20170720" target="https://www.w3.org/TR/2017/NOTE-shacl-ucr-20170720/">
+  <front>
+    <title>SHACL Use Cases and Requirements</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-shacl-ucr-20170720"/>
+    <author role="editor" fullname="Karen Coyle"/>
+    <author role="editor" fullname="Simon Steyskal"/>
+    <date year="2017" month="July" day="20"/>
+    <workgroup>RDF Data Shapes Working Group</workgroup>
+  </front>
+</reference>

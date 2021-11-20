@@ -1,0 +1,11 @@
+<reference anchor="W3C.CR-wai-aria-1.2-20210302" target="https://www.w3.org/TR/2021/CR-wai-aria-1.2-20210302/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) 1.2</title>
+    <seriesInfo name="W3C CR" value="CR-wai-aria-1.2-20210302"/>
+    <author role="editor" fullname="James Nurthen"/>
+    <author role="editor" fullname="Joanmarie Diggs"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <date year="2021" month="March" day="2"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-qaframe-ops-extech-20021202" target="https://www.w3.org/TR/2002/NOTE-qaframe-ops-extech-20021202/">
+  <front>
+    <title>QA Framework: Operational Examples &amp; Techniques</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-qaframe-ops-extech-20021202"/>
+    <author role="editor" fullname="Dimitris Dimitriadis"/>
+    <author role="editor" fullname="Kirill Gavrylyuk"/>
+    <author role="editor" fullname="Lofton Henderson"/>
+    <author role="editor" fullname="Lynne Rosenthal"/>
+    <date year="2002" month="December" day="2"/>
+    <workgroup>Quality Assurance Working Group</workgroup>
+  </front>
+</reference>

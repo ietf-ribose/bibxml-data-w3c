@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-html51-20171003" target="https://www.w3.org/TR/2017/REC-html51-20171003/">
+  <front>
+    <title>HTML 5.1 2nd Edition</title>
+    <seriesInfo name="W3C REC" value="REC-html51-20171003"/>
+    <author role="editor" fullname="Alex Danilo"/>
+    <author role="editor" fullname="Arron Eicholz"/>
+    <author role="editor" fullname="Steve Faulkner"/>
+    <author role="editor" fullname="Travis Leithead"/>
+    <date year="2017" month="October" day="3"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

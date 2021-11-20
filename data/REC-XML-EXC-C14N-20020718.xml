@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-xml-exc-c14n-20020718" target="https://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/">
+  <front>
+    <title>Exclusive XML Canonicalization Version 1.0</title>
+    <seriesInfo name="W3C REC" value="REC-xml-exc-c14n-20020718"/>
+    <author role="editor" fullname="Donald Eastlake"/>
+    <author role="editor" fullname="John Boyer"/>
+    <author role="editor" fullname="Joseph Reagle"/>
+    <date year="2002" month="July" day="18"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

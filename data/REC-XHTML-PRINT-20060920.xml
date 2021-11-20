@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-xhtml-print-20060920" target="https://www.w3.org/TR/2006/REC-xhtml-print-20060920/">
+  <front>
+    <title>XHTML-Print</title>
+    <seriesInfo name="W3C REC" value="REC-xhtml-print-20060920"/>
+    <author role="editor" fullname="Jim Bigelow"/>
+    <author role="editor" fullname="Melinda Grant"/>
+    <date year="2006" month="September" day="20"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

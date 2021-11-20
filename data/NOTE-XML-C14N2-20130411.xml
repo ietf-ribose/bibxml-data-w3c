@@ -1,0 +1,12 @@
+<reference anchor="W3C.NOTE-xml-c14n2-20130411" target="https://www.w3.org/TR/2013/NOTE-xml-c14n2-20130411/">
+  <front>
+    <title>Canonical XML Version 2.0</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xml-c14n2-20130411"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Glenn Marcy"/>
+    <author role="editor" fullname="John Boyer"/>
+    <author role="editor" fullname="Pratik Datta"/>
+    <date year="2013" month="April" day="11"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+</reference>

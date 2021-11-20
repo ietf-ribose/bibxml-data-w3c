@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-xhtml-basic-20080729" target="https://www.w3.org/TR/2008/REC-xhtml-basic-20080729/">
+  <front>
+    <title>XHTML™ Basic 1.1</title>
+    <seriesInfo name="W3C REC" value="REC-xhtml-basic-20080729"/>
+    <author role="editor" fullname="Mark Baker"/>
+    <author role="editor" fullname="Masayasu Ishikawa"/>
+    <author role="editor" fullname="Peter Stark"/>
+    <author role="editor" fullname="Shinichi Matsui"/>
+    <author role="editor" fullname="Ted Wugofski"/>
+    <author role="editor" fullname="Toshihiko Yamakami"/>
+    <date year="2008" month="July" day="29"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+</reference>

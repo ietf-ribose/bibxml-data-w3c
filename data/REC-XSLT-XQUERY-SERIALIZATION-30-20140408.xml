@@ -1,0 +1,12 @@
+<reference anchor="W3C.REC-xslt-xquery-serialization-30-20140408" target="https://www.w3.org/TR/2014/REC-xslt-xquery-serialization-30-20140408/">
+  <front>
+    <title>XSLT and XQuery Serialization 3.0</title>
+    <seriesInfo name="W3C REC" value="REC-xslt-xquery-serialization-30-20140408"/>
+    <author role="editor" fullname="Andrew Coleman"/>
+    <author role="editor" fullname="Henry Zongaro"/>
+    <author role="editor" fullname="Michael Sperberg-McQueen"/>
+    <date year="2014" month="April" day="8"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

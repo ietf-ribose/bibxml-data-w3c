@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-progress-events-20140211" target="https://www.w3.org/TR/2014/REC-progress-events-20140211/">
+  <front>
+    <title>Progress Events</title>
+    <seriesInfo name="W3C REC" value="REC-progress-events-20140211"/>
+    <author role="editor" fullname="Anne van Kesteren"/>
+    <author role="editor" fullname="Charles 'chaals' (McCathie) Nevile"/>
+    <author role="editor" fullname="Jungkee Song"/>
+    <date year="2014" month="February" day="11"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

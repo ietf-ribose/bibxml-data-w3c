@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-aam-1.0-20210813" target="https://www.w3.org/TR/2021/WD-html-aam-1.0-20210813/">
+  <front>
+    <title>HTML Accessibility API Mappings 1.0</title>
+    <seriesInfo name="W3C WD" value="WD-html-aam-1.0-20210813"/>
+    <author role="editor" fullname="Alexander Surkov"/>
+    <author role="editor" fullname="Bogdan Brinza"/>
+    <author role="editor" fullname="Cynthia Shelly"/>
+    <author role="editor" fullname="Jason Kiss"/>
+    <author role="editor" fullname="Scott O'Hara"/>
+    <author role="editor" fullname="Steve Faulkner"/>
+    <date year="2021" month="August" day="13"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+</reference>

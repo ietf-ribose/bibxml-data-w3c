@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-PICS-labels-20091124" target="https://www.w3.org/TR/2009/REC-PICS-labels-20091124/">
+  <front>
+    <title>PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols</title>
+    <seriesInfo name="W3C REC" value="REC-PICS-labels-20091124"/>
+    <author role="editor" fullname="Jim Miller"/>
+    <author role="editor" fullname="Paul Resnick"/>
+    <author role="editor" fullname="Tim Krauskopf"/>
+    <author role="editor" fullname="Win Treese"/>
+    <date year="2009" month="November" day="24"/>
+  </front>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-emma-usecases-20091215" target="https://www.w3.org/TR/2009/NOTE-emma-usecases-20091215/">
+  <front>
+    <title>Use Cases for Possible Future EMMA Features</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-emma-usecases-20091215"/>
+    <author role="editor" fullname="Michael Johnston"/>
+    <date year="2009" month="December" day="15"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+</reference>

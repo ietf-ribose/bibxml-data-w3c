@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-api-design-20121002" target="https://www.w3.org/TR/2012/NOTE-api-design-20121002/">
+  <front>
+    <title>Web API Design Cookbook</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-api-design-20121002"/>
+    <author role="editor" fullname="Jungkee Song"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <date year="2012" month="October" day="2"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>

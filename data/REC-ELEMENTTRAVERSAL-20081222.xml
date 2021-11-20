@@ -1,0 +1,10 @@
+<reference anchor="W3C.REC-ElementTraversal-20081222" target="https://www.w3.org/TR/2008/REC-ElementTraversal-20081222/">
+  <front>
+    <title>Element Traversal Specification</title>
+    <seriesInfo name="W3C REC" value="REC-ElementTraversal-20081222"/>
+    <author role="editor" fullname="Doug Schepers"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <date year="2008" month="December" day="22"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

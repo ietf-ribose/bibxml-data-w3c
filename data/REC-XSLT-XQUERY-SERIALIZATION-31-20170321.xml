@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-xslt-xquery-serialization-31-20170321" target="https://www.w3.org/TR/2017/REC-xslt-xquery-serialization-31-20170321/">
+  <front>
+    <title>XSLT and XQuery Serialization 3.1</title>
+    <seriesInfo name="W3C REC" value="REC-xslt-xquery-serialization-31-20170321"/>
+    <author role="editor" fullname="Andrew Coleman"/>
+    <author role="editor" fullname="Michael Sperberg-McQueen"/>
+    <date year="2017" month="March" day="21"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+</reference>

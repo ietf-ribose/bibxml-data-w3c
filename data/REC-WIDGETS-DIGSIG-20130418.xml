@@ -1,0 +1,13 @@
+<reference anchor="W3C.REC-widgets-digsig-20130418" target="https://www.w3.org/TR/2013/REC-widgets-digsig-20130418/">
+  <front>
+    <title>XML Digital Signatures for Widgets</title>
+    <seriesInfo name="W3C REC" value="REC-widgets-digsig-20130418"/>
+    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Mark Priestley"/>
+    <author role="editor" fullname="Paddy Byers"/>
+    <author role="editor" fullname="Stuart Knightley"/>
+    <date year="2013" month="April" day="18"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

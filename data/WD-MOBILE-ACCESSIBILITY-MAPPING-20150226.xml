@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-mobile-accessibility-mapping-20150226" target="https://www.w3.org/TR/2015/WD-mobile-accessibility-mapping-20150226/">
+  <front>
+    <title>Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile</title>
+    <seriesInfo name="W3C WD" value="WD-mobile-accessibility-mapping-20150226"/>
+    <author role="editor" fullname="Jeanne F Spellman"/>
+    <author role="editor" fullname="Kathleen Wahlbin"/>
+    <author role="editor" fullname="Kimberly Patch"/>
+    <date year="2015" month="February" day="26"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+    <workgroup>User Agent Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>

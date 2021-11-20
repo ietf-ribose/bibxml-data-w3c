@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-webstorage-20130730" target="https://www.w3.org/TR/2013/REC-webstorage-20130730/">
+  <front>
+    <title>Web Storage</title>
+    <seriesInfo name="W3C REC" value="REC-webstorage-20130730"/>
+    <author role="editor" fullname="Ian Hickson"/>
+    <date year="2013" month="July" day="30"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

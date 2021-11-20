@@ -1,0 +1,10 @@
+<reference anchor="W3C.OBSL-view-mode-20181011" target="https://www.w3.org/TR/2018/OBSL-view-mode-20181011/">
+  <front>
+    <title>The 'view-mode' Media Feature</title>
+    <seriesInfo name="W3C REC" value="OBSL-view-mode-20181011"/>
+    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Robin Berjon"/>
+    <date year="2018" month="October" day="11"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

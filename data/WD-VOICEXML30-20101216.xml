@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-voicexml30-20101216" target="https://www.w3.org/TR/2010/WD-voicexml30-20101216/">
+  <front>
+    <title>Voice Extensible Markup Language (VoiceXML) 3.0</title>
+    <seriesInfo name="W3C WD" value="WD-voicexml30-20101216"/>
+    <author role="editor" fullname="Daniel Burnett"/>
+    <author role="editor" fullname="Jerry Carter"/>
+    <author role="editor" fullname="Kenneth Rehor"/>
+    <author role="editor" fullname="Mangesh Deshmukh"/>
+    <author role="editor" fullname="Matt Oshry"/>
+    <author role="editor" fullname="Michael Bodell"/>
+    <author role="editor" fullname="Milan Young"/>
+    <author role="editor" fullname="Paolo Baggia"/>
+    <author role="editor" fullname="RJ Auburn"/>
+    <author role="editor" fullname="Rafah Hosn"/>
+    <author role="editor" fullname="Rahul Akolkar"/>
+    <author role="editor" fullname="Scott McGlashan"/>
+    <author role="editor" fullname="Xu Yang"/>
+    <date year="2010" month="December" day="16"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+</reference>

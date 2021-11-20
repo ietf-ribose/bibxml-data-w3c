@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-mediacapture-depth-20170418" target="https://www.w3.org/TR/2017/WD-mediacapture-depth-20170418/">
+  <front>
+    <title>Media Capture Depth Stream Extensions</title>
+    <seriesInfo name="W3C WD" value="WD-mediacapture-depth-20170418"/>
+    <author role="editor" fullname="Aleksandar Stojiljkovic"/>
+    <author role="editor" fullname="Anssi Kostiainen"/>
+    <author role="editor" fullname="Ningxin Hu"/>
+    <author role="editor" fullname="Rob Manson"/>
+    <date year="2017" month="April" day="18"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+</reference>

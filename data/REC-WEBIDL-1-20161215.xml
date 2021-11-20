@@ -1,0 +1,9 @@
+<reference anchor="W3C.REC-WebIDL-1-20161215" target="https://www.w3.org/TR/2016/REC-WebIDL-1-20161215/">
+  <front>
+    <title>WebIDL Level 1</title>
+    <seriesInfo name="W3C REC" value="REC-WebIDL-1-20161215"/>
+    <author role="editor" fullname="Cameron McCormack"/>
+    <date year="2016" month="December" day="15"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+</reference>

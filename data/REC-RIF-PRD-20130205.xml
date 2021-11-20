@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-rif-prd-20130205" target="https://www.w3.org/TR/2013/REC-rif-prd-20130205/">
+  <front>
+    <title>RIF Production Rule Dialect (Second Edition)</title>
+    <seriesInfo name="W3C REC" value="REC-rif-prd-20130205"/>
+    <author role="editor" fullname="Adrian Paschke"/>
+    <author role="editor" fullname="Christian de Sainte Marie"/>
+    <author role="editor" fullname="Gary Hallmark"/>
+    <date year="2013" month="February" day="5"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+</reference>

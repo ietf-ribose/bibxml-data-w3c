@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-remote-meetings-20211014" target="https://www.w3.org/TR/2021/WD-remote-meetings-20211014/">
+  <front>
+    <title>Accessibility of Remote Meetings</title>
+    <seriesInfo name="W3C WD" value="WD-remote-meetings-20211014"/>
+    <author role="editor" fullname="Janina Sajka"/>
+    <author role="editor" fullname="Jason White"/>
+    <author role="editor" fullname="Joshue O'Connor"/>
+    <author role="editor" fullname="Judy Brewer"/>
+    <author role="editor" fullname="Scott Hollier"/>
+    <author role="editor" fullname="Steve Noble"/>
+    <date year="2021" month="October" day="14"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+</reference>

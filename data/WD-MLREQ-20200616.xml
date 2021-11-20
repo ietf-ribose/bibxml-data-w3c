@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-mlreq-20200616" target="https://www.w3.org/TR/2020/WD-mlreq-20200616/">
+  <front>
+    <title>Mongolian Layout Requirements</title>
+    <seriesInfo name="W3C WD" value="WD-mlreq-20200616"/>
+    <author role="editor" fullname="Richard Ishida"/>
+    <date year="2020" month="June" day="16"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+</reference>

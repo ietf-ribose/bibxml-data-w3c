@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-post-type-discovery-20180118" target="https://www.w3.org/TR/2018/NOTE-post-type-discovery-20180118/">
+  <front>
+    <title>Post Type Discovery</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-post-type-discovery-20180118"/>
+    <author role="editor" fullname="Tantek Çelik"/>
+    <date year="2018" month="January" day="18"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="W3C.NOTE-xlink2rdf-20000929" target="https://www.w3.org/TR/2000/NOTE-xlink2rdf-20000929/">
+  <front>
+    <title>Harvesting RDF Statements from XLinks</title>
+    <seriesInfo name="W3C NOTE" value="NOTE-xlink2rdf-20000929"/>
+    <author role="editor" fullname="Ron Daniel"/>
+    <date year="2000" month="September" day="29"/>
+  </front>
+</reference>
