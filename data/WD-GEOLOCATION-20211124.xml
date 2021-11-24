@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-geolocation-20211124" target="https://www.w3.org/TR/2021/WD-geolocation-20211124/">
+  <front>
+    <title>Geolocation API</title>
+    <seriesInfo name="W3C WD" value="WD-geolocation-20211124"/>
+    <author role="editor" fullname="Marcos Caceres"/>
+    <date year="2021" month="November" day="24"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>
