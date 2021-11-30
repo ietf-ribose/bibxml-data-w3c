@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webcodecs-20211129" target="https://www.w3.org/TR/2021/WD-webcodecs-20211129/">
+  <front>
+    <title>WebCodecs</title>
+    <seriesInfo name="W3C WD" value="WD-webcodecs-20211129"/>
+    <author role="editor" fullname="Bernard Aboba"/>
+    <author role="editor" fullname="Chris Cunningham"/>
+    <author role="editor" fullname="Paul Adenot"/>
+    <date year="2021" month="November" day="29"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+</reference>
