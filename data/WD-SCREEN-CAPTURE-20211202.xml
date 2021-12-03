@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-screen-capture-20211202" target="https://www.w3.org/TR/2021/WD-screen-capture-20211202/">
+  <front>
+    <title>Screen Capture</title>
+    <seriesInfo name="W3C WD" value="WD-screen-capture-20211202"/>
+    <author role="editor" fullname="Elad Alon"/>
+    <author role="editor" fullname="Henrik Boström"/>
+    <author role="editor" fullname="Jan-Ivar Bruaroey"/>
+    <author role="editor" fullname="Keith Griffin"/>
+    <author role="editor" fullname="Martin Thomson"/>
+    <author role="editor" fullname="Suhas Nandakumar"/>
+    <date year="2021" month="December" day="2"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+</reference>
