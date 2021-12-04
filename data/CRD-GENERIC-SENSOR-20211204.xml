@@ -1,0 +1,9 @@
+<reference anchor="W3C.CRD-generic-sensor-20211204" target="https://www.w3.org/TR/2021/CRD-generic-sensor-20211204/">
+  <front>
+    <title>Generic Sensor API</title>
+    <seriesInfo name="W3C CR" value="CRD-generic-sensor-20211204"/>
+    <author role="editor" fullname="Rick Waldron"/>
+    <date year="2021" month="December" day="4"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+</reference>
