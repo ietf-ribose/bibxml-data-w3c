@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-wcag-3.0-20211207" target="https://www.w3.org/TR/2021/WD-wcag-3.0-20211207/">
+  <front>
+    <title>W3C Accessibility Guidelines (WCAG) 3.0</title>
+    <seriesInfo name="W3C WD" value="WD-wcag-3.0-20211207"/>
+    <author role="editor" fullname="Jeanne F Spellman"/>
+    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Rachael Bradley Montgomery"/>
+    <author role="editor" fullname="Shawn Lauriat"/>
+    <date year="2021" month="December" day="7"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+</reference>
