@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webrtc-encoded-transform-20211207" target="https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20211207/">
+  <front>
+    <title>WebRTC Encoded Transform</title>
+    <seriesInfo name="W3C WD" value="WD-webrtc-encoded-transform-20211207"/>
+    <author role="editor" fullname="Guido Urdaneta"/>
+    <author role="editor" fullname="Harald Alvestrand"/>
+    <author role="editor" fullname="youenn fablet"/>
+    <date year="2021" month="December" day="7"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+</reference>
