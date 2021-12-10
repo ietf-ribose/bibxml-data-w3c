@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-pointerevents3-20211209" target="https://www.w3.org/TR/2021/WD-pointerevents3-20211209/">
+  <front>
+    <title>Pointer Events</title>
+    <seriesInfo name="W3C WD" value="WD-pointerevents3-20211209"/>
+    <author role="editor" fullname="Navid Zolghadr"/>
+    <author role="editor" fullname="Patrick Lauke"/>
+    <date year="2021" month="December" day="9"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+</reference>
