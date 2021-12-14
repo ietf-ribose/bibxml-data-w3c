@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-webgpu-20211214" target="https://www.w3.org/TR/2021/WD-webgpu-20211214/">
+  <front>
+    <title>WebGPU</title>
+    <seriesInfo name="W3C WD" value="WD-webgpu-20211214"/>
+    <author role="editor" fullname="Dzmitry Malyshau"/>
+    <author role="editor" fullname="Kai Ninomiya"/>
+    <date year="2021" month="December" day="14"/>
+    <workgroup>GPU for the Web Working Group</workgroup>
+  </front>
+</reference>
