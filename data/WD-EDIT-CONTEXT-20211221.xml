@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-edit-context-20211221" target="https://www.w3.org/TR/2021/WD-edit-context-20211221/">
+  <front>
+    <title>EditContext API</title>
+    <seriesInfo name="W3C WD" value="WD-edit-context-20211221"/>
+    <author role="editor" fullname="alex keng"/>
+    <date year="2021" month="December" day="21"/>
+    <workgroup>Web Editing Working Group</workgroup>
+  </front>
+</reference>
