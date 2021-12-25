@@ -1,0 +1,10 @@
+<reference anchor="W3C.CRD-mediaqueries-4-20211225" target="https://www.w3.org/TR/2021/CRD-mediaqueries-4-20211225/">
+  <front>
+    <title>Media Queries Level 4</title>
+    <seriesInfo name="W3C CR" value="CRD-mediaqueries-4-20211225"/>
+    <author role="editor" fullname="Florian Rivoal"/>
+    <author role="editor" fullname="Tab Atkins Jr."/>
+    <date year="2021" month="December" day="25"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>
