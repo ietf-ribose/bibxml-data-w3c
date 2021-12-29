@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-CSS2-19980512/fonts" target="https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html">
+<reference anchor="W3C REC-CSS2-19980512/fonts" target="https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html">
   <front>
     <title>CSS3 module: Web Fonts</title>
     <seriesInfo name="W3C REC" value="REC-CSS2-19980512/fonts"/>

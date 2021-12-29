@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xmlenc-core-20021210" target="https://www.w3.org/TR/2002/REC-xmlenc-core-20021210/">
+<reference anchor="W3C REC-xmlenc-core-20021210" target="https://www.w3.org/TR/2002/REC-xmlenc-core-20021210/">
   <front>
     <title>XML Encryption Syntax and Processing</title>
     <seriesInfo name="W3C REC" value="REC-xmlenc-core-20021210"/>

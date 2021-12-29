@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-xmldsig-xpath-20130411" target="https://www.w3.org/TR/2013/NOTE-xmldsig-xpath-20130411/">
+<reference anchor="W3C NOTE-xmldsig-xpath-20130411" target="https://www.w3.org/TR/2013/NOTE-xmldsig-xpath-20130411/">
   <front>
     <title>XML Signature Streaming Profile of XPath 1.0</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-xpath-20130411"/>

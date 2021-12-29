@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xmlenc-decrypt-20021210" target="https://www.w3.org/TR/2002/REC-xmlenc-decrypt-20021210">
+<reference anchor="W3C REC-xmlenc-decrypt-20021210" target="https://www.w3.org/TR/2002/REC-xmlenc-decrypt-20021210">
   <front>
     <title>Decryption Transform for XML Signature</title>
     <seriesInfo name="W3C REC" value="REC-xmlenc-decrypt-20021210"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xml-exc-c14n-20020718" target="https://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/">
+<reference anchor="W3C REC-xml-exc-c14n-20020718" target="https://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/">
   <front>
     <title>Exclusive XML Canonicalization Version 1.0</title>
     <seriesInfo name="W3C REC" value="REC-xml-exc-c14n-20020718"/>

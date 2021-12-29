@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-soap12-testcollection-20030624" target="https://www.w3.org/TR/2003/REC-soap12-testcollection-20030624/">
+<reference anchor="W3C REC-soap12-testcollection-20030624" target="https://www.w3.org/TR/2003/REC-soap12-testcollection-20030624/">
   <front>
     <title>SOAP Version 1.2 Specification Assertions and Test Collection</title>
     <seriesInfo name="W3C REC" value="REC-soap12-testcollection-20030624"/>

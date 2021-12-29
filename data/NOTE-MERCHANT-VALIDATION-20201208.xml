@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-merchant-validation-20201208" target="https://www.w3.org/TR/2020/NOTE-merchant-validation-20201208/">
+<reference anchor="W3C NOTE-merchant-validation-20201208" target="https://www.w3.org/TR/2020/NOTE-merchant-validation-20201208/">
   <front>
     <title>The MerchantValidationEvent interface</title>
     <seriesInfo name="W3C NOTE" value="NOTE-merchant-validation-20201208"/>

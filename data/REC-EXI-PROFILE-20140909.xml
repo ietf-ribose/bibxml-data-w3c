@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-exi-profile-20140909" target="https://www.w3.org/TR/2014/REC-exi-profile-20140909/">
+<reference anchor="W3C REC-exi-profile-20140909" target="https://www.w3.org/TR/2014/REC-exi-profile-20140909/">
   <front>
     <title>Efficient XML Interchange (EXI) Profile for limiting usage of dynamic memory</title>
     <seriesInfo name="W3C REC" value="REC-exi-profile-20140909"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-fingerprinting-guidance-20190328" target="https://www.w3.org/TR/2019/NOTE-fingerprinting-guidance-20190328/">
+<reference anchor="W3C NOTE-fingerprinting-guidance-20190328" target="https://www.w3.org/TR/2019/NOTE-fingerprinting-guidance-20190328/">
   <front>
     <title>Mitigating Browser Fingerprinting in Web Specifications</title>
     <seriesInfo name="W3C NOTE" value="NOTE-fingerprinting-guidance-20190328"/>

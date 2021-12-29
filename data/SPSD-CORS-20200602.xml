@@ -1,4 +1,4 @@
-<reference anchor="W3C.SPSD-cors-20200602" target="https://www.w3.org/TR/2020/SPSD-cors-20200602/">
+<reference anchor="W3C SPSD-cors-20200602" target="https://www.w3.org/TR/2020/SPSD-cors-20200602/">
   <front>
     <title>Cross-Origin Resource Sharing</title>
     <seriesInfo name="W3C REC" value="SPSD-cors-20200602"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xquery-semantics-20101214" target="https://www.w3.org/TR/2010/REC-xquery-semantics-20101214/">
+<reference anchor="W3C REC-xquery-semantics-20101214" target="https://www.w3.org/TR/2010/REC-xquery-semantics-20101214/">
   <front>
     <title>XQuery 1.0 and XPath 2.0 Formal Semantics (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-xquery-semantics-20101214"/>

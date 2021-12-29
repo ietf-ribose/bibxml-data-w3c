@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-xmlsec-rngschema-20130411" target="https://www.w3.org/TR/2013/NOTE-xmlsec-rngschema-20130411/">
+<reference anchor="W3C NOTE-xmlsec-rngschema-20130411" target="https://www.w3.org/TR/2013/NOTE-xmlsec-rngschema-20130411/">
   <front>
     <title>XML Security RELAX NG Schemas</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xmlsec-rngschema-20130411"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-did-cbor-representation-20210629" target="https://www.w3.org/TR/2021/NOTE-did-cbor-representation-20210629/">
+<reference anchor="W3C NOTE-did-cbor-representation-20210629" target="https://www.w3.org/TR/2021/NOTE-did-cbor-representation-20210629/">
   <front>
     <title>The Plain CBOR Representation v1.0</title>
     <seriesInfo name="W3C NOTE" value="NOTE-did-cbor-representation-20210629"/>

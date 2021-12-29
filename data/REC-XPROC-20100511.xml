@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xproc-20100511" target="https://www.w3.org/TR/2010/REC-xproc-20100511/">
+<reference anchor="W3C REC-xproc-20100511" target="https://www.w3.org/TR/2010/REC-xproc-20100511/">
   <front>
     <title>XProc: An XML Pipeline Language</title>
     <seriesInfo name="W3C REC" value="REC-xproc-20100511"/>

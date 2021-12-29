@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-test-methodology-20100128" target="https://www.w3.org/TR/2010/NOTE-test-methodology-20100128/">
+<reference anchor="W3C NOTE-test-methodology-20100128" target="https://www.w3.org/TR/2010/NOTE-test-methodology-20100128/">
   <front>
     <title>A Method for Writing Testable Conformance Requirements</title>
     <seriesInfo name="W3C NOTE" value="NOTE-test-methodology-20100128"/>

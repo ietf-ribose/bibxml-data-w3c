@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-audio-output-20211115" target="https://www.w3.org/TR/2021/CRD-audio-output-20211115/">
+<reference anchor="W3C CRD-audio-output-20211115" target="https://www.w3.org/TR/2021/CRD-audio-output-20211115/">
   <front>
     <title>Audio Output Devices API</title>
     <seriesInfo name="W3C CR" value="CRD-audio-output-20211115"/>

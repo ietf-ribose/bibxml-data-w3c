@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-rdf-syntax-grammar-20140225" target="https://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/">
+<reference anchor="W3C REC-rdf-syntax-grammar-20140225" target="https://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/">
   <front>
     <title>RDF 1.1 XML Syntax</title>
     <seriesInfo name="W3C REC" value="REC-rdf-syntax-grammar-20140225"/>

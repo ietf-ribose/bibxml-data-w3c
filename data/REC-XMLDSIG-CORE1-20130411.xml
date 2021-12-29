@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xmldsig-core1-20130411" target="https://www.w3.org/TR/2013/REC-xmldsig-core1-20130411/">
+<reference anchor="W3C REC-xmldsig-core1-20130411" target="https://www.w3.org/TR/2013/REC-xmldsig-core1-20130411/">
   <front>
     <title>XML Signature Syntax and Processing Version 1.1</title>
     <seriesInfo name="W3C REC" value="REC-xmldsig-core1-20130411"/>

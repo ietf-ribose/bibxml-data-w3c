@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-sprot11-20051024" target="https://www.w3.org/TR/2005/WD-sprot11-20051024/">
+<reference anchor="W3C WD-sprot11-20051024" target="https://www.w3.org/TR/2005/WD-sprot11-20051024/">
   <front>
     <title>SPARQL Protocol for RDF Using WSDL 1.1</title>
     <seriesInfo name="W3C WD" value="WD-sprot11-20051024"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-websockets-20210128" target="https://www.w3.org/TR/2021/NOTE-websockets-20210128/">
+<reference anchor="W3C NOTE-websockets-20210128" target="https://www.w3.org/TR/2021/NOTE-websockets-20210128/">
   <front>
     <title>The WebSocket API</title>
     <seriesInfo name="W3C NOTE" value="NOTE-websockets-20210128"/>

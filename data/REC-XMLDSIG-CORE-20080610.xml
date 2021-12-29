@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xmldsig-core-20080610" target="https://www.w3.org/TR/2008/REC-xmldsig-core-20080610/">
+<reference anchor="W3C REC-xmldsig-core-20080610" target="https://www.w3.org/TR/2008/REC-xmldsig-core-20080610/">
   <front>
     <title>XML Signature Syntax and Processing (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-xmldsig-core-20080610"/>

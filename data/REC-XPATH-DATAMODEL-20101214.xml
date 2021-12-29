@@ -1,4 +1,4 @@
-<reference anchor="W3C.REC-xpath-datamodel-20101214" target="https://www.w3.org/TR/2010/REC-xpath-datamodel-20101214/">
+<reference anchor="W3C REC-xpath-datamodel-20101214" target="https://www.w3.org/TR/2010/REC-xpath-datamodel-20101214/">
   <front>
     <title>XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-xpath-datamodel-20101214"/>
