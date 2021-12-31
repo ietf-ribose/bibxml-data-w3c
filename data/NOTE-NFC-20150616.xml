@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-nfc-20150616" target="https://www.w3.org/TR/2015/NOTE-nfc-20150616/">
+<reference anchor="W3C.NOTE-nfc-20150616" target="https://www.w3.org/TR/2015/NOTE-nfc-20150616/">
   <front>
     <title>Web NFC API</title>
     <seriesInfo name="W3C NOTE" value="NOTE-nfc-20150616"/>

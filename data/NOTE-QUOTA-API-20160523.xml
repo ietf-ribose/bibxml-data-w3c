@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-quota-api-20160523" target="https://www.w3.org/TR/2016/NOTE-quota-api-20160523/">
+<reference anchor="W3C.NOTE-quota-api-20160523" target="https://www.w3.org/TR/2016/NOTE-quota-api-20160523/">
   <front>
     <title>Quota Management API</title>
     <seriesInfo name="W3C NOTE" value="NOTE-quota-api-20160523"/>

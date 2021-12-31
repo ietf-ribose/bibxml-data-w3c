@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-act-rules-format-1.0-20191031" target="https://www.w3.org/TR/2019/REC-act-rules-format-1.0-20191031/">
+<reference anchor="W3C.REC-act-rules-format-1.0-20191031" target="https://www.w3.org/TR/2019/REC-act-rules-format-1.0-20191031/">
   <front>
     <title>Accessibility Conformance Testing (ACT) Rules Format 1.0</title>
     <seriesInfo name="W3C REC" value="REC-act-rules-format-1.0-20191031"/>

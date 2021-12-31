@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-touch-events-20131010" target="https://www.w3.org/TR/2013/REC-touch-events-20131010/">
+<reference anchor="W3C.REC-touch-events-20131010" target="https://www.w3.org/TR/2013/REC-touch-events-20131010/">
   <front>
     <title>Touch Events</title>
     <seriesInfo name="W3C REC" value="REC-touch-events-20131010"/>

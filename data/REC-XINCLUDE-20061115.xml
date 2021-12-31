@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xinclude-20061115" target="https://www.w3.org/TR/2006/REC-xinclude-20061115/">
+<reference anchor="W3C.REC-xinclude-20061115" target="https://www.w3.org/TR/2006/REC-xinclude-20061115/">
   <front>
     <title>XML Inclusions (XInclude) Version 1.0 (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-xinclude-20061115"/>

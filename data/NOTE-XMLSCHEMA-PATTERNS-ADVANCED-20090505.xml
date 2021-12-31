@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-xmlschema-patterns-advanced-20090505" target="https://www.w3.org/TR/2009/NOTE-xmlschema-patterns-advanced-20090505/">
+<reference anchor="W3C.NOTE-xmlschema-patterns-advanced-20090505" target="https://www.w3.org/TR/2009/NOTE-xmlschema-patterns-advanced-20090505/">
   <front>
     <title>Advanced XML Schema Patterns for Databinding Version 1.0</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xmlschema-patterns-advanced-20090505"/>

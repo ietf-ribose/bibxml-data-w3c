@@ -1,4 +1,4 @@
-<reference anchor="W3C CRD-webrtc-stats-20211110" target="https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/">
+<reference anchor="W3C.CRD-webrtc-stats-20211110" target="https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/">
   <front>
     <title>Identifiers for WebRTC's Statistics API</title>
     <seriesInfo name="W3C CR" value="CRD-webrtc-stats-20211110"/>

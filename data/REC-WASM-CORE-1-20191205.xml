@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-wasm-core-1-20191205" target="https://www.w3.org/TR/2019/REC-wasm-core-1-20191205/">
+<reference anchor="W3C.REC-wasm-core-1-20191205" target="https://www.w3.org/TR/2019/REC-wasm-core-1-20191205/">
   <front>
     <title>WebAssembly Core Specification</title>
     <seriesInfo name="W3C REC" value="REC-wasm-core-1-20191205"/>

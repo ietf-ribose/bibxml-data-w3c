@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-orientation-event-20190416" target="https://www.w3.org/TR/2019/WD-orientation-event-20190416/">
+<reference anchor="W3C.WD-orientation-event-20190416" target="https://www.w3.org/TR/2019/WD-orientation-event-20190416/">
   <front>
     <title>DeviceOrientation Event Specification</title>
     <seriesInfo name="W3C WD" value="WD-orientation-event-20190416"/>

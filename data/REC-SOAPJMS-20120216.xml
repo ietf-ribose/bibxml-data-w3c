@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-soapjms-20120216" target="https://www.w3.org/TR/2012/REC-soapjms-20120216/">
+<reference anchor="W3C.REC-soapjms-20120216" target="https://www.w3.org/TR/2012/REC-soapjms-20120216/">
   <front>
     <title>SOAP over Java Message Service 1.0</title>
     <seriesInfo name="W3C REC" value="REC-soapjms-20120216"/>

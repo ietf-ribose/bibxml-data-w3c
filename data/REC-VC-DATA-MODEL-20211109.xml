@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-vc-data-model-20211109" target="https://www.w3.org/TR/2021/REC-vc-data-model-20211109/">
+<reference anchor="W3C.REC-vc-data-model-20211109" target="https://www.w3.org/TR/2021/REC-vc-data-model-20211109/">
   <front>
     <title>Verifiable Credentials Data Model v1.1</title>
     <seriesInfo name="W3C REC" value="REC-vc-data-model-20211109"/>

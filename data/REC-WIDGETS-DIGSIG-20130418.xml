@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-widgets-digsig-20130418" target="https://www.w3.org/TR/2013/REC-widgets-digsig-20130418/">
+<reference anchor="W3C.REC-widgets-digsig-20130418" target="https://www.w3.org/TR/2013/REC-widgets-digsig-20130418/">
   <front>
     <title>XML Digital Signatures for Widgets</title>
     <seriesInfo name="W3C REC" value="REC-widgets-digsig-20130418"/>

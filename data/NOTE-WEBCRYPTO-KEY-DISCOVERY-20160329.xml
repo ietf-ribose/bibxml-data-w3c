@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-webcrypto-key-discovery-20160329" target="https://www.w3.org/TR/2016/NOTE-webcrypto-key-discovery-20160329/">
+<reference anchor="W3C.NOTE-webcrypto-key-discovery-20160329" target="https://www.w3.org/TR/2016/NOTE-webcrypto-key-discovery-20160329/">
   <front>
     <title>WebCrypto Key Discovery</title>
     <seriesInfo name="W3C NOTE" value="NOTE-webcrypto-key-discovery-20160329"/>

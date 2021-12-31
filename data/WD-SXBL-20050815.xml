@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-sXBL-20050815" target="https://www.w3.org/TR/2005/WD-sXBL-20050815/">
+<reference anchor="W3C.WD-sXBL-20050815" target="https://www.w3.org/TR/2005/WD-sXBL-20050815/">
   <front>
     <title>SVG's XML Binding Language (sXBL)</title>
     <seriesInfo name="W3C WD" value="WD-sXBL-20050815"/>

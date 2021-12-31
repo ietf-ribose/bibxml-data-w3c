@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xmlschema-1-20041028" target="https://www.w3.org/TR/2004/REC-xmlschema-1-20041028/">
+<reference anchor="W3C.REC-xmlschema-1-20041028" target="https://www.w3.org/TR/2004/REC-xmlschema-1-20041028/">
   <front>
     <title>XML Schema Part 1: Structures Second Edition</title>
     <seriesInfo name="W3C REC" value="REC-xmlschema-1-20041028"/>

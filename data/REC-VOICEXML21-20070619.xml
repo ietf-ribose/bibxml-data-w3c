@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-voicexml21-20070619" target="https://www.w3.org/TR/2007/REC-voicexml21-20070619/">
+<reference anchor="W3C.REC-voicexml21-20070619" target="https://www.w3.org/TR/2007/REC-voicexml21-20070619/">
   <front>
     <title>Voice Extensible Markup Language (VoiceXML) 2.1</title>
     <seriesInfo name="W3C REC" value="REC-voicexml21-20070619"/>

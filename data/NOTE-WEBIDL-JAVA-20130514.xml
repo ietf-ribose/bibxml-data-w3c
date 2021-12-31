@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-WebIDL-Java-20130514" target="https://www.w3.org/TR/2013/NOTE-WebIDL-Java-20130514/">
+<reference anchor="W3C.NOTE-WebIDL-Java-20130514" target="https://www.w3.org/TR/2013/NOTE-WebIDL-Java-20130514/">
   <front>
     <title>Java language binding for Web IDL</title>
     <seriesInfo name="W3C NOTE" value="NOTE-WebIDL-Java-20130514"/>

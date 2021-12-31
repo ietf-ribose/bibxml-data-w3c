@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-webxr-depth-sensing-1-20210831" target="https://www.w3.org/TR/2021/WD-webxr-depth-sensing-1-20210831/">
+<reference anchor="W3C.WD-webxr-depth-sensing-1-20210831" target="https://www.w3.org/TR/2021/WD-webxr-depth-sensing-1-20210831/">
   <front>
     <title>WebXR Depth Sensing Module</title>
     <seriesInfo name="W3C WD" value="WD-webxr-depth-sensing-1-20210831"/>

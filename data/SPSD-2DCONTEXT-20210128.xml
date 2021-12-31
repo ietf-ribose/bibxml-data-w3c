@@ -1,4 +1,4 @@
-<reference anchor="W3C SPSD-2dcontext-20210128" target="https://www.w3.org/TR/2021/SPSD-2dcontext-20210128/">
+<reference anchor="W3C.SPSD-2dcontext-20210128" target="https://www.w3.org/TR/2021/SPSD-2dcontext-20210128/">
   <front>
     <title>HTML Canvas 2D Context</title>
     <seriesInfo name="W3C REC" value="SPSD-2dcontext-20210128"/>

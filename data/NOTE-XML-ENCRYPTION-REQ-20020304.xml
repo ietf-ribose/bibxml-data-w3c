@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-xml-encryption-req-20020304" target="https://www.w3.org/TR/2002/NOTE-xml-encryption-req-20020304">
+<reference anchor="W3C.NOTE-xml-encryption-req-20020304" target="https://www.w3.org/TR/2002/NOTE-xml-encryption-req-20020304">
   <front>
     <title>XML Encryption Requirements</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xml-encryption-req-20020304"/>

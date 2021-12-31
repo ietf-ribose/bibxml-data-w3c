@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-css-cascade-3-20210211" target="https://www.w3.org/TR/2021/REC-css-cascade-3-20210211/">
+<reference anchor="W3C.REC-css-cascade-3-20210211" target="https://www.w3.org/TR/2021/REC-css-cascade-3-20210211/">
   <front>
     <title>CSS Cascading and Inheritance Level 3</title>
     <seriesInfo name="W3C REC" value="REC-css-cascade-3-20210211"/>

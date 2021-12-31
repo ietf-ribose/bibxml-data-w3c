@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-rdf-plain-literal-20091027" target="https://www.w3.org/TR/2009/REC-rdf-plain-literal-20091027/">
+<reference anchor="W3C.REC-rdf-plain-literal-20091027" target="https://www.w3.org/TR/2009/REC-rdf-plain-literal-20091027/">
   <front>
     <title>rdf:PlainLiteral: A Datatype for RDF Plain Literals</title>
     <seriesInfo name="W3C REC" value="REC-rdf-plain-literal-20091027"/>

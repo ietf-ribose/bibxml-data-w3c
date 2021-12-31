@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xml-entity-names-20100401" target="https://www.w3.org/TR/2010/REC-xml-entity-names-20100401/">
+<reference anchor="W3C.REC-xml-entity-names-20100401" target="https://www.w3.org/TR/2010/REC-xml-entity-names-20100401/">
   <front>
     <title>XML Entity Definitions for Characters</title>
     <seriesInfo name="W3C REC" value="REC-xml-entity-names-20100401"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-rif-core-20130205" target="https://www.w3.org/TR/2013/REC-rif-core-20130205/">
+<reference anchor="W3C.REC-rif-core-20130205" target="https://www.w3.org/TR/2013/REC-rif-core-20130205/">
   <front>
     <title>RIF Core Dialect (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-rif-core-20130205"/>

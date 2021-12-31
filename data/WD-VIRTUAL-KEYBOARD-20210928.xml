@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-virtual-keyboard-20210928" target="https://www.w3.org/TR/2021/WD-virtual-keyboard-20210928/">
+<reference anchor="W3C.WD-virtual-keyboard-20210928" target="https://www.w3.org/TR/2021/WD-virtual-keyboard-20210928/">
   <front>
     <title>VirtualKeyboard API</title>
     <seriesInfo name="W3C WD" value="WD-virtual-keyboard-20210928"/>

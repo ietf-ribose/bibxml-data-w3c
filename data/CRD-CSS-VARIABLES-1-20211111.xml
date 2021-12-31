@@ -1,4 +1,4 @@
-<reference anchor="W3C CRD-css-variables-1-20211111" target="https://www.w3.org/TR/2021/CRD-css-variables-1-20211111/">
+<reference anchor="W3C.CRD-css-variables-1-20211111" target="https://www.w3.org/TR/2021/CRD-css-variables-1-20211111/">
   <front>
     <title>CSS Custom Properties for Cascading Variables Module Level 1</title>
     <seriesInfo name="W3C CR" value="CRD-css-variables-1-20211111"/>

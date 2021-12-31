@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-xmldsig2ed-tests-20080610" target="https://www.w3.org/TR/2008/NOTE-xmldsig2ed-tests-20080610/">
+<reference anchor="W3C.NOTE-xmldsig2ed-tests-20080610" target="https://www.w3.org/TR/2008/NOTE-xmldsig2ed-tests-20080610/">
   <front>
     <title>Test Cases for C14N 1.1 and XMLDSig Interoperability</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xmldsig2ed-tests-20080610"/>

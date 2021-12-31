@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-SRI-20160623" target="https://www.w3.org/TR/2016/REC-SRI-20160623/">
+<reference anchor="W3C.REC-SRI-20160623" target="https://www.w3.org/TR/2016/REC-SRI-20160623/">
   <front>
     <title>Subresource Integrity</title>
     <seriesInfo name="W3C REC" value="REC-SRI-20160623"/>

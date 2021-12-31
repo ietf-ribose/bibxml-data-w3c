@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-covjson-overview-20170711" target="https://www.w3.org/TR/2017/NOTE-covjson-overview-20170711/">
+<reference anchor="W3C.NOTE-covjson-overview-20170711" target="https://www.w3.org/TR/2017/NOTE-covjson-overview-20170711/">
   <front>
     <title>Overview of the CoverageJSON format</title>
     <seriesInfo name="W3C NOTE" value="NOTE-covjson-overview-20170711"/>

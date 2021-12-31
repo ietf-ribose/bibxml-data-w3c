@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xml-stylesheet-19990629" target="https://www.w3.org/1999/06/REC-xml-stylesheet-19990629/">
+<reference anchor="W3C.REC-xml-stylesheet-19990629" target="https://www.w3.org/1999/06/REC-xml-stylesheet-19990629/">
   <front>
     <title>Associating Style Sheets with XML documents</title>
     <seriesInfo name="W3C REC" value="REC-xml-stylesheet-19990629"/>

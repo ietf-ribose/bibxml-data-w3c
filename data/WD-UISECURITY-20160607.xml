@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-UISecurity-20160607" target="https://www.w3.org/TR/2016/WD-UISecurity-20160607/">
+<reference anchor="W3C.WD-UISecurity-20160607" target="https://www.w3.org/TR/2016/WD-UISecurity-20160607/">
   <front>
     <title>User Interface Security and the Visibility API</title>
     <seriesInfo name="W3C WD" value="WD-UISecurity-20160607"/>

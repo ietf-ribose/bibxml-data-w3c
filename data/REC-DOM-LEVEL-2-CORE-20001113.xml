@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-DOM-Level-2-Core-20001113" target="https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/">
+<reference anchor="W3C.REC-DOM-Level-2-Core-20001113" target="https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/">
   <front>
     <title>Document Object Model (DOM) Level 2 Core Specification</title>
     <seriesInfo name="W3C REC" value="REC-DOM-Level-2-Core-20001113"/>

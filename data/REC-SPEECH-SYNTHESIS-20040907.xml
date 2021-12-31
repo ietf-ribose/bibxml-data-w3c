@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-speech-synthesis-20040907" target="https://www.w3.org/TR/2004/REC-speech-synthesis-20040907/">
+<reference anchor="W3C.REC-speech-synthesis-20040907" target="https://www.w3.org/TR/2004/REC-speech-synthesis-20040907/">
   <front>
     <title>Speech Synthesis Markup Language (SSML) Version 1.0</title>
     <seriesInfo name="W3C REC" value="REC-speech-synthesis-20040907"/>

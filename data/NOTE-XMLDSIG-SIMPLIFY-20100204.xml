@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-xmldsig-simplify-20100204" target="https://www.w3.org/TR/2010/NOTE-xmldsig-simplify-20100204/">
+<reference anchor="W3C.NOTE-xmldsig-simplify-20100204" target="https://www.w3.org/TR/2010/NOTE-xmldsig-simplify-20100204/">
   <front>
     <title>XML Signature Transform Simplification: Requirements and Design</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-simplify-20100204"/>

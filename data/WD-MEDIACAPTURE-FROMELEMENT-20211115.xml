@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-mediacapture-fromelement-20211115" target="https://www.w3.org/TR/2021/WD-mediacapture-fromelement-20211115/">
+<reference anchor="W3C.WD-mediacapture-fromelement-20211115" target="https://www.w3.org/TR/2021/WD-mediacapture-fromelement-20211115/">
   <front>
     <title>Media Capture from DOM Elements</title>
     <seriesInfo name="W3C WD" value="WD-mediacapture-fromelement-20211115"/>

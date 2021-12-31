@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-DSig-usage-20061220" target="https://www.w3.org/TR/2006/NOTE-DSig-usage-20061220/">
+<reference anchor="W3C.NOTE-DSig-usage-20061220" target="https://www.w3.org/TR/2006/NOTE-DSig-usage-20061220/">
   <front>
     <title>Using XML Digital Signatures in the 2006 XML Environment</title>
     <seriesInfo name="W3C NOTE" value="NOTE-DSig-usage-20061220"/>

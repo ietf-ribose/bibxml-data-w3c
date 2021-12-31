@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-owl-features-20040210" target="https://www.w3.org/TR/2004/REC-owl-features-20040210/">
+<reference anchor="W3C.REC-owl-features-20040210" target="https://www.w3.org/TR/2004/REC-owl-features-20040210/">
   <front>
     <title>OWL Web Ontology Language Overview</title>
     <seriesInfo name="W3C REC" value="REC-owl-features-20040210"/>

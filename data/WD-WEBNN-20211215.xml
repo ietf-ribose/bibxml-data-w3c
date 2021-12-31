@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-webnn-20211215" target="https://www.w3.org/TR/2021/WD-webnn-20211215/">
+<reference anchor="W3C.WD-webnn-20211215" target="https://www.w3.org/TR/2021/WD-webnn-20211215/">
   <front>
     <title>Web Neural Network API</title>
     <seriesInfo name="W3C WD" value="WD-webnn-20211215"/>

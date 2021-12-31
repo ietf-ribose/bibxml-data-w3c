@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-jf2-20180110" target="https://www.w3.org/TR/2018/NOTE-jf2-20180110/">
+<reference anchor="W3C.NOTE-jf2-20180110" target="https://www.w3.org/TR/2018/NOTE-jf2-20180110/">
   <front>
     <title>JF2 Post Serialization Format</title>
     <seriesInfo name="W3C NOTE" value="NOTE-jf2-20180110"/>

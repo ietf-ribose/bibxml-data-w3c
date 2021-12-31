@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-xkms-wsdl-20051118" target="https://www.w3.org/TR/2005/NOTE-xkms-wsdl-20051118/">
+<reference anchor="W3C.NOTE-xkms-wsdl-20051118" target="https://www.w3.org/TR/2005/NOTE-xkms-wsdl-20051118/">
   <front>
     <title>A WSDL 1.1 description for XKMS</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xkms-wsdl-20051118"/>

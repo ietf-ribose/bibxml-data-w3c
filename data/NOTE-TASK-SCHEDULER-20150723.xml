@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-task-scheduler-20150723" target="https://www.w3.org/TR/2015/NOTE-task-scheduler-20150723/">
+<reference anchor="W3C.NOTE-task-scheduler-20150723" target="https://www.w3.org/TR/2015/NOTE-task-scheduler-20150723/">
   <front>
     <title>Task Scheduler API Specification</title>
     <seriesInfo name="W3C NOTE" value="NOTE-task-scheduler-20150723"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xml-infoset-20040204" target="https://www.w3.org/TR/2004/REC-xml-infoset-20040204/">
+<reference anchor="W3C.REC-xml-infoset-20040204" target="https://www.w3.org/TR/2004/REC-xml-infoset-20040204/">
   <front>
     <title>XML Information Set (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-xml-infoset-20040204"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-cssom-1-20210826" target="https://www.w3.org/TR/2021/WD-cssom-1-20210826/">
+<reference anchor="W3C.WD-cssom-1-20210826" target="https://www.w3.org/TR/2021/WD-cssom-1-20210826/">
   <front>
     <title>CSS Object Model (CSSOM)</title>
     <seriesInfo name="W3C WD" value="WD-cssom-1-20210826"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-geolocation-API-20131024" target="https://www.w3.org/TR/2013/REC-geolocation-API-20131024/">
+<reference anchor="W3C.REC-geolocation-API-20131024" target="https://www.w3.org/TR/2013/REC-geolocation-API-20131024/">
   <front>
     <title>Geolocation API Specification</title>
     <seriesInfo name="W3C REC" value="REC-geolocation-API-20131024"/>

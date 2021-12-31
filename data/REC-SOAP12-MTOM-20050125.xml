@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-soap12-mtom-20050125" target="https://www.w3.org/TR/2005/REC-soap12-mtom-20050125/">
+<reference anchor="W3C.REC-soap12-mtom-20050125" target="https://www.w3.org/TR/2005/REC-soap12-mtom-20050125/">
   <front>
     <title>SOAP Message Transmission Optimization Mechanism</title>
     <seriesInfo name="W3C REC" value="REC-soap12-mtom-20050125"/>

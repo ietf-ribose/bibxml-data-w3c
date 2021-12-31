@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-ssml-sayas-20050526" target="https://www.w3.org/TR/2005/NOTE-ssml-sayas-20050526/">
+<reference anchor="W3C.NOTE-ssml-sayas-20050526" target="https://www.w3.org/TR/2005/NOTE-ssml-sayas-20050526/">
   <front>
     <title>SSML 1.0 say-as attribute values</title>
     <seriesInfo name="W3C NOTE" value="NOTE-ssml-sayas-20050526"/>

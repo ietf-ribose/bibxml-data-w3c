@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-tcp-udp-sockets-20150723" target="https://www.w3.org/TR/2015/NOTE-tcp-udp-sockets-20150723/">
+<reference anchor="W3C.NOTE-tcp-udp-sockets-20150723" target="https://www.w3.org/TR/2015/NOTE-tcp-udp-sockets-20150723/">
   <front>
     <title>TCP and UDP Socket API</title>
     <seriesInfo name="W3C NOTE" value="NOTE-tcp-udp-sockets-20150723"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-ws-cdl-10-primer-20060619" target="https://www.w3.org/TR/2006/WD-ws-cdl-10-primer-20060619/">
+<reference anchor="W3C.WD-ws-cdl-10-primer-20060619" target="https://www.w3.org/TR/2006/WD-ws-cdl-10-primer-20060619/">
   <front>
     <title>Web Services Choreography Description Language: Primer</title>
     <seriesInfo name="W3C WD" value="WD-ws-cdl-10-primer-20060619"/>

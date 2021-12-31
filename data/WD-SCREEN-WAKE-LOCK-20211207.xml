@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-screen-wake-lock-20211207" target="https://www.w3.org/TR/2021/WD-screen-wake-lock-20211207/">
+<reference anchor="W3C.WD-screen-wake-lock-20211207" target="https://www.w3.org/TR/2021/WD-screen-wake-lock-20211207/">
   <front>
     <title>Screen Wake Lock API</title>
     <seriesInfo name="W3C WD" value="WD-screen-wake-lock-20211207"/>

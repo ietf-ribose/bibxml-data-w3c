@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xmldsig-properties-20130411" target="https://www.w3.org/TR/2013/REC-xmldsig-properties-20130411/">
+<reference anchor="W3C.REC-xmldsig-properties-20130411" target="https://www.w3.org/TR/2013/REC-xmldsig-properties-20130411/">
   <front>
     <title>XML Signature Properties</title>
     <seriesInfo name="W3C REC" value="REC-xmldsig-properties-20130411"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xmldsig-filter2-20021108" target="https://www.w3.org/TR/2002/REC-xmldsig-filter2-20021108/">
+<reference anchor="W3C.REC-xmldsig-filter2-20021108" target="https://www.w3.org/TR/2002/REC-xmldsig-filter2-20021108/">
   <front>
     <title>XML-Signature XPath Filter 2.0</title>
     <seriesInfo name="W3C REC" value="REC-xmldsig-filter2-20021108"/>

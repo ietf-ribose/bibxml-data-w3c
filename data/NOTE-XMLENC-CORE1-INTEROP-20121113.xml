@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-xmlenc-core1-interop-20121113" target="https://www.w3.org/TR/2012/NOTE-xmlenc-core1-interop-20121113/">
+<reference anchor="W3C.NOTE-xmlenc-core1-interop-20121113" target="https://www.w3.org/TR/2012/NOTE-xmlenc-core1-interop-20121113/">
   <front>
     <title>XML Encryption 1.1 Interop Test Report</title>
     <seriesInfo name="W3C NOTE" value="NOTE-xmlenc-core1-interop-20121113"/>

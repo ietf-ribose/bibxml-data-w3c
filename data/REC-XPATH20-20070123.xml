@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xpath20-20070123" target="https://www.w3.org/TR/2007/REC-xpath20-20070123/">
+<reference anchor="W3C.REC-xpath20-20070123" target="https://www.w3.org/TR/2007/REC-xpath20-20070123/">
   <front>
     <title>XML Path Language (XPath) 2.0</title>
     <seriesInfo name="W3C REC" value="REC-xpath20-20070123"/>

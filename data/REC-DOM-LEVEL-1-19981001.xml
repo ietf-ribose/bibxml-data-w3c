@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-DOM-Level-1-19981001" target="https://www.w3.org/TR/1998/REC-DOM-Level-1-19981001/">
+<reference anchor="W3C.REC-DOM-Level-1-19981001" target="https://www.w3.org/TR/1998/REC-DOM-Level-1-19981001/">
   <front>
     <title>Document Object Model (DOM) Level 1</title>
     <seriesInfo name="W3C REC" value="REC-DOM-Level-1-19981001"/>

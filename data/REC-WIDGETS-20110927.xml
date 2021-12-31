@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-widgets-20110927" target="https://www.w3.org/TR/2011/REC-widgets-20110927/">
+<reference anchor="W3C.REC-widgets-20110927" target="https://www.w3.org/TR/2011/REC-widgets-20110927/">
   <front>
     <title>Widget Packaging and XML Configuration</title>
     <seriesInfo name="W3C REC" value="REC-widgets-20110927"/>

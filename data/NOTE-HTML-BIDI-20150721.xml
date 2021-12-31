@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-html-bidi-20150721" target="https://www.w3.org/TR/2015/NOTE-html-bidi-20150721/">
+<reference anchor="W3C.NOTE-html-bidi-20150721" target="https://www.w3.org/TR/2015/NOTE-html-bidi-20150721/">
   <front>
     <title>Additional Requirements for Bidi in HTML &amp; CSS</title>
     <seriesInfo name="W3C NOTE" value="NOTE-html-bidi-20150721"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-soap12-email-20020703" target="https://www.w3.org/TR/2002/NOTE-soap12-email-20020703">
+<reference anchor="W3C.NOTE-soap12-email-20020703" target="https://www.w3.org/TR/2002/NOTE-soap12-email-20020703">
   <front>
     <title>SOAP Version 1.2 Email Binding</title>
     <seriesInfo name="W3C NOTE" value="NOTE-soap12-email-20020703"/>

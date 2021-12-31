@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-swbp-specified-values-20050517" target="https://www.w3.org/TR/2005/NOTE-swbp-specified-values-20050517/">
+<reference anchor="W3C.NOTE-swbp-specified-values-20050517" target="https://www.w3.org/TR/2005/NOTE-swbp-specified-values-20050517/">
   <front>
     <title>Representing Specified Values in OWL: "value partitions" and "value sets"</title>
     <seriesInfo name="W3C NOTE" value="NOTE-swbp-specified-values-20050517"/>

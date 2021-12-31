@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-WGSL-20211230" target="https://www.w3.org/TR/2021/WD-WGSL-20211230/">
+<reference anchor="W3C.WD-WGSL-20211230" target="https://www.w3.org/TR/2021/WD-WGSL-20211230/">
   <front>
     <title>WebGPU Shading Language</title>
     <seriesInfo name="W3C WD" value="WD-WGSL-20211230"/>

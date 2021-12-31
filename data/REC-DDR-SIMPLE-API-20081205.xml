@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-DDR-Simple-API-20081205" target="https://www.w3.org/TR/2008/REC-DDR-Simple-API-20081205/">
+<reference anchor="W3C.REC-DDR-Simple-API-20081205" target="https://www.w3.org/TR/2008/REC-DDR-Simple-API-20081205/">
   <front>
     <title>Device Description Repository Simple API</title>
     <seriesInfo name="W3C REC" value="REC-DDR-Simple-API-20081205"/>

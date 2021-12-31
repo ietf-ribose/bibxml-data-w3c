@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-webaudio-20210617" target="https://www.w3.org/TR/2021/REC-webaudio-20210617/">
+<reference anchor="W3C.REC-webaudio-20210617" target="https://www.w3.org/TR/2021/REC-webaudio-20210617/">
   <front>
     <title>Web Audio API</title>
     <seriesInfo name="W3C REC" value="REC-webaudio-20210617"/>

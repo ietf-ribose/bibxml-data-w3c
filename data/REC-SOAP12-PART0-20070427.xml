@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-soap12-part0-20070427" target="https://www.w3.org/TR/2007/REC-soap12-part0-20070427/">
+<reference anchor="W3C.REC-soap12-part0-20070427" target="https://www.w3.org/TR/2007/REC-soap12-part0-20070427/">
   <front>
     <title>SOAP Version 1.2 Part 0: Primer (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-soap12-part0-20070427"/>

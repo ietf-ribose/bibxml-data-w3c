@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-international-specs-20210325" target="https://www.w3.org/TR/2021/WD-international-specs-20210325/">
+<reference anchor="W3C.WD-international-specs-20210325" target="https://www.w3.org/TR/2021/WD-international-specs-20210325/">
   <front>
     <title>Internationalization Best Practices for Spec Developers</title>
     <seriesInfo name="W3C WD" value="WD-international-specs-20210325"/>

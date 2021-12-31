@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-webauthn-1-20190304" target="https://www.w3.org/TR/2019/REC-webauthn-1-20190304/">
+<reference anchor="W3C.REC-webauthn-1-20190304" target="https://www.w3.org/TR/2019/REC-webauthn-1-20190304/">
   <front>
     <title>Web Authentication:An API for accessing Public Key Credentials Level 1</title>
     <seriesInfo name="W3C REC" value="REC-webauthn-1-20190304"/>

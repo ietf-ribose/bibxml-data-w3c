@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-activitypub-20180123" target="https://www.w3.org/TR/2018/REC-activitypub-20180123/">
+<reference anchor="W3C.REC-activitypub-20180123" target="https://www.w3.org/TR/2018/REC-activitypub-20180123/">
   <front>
     <title>ActivityPub</title>
     <seriesInfo name="W3C REC" value="REC-activitypub-20180123"/>

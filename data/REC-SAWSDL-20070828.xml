@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-sawsdl-20070828" target="https://www.w3.org/TR/2007/REC-sawsdl-20070828/">
+<reference anchor="W3C.REC-sawsdl-20070828" target="https://www.w3.org/TR/2007/REC-sawsdl-20070828/">
   <front>
     <title>Semantic Annotations for WSDL and XML Schema</title>
     <seriesInfo name="W3C REC" value="REC-sawsdl-20070828"/>

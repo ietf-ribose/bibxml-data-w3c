@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-battery-status-20211109" target="https://www.w3.org/TR/2021/WD-battery-status-20211109/">
+<reference anchor="W3C.WD-battery-status-20211109" target="https://www.w3.org/TR/2021/WD-battery-status-20211109/">
   <front>
     <title>Battery Status API</title>
     <seriesInfo name="W3C WD" value="WD-battery-status-20211109"/>

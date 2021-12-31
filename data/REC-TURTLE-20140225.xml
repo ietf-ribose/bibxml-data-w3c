@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-turtle-20140225" target="https://www.w3.org/TR/2014/REC-turtle-20140225/">
+<reference anchor="W3C.REC-turtle-20140225" target="https://www.w3.org/TR/2014/REC-turtle-20140225/">
   <front>
     <title>RDF 1.1 Turtle</title>
     <seriesInfo name="W3C REC" value="REC-turtle-20140225"/>

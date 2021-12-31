@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-csp-cookies-20160913" target="https://www.w3.org/TR/2016/NOTE-csp-cookies-20160913/">
+<reference anchor="W3C.NOTE-csp-cookies-20160913" target="https://www.w3.org/TR/2016/NOTE-csp-cookies-20160913/">
   <front>
     <title>Content Security Policy: Cookie Controls</title>
     <seriesInfo name="W3C NOTE" value="NOTE-csp-cookies-20160913"/>

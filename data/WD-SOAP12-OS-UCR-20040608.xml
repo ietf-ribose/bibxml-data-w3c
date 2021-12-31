@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-soap12-os-ucr-20040608" target="https://www.w3.org/TR/2004/WD-soap12-os-ucr-20040608/">
+<reference anchor="W3C.WD-soap12-os-ucr-20040608" target="https://www.w3.org/TR/2004/WD-soap12-os-ucr-20040608/">
   <front>
     <title>SOAP Optimized Serialization Use Cases and Requirements</title>
     <seriesInfo name="W3C WD" value="WD-soap12-os-ucr-20040608"/>

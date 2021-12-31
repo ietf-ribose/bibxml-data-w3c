@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-CSS1-20080411" target="https://www.w3.org/TR/2008/REC-CSS1-20080411/">
+<reference anchor="W3C.REC-CSS1-20080411" target="https://www.w3.org/TR/2008/REC-CSS1-20080411/">
   <front>
     <title>Cascading Style Sheets (CSS1) Level 1 Specification</title>
     <seriesInfo name="W3C REC" value="REC-CSS1-20080411"/>

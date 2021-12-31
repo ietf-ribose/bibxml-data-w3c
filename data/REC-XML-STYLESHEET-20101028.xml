@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xml-stylesheet-20101028" target="https://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/">
+<reference anchor="W3C.REC-xml-stylesheet-20101028" target="https://www.w3.org/TR/2010/REC-xml-stylesheet-20101028/">
   <front>
     <title>Associating Style Sheets with XML documents 1.0 (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-xml-stylesheet-20101028"/>

@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-powder-xsd-20070925" target="https://www.w3.org/TR/2007/WD-powder-xsd-20070925/">
+<reference anchor="W3C.WD-powder-xsd-20070925" target="https://www.w3.org/TR/2007/WD-powder-xsd-20070925/">
   <front>
     <title>Protocol for Web Description Resources (POWDER): Web Description Resources Datatypes (WDRD)</title>
     <seriesInfo name="W3C WD" value="WD-powder-xsd-20070925"/>

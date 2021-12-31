@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-ws-policy-20070904" target="https://www.w3.org/TR/2007/REC-ws-policy-20070904/">
+<reference anchor="W3C.REC-ws-policy-20070904" target="https://www.w3.org/TR/2007/REC-ws-policy-20070904/">
   <front>
     <title>Web Services Policy 1.5 - Framework</title>
     <seriesInfo name="W3C REC" value="REC-ws-policy-20070904"/>

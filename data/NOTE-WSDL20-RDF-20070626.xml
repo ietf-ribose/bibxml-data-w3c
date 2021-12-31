@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-wsdl20-rdf-20070626" target="https://www.w3.org/TR/2007/NOTE-wsdl20-rdf-20070626/">
+<reference anchor="W3C.NOTE-wsdl20-rdf-20070626" target="https://www.w3.org/TR/2007/NOTE-wsdl20-rdf-20070626/">
   <front>
     <title>Web Services Description Language (WSDL) Version 2.0: RDF Mapping</title>
     <seriesInfo name="W3C NOTE" value="NOTE-wsdl20-rdf-20070626"/>

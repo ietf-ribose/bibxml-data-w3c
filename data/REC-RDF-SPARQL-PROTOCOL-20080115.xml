@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-rdf-sparql-protocol-20080115" target="https://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/">
+<reference anchor="W3C.REC-rdf-sparql-protocol-20080115" target="https://www.w3.org/TR/2008/REC-rdf-sparql-protocol-20080115/">
   <front>
     <title>SPARQL Protocol for RDF</title>
     <seriesInfo name="W3C REC" value="REC-rdf-sparql-protocol-20080115"/>

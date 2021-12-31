@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-webrtc-20210126" target="https://www.w3.org/TR/2021/REC-webrtc-20210126/">
+<reference anchor="W3C.REC-webrtc-20210126" target="https://www.w3.org/TR/2021/REC-webrtc-20210126/">
   <front>
     <title>WebRTC 1.0: Real-Time Communication Between Browsers</title>
     <seriesInfo name="W3C REC" value="REC-webrtc-20210126"/>

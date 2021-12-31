@@ -1,4 +1,4 @@
-<reference anchor="W3C CRD-css-paint-api-1-20211216" target="https://www.w3.org/TR/2021/CRD-css-paint-api-1-20211216/">
+<reference anchor="W3C.CRD-css-paint-api-1-20211216" target="https://www.w3.org/TR/2021/CRD-css-paint-api-1-20211216/">
   <front>
     <title>CSS Painting API Level 1</title>
     <seriesInfo name="W3C CR" value="CRD-css-paint-api-1-20211216"/>

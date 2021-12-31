@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xml-c14n11-20080502" target="https://www.w3.org/TR/2008/REC-xml-c14n11-20080502/">
+<reference anchor="W3C.REC-xml-c14n11-20080502" target="https://www.w3.org/TR/2008/REC-xml-c14n11-20080502/">
   <front>
     <title>Canonical XML Version 1.1</title>
     <seriesInfo name="W3C REC" value="REC-xml-c14n11-20080502"/>

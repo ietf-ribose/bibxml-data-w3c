@@ -1,4 +1,4 @@
-<reference anchor="W3C CR-webrtc-priority-20210318" target="https://www.w3.org/TR/2021/CR-webrtc-priority-20210318/">
+<reference anchor="W3C.CR-webrtc-priority-20210318" target="https://www.w3.org/TR/2021/CR-webrtc-priority-20210318/">
   <front>
     <title>WebRTC Priority Control API</title>
     <seriesInfo name="W3C CR" value="CR-webrtc-priority-20210318"/>

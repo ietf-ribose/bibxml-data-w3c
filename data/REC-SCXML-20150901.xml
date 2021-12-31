@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-scxml-20150901" target="https://www.w3.org/TR/2015/REC-scxml-20150901/">
+<reference anchor="W3C.REC-scxml-20150901" target="https://www.w3.org/TR/2015/REC-scxml-20150901/">
   <front>
     <title>State Chart XML (SCXML): State Machine Notation for Control Abstraction</title>
     <seriesInfo name="W3C REC" value="REC-scxml-20150901"/>

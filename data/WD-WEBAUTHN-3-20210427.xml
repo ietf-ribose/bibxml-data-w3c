@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-webauthn-3-20210427" target="https://www.w3.org/TR/2021/WD-webauthn-3-20210427/">
+<reference anchor="W3C.WD-webauthn-3-20210427" target="https://www.w3.org/TR/2021/WD-webauthn-3-20210427/">
   <front>
     <title>Web Authentication: An API for accessing Public Key Credentials - Level 3</title>
     <seriesInfo name="W3C WD" value="WD-webauthn-3-20210427"/>

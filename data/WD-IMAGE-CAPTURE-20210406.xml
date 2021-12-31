@@ -1,4 +1,4 @@
-<reference anchor="W3C WD-image-capture-20210406" target="https://www.w3.org/TR/2021/WD-image-capture-20210406/">
+<reference anchor="W3C.WD-image-capture-20210406" target="https://www.w3.org/TR/2021/WD-image-capture-20210406/">
   <front>
     <title>MediaStream Image Capture</title>
     <seriesInfo name="W3C WD" value="WD-image-capture-20210406"/>

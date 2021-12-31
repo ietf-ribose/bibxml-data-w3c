@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xsl11-20061205" target="https://www.w3.org/TR/2006/REC-xsl11-20061205/">
+<reference anchor="W3C.REC-xsl11-20061205" target="https://www.w3.org/TR/2006/REC-xsl11-20061205/">
   <front>
     <title>Extensible Stylesheet Language (XSL) Version 1.1</title>
     <seriesInfo name="W3C REC" value="REC-xsl11-20061205"/>

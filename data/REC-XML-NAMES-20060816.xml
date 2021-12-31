@@ -1,4 +1,4 @@
-<reference anchor="W3C REC-xml-names-20060816" target="https://www.w3.org/TR/2006/REC-xml-names-20060816/">
+<reference anchor="W3C.REC-xml-names-20060816" target="https://www.w3.org/TR/2006/REC-xml-names-20060816/">
   <front>
     <title>Namespaces in XML 1.0 (Second Edition)</title>
     <seriesInfo name="W3C REC" value="REC-xml-names-20060816"/>

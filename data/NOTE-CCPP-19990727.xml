@@ -1,4 +1,4 @@
-<reference anchor="W3C NOTE-CCPP-19990727" target="https://www.w3.org/1999/07/NOTE-CCPP-19990727/">
+<reference anchor="W3C.NOTE-CCPP-19990727" target="https://www.w3.org/1999/07/NOTE-CCPP-19990727/">
   <front>
     <title>Composite Capability/Preference Profiles (CC/PP): A user side framework for content negotiation</title>
     <seriesInfo name="W3C NOTE" value="NOTE-CCPP-19990727"/>
