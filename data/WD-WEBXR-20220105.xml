@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webxr-20220105" target="https://www.w3.org/TR/2022/WD-webxr-20220105/">
+  <front>
+    <title>WebXR Device API</title>
+    <seriesInfo name="W3C WD" value="WD-webxr-20220105"/>
+    <author role="editor" fullname="Brandon Jones"/>
+    <author role="editor" fullname="Manish Goregaokar"/>
+    <author role="editor" fullname="Rik Cabanier"/>
+    <date year="2022" month="January" day="5"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+</reference>
