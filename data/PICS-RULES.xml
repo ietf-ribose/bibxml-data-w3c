@@ -1,0 +1,37 @@
+<reference anchor="W3C.PICS-rules" target="http://www.w3.org/TR/REC-PICSRules">
+  <front>
+    <title>PICSRules 1.1</title>
+    <seriesInfo name="W3C Recommendation" value="REC-PICSRules"/>
+    <author fullname="Christopher Evans" initials="C." surname="Evans">
+      <organization abbrev="W3C">W3C</organization>
+      <address>
+        <email>cevans@microsoft.com</email>
+      </address>
+    </author>
+    <author fullname="Clive D.W. Feather" initials="C.D.W." surname="Feather">
+      <organization abbrev="W3C">W3C</organization>
+      <address>
+        <email>clive@demon.net</email>
+      </address>
+    </author>
+    <author fullname="Alex Hopmann" initials="A." surname="Hopmann">
+      <organization>Microsoft</organization>
+      <address>
+        <email>alexhop@microsoft.com</email>
+      </address>
+    </author>
+    <author fullname="Martin Presler-Marshall" initials="M." surname="Presler-Marshall">
+      <organization>IBM</organization>
+      <address>
+        <email>mpresler@us.ibm.com</email>
+      </address>
+    </author>
+    <author fullname="Paul Resnick" initials="P." surname="Resnick">
+      <organization>AT&amp;T</organization>
+      <address>
+        <email>presnick@research.att.com</email>
+      </address>
+    </author>
+    <date year="1997" month="December" day="29"/>
+  </front>
+</reference>

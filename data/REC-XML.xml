@@ -1,0 +1,30 @@
+<reference anchor="W3C.REC-xml" target="http://www.w3.org/TR/REC-xml">
+  <front>
+    <title>Extensible Markup Language (XML) 1.0 (2nd ed)</title>
+    <author fullname="Tim Bray" initials="T." surname="Bray">
+      <organization>Textuality and Netscape</organization>
+      <address>
+        <email>tbray@textuality.com</email>
+      </address>
+    </author>
+    <author fullname="Jean Paoli" initials="J." surname="Paoli">
+      <organization>Microsoft</organization>
+      <address>
+        <email>jeanpa@microsoft.com</email>
+      </address>
+    </author>
+    <author fullname="C. M. Sperberg-McQueen" initials="C.M." surname="Sperberg-McQueen">
+      <organization>University of Illinois at Chicago and Text Encoding Initiative</organization>
+      <address>
+        <email>cmsmcq@uic.edu</email>
+      </address>
+    </author>
+    <author fullname="Eve Maler" initials="E." surname="Maler">
+      <organization>Sun Microsystems</organization>
+      <address>
+        <email>eve.maler@east.sun.com</email>
+      </address>
+    </author>
+    <date year="2000" month="October" day="6"/>
+  </front>
+</reference>

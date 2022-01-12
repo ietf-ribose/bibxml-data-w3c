@@ -1,0 +1,15 @@
+<reference anchor="W3C.daml+oil-reference" target="http://www.w3.org/TR/daml+oil-reference">
+  <front>
+    <title>DAML+OIL (March 2001) Reference Description</title>
+    <seriesInfo name="W3C Note" value="daml+oil-reference"/>
+    <author fullname="Dan Connolly" initials="D." surname="Connolly">
+      <organization>W3C</organization>
+    </author>
+    <author fullname="Frank van Harmelen" initials="F." surname="van Harmelen"/>
+    <author fullname="Ian Horrocks" initials="I." surname="Horrocks"/>
+    <author fullname="Deborah L. McGuinness" initials="D.L." surname="McGuinness"/>
+    <author fullname="Peter F. Patel-Schneider" initials="P.F." surname="Patel-Schneider"/>
+    <author fullname="Lynn Andrea Stein" initials="L.A." surname="Stein"/>
+    <date year="2001" month="December" day="18"/>
+  </front>
+</reference>

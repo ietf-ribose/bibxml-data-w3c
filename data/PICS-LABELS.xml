@@ -1,0 +1,40 @@
+<reference anchor="W3C.PICS-labels" target="http://www.w3.org/TR/REC-PICS-labels">
+  <front>
+    <title>PICS Label Distribution Label Syntax and Communication Protocols</title>
+    <seriesInfo name="W3C Recommendation" value="REC-PICS-labels"/>
+    <author fullname="Jim Miller" initials="J." surname="Miller">
+      <organization abbrev="W3C">W3C</organization>
+      <address>
+        <postal>
+          <city>Cambridge</city>
+          <code>02139</code>
+          <country>US</country>
+          <region>MA</region>
+          <street>MIT Laboratory for Computer Science</street>
+        </postal>
+        <phone>+ 1 617 253 2613</phone>
+        <email>jmiller@w3.org</email>
+        <uri>http://www.w3c.org</uri>
+      </address>
+    </author>
+    <author fullname="Tim Krauskopf" initials="T." surname="Krauskopf">
+      <organization>Spyglass</organization>
+      <address>
+        <email>timk@spyglass.com</email>
+      </address>
+    </author>
+    <author fullname="Paul Resnick" initials="P." surname="Resnick">
+      <organization>AT&amp;T</organization>
+      <address>
+        <email>presnick@research.att.com</email>
+      </address>
+    </author>
+    <author fullname="Win Treese" initials="W." surname="Treese">
+      <organization>OpenMarket</organization>
+      <address>
+        <email>treese@OpenMarket.com</email>
+      </address>
+    </author>
+    <date year="1996" month="October" day="31"/>
+  </front>
+</reference>

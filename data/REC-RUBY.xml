@@ -1,0 +1,18 @@
+<reference anchor="W3C.REC-RUBY" target="http://www.w3.org/TR/ruby/">
+  <front>
+    <title>Ruby Annotation</title>
+    <author fullname="Michel Suignard" initials="M." surname="Suignard">
+      <organization>Microsoft</organization>
+    </author>
+    <author fullname="Masayasu Ishikawa" initials="M." surname="Ishikawa">
+      <organization>W3C</organization>
+    </author>
+    <author fullname="Martin Duerst" initials="M." surname="Duerst">
+      <organization>W3C</organization>
+    </author>
+    <author fullname="Tex Texin" initials="T." surname="Texin">
+      <organization>Progress Software Corp.</organization>
+    </author>
+    <date year="2001" month="May" day="31"/>
+  </front>
+</reference>

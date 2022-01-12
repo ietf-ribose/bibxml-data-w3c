@@ -1,0 +1,24 @@
+<reference anchor="W3C.REC-xml-names" target="http://www.w3.org/TR/REC-xml-names">
+  <front>
+    <title>Namespaces in XML</title>
+    <author fullname="Tim Bray" initials="T." surname="Bray">
+      <organization>Textuality</organization>
+      <address>
+        <email>tbray@textuality.com</email>
+      </address>
+    </author>
+    <author fullname="Dave Hollander" initials="D." surname="Hollander">
+      <organization>Hewlett-Packard Company</organization>
+      <address>
+        <email>dmh@corp.hp.com</email>
+      </address>
+    </author>
+    <author fullname="Andrew Layman" initials="A." surname="Layman">
+      <organization>Microsoft</organization>
+      <address>
+        <email>andrewl@microsoft.com</email>
+      </address>
+    </author>
+    <date year="1999" month="January" day="14"/>
+  </front>
+</reference>

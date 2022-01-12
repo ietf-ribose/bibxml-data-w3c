@@ -1,0 +1,27 @@
+<reference anchor="W3C.REC-rdf-syntax" target="http://www.w3.org/TR/REC-rdf-syntax">
+  <front>
+    <title>Resource Description Framework (RDF) Model and Syntax Specification</title>
+    <author fullname="Ora Lassila" initials="O." surname="Lassila">
+      <organization>Nokia Research Centre</organization>
+      <address>
+        <email>ora.lassila@research.nokia.com</email>
+      </address>
+    </author>
+    <author fullname="Ralph Swick" initials="R." surname="Swick">
+      <organization abbrev="W3C">W3C</organization>
+      <address>
+        <postal>
+          <city>Cambridge</city>
+          <code>02139</code>
+          <country>US</country>
+          <region>MA</region>
+          <street>MIT Laboratory for Computer Science</street>
+        </postal>
+        <phone>+ 1 617 253 2613</phone>
+        <email>swick@w3.org</email>
+        <uri>http://www.w3c.org</uri>
+      </address>
+    </author>
+    <date year="1999" month="February" day="22"/>
+  </front>
+</reference>

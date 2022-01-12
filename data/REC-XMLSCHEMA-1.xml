@@ -1,0 +1,18 @@
+<reference anchor="W3C.REC-xmlschema-1" target="http://www.w3.org/TR/xmlschema-1/">
+  <front>
+    <title>XML Schema Part 1: Structures</title>
+    <author fullname="Henry S. Thompson" initials="H." surname="Thompson">
+      <organization>University of Edinburgh</organization>
+    </author>
+    <author fullname="David Beech" initials="D." surname="Beech">
+      <organization>Oracle Corporation</organization>
+    </author>
+    <author fullname="Murray Maloney" initials="M." surname="Maloney">
+      <organization>Commerce One</organization>
+    </author>
+    <author fullname="Noah Mendelsohn" initials="N." surname="Mendelsohn">
+      <organization>Lotus Development Corporation</organization>
+    </author>
+    <date year="2001" month="May" day="2"/>
+  </front>
+</reference>

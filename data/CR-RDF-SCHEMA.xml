@@ -1,0 +1,12 @@
+<reference anchor="W3C.CR-rdf-schema" target="http://www.w3.org/TR/2000/CR-rdf-schema-20000327">
+  <front>
+    <title>Resource Description Framework (RDF) Schema Specification 1.0</title>
+    <author fullname="Dan Brickley" initials="D." surname="Brickley">
+      <organization>University of Bristol</organization>
+    </author>
+    <author fullname="R.V. Guha" initials="R.V." surname="Guha">
+      <organization>Epinions</organization>
+    </author>
+    <date year="2000" month="March" day="27"/>
+  </front>
+</reference>
