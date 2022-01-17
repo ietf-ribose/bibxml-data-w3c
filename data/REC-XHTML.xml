@@ -1,6 +1,7 @@
 <reference anchor="W3C.REC-XHTML" target="http://www.w3.org/TR/xhtml1/">
   <front>
     <title>XHTML 1.0: The Extensible HyperText Markup Language</title>
+    <seriesInfo name="W3C" value="REC-XHTML"/>
     <author fullname="Steven Pemberton" initials="S." surname="Pemberton">
       <organization>CWI</organization>
     </author>

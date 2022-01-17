@@ -1,6 +1,7 @@
 <reference anchor="W3C.REC-RUBY" target="http://www.w3.org/TR/ruby/">
   <front>
     <title>Ruby Annotation</title>
+    <seriesInfo name="W3C" value="REC-RUBY"/>
     <author fullname="Michel Suignard" initials="M." surname="Suignard">
       <organization>Microsoft</organization>
     </author>

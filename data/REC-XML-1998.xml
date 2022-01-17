@@ -1,6 +1,7 @@
 <reference anchor="W3C.REC-xml-1998" target="http://www.w3.org/TR/1998/REC-xml-19980210/">
   <front>
     <title>Extensible Markup Language (XML) 1.0</title>
+    <seriesInfo name="W3C" value="REC-xml-1998"/>
     <author fullname="Tim Bray" initials="T." surname="Bray">
       <organization>Textuality and Netscape</organization>
     </author>

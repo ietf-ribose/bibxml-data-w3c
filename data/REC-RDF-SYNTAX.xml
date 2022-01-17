@@ -1,6 +1,7 @@
 <reference anchor="W3C.REC-rdf-syntax" target="http://www.w3.org/TR/REC-rdf-syntax">
   <front>
     <title>Resource Description Framework (RDF) Model and Syntax Specification</title>
+    <seriesInfo name="W3C" value="REC-rdf-syntax"/>
     <author fullname="Ora Lassila" initials="O." surname="Lassila">
       <organization>Nokia Research Centre</organization>
       <address>

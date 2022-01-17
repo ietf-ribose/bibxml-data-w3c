@@ -1,12 +1,13 @@
 <reference anchor="W3C.REC-xmlschema-2" target="http://www.w3.org/TR/xmlschema-2/">
   <front>
     <title>XML Schema Part 2: Datatypes</title>
+    <seriesInfo name="W3C" value="REC-xmlschema-2"/>
     <author fullname="Paul V. Biron" initials="P." surname="Biron">
       <organization>Kaiser Permanente</organization>
     </author>
     <author fullname="Ashok Malhotra" initials="A." surname="Malhotra">
       <organization>Microsoft</organization>
     </author>
-    <date year="2001" month="May" day="2"/>
+    <date year="2001" month="May"/>
   </front>
 </reference>

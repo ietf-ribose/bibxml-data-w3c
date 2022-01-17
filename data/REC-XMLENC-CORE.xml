@@ -1,6 +1,7 @@
 <reference anchor="W3C.REC-xmlenc-core" target="http://www.w3.org/TR/xmlenc-core/">
   <front>
     <title>XML Encryption Syntax and Processing</title>
+    <seriesInfo name="W3C" value="REC-xmlenc-core"/>
     <author fullname="Takeshi Imamura" initials="T." surname="Imamura">
       <organization>IBM</organization>
     </author>
