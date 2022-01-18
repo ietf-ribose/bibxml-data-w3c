@@ -1,0 +1,11 @@
+<reference anchor="W3C.REC-css-color-3-20220118" target="https://www.w3.org/TR/2022/REC-css-color-3-20220118/">
+  <front>
+    <title>CSS Color Module Level 3</title>
+    <seriesInfo name="W3C REC" value="REC-css-color-3-20220118"/>
+    <author role="editor" fullname="Chris Lilley"/>
+    <author role="editor" fullname="David Baron"/>
+    <author role="editor" fullname="Tantek Çelik"/>
+    <date year="2022" month="January" day="18"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+</reference>
