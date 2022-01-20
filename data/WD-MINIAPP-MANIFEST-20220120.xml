@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-miniapp-manifest-20220120" target="https://www.w3.org/TR/2022/WD-miniapp-manifest-20220120/">
+  <front>
+    <title>MiniApp Manifest</title>
+    <seriesInfo name="W3C WD" value="WD-miniapp-manifest-20220120"/>
+    <author role="editor" fullname="Martin Alvarez-Espinar"/>
+    <author role="editor" fullname="Yongjing ZHANG"/>
+    <date year="2022" month="January" day="20"/>
+    <workgroup>MiniApps Working Group</workgroup>
+  </front>
+</reference>
