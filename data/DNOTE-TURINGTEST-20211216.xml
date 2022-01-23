@@ -1,12 +1,20 @@
 <reference anchor="W3C.DNOTE-turingtest-20211216" target="https://www.w3.org/TR/2021/DNOTE-turingtest-20211216/">
   <front>
     <title>Inaccessibility of CAPTCHA</title>
-    <seriesInfo name="W3C NOTE" value="DNOTE-turingtest-20211216"/>
-    <author role="editor" fullname="Janina Sajka"/>
-    <author role="editor" fullname="Jason White"/>
-    <author role="editor" fullname="Michael Cooper"/>
-    <author role="editor" fullname="Scott Hollier"/>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hollier">
+      <organization/>
+    </author>
     <date year="2021" month="December" day="16"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-turingtest-20211216"/>
 </reference>

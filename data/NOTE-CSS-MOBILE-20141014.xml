@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-css-mobile-20141014" target="https://www.w3.org/TR/2014/NOTE-css-mobile-20141014/">
   <front>
     <title>CSS Mobile Profile 2.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-css-mobile-20141014"/>
-    <author role="editor" fullname="Bert Bos"/>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
     <date year="2014" month="October" day="14"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-css-mobile-20141014"/>
 </reference>

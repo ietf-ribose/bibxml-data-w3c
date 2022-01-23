@@ -1,14 +1,26 @@
 <reference anchor="W3C.NOTE-abstract-ui-20140408" target="https://www.w3.org/TR/2014/NOTE-abstract-ui-20140408/">
   <front>
     <title>MBUI - Abstract User Interface Models</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-abstract-ui-20140408"/>
-    <author role="editor" fullname="François Beuvens"/>
-    <author role="editor" fullname="Jean Vanderdonckt"/>
-    <author role="editor" fullname="Jérémie Melchior"/>
-    <author role="editor" fullname="Nesrine Mezhoudi"/>
-    <author role="editor" fullname="Ricardo Tesoriero"/>
-    <author role="editor" fullname="Vivian Genaro Motti"/>
+    <author role="editor" fullname="François Beuvens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean Vanderdonckt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérémie Melchior">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nesrine Mezhoudi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ricardo Tesoriero">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vivian Genaro Motti">
+      <organization/>
+    </author>
     <date year="2014" month="April" day="8"/>
     <workgroup>Model-Based User Interfaces Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-abstract-ui-20140408"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-widgets-updates-20130606" target="https://www.w3.org/TR/2013/NOTE-widgets-updates-20130606/">
   <front>
     <title>Widget Updates</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-widgets-updates-20130606"/>
-    <author role="editor" fullname="Marcos Caceres"/>
-    <author role="editor" fullname="Richard Tibbett"/>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Tibbett">
+      <organization/>
+    </author>
     <date year="2013" month="June" day="6"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-widgets-updates-20130606"/>
 </reference>

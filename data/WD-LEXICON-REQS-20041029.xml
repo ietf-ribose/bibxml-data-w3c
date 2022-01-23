@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-lexicon-reqs-20041029" target="https://www.w3.org/TR/2004/WD-lexicon-reqs-20041029/">
   <front>
     <title>Pronunciation Lexicon Specification (PLS) Version 1.0 Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-lexicon-reqs-20041029"/>
-    <author role="editor" fullname="Frank Scahill"/>
-    <author role="editor" fullname="Paolo Baggia"/>
+    <author role="editor" fullname="Frank Scahill">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Baggia">
+      <organization/>
+    </author>
     <date year="2004" month="October" day="29"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-lexicon-reqs-20041029"/>
 </reference>

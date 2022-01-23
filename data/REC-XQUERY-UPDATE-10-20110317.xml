@@ -1,14 +1,26 @@
 <reference anchor="W3C.REC-xquery-update-10-20110317" target="https://www.w3.org/TR/2011/REC-xquery-update-10-20110317/">
   <front>
     <title>XQuery Update Facility 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-xquery-update-10-20110317"/>
-    <author role="editor" fullname="Daniela Florescu"/>
-    <author role="editor" fullname="Don Chamberlin"/>
-    <author role="editor" fullname="Jerome Simeon"/>
-    <author role="editor" fullname="Jim Melton"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Michael Dyck"/>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerome Simeon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Dyck">
+      <organization/>
+    </author>
     <date year="2011" month="March" day="17"/>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xquery-update-10-20110317"/>
 </reference>

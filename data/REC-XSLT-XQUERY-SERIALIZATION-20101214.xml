@@ -1,14 +1,24 @@
 <reference anchor="W3C.REC-xslt-xquery-serialization-20101214" target="https://www.w3.org/TR/2010/REC-xslt-xquery-serialization-20101214/">
   <front>
     <title>XSLT 2.0 and XQuery 1.0 Serialization (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-xslt-xquery-serialization-20101214"/>
-    <author role="editor" fullname="Henry Zongaro"/>
-    <author role="editor" fullname="Joanne Tong"/>
-    <author role="editor" fullname="Michael Kay"/>
-    <author role="editor" fullname="Norman Walsh"/>
-    <author role="editor" fullname="Scott Boag"/>
+    <author role="editor" fullname="Henry Zongaro">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanne Tong">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Boag">
+      <organization/>
+    </author>
     <date year="2010" month="December" day="14"/>
     <workgroup>Extensible Stylesheet Language Family</workgroup>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xslt-xquery-serialization-20101214"/>
 </reference>

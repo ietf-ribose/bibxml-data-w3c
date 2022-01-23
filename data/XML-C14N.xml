@@ -1,7 +1,6 @@
 <reference anchor="W3C.xml-c14n" target="http://www.w3.org/TR/xml-c14n">
   <front>
     <title>Canonical XML Version 1.0</title>
-    <seriesInfo name="W3C Recommendation" value="xpath"/>
     <author fullname="John Boyer" initials="J." surname="Boyer">
       <organization>
       </organization>
@@ -11,4 +10,5 @@
     </author>
     <date year="2001" month="March" day="15"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="xpath"/>
 </reference>

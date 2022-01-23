@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-emma-20090210" target="https://www.w3.org/TR/2009/REC-emma-20090210/">
   <front>
     <title>EMMA: Extensible MultiModal Annotation markup language</title>
-    <seriesInfo name="W3C REC" value="REC-emma-20090210"/>
-    <author role="editor" fullname="Michael Johnston"/>
+    <author role="editor" fullname="Michael Johnston">
+      <organization/>
+    </author>
     <date year="2009" month="February" day="10"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-emma-20090210"/>
 </reference>

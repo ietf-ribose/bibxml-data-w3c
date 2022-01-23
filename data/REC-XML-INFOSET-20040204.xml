@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-xml-infoset-20040204" target="https://www.w3.org/TR/2004/REC-xml-infoset-20040204/">
   <front>
     <title>XML Information Set (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-xml-infoset-20040204"/>
-    <author role="editor" fullname="John Cowan"/>
-    <author role="editor" fullname="Richard Tobin"/>
+    <author role="editor" fullname="John Cowan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Tobin">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="4"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xml-infoset-20040204"/>
 </reference>

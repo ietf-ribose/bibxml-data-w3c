@@ -1,13 +1,21 @@
 <reference anchor="W3C.REC-rdfa-syntax-20081014" target="https://www.w3.org/TR/2008/REC-rdfa-syntax-20081014/">
   <front>
     <title>RDFa in XHTML: Syntax and Processing</title>
-    <seriesInfo name="W3C REC" value="REC-rdfa-syntax-20081014"/>
-    <author role="editor" fullname="Ben Adida"/>
-    <author role="editor" fullname="Mark Birbeck"/>
-    <author role="editor" fullname="Shane McCarron"/>
-    <author role="editor" fullname="Steven Pemberton"/>
+    <author role="editor" fullname="Ben Adida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
     <date year="2008" month="October" day="14"/>
     <workgroup>Semantic Web Deployment Working Group</workgroup>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rdfa-syntax-20081014"/>
 </reference>

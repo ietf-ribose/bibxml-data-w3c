@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-covjson-overview-20170711" target="https://www.w3.org/TR/2017/NOTE-covjson-overview-20170711/">
   <front>
     <title>Overview of the CoverageJSON format</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-covjson-overview-20170711"/>
-    <author role="editor" fullname="Bill Roberts"/>
-    <author role="editor" fullname="Jon Blower"/>
-    <author role="editor" fullname="Maik Riechert"/>
+    <author role="editor" fullname="Bill Roberts">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Blower">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maik Riechert">
+      <organization/>
+    </author>
     <date year="2017" month="July" day="11"/>
     <workgroup>Spatial Data on the Web Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-covjson-overview-20170711"/>
 </reference>

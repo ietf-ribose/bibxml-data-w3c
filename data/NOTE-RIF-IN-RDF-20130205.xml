@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-rif-in-rdf-20130205" target="https://www.w3.org/TR/2013/NOTE-rif-in-rdf-20130205/">
   <front>
     <title>RIF In RDF (Second Edition)</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-rif-in-rdf-20130205"/>
-    <author role="editor" fullname="Axel Polleres"/>
-    <author role="editor" fullname="Sandro Hawke"/>
+    <author role="editor" fullname="Axel Polleres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sandro Hawke">
+      <organization/>
+    </author>
     <date year="2013" month="February" day="5"/>
     <workgroup>RIF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rif-in-rdf-20130205"/>
 </reference>

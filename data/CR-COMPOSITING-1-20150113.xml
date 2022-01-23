@@ -1,11 +1,15 @@
 <reference anchor="W3C.CR-compositing-1-20150113" target="https://www.w3.org/TR/2015/CR-compositing-1-20150113/">
   <front>
     <title>Compositing and Blending Level 1</title>
-    <seriesInfo name="W3C CR" value="CR-compositing-1-20150113"/>
-    <author role="editor" fullname="Nikos Andronikos"/>
-    <author role="editor" fullname="Rik Cabanier"/>
+    <author role="editor" fullname="Nikos Andronikos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rik Cabanier">
+      <organization/>
+    </author>
     <date year="2015" month="January" day="13"/>
     <workgroup>SVG Working Group</workgroup>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-compositing-1-20150113"/>
 </reference>

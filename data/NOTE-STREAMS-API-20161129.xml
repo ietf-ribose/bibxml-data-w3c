@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-streams-api-20161129" target="https://www.w3.org/TR/2016/NOTE-streams-api-20161129/">
   <front>
     <title>Streams API</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-streams-api-20161129"/>
-    <author role="editor" fullname="Feras Moussa"/>
-    <author role="editor" fullname="Takeshi Yoshino"/>
+    <author role="editor" fullname="Feras Moussa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takeshi Yoshino">
+      <organization/>
+    </author>
     <date year="2016" month="November" day="29"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-streams-api-20161129"/>
 </reference>

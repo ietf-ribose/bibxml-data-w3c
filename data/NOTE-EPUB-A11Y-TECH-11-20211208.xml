@@ -1,13 +1,23 @@
 <reference anchor="W3C.NOTE-epub-a11y-tech-11-20211208" target="https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211208/">
   <front>
     <title>EPUB Accessibility Techniques 1.1</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-tech-11-20211208"/>
-    <author role="editor" fullname="Avneesh Singh"/>
-    <author role="editor" fullname="Charles LaPierre"/>
-    <author role="editor" fullname="George Kerscher"/>
-    <author role="editor" fullname="Gregorio Pellegrino"/>
-    <author role="editor" fullname="Matt Garrish"/>
+    <author role="editor" fullname="Avneesh Singh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles LaPierre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="George Kerscher">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregorio Pellegrino">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
     <date year="2021" month="December" day="8"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-tech-11-20211208"/>
 </reference>

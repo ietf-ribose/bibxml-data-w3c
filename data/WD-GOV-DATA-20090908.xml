@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-gov-data-20090908" target="https://www.w3.org/TR/2009/WD-gov-data-20090908/">
   <front>
     <title>Publishing Open Government Data</title>
-    <seriesInfo name="W3C WD" value="WD-gov-data-20090908"/>
-    <author role="editor" fullname="Adam Harvey"/>
-    <author role="editor" fullname="Daniel Bennett"/>
+    <author role="editor" fullname="Adam Harvey">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Bennett">
+      <organization/>
+    </author>
     <date year="2009" month="September" day="8"/>
     <workgroup>eGovernment Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-gov-data-20090908"/>
 </reference>

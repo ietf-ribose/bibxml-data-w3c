@@ -1,10 +1,12 @@
 <reference anchor="W3C.WD-rex-20061013" target="https://www.w3.org/TR/2006/WD-rex-20061013/">
   <front>
     <title>Remote Events for XML (REX) 1.0</title>
-    <seriesInfo name="W3C WD" value="WD-rex-20061013"/>
-    <author role="editor" fullname="Robin Berjon"/>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
     <date year="2006" month="October" day="13"/>
     <workgroup>Web API Working Group</workgroup>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-rex-20061013"/>
 </reference>

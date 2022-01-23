@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-respimg-usecases-20131107" target="https://www.w3.org/TR/2013/NOTE-respimg-usecases-20131107/">
   <front>
     <title>Use Cases and Requirements for Standardizing Responsive Images</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-respimg-usecases-20131107"/>
-    <author role="editor" fullname="David Newton"/>
-    <author role="editor" fullname="Marcos Caceres"/>
-    <author role="editor" fullname="Mathew Marquis"/>
-    <author role="editor" fullname="Yoav Weiss"/>
+    <author role="editor" fullname="David Newton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mathew Marquis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yoav Weiss">
+      <organization/>
+    </author>
     <date year="2013" month="November" day="7"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-respimg-usecases-20131107"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-owl-semantics-20040210" target="https://www.w3.org/TR/2004/REC-owl-semantics-20040210/">
   <front>
     <title>OWL Web Ontology Language Semantics and Abstract Syntax</title>
-    <seriesInfo name="W3C REC" value="REC-owl-semantics-20040210"/>
-    <author role="editor" fullname="Ian Horrocks"/>
-    <author role="editor" fullname="Patrick Hayes"/>
-    <author role="editor" fullname="Peter Patel-Schneider"/>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Hayes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Patel-Schneider">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="10"/>
     <workgroup>Web-Ontology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl-semantics-20040210"/>
 </reference>

@@ -1,10 +1,12 @@
 <reference anchor="W3C.WD-capture-scenarios-20120306" target="https://www.w3.org/TR/2012/WD-capture-scenarios-20120306/">
   <front>
     <title>MediaStream Capture Scenarios</title>
-    <seriesInfo name="W3C WD" value="WD-capture-scenarios-20120306"/>
-    <author role="editor" fullname="Travis Leithead"/>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
     <date year="2012" month="March" day="6"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-capture-scenarios-20120306"/>
 </reference>

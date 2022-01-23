@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-soap12-rep-20050125" target="https://www.w3.org/TR/2005/REC-soap12-rep-20050125/">
   <front>
     <title>Resource Representation SOAP Header Block</title>
-    <seriesInfo name="W3C REC" value="REC-soap12-rep-20050125"/>
-    <author role="editor" fullname="Anish Karmarkar"/>
-    <author role="editor" fullname="Martin Gudgin"/>
-    <author role="editor" fullname="Yves Lafon"/>
+    <author role="editor" fullname="Anish Karmarkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Lafon">
+      <organization/>
+    </author>
     <date year="2005" month="January" day="25"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-soap12-rep-20050125"/>
 </reference>

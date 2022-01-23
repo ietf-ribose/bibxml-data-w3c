@@ -1,9 +1,13 @@
 <reference anchor="W3C.NOTE-xmldsig-simplify-20100204" target="https://www.w3.org/TR/2010/NOTE-xmldsig-simplify-20100204/">
   <front>
     <title>XML Signature Transform Simplification: Requirements and Design</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-simplify-20100204"/>
-    <author role="editor" fullname="Frederick Hirsch"/>
-    <author role="editor" fullname="Pratik Datta"/>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pratik Datta">
+      <organization/>
+    </author>
     <date year="2010" month="February" day="4"/>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-simplify-20100204"/>
 </reference>

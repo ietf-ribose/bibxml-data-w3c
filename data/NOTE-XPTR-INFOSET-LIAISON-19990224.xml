@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-xptr-infoset-liaison-19990224" target="https://www.w3.org/TR/1999/NOTE-xptr-infoset-liaison-19990224">
   <front>
     <title>XPointer-Information Set Liaison Statement Version 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xptr-infoset-liaison-19990224"/>
-    <author role="editor" fullname="Steven DeRose"/>
+    <author role="editor" fullname="Steven DeRose">
+      <organization/>
+    </author>
     <date year="1999" month="February" day="24"/>
     <workgroup>XML Linking Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xptr-infoset-liaison-19990224"/>
 </reference>

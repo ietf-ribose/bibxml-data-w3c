@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-ttml1-20130924" target="https://www.w3.org/TR/2013/REC-ttml1-20130924/">
   <front>
     <title>Timed Text Markup Language 1 (TTML1) (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-ttml1-20130924"/>
-    <author role="editor" fullname="Glenn Adams"/>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
     <date year="2013" month="September" day="24"/>
     <workgroup>Timed Text Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-ttml1-20130924"/>
 </reference>

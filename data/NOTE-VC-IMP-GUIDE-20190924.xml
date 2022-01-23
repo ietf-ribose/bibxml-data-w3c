@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-vc-imp-guide-20190924" target="https://www.w3.org/TR/2019/NOTE-vc-imp-guide-20190924/">
   <front>
     <title>Verifiable Credentials Implementation Guidelines 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-vc-imp-guide-20190924"/>
-    <author role="editor" fullname="Andrei Sambra"/>
+    <author role="editor" fullname="Andrei Sambra">
+      <organization/>
+    </author>
     <date year="2019" month="September" day="24"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vc-imp-guide-20190924"/>
 </reference>

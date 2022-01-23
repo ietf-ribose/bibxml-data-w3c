@@ -1,17 +1,33 @@
 <reference anchor="W3C.REC-xquery-semantics-20070123" target="https://www.w3.org/TR/2007/REC-xquery-semantics-20070123/">
   <front>
     <title>XQuery 1.0 and XPath 2.0 Formal Semantics</title>
-    <seriesInfo name="W3C REC" value="REC-xquery-semantics-20070123"/>
-    <author role="editor" fullname="Ashok Malhotra"/>
-    <author role="editor" fullname="Denise Draper"/>
-    <author role="editor" fullname="Jerome Simeon"/>
-    <author role="editor" fullname="Kristoffer Rose"/>
-    <author role="editor" fullname="Mary Fernandez"/>
-    <author role="editor" fullname="Michael Rys"/>
-    <author role="editor" fullname="Peter Fankhauser"/>
-    <author role="editor" fullname="Philip Wadler"/>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Denise Draper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerome Simeon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kristoffer Rose">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernandez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Rys">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Fankhauser">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip Wadler">
+      <organization/>
+    </author>
     <date year="2007" month="January" day="23"/>
     <workgroup>Extensible Stylesheet Language Family</workgroup>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xquery-semantics-20070123"/>
 </reference>

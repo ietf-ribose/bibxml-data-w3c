@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-xml-names11-20060816" target="https://www.w3.org/TR/2006/REC-xml-names11-20060816/">
   <front>
     <title>Namespaces in XML 1.1 (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-xml-names11-20060816"/>
-    <author role="editor" fullname="Andrew Layman"/>
-    <author role="editor" fullname="Dave Hollander"/>
-    <author role="editor" fullname="Richard Tobin"/>
-    <author role="editor" fullname="Tim Bray"/>
+    <author role="editor" fullname="Andrew Layman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Hollander">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Tobin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
     <date year="2006" month="August" day="16"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xml-names11-20060816"/>
 </reference>

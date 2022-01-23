@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-geolocation-sensor-20210902" target="https://www.w3.org/TR/2021/WD-geolocation-sensor-20210902/">
   <front>
     <title>Geolocation Sensor</title>
-    <seriesInfo name="W3C WD" value="WD-geolocation-sensor-20210902"/>
-    <author role="editor" fullname="Anssi Kostiainen"/>
-    <author role="editor" fullname="Marijn Kruisselbrink"/>
-    <author role="editor" fullname="Thomas Steiner"/>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marijn Kruisselbrink">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Steiner">
+      <organization/>
+    </author>
     <date year="2021" month="September" day="2"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-geolocation-sensor-20210902"/>
 </reference>

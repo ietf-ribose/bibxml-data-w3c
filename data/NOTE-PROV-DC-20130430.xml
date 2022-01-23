@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-prov-dc-20130430" target="https://www.w3.org/TR/2013/NOTE-prov-dc-20130430/">
   <front>
     <title>Dublin Core to PROV Mapping</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-prov-dc-20130430"/>
-    <author role="editor" fullname="Daniel Garijo"/>
-    <author role="editor" fullname="Kai Eckert"/>
+    <author role="editor" fullname="Daniel Garijo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kai Eckert">
+      <organization/>
+    </author>
     <date year="2013" month="April" day="30"/>
     <workgroup>Provenance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-prov-dc-20130430"/>
 </reference>

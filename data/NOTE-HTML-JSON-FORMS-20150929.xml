@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-html-json-forms-20150929" target="https://www.w3.org/TR/2015/NOTE-html-json-forms-20150929/">
   <front>
     <title>W3C HTML JSON form submission</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-html-json-forms-20150929"/>
-    <author role="editor" fullname="Robin Berjon"/>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
     <date year="2015" month="September" day="29"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-html-json-forms-20150929"/>
 </reference>

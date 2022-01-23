@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-xmlschema-0-20010502" target="https://www.w3.org/TR/2001/REC-xmlschema-0-20010502/">
   <front>
     <title>XML Schema Part 0: Primer</title>
-    <seriesInfo name="W3C REC" value="REC-xmlschema-0-20010502"/>
-    <author role="editor" fullname="David Fallside"/>
+    <author role="editor" fullname="David Fallside">
+      <organization/>
+    </author>
     <date year="2001" month="May" day="2"/>
     <workgroup>XML Schema Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xmlschema-0-20010502"/>
 </reference>

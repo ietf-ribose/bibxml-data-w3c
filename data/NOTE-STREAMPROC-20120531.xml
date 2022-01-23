@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-streamproc-20120531" target="https://www.w3.org/TR/2012/NOTE-streamproc-20120531/">
   <front>
     <title>MediaStream Processing API</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-streamproc-20120531"/>
-    <author role="editor" fullname="Robert O'Callahan"/>
+    <author role="editor" fullname="Robert O'Callahan">
+      <organization/>
+    </author>
     <date year="2012" month="May" day="31"/>
     <workgroup>Audio Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-streamproc-20120531"/>
 </reference>

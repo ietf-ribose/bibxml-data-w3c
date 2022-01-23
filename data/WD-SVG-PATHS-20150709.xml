@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-svg-paths-20150709" target="https://www.w3.org/TR/2015/WD-svg-paths-20150709/">
   <front>
     <title>SVG Paths</title>
-    <seriesInfo name="W3C WD" value="WD-svg-paths-20150709"/>
-    <author role="editor" fullname="Cameron McCormack"/>
-    <author role="editor" fullname="Cyril Concolato"/>
-    <author role="editor" fullname="Doug Schepers"/>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cyril Concolato">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
     <date year="2015" month="July" day="9"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-svg-paths-20150709"/>
 </reference>

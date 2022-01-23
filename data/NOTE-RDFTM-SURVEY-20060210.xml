@@ -1,13 +1,23 @@
 <reference anchor="W3C.NOTE-rdftm-survey-20060210" target="https://www.w3.org/TR/2006/NOTE-rdftm-survey-20060210/">
   <front>
     <title>A Survey of RDF/Topic Maps Interoperability Proposals</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-rdftm-survey-20060210"/>
-    <author role="editor" fullname="Fabio Vitali"/>
-    <author role="editor" fullname="Lars Marius Garshol"/>
-    <author role="editor" fullname="Nicola Gessa"/>
-    <author role="editor" fullname="Steve Pepper"/>
-    <author role="editor" fullname="Valentina Presutti"/>
+    <author role="editor" fullname="Fabio Vitali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lars Marius Garshol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nicola Gessa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Pepper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Valentina Presutti">
+      <organization/>
+    </author>
     <date year="2006" month="February" day="10"/>
     <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdftm-survey-20060210"/>
 </reference>

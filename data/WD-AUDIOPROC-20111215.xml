@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-audioproc-20111215" target="https://www.w3.org/TR/2011/WD-audioproc-20111215/">
   <front>
     <title>Audio Processing API</title>
-    <seriesInfo name="W3C WD" value="WD-audioproc-20111215"/>
-    <author role="editor" fullname="Chris Rogers"/>
-    <author role="editor" fullname="Robert O'Callahan"/>
+    <author role="editor" fullname="Chris Rogers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert O'Callahan">
+      <organization/>
+    </author>
     <date year="2011" month="December" day="15"/>
     <workgroup>Audio Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-audioproc-20111215"/>
 </reference>

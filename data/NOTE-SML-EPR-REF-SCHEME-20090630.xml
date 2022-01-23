@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-sml-epr-ref-scheme-20090630" target="https://www.w3.org/TR/2009/NOTE-sml-epr-ref-scheme-20090630/">
   <front>
     <title>Framework for SML EPR-Based Reference Schemes</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-sml-epr-ref-scheme-20090630"/>
-    <author role="editor" fullname="Len Charest"/>
+    <author role="editor" fullname="Len Charest">
+      <organization/>
+    </author>
     <date year="2009" month="June" day="30"/>
     <workgroup>Service Modeling Language</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-sml-epr-ref-scheme-20090630"/>
 </reference>

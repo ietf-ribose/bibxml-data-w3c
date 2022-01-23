@@ -1,10 +1,14 @@
 <reference anchor="W3C.CR-webrtc-identity-20180927" target="https://www.w3.org/TR/2018/CR-webrtc-identity-20180927/">
   <front>
     <title>Identity for WebRTC 1.0</title>
-    <seriesInfo name="W3C CR" value="CR-webrtc-identity-20180927"/>
-    <author role="editor" fullname="Cullen Jennings"/>
-    <author role="editor" fullname="Martin Thomson"/>
+    <author role="editor" fullname="Cullen Jennings">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Thomson">
+      <organization/>
+    </author>
     <date year="2018" month="September" day="27"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-webrtc-identity-20180927"/>
 </reference>

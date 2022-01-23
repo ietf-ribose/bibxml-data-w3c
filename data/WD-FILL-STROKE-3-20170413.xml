@@ -1,11 +1,15 @@
 <reference anchor="W3C.WD-fill-stroke-3-20170413" target="https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/">
   <front>
     <title>CSS Fill and Stroke Module Level 3</title>
-    <seriesInfo name="W3C WD" value="WD-fill-stroke-3-20170413"/>
-    <author role="editor" fullname="Elika Etemad"/>
-    <author role="editor" fullname="Tab Atkins Jr."/>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
     <date year="2017" month="April" day="13"/>
     <workgroup>SVG Working Group</workgroup>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-fill-stroke-3-20170413"/>
 </reference>

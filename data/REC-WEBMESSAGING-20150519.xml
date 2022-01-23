@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-webmessaging-20150519" target="https://www.w3.org/TR/2015/REC-webmessaging-20150519/">
   <front>
     <title>HTML5 Web Messaging</title>
-    <seriesInfo name="W3C REC" value="REC-webmessaging-20150519"/>
-    <author role="editor" fullname="Ian Hickson"/>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
     <date year="2015" month="May" day="19"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-webmessaging-20150519"/>
 </reference>

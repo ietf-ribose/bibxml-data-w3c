@@ -1,25 +1,59 @@
 <reference anchor="W3C.REC-SVGTiny12-20081222" target="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/">
   <front>
     <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
-    <seriesInfo name="W3C REC" value="REC-SVGTiny12-20081222"/>
-    <author role="editor" fullname="Andreas Neumann"/>
-    <author role="editor" fullname="Andrew Emmons"/>
-    <author role="editor" fullname="Andrew Shellshear"/>
-    <author role="editor" fullname="Anthony Grasso"/>
-    <author role="editor" fullname="Antoine Quint"/>
-    <author role="editor" fullname="Cameron McCormack"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="Craig Northway"/>
-    <author role="editor" fullname="Dean Jackson"/>
-    <author role="editor" fullname="Doug Schepers"/>
-    <author role="editor" fullname="Erik Dahlström"/>
-    <author role="editor" fullname="Jon Ferraiolo"/>
-    <author role="editor" fullname="Nandini Ramani"/>
-    <author role="editor" fullname="Ola Andersson"/>
-    <author role="editor" fullname="Robin Berjon"/>
-    <author role="editor" fullname="Scott Hayman"/>
-    <author role="editor" fullname="Vincent Hardy"/>
+    <author role="editor" fullname="Andreas Neumann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Emmons">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Shellshear">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anthony Grasso">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Craig Northway">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nandini Ramani">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ola Andersson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hayman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Hardy">
+      <organization/>
+    </author>
     <date year="2008" month="December" day="22"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-SVGTiny12-20081222"/>
 </reference>

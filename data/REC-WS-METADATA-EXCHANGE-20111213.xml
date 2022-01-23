@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-ws-metadata-exchange-20111213" target="https://www.w3.org/TR/2011/REC-ws-metadata-exchange-20111213/">
   <front>
     <title>Web Services Metadata Exchange (WS-MetadataExchange)</title>
-    <seriesInfo name="W3C REC" value="REC-ws-metadata-exchange-20111213"/>
-    <author role="editor" fullname="Ashok Malhotra"/>
-    <author role="editor" fullname="Doug Davis"/>
-    <author role="editor" fullname="Katy Warr"/>
-    <author role="editor" fullname="Wu Chou"/>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Davis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Katy Warr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wu Chou">
+      <organization/>
+    </author>
     <date year="2011" month="December" day="13"/>
     <workgroup>Web Services Resource Access Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-ws-metadata-exchange-20111213"/>
 </reference>

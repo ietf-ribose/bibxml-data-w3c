@@ -1,13 +1,23 @@
 <reference anchor="W3C.NOTE-soap12-email-20020703" target="https://www.w3.org/TR/2002/NOTE-soap12-email-20020703">
   <front>
     <title>SOAP Version 1.2 Email Binding</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-soap12-email-20020703"/>
-    <author role="editor" fullname="Glen Daniels"/>
-    <author role="editor" fullname="Highland Mary Mountain"/>
-    <author role="editor" fullname="Jacek Kopecky"/>
-    <author role="editor" fullname="Noah Mendelsohn"/>
-    <author role="editor" fullname="Stuart Williams"/>
+    <author role="editor" fullname="Glen Daniels">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Highland Mary Mountain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jacek Kopecky">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stuart Williams">
+      <organization/>
+    </author>
     <date year="2002" month="July" day="3"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-soap12-email-20020703"/>
 </reference>

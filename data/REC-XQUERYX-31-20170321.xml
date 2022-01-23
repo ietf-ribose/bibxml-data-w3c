@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-xqueryx-31-20170321" target="https://www.w3.org/TR/2017/REC-xqueryx-31-20170321/">
   <front>
     <title>XQueryX 3.1</title>
-    <seriesInfo name="W3C REC" value="REC-xqueryx-31-20170321"/>
-    <author role="editor" fullname="Jim Melton"/>
-    <author role="editor" fullname="Josh Spiegel"/>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Josh Spiegel">
+      <organization/>
+    </author>
     <date year="2017" month="March" day="21"/>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xqueryx-31-20170321"/>
 </reference>

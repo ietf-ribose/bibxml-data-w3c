@@ -1,13 +1,23 @@
 <reference anchor="W3C.SPSD-html52-20210128" target="https://www.w3.org/TR/2021/SPSD-html52-20210128/">
   <front>
     <title>HTML 5.2</title>
-    <seriesInfo name="W3C REC" value="SPSD-html52-20210128"/>
-    <author role="editor" fullname="Alex Danilo"/>
-    <author role="editor" fullname="Arron Eicholz"/>
-    <author role="editor" fullname="Sangwhan Moon"/>
-    <author role="editor" fullname="Steve Faulkner"/>
-    <author role="editor" fullname="Travis Leithead"/>
+    <author role="editor" fullname="Alex Danilo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arron Eicholz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sangwhan Moon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
     <date year="2021" month="January" day="28"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-html52-20210128"/>
 </reference>

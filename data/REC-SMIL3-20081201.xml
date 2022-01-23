@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-SMIL3-20081201" target="https://www.w3.org/TR/2008/REC-SMIL3-20081201/">
   <front>
     <title>Synchronized Multimedia Integration Language (SMIL 3.0)</title>
-    <seriesInfo name="W3C REC" value="REC-SMIL3-20081201"/>
-    <author role="editor" fullname="Dick Bulterman"/>
+    <author role="editor" fullname="Dick Bulterman">
+      <organization/>
+    </author>
     <date year="2008" month="December" day="1"/>
     <workgroup>Synchronized Multimedia Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-SMIL3-20081201"/>
 </reference>

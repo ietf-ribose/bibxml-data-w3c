@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-geolocation-API-v2-20170706" target="https://www.w3.org/TR/2017/NOTE-geolocation-API-v2-20170706/">
   <front>
     <title>Geolocation API Specification Level 2</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-geolocation-API-v2-20170706"/>
-    <author role="editor" fullname="Andrei Popescu"/>
-    <author role="editor" fullname="Stephen Block"/>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Block">
+      <organization/>
+    </author>
     <date year="2017" month="July" day="6"/>
     <workgroup>Geolocation Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-geolocation-API-v2-20170706"/>
 </reference>

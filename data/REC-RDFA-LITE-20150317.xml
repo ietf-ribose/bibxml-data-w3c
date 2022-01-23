@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-rdfa-lite-20150317" target="https://www.w3.org/TR/2015/REC-rdfa-lite-20150317/">
   <front>
     <title>RDFa Lite 1.1 - Second Edition</title>
-    <seriesInfo name="W3C REC" value="REC-rdfa-lite-20150317"/>
-    <author role="editor" fullname="Manu Sporny"/>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
     <date year="2015" month="March" day="17"/>
     <workgroup>RDFa Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rdfa-lite-20150317"/>
 </reference>

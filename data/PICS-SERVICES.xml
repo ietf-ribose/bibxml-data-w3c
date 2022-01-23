@@ -1,7 +1,6 @@
 <reference anchor="W3C.PICS-services" target="http://www.w3.org/TR/REC-PICS-services">
   <front>
     <title>Platform for Internet Content Selection (PICS) Rating Services and Rating Systems</title>
-    <seriesInfo name="W3C Recommendation" value="REC-PICS-services"/>
     <author fullname="Jim Miller" initials="J." surname="Miller">
       <organization abbrev="W3C">W3C</organization>
       <address>
@@ -31,4 +30,5 @@
     </author>
     <date year="1996" month="October" day="31"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="REC-PICS-services"/>
 </reference>

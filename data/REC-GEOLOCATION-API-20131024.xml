@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-geolocation-API-20131024" target="https://www.w3.org/TR/2013/REC-geolocation-API-20131024/">
   <front>
     <title>Geolocation API Specification</title>
-    <seriesInfo name="W3C REC" value="REC-geolocation-API-20131024"/>
-    <author role="editor" fullname="Andrei Popescu"/>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
     <date year="2013" month="October" day="24"/>
     <workgroup>Geolocation Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-geolocation-API-20131024"/>
 </reference>

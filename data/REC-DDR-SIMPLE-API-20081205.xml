@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-DDR-Simple-API-20081205" target="https://www.w3.org/TR/2008/REC-DDR-Simple-API-20081205/">
   <front>
     <title>Device Description Repository Simple API</title>
-    <seriesInfo name="W3C REC" value="REC-DDR-Simple-API-20081205"/>
-    <author role="editor" fullname="Ignacio Marin"/>
-    <author role="editor" fullname="Jo Rabin"/>
-    <author role="editor" fullname="Jose Manuel Cantera Fonseca"/>
-    <author role="editor" fullname="Rotan Hanrahan"/>
+    <author role="editor" fullname="Ignacio Marin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jose Manuel Cantera Fonseca">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rotan Hanrahan">
+      <organization/>
+    </author>
     <date year="2008" month="December" day="5"/>
     <workgroup>Mobile Web Initiative Device Description Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-DDR-Simple-API-20081205"/>
 </reference>

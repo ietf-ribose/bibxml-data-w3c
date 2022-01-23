@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-wai-aria-practices-20160714" target="https://www.w3.org/TR/2016/WD-wai-aria-practices-20160714/">
   <front>
     <title>WAI-ARIA 1.0 Authoring Practices</title>
-    <seriesInfo name="W3C WD" value="WD-wai-aria-practices-20160714"/>
-    <author role="editor" fullname="Joseph Scheuhammer"/>
-    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Joseph Scheuhammer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
     <date year="2016" month="July" day="14"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-practices-20160714"/>
 </reference>

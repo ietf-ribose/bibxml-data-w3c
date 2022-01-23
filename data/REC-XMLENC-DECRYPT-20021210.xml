@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-xmlenc-decrypt-20021210" target="https://www.w3.org/TR/2002/REC-xmlenc-decrypt-20021210">
   <front>
     <title>Decryption Transform for XML Signature</title>
-    <seriesInfo name="W3C REC" value="REC-xmlenc-decrypt-20021210"/>
-    <author role="editor" fullname="Hiroshi Maruyama"/>
-    <author role="editor" fullname="Merlin Hughes"/>
-    <author role="editor" fullname="Takeshi Imamura"/>
+    <author role="editor" fullname="Hiroshi Maruyama">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Merlin Hughes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takeshi Imamura">
+      <organization/>
+    </author>
     <date year="2002" month="December" day="10"/>
     <workgroup>XML Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xmlenc-decrypt-20021210"/>
 </reference>

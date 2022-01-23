@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-di-testing-20090512" target="https://www.w3.org/TR/2009/NOTE-di-testing-20090512/">
   <front>
     <title>Guidelines for writing device independent tests</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-di-testing-20090512"/>
-    <author role="editor" fullname="Carmelo Montanez"/>
-    <author role="editor" fullname="Dominique Hazaël-Massieux"/>
+    <author role="editor" fullname="Carmelo Montanez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dominique Hazaël-Massieux">
+      <organization/>
+    </author>
     <date year="2009" month="May" day="12"/>
     <workgroup>Mobile Web Test Suites Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-di-testing-20090512"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-owl-test-20040210" target="https://www.w3.org/TR/2004/REC-owl-test-20040210/">
   <front>
     <title>OWL Web Ontology Language Test Cases</title>
-    <seriesInfo name="W3C REC" value="REC-owl-test-20040210"/>
-    <author role="editor" fullname="Jeremy Carroll"/>
-    <author role="editor" fullname="Jos De Roo"/>
+    <author role="editor" fullname="Jeremy Carroll">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jos De Roo">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="10"/>
     <workgroup>Web-Ontology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl-test-20040210"/>
 </reference>

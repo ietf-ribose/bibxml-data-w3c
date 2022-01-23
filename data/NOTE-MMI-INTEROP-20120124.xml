@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-mmi-interop-20120124" target="https://www.w3.org/TR/2012/NOTE-mmi-interop-20120124/">
   <front>
     <title>MMI interoperability test report</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-mmi-interop-20120124"/>
-    <author role="editor" fullname="Ingmar Kliche"/>
+    <author role="editor" fullname="Ingmar Kliche">
+      <organization/>
+    </author>
     <date year="2012" month="January" day="24"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mmi-interop-20120124"/>
 </reference>

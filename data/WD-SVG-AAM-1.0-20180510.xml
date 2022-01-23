@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-svg-aam-1.0-20180510" target="https://www.w3.org/TR/2018/WD-svg-aam-1.0-20180510/">
   <front>
     <title>SVG Accessibility API Mappings</title>
-    <seriesInfo name="W3C WD" value="WD-svg-aam-1.0-20180510"/>
-    <author role="editor" fullname="Amelia Bellamy-Royds"/>
-    <author role="editor" fullname="Ian Pouncey"/>
+    <author role="editor" fullname="Amelia Bellamy-Royds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Pouncey">
+      <organization/>
+    </author>
     <date year="2018" month="May" day="10"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-svg-aam-1.0-20180510"/>
 </reference>

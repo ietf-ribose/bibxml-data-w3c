@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-ldp-20150226" target="https://www.w3.org/TR/2015/REC-ldp-20150226/">
   <front>
     <title>Linked Data Platform 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-ldp-20150226"/>
-    <author role="editor" fullname="Ashok Malhotra"/>
-    <author role="editor" fullname="John Arwe"/>
-    <author role="editor" fullname="Steve Speicher"/>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Arwe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Speicher">
+      <organization/>
+    </author>
     <date year="2015" month="February" day="26"/>
     <workgroup>Linked Data Platform Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-ldp-20150226"/>
 </reference>

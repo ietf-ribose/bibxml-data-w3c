@@ -1,7 +1,6 @@
 <reference anchor="W3C.xmlenc-core" target="http://www.w3.org/TR/xmlenc-core/">
   <front>
     <title>XML Encryption Syntax and Processing</title>
-    <seriesInfo name="W3C Candidate Recommendation" value="xmlenc-core"/>
     <author fullname="Donald Eastlake" initials="D." surname="Eastlake">
       <organization>Motorola</organization>
       <address>
@@ -16,4 +15,5 @@
     </author>
     <date year="2002" month="August"/>
   </front>
+  <seriesInfo name="W3C Candidate Recommendation" value="xmlenc-core"/>
 </reference>

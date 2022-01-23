@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-viss2-core-20210729" target="https://www.w3.org/TR/2021/WD-viss2-core-20210729/">
   <front>
     <title>VISS version 2 - Core</title>
-    <seriesInfo name="W3C WD" value="WD-viss2-core-20210729"/>
-    <author role="editor" fullname="Isaac Agudo"/>
-    <author role="editor" fullname="Ulf Bjorkengren"/>
+    <author role="editor" fullname="Isaac Agudo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ulf Bjorkengren">
+      <organization/>
+    </author>
     <date year="2021" month="July" day="29"/>
     <workgroup>Automotive Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-viss2-core-20210729"/>
 </reference>

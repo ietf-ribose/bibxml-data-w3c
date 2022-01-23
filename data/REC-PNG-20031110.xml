@@ -1,8 +1,10 @@
 <reference anchor="W3C.REC-PNG-20031110" target="https://www.w3.org/TR/2003/REC-PNG-20031110/">
   <front>
     <title>Portable Network Graphics (PNG) Specification (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-PNG-20031110"/>
-    <author role="editor" fullname="David Duce"/>
+    <author role="editor" fullname="David Duce">
+      <organization/>
+    </author>
     <date year="2003" month="November" day="10"/>
   </front>
+  <seriesInfo name="W3C REC" value="REC-PNG-20031110"/>
 </reference>

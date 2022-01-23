@@ -1,7 +1,6 @@
 <reference anchor="W3C.soap12-part1" target="http://www.w3.org/TR/soap12-part1">
   <front>
     <title>SOAP Version 1.2 Part 1: Messaging Framework</title>
-    <seriesInfo name="W3C Working Draft" value="soap12-part1"/>
     <author fullname="Martin Gudgin" initials="M." surname="Gudgin">
       <organization>Developmentor</organization>
       <address>
@@ -34,4 +33,5 @@
     </author>
     <date year="2002" month="June" day="26"/>
   </front>
+  <seriesInfo name="W3C Working Draft" value="soap12-part1"/>
 </reference>

@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-act-rules-aspects-20190416" target="https://www.w3.org/TR/2019/NOTE-act-rules-aspects-20190416/">
   <front>
     <title>Accessibility Conformance Testing (ACT) Rules: Common Input Aspects</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-act-rules-aspects-20190416"/>
-    <author role="editor" fullname="Mary Jo Mueller"/>
-    <author role="editor" fullname="Maureen Kraft"/>
-    <author role="editor" fullname="Shadi Abou-Zahra"/>
-    <author role="editor" fullname="Wilco Fiers"/>
+    <author role="editor" fullname="Mary Jo Mueller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maureen Kraft">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shadi Abou-Zahra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wilco Fiers">
+      <organization/>
+    </author>
     <date year="2019" month="April" day="16"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-act-rules-aspects-20190416"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-xbc-use-cases-20050331" target="https://www.w3.org/TR/2005/NOTE-xbc-use-cases-20050331/">
   <front>
     <title>XML Binary Characterization Use Cases</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xbc-use-cases-20050331"/>
-    <author role="editor" fullname="Michael Cokus"/>
-    <author role="editor" fullname="Santiago Pericas-Geertsen"/>
+    <author role="editor" fullname="Michael Cokus">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Santiago Pericas-Geertsen">
+      <organization/>
+    </author>
     <date year="2005" month="March" day="31"/>
     <workgroup>XML Binary Characterization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xbc-use-cases-20050331"/>
 </reference>

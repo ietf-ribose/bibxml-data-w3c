@@ -1,13 +1,23 @@
 <reference anchor="W3C.WD-pronunciation-user-scenarios-20190905" target="https://www.w3.org/TR/2019/WD-pronunciation-user-scenarios-20190905/">
   <front>
     <title>Pronunciation User Scenarios</title>
-    <seriesInfo name="W3C WD" value="WD-pronunciation-user-scenarios-20190905"/>
-    <author role="editor" fullname="Christine Loew"/>
-    <author role="editor" fullname="Irfan Ali"/>
-    <author role="editor" fullname="Paul Grenier"/>
-    <author role="editor" fullname="Ruoxi Ran"/>
-    <author role="editor" fullname="Sam Kanta"/>
+    <author role="editor" fullname="Christine Loew">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Irfan Ali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grenier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sam Kanta">
+      <organization/>
+    </author>
     <date year="2019" month="September" day="5"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-pronunciation-user-scenarios-20190905"/>
 </reference>

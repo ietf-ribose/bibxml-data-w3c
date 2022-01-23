@@ -1,7 +1,6 @@
 <reference anchor="W3C.DSig-label" target="http://www.w3.org/TR/REC-DSig-label">
   <front>
     <title>PICS Signed Labels (DSig) 1.0 Specification</title>
-    <seriesInfo name="W3C Recommendation" value="REC-DSig-label"/>
     <author fullname="Yang-hua Chu" initials="Y." surname="Chu ">
       <organization>Carnegie Mellon University, Department of Computer Science</organization>
       <address>
@@ -28,4 +27,5 @@
     </author>
     <date year="1998" month="May" day="27"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="REC-DSig-label"/>
 </reference>

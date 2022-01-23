@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-mathml-for-css-20110607" target="https://www.w3.org/TR/2011/REC-mathml-for-css-20110607/">
   <front>
     <title>A MathML for CSS Profile</title>
-    <seriesInfo name="W3C REC" value="REC-mathml-for-css-20110607"/>
-    <author role="editor" fullname="Bert Bos"/>
-    <author role="editor" fullname="Bruce Miller"/>
-    <author role="editor" fullname="David Carlisle"/>
-    <author role="editor" fullname="Giorgi Chavchanidze"/>
-    <author role="editor" fullname="Patrick D F Ion"/>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bruce Miller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Giorgi Chavchanidze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick D F Ion">
+      <organization/>
+    </author>
     <date year="2011" month="June" day="7"/>
     <workgroup>Math Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-mathml-for-css-20110607"/>
 </reference>

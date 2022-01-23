@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-mwabp-20101214" target="https://www.w3.org/TR/2010/REC-mwabp-20101214/">
   <front>
     <title>Mobile Web Application Best Practices</title>
-    <seriesInfo name="W3C REC" value="REC-mwabp-20101214"/>
-    <author role="editor" fullname="Adam Connors"/>
-    <author role="editor" fullname="Bryan Sullivan"/>
+    <author role="editor" fullname="Adam Connors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bryan Sullivan">
+      <organization/>
+    </author>
     <date year="2010" month="December" day="14"/>
     <workgroup>Mobile Web Best Practices Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-mwabp-20101214"/>
 </reference>

@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-void-20110303" target="https://www.w3.org/TR/2011/NOTE-void-20110303/">
   <front>
     <title>Describing Linked Datasets with the VoID Vocabulary</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-void-20110303"/>
-    <author role="editor" fullname="Jun Zhao"/>
-    <author role="editor" fullname="Keith Alexander"/>
-    <author role="editor" fullname="Michael Hausenblas"/>
-    <author role="editor" fullname="Richard Cyganiak"/>
+    <author role="editor" fullname="Jun Zhao">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keith Alexander">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Hausenblas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Cyganiak">
+      <organization/>
+    </author>
     <date year="2011" month="March" day="3"/>
     <workgroup>Semantic Web Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-void-20110303"/>
 </reference>

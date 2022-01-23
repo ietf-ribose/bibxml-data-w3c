@@ -1,15 +1,29 @@
 <reference anchor="W3C.REC-soap12-testcollection-20030624" target="https://www.w3.org/TR/2003/REC-soap12-testcollection-20030624/">
   <front>
     <title>SOAP Version 1.2 Specification Assertions and Test Collection</title>
-    <seriesInfo name="W3C REC" value="REC-soap12-testcollection-20030624"/>
-    <author role="editor" fullname="Anish Karmarkar"/>
-    <author role="editor" fullname="Hugo Haas"/>
-    <author role="editor" fullname="Jeff Mischkinsky"/>
-    <author role="editor" fullname="Lynne R. Thompson"/>
-    <author role="editor" fullname="Mark Jones"/>
-    <author role="editor" fullname="Oisin Hurley"/>
-    <author role="editor" fullname="Richard D. Martin"/>
+    <author role="editor" fullname="Anish Karmarkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hugo Haas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Mischkinsky">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lynne R. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Oisin Hurley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard D. Martin">
+      <organization/>
+    </author>
     <date year="2003" month="June" day="24"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-soap12-testcollection-20030624"/>
 </reference>

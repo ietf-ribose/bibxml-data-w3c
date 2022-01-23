@@ -1,15 +1,27 @@
 <reference anchor="W3C.REC-xpath-datamodel-20101214" target="https://www.w3.org/TR/2010/REC-xpath-datamodel-20101214/">
   <front>
     <title>XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-xpath-datamodel-20101214"/>
-    <author role="editor" fullname="Anders Berglund"/>
-    <author role="editor" fullname="Ashok Malhotra"/>
-    <author role="editor" fullname="Jonathan Marsh"/>
-    <author role="editor" fullname="Marton Nagy"/>
-    <author role="editor" fullname="Mary Fernandez"/>
-    <author role="editor" fullname="Norman Walsh"/>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marton Nagy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernandez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
     <date year="2010" month="December" day="14"/>
     <workgroup>Extensible Stylesheet Language Family</workgroup>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xpath-datamodel-20101214"/>
 </reference>

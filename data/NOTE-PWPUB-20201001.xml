@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-pwpub-20201001" target="https://www.w3.org/TR/2020/NOTE-pwpub-20201001/">
   <front>
     <title>Packaged Web Publications</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-pwpub-20201001"/>
-    <author role="editor" fullname="David Wood"/>
+    <author role="editor" fullname="David Wood">
+      <organization/>
+    </author>
     <date year="2020" month="October" day="1"/>
     <workgroup>Audiobooks Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-pwpub-20201001"/>
 </reference>

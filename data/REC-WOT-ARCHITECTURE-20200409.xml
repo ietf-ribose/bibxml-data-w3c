@@ -1,14 +1,26 @@
 <reference anchor="W3C.REC-wot-architecture-20200409" target="https://www.w3.org/TR/2020/REC-wot-architecture-20200409/">
   <front>
     <title>Web of Things (WoT) Architecture</title>
-    <seriesInfo name="W3C REC" value="REC-wot-architecture-20200409"/>
-    <author role="editor" fullname="Kazuo Kajimoto"/>
-    <author role="editor" fullname="Kunihiko Toumura"/>
-    <author role="editor" fullname="Matthias Kovatsch"/>
-    <author role="editor" fullname="Michael Lagally"/>
-    <author role="editor" fullname="Ryuichi Matsukura"/>
-    <author role="editor" fullname="Toru Kawaguchi"/>
+    <author role="editor" fullname="Kazuo Kajimoto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kunihiko Toumura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthias Kovatsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Lagally">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryuichi Matsukura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toru Kawaguchi">
+      <organization/>
+    </author>
     <date year="2020" month="April" day="9"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-wot-architecture-20200409"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.OBSL-widgets-apis-20181011" target="https://www.w3.org/TR/2018/OBSL-widgets-apis-20181011/">
   <front>
     <title>Widget Interface</title>
-    <seriesInfo name="W3C REC" value="OBSL-widgets-apis-20181011"/>
-    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
     <date year="2018" month="October" day="11"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="OBSL-widgets-apis-20181011"/>
 </reference>

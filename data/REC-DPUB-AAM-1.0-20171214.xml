@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-dpub-aam-1.0-20171214" target="https://www.w3.org/TR/2017/REC-dpub-aam-1.0-20171214/">
   <front>
     <title>Digital Publishing Accessibility API Mappings</title>
-    <seriesInfo name="W3C REC" value="REC-dpub-aam-1.0-20171214"/>
-    <author role="editor" fullname="Joanmarie Diggs"/>
-    <author role="editor" fullname="Richard Schwerdtfeger"/>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
     <date year="2017" month="December" day="14"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-dpub-aam-1.0-20171214"/>
 </reference>

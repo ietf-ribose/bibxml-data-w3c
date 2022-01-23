@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-CSP2-20161215" target="https://www.w3.org/TR/2016/REC-CSP2-20161215/">
   <front>
     <title>Content Security Policy Level 2</title>
-    <seriesInfo name="W3C REC" value="REC-CSP2-20161215"/>
-    <author role="editor" fullname="Adam Barth"/>
-    <author role="editor" fullname="Daniel Veditz"/>
-    <author role="editor" fullname="Mike West"/>
+    <author role="editor" fullname="Adam Barth">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Veditz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
     <date year="2016" month="December" day="15"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-CSP2-20161215"/>
 </reference>

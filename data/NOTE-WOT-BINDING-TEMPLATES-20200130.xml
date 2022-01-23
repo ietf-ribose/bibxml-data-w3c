@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-wot-binding-templates-20200130" target="https://www.w3.org/TR/2020/NOTE-wot-binding-templates-20200130/">
   <front>
     <title>Web of Things (WoT) Binding Templates</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-wot-binding-templates-20200130"/>
-    <author role="editor" fullname="Ege Korkan"/>
-    <author role="editor" fullname="Michael Koster"/>
+    <author role="editor" fullname="Ege Korkan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Koster">
+      <organization/>
+    </author>
     <date year="2020" month="January" day="30"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wot-binding-templates-20200130"/>
 </reference>

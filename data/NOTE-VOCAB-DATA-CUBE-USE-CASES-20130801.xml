@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-vocab-data-cube-use-cases-20130801" target="https://www.w3.org/TR/2013/NOTE-vocab-data-cube-use-cases-20130801/">
   <front>
     <title>Use Cases and Lessons for the Data Cube Vocabulary</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-vocab-data-cube-use-cases-20130801"/>
-    <author role="editor" fullname="Benedikt Kaempgen"/>
-    <author role="editor" fullname="Richard Cyganiak"/>
+    <author role="editor" fullname="Benedikt Kaempgen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Cyganiak">
+      <organization/>
+    </author>
     <date year="2013" month="August" day="1"/>
     <workgroup>Government Linked Data Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vocab-data-cube-use-cases-20130801"/>
 </reference>

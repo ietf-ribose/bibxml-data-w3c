@@ -1,7 +1,6 @@
 <reference anchor="W3C.soap11" target="http://www.w3.org/TR/SOAP/">
   <front>
     <title>Simple Object Access Protocol (SOAP) 1.1</title>
-    <seriesInfo name="W3C Note" value="soap11"/>
     <author fullname="Don Box" initials="D." surname="Box">
       <organization>Developmentor</organization>
       <address>
@@ -52,4 +51,5 @@
     </author>
     <date year="2000" month="May"/>
   </front>
+  <seriesInfo name="W3C Note" value="soap11"/>
 </reference>

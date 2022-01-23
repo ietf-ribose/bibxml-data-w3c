@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-mmi-use-cases-20021204" target="https://www.w3.org/TR/2002/NOTE-mmi-use-cases-20021204/">
   <front>
     <title>Multimodal Interaction Use Cases</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-mmi-use-cases-20021204"/>
-    <author role="editor" fullname="Dave Raggett"/>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
     <date year="2002" month="December" day="4"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mmi-use-cases-20021204"/>
 </reference>

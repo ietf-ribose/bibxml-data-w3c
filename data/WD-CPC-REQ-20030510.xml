@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-cpc-req-20030510" target="https://www.w3.org/TR/2003/WD-cpc-req-20030510/">
   <front>
     <title>Core Presentation Characteristics: Requirements and Use Cases</title>
-    <seriesInfo name="W3C WD" value="WD-cpc-req-20030510"/>
-    <author role="editor" fullname="Amy Yu"/>
-    <author role="editor" fullname="Markus Lauff"/>
+    <author role="editor" fullname="Amy Yu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Lauff">
+      <organization/>
+    </author>
     <date year="2003" month="May" day="10"/>
     <workgroup>Device Independence Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-cpc-req-20030510"/>
 </reference>

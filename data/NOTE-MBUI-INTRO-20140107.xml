@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-mbui-intro-20140107" target="https://www.w3.org/TR/2014/NOTE-mbui-intro-20140107/">
   <front>
     <title>Introduction to Model-Based User Interfaces</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-mbui-intro-20140107"/>
-    <author role="editor" fullname="Gaelle Calvary"/>
-    <author role="editor" fullname="Gerrit Meixner"/>
+    <author role="editor" fullname="Gaelle Calvary">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gerrit Meixner">
+      <organization/>
+    </author>
     <date year="2014" month="January" day="7"/>
     <workgroup>Model-Based User Interfaces Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mbui-intro-20140107"/>
 </reference>

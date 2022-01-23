@@ -1,11 +1,15 @@
 <reference anchor="W3C.NOTE-fullscreen-20141118" target="https://www.w3.org/TR/2014/NOTE-fullscreen-20141118/">
   <front>
     <title>Fullscreen</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-fullscreen-20141118"/>
-    <author role="editor" fullname="Anne van Kesteren"/>
-    <author role="editor" fullname="Tantek Çelik"/>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
     <date year="2014" month="November" day="18"/>
     <workgroup>Web Applications Working Group</workgroup>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-fullscreen-20141118"/>
 </reference>

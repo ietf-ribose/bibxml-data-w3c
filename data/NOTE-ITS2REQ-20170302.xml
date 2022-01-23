@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-its2req-20170302" target="https://www.w3.org/TR/2017/NOTE-its2req-20170302/">
   <front>
     <title>Requirements for Internationalization Tag Set (ITS) 2.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-its2req-20170302"/>
-    <author role="editor" fullname="Arle Lommel"/>
-    <author role="editor" fullname="David Lewis"/>
-    <author role="editor" fullname="Felix Sasaki"/>
+    <author role="editor" fullname="Arle Lommel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
     <date year="2017" month="March" day="2"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-its2req-20170302"/>
 </reference>

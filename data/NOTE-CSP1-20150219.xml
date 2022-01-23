@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-CSP1-20150219" target="https://www.w3.org/TR/2015/NOTE-CSP1-20150219/">
   <front>
     <title>Content Security Policy 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-CSP1-20150219"/>
-    <author role="editor" fullname="Adam Barth"/>
-    <author role="editor" fullname="Brandon Sterne"/>
+    <author role="editor" fullname="Adam Barth">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brandon Sterne">
+      <organization/>
+    </author>
     <date year="2015" month="February" day="19"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CSP1-20150219"/>
 </reference>

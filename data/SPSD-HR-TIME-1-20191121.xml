@@ -1,9 +1,11 @@
 <reference anchor="W3C.SPSD-hr-time-1-20191121" target="https://www.w3.org/TR/2019/SPSD-hr-time-1-20191121/">
   <front>
     <title>High Resolution Time</title>
-    <seriesInfo name="W3C REC" value="SPSD-hr-time-1-20191121"/>
-    <author role="editor" fullname="Michael McKeough"/>
+    <author role="editor" fullname="Michael McKeough">
+      <organization/>
+    </author>
     <date year="2019" month="November" day="21"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-hr-time-1-20191121"/>
 </reference>

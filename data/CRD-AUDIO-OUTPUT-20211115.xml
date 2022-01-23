@@ -1,11 +1,17 @@
 <reference anchor="W3C.CRD-audio-output-20211115" target="https://www.w3.org/TR/2021/CRD-audio-output-20211115/">
   <front>
     <title>Audio Output Devices API</title>
-    <seriesInfo name="W3C CR" value="CRD-audio-output-20211115"/>
-    <author role="editor" fullname="Guido Urdaneta"/>
-    <author role="editor" fullname="Justin Uberti"/>
-    <author role="editor" fullname="youenn fablet"/>
+    <author role="editor" fullname="Guido Urdaneta">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Justin Uberti">
+      <organization/>
+    </author>
+    <author role="editor" fullname="youenn fablet">
+      <organization/>
+    </author>
     <date year="2021" month="November" day="15"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CRD-audio-output-20211115"/>
 </reference>

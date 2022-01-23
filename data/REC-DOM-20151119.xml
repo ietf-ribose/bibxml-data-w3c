@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-dom-20151119" target="https://www.w3.org/TR/2015/REC-dom-20151119/">
   <front>
     <title>W3C DOM4</title>
-    <seriesInfo name="W3C REC" value="REC-dom-20151119"/>
-    <author role="editor" fullname=". Ms2ger"/>
-    <author role="editor" fullname="Alex Russell"/>
-    <author role="editor" fullname="Anne van Kesteren"/>
-    <author role="editor" fullname="Aryeh Gregor"/>
-    <author role="editor" fullname="Robin Berjon"/>
+    <author role="editor" fullname=". Ms2ger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Alex Russell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Aryeh Gregor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
     <date year="2015" month="November" day="19"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-dom-20151119"/>
 </reference>

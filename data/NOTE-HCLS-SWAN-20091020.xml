@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-hcls-swan-20091020" target="https://www.w3.org/TR/2009/NOTE-hcls-swan-20091020/">
   <front>
     <title>Semantic Web Applications in Neuromedicine (SWAN) Ontology</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-hcls-swan-20091020"/>
-    <author role="editor" fullname="Paolo Ciccarese"/>
+    <author role="editor" fullname="Paolo Ciccarese">
+      <organization/>
+    </author>
     <date year="2009" month="October" day="20"/>
     <workgroup>Semantic Web Health Care and Life Sciences Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-hcls-swan-20091020"/>
 </reference>

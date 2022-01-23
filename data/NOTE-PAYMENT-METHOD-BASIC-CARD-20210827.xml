@@ -1,14 +1,26 @@
 <reference anchor="W3C.NOTE-payment-method-basic-card-20210827" target="https://www.w3.org/TR/2021/NOTE-payment-method-basic-card-20210827/">
   <front>
     <title>Payment Method: Basic Card</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-payment-method-basic-card-20210827"/>
-    <author role="editor" fullname="Adrian Bateman"/>
-    <author role="editor" fullname="Domenic Denicola"/>
-    <author role="editor" fullname="Ian Jacobs"/>
-    <author role="editor" fullname="Marcos Caceres"/>
-    <author role="editor" fullname="Roy McElmurry"/>
-    <author role="editor" fullname="Zach Koch"/>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Domenic Denicola">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roy McElmurry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zach Koch">
+      <organization/>
+    </author>
     <date year="2021" month="August" day="27"/>
     <workgroup>Web Payments Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-payment-method-basic-card-20210827"/>
 </reference>

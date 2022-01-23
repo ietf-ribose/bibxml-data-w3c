@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-owl-parsing-20040121" target="https://www.w3.org/TR/2004/NOTE-owl-parsing-20040121/">
   <front>
     <title>OWL Web Ontology Language Parsing OWL in RDF/XML</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-owl-parsing-20040121"/>
-    <author role="editor" fullname="Sean Bechhofer"/>
+    <author role="editor" fullname="Sean Bechhofer">
+      <organization/>
+    </author>
     <date year="2004" month="January" day="21"/>
     <workgroup>Web-Ontology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-owl-parsing-20040121"/>
 </reference>

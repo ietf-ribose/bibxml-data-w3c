@@ -1,9 +1,11 @@
 <reference anchor="W3C.CR-upgrade-insecure-requests-20151008" target="https://www.w3.org/TR/2015/CR-upgrade-insecure-requests-20151008/">
   <front>
     <title>Upgrade Insecure Requests</title>
-    <seriesInfo name="W3C CR" value="CR-upgrade-insecure-requests-20151008"/>
-    <author role="editor" fullname="Mike West"/>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
     <date year="2015" month="October" day="8"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-upgrade-insecure-requests-20151008"/>
 </reference>

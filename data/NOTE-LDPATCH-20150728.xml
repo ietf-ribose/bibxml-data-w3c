@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-ldpatch-20150728" target="https://www.w3.org/TR/2015/NOTE-ldpatch-20150728/">
   <front>
     <title>Linked Data Patch Format</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-ldpatch-20150728"/>
-    <author role="editor" fullname="Alexandre Bertails"/>
-    <author role="editor" fullname="Andrei Sambra"/>
-    <author role="editor" fullname="Pierre-Antoine Champin"/>
+    <author role="editor" fullname="Alexandre Bertails">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrei Sambra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pierre-Antoine Champin">
+      <organization/>
+    </author>
     <date year="2015" month="July" day="28"/>
     <workgroup>Linked Data Platform Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ldpatch-20150728"/>
 </reference>

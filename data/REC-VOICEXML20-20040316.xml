@@ -1,18 +1,38 @@
 <reference anchor="W3C.REC-voicexml20-20040316" target="https://www.w3.org/TR/2004/REC-voicexml20-20040316/">
   <front>
     <title>Voice Extensible Markup Language (VoiceXML) Version 2.0</title>
-    <seriesInfo name="W3C REC" value="REC-voicexml20-20040316"/>
-    <author role="editor" fullname="Andrew Hunt"/>
-    <author role="editor" fullname="Brandon Porter"/>
-    <author role="editor" fullname="Bruce Lucas"/>
-    <author role="editor" fullname="Daniel Burnett"/>
-    <author role="editor" fullname="Jerry Carter"/>
-    <author role="editor" fullname="Jim Ferrans"/>
-    <author role="editor" fullname="Kenneth Rehor"/>
-    <author role="editor" fullname="Peter Danielsen"/>
-    <author role="editor" fullname="Scott McGlashan"/>
-    <author role="editor" fullname="Steph Tryphonas"/>
+    <author role="editor" fullname="Andrew Hunt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brandon Porter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bruce Lucas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Carter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Ferrans">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Rehor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Danielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott McGlashan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steph Tryphonas">
+      <organization/>
+    </author>
     <date year="2004" month="March" day="16"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-voicexml20-20040316"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-localizable-manifests-20210824" target="https://www.w3.org/TR/2021/WD-localizable-manifests-20210824/">
   <front>
     <title>Developing Localizable Manifests</title>
-    <seriesInfo name="W3C WD" value="WD-localizable-manifests-20210824"/>
-    <author role="editor" fullname="Addison Phillips"/>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
     <date year="2021" month="August" day="24"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-localizable-manifests-20210824"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-ws-chor-model-20040324" target="https://www.w3.org/TR/2004/WD-ws-chor-model-20040324/">
   <front>
     <title>WS Choreography Model Overview</title>
-    <seriesInfo name="W3C WD" value="WD-ws-chor-model-20040324"/>
-    <author role="editor" fullname="David Burdett"/>
-    <author role="editor" fullname="Nickolas Kavantzas"/>
+    <author role="editor" fullname="David Burdett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nickolas Kavantzas">
+      <organization/>
+    </author>
     <date year="2004" month="March" day="24"/>
     <workgroup>Web Services Choreography Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-ws-chor-model-20040324"/>
 </reference>

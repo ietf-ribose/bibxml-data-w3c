@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-html-design-principles-20071126" target="https://www.w3.org/TR/2007/WD-html-design-principles-20071126/">
   <front>
     <title>HTML Design Principles</title>
-    <seriesInfo name="W3C WD" value="WD-html-design-principles-20071126"/>
-    <author role="editor" fullname="Anne van Kesteren"/>
-    <author role="editor" fullname="Maciej Stachowiak"/>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maciej Stachowiak">
+      <organization/>
+    </author>
     <date year="2007" month="November" day="26"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-html-design-principles-20071126"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.SPSD-user-timing-1-20190226" target="https://www.w3.org/TR/2019/SPSD-user-timing-1-20190226/">
   <front>
     <title>User Timing</title>
-    <seriesInfo name="W3C REC" value="SPSD-user-timing-1-20190226"/>
-    <author role="editor" fullname="Anderson Quach"/>
-    <author role="editor" fullname="Jatinder Mann"/>
-    <author role="editor" fullname="Zhiheng Wang"/>
+    <author role="editor" fullname="Anderson Quach">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
     <date year="2019" month="February" day="26"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-user-timing-1-20190226"/>
 </reference>

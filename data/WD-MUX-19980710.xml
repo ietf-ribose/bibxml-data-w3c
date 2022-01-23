@@ -1,9 +1,13 @@
 <reference anchor="W3C.WD-mux-19980710" target="https://www.w3.org/TR/1998/WD-mux-19980710">
   <front>
     <title>SMUX Protocol Specification</title>
-    <seriesInfo name="W3C WD" value="WD-mux-19980710"/>
-    <author role="editor" fullname="Henrik Frystyk Nielsen"/>
-    <author role="editor" fullname="Jim Gettys"/>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Gettys">
+      <organization/>
+    </author>
     <date year="1998" month="July" day="10"/>
   </front>
+  <seriesInfo name="W3C WD" value="WD-mux-19980710"/>
 </reference>

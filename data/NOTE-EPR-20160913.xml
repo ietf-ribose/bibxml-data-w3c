@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-epr-20160913" target="https://www.w3.org/TR/2016/NOTE-epr-20160913/">
   <front>
     <title>Entry Point Regulation</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-epr-20160913"/>
-    <author role="editor" fullname="Mike West"/>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
     <date year="2016" month="September" day="13"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-epr-20160913"/>
 </reference>

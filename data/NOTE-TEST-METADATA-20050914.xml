@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-test-metadata-20050914" target="https://www.w3.org/TR/2005/NOTE-test-metadata-20050914/">
   <front>
     <title>Test Metadata</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-test-metadata-20050914"/>
-    <author role="editor" fullname="Karl Dubost"/>
-    <author role="editor" fullname="Patrick Curran"/>
+    <author role="editor" fullname="Karl Dubost">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Curran">
+      <organization/>
+    </author>
     <date year="2005" month="September" day="14"/>
     <workgroup>Quality Assurance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-test-metadata-20050914"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-clear-site-data-20171130" target="https://www.w3.org/TR/2017/WD-clear-site-data-20171130/">
   <front>
     <title>Clear Site Data</title>
-    <seriesInfo name="W3C WD" value="WD-clear-site-data-20171130"/>
-    <author role="editor" fullname="Mike West"/>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
     <date year="2017" month="November" day="30"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-clear-site-data-20171130"/>
 </reference>

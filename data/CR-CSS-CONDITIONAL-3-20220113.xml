@@ -1,11 +1,17 @@
 <reference anchor="W3C.CR-css-conditional-3-20220113" target="https://www.w3.org/TR/2022/CR-css-conditional-3-20220113/">
   <front>
     <title>CSS Conditional Rules Module Level 3</title>
-    <seriesInfo name="W3C CR" value="CR-css-conditional-3-20220113"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="David Baron"/>
-    <author role="editor" fullname="Elika Etemad"/>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Baron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
     <date year="2022" month="January" day="13"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-css-conditional-3-20220113"/>
 </reference>

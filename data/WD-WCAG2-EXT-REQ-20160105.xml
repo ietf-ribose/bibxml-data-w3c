@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-wcag2-ext-req-20160105" target="https://www.w3.org/TR/2016/WD-wcag2-ext-req-20160105/">
   <front>
     <title>Requirements for WCAG 2.0 Extensions</title>
-    <seriesInfo name="W3C WD" value="WD-wcag2-ext-req-20160105"/>
-    <author role="editor" fullname="Andrew Kirkpatrick"/>
-    <author role="editor" fullname="Joshue O'Connor"/>
-    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Andrew Kirkpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
     <date year="2016" month="January" day="5"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-wcag2-ext-req-20160105"/>
 </reference>

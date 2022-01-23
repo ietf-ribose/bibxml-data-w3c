@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-xopinc-FAQ-20040608" target="https://www.w3.org/TR/2004/NOTE-xopinc-FAQ-20040608/">
   <front>
     <title>XOP Inclusion Mechanism - Frequently Asked Questions</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xopinc-FAQ-20040608"/>
-    <author role="editor" fullname="Michael Mahan"/>
+    <author role="editor" fullname="Michael Mahan">
+      <organization/>
+    </author>
     <date year="2004" month="June" day="8"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xopinc-FAQ-20040608"/>
 </reference>

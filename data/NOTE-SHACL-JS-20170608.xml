@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-shacl-js-20170608" target="https://www.w3.org/TR/2017/NOTE-shacl-js-20170608/">
   <front>
     <title>SHACL JavaScript Extensions</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-shacl-js-20170608"/>
-    <author role="editor" fullname="Holger Knublauch"/>
-    <author role="editor" fullname="Pano Maria"/>
+    <author role="editor" fullname="Holger Knublauch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pano Maria">
+      <organization/>
+    </author>
     <date year="2017" month="June" day="8"/>
     <workgroup>RDF Data Shapes Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-shacl-js-20170608"/>
 </reference>

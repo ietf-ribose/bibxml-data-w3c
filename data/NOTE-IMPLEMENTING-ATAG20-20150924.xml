@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-IMPLEMENTING-ATAG20-20150924" target="https://www.w3.org/TR/2015/NOTE-IMPLEMENTING-ATAG20-20150924/">
   <front>
     <title>Implementing ATAG 2.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-IMPLEMENTING-ATAG20-20150924"/>
-    <author role="editor" fullname="Jan Richards"/>
-    <author role="editor" fullname="Jeanne F Spellman"/>
-    <author role="editor" fullname="Jutta Treviranus"/>
+    <author role="editor" fullname="Jan Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeanne F Spellman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jutta Treviranus">
+      <organization/>
+    </author>
     <date year="2015" month="September" day="24"/>
     <workgroup>Authoring Tool Accessibility Guidelines Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-IMPLEMENTING-ATAG20-20150924"/>
 </reference>

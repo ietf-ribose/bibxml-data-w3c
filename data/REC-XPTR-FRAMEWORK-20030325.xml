@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-xptr-framework-20030325" target="https://www.w3.org/TR/2003/REC-xptr-framework-20030325/">
   <front>
     <title>XPointer Framework</title>
-    <seriesInfo name="W3C REC" value="REC-xptr-framework-20030325"/>
-    <author role="editor" fullname="Eve Maler"/>
-    <author role="editor" fullname="Jonathan Marsh"/>
-    <author role="editor" fullname="Norman Walsh"/>
-    <author role="editor" fullname="Paul Grosso"/>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grosso">
+      <organization/>
+    </author>
     <date year="2003" month="March" day="25"/>
     <workgroup>XML Linking Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xptr-framework-20030325"/>
 </reference>

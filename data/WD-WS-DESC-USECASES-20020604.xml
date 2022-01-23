@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-ws-desc-usecases-20020604" target="https://www.w3.org/TR/2002/WD-ws-desc-usecases-20020604/">
   <front>
     <title>Web Service Description Usage Scenarios</title>
-    <seriesInfo name="W3C WD" value="WD-ws-desc-usecases-20020604"/>
-    <author role="editor" fullname="Sandeep Kumar"/>
-    <author role="editor" fullname="Waqar Sadiq"/>
+    <author role="editor" fullname="Sandeep Kumar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Waqar Sadiq">
+      <organization/>
+    </author>
     <date year="2002" month="June" day="4"/>
     <workgroup>Web Services Description Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-ws-desc-usecases-20020604"/>
 </reference>

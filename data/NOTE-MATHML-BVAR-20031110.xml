@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-mathml-bvar-20031110" target="https://www.w3.org/TR/2003/NOTE-mathml-bvar-20031110/">
   <front>
     <title>Bound Variables in MathML</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-mathml-bvar-20031110"/>
-    <author role="editor" fullname="Michael Kohlhase"/>
-    <author role="editor" fullname="Stan Devitt"/>
+    <author role="editor" fullname="Michael Kohlhase">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stan Devitt">
+      <organization/>
+    </author>
     <date year="2003" month="November" day="10"/>
     <workgroup>Math Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mathml-bvar-20031110"/>
 </reference>

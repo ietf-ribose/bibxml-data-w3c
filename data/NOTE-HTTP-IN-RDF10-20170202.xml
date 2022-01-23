@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-HTTP-in-RDF10-20170202" target="https://www.w3.org/TR/2017/NOTE-HTTP-in-RDF10-20170202/">
   <front>
     <title>HTTP Vocabulary in RDF 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-HTTP-in-RDF10-20170202"/>
-    <author role="editor" fullname="Carlos A. Velasco"/>
-    <author role="editor" fullname="Johannes Koch"/>
-    <author role="editor" fullname="Philip Ackermann"/>
+    <author role="editor" fullname="Carlos A. Velasco">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johannes Koch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip Ackermann">
+      <organization/>
+    </author>
     <date year="2017" month="February" day="2"/>
     <workgroup>Evaluation and Repair Tools Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-HTTP-in-RDF10-20170202"/>
 </reference>

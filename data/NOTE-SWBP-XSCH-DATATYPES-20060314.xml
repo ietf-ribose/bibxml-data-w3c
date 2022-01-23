@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-swbp-xsch-datatypes-20060314" target="https://www.w3.org/TR/2006/NOTE-swbp-xsch-datatypes-20060314/">
   <front>
     <title>XML Schema Datatypes in RDF and OWL</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-swbp-xsch-datatypes-20060314"/>
-    <author role="editor" fullname="Jeff Pan"/>
-    <author role="editor" fullname="Jeremy Carroll"/>
+    <author role="editor" fullname="Jeff Pan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy Carroll">
+      <organization/>
+    </author>
     <date year="2006" month="March" day="14"/>
     <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-swbp-xsch-datatypes-20060314"/>
 </reference>

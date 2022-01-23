@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-soap12-n11n-20031008" target="https://www.w3.org/TR/2003/NOTE-soap12-n11n-20031008/">
   <front>
     <title>SOAP Version 1.2 Message Normalization</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-soap12-n11n-20031008"/>
-    <author role="editor" fullname="Marc Hadley"/>
-    <author role="editor" fullname="Martin Gudgin"/>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
     <date year="2003" month="October" day="8"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-soap12-n11n-20031008"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-rdf-concepts-20040210" target="https://www.w3.org/TR/2004/REC-rdf-concepts-20040210/">
   <front>
     <title>Resource Description Framework (RDF): Concepts and Abstract Syntax</title>
-    <seriesInfo name="W3C REC" value="REC-rdf-concepts-20040210"/>
-    <author role="editor" fullname="Graham Klyne"/>
-    <author role="editor" fullname="Jeremy Carroll"/>
+    <author role="editor" fullname="Graham Klyne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy Carroll">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="10"/>
     <workgroup>RDFCore Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rdf-concepts-20040210"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-xlink-20010627" target="https://www.w3.org/TR/2001/REC-xlink-20010627/">
   <front>
     <title>XML Linking Language (XLink) Version 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-xlink-20010627"/>
-    <author role="editor" fullname="David Orchard"/>
-    <author role="editor" fullname="Eve Maler"/>
-    <author role="editor" fullname="Steven DeRose"/>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven DeRose">
+      <organization/>
+    </author>
     <date year="2001" month="June" day="27"/>
     <workgroup>XML Linking Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xlink-20010627"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-vibration-20161018" target="https://www.w3.org/TR/2016/REC-vibration-20161018/">
   <front>
     <title>Vibration API (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-vibration-20161018"/>
-    <author role="editor" fullname="Anssi Kostiainen"/>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
     <date year="2016" month="October" day="18"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-vibration-20161018"/>
 </reference>

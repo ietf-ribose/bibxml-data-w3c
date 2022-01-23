@@ -1,10 +1,14 @@
 <reference anchor="W3C.CR-xml-fragment-20010212" target="https://www.w3.org/TR/2001/CR-xml-fragment-20010212">
   <front>
     <title>XML Fragment Interchange</title>
-    <seriesInfo name="W3C CR" value="CR-xml-fragment-20010212"/>
-    <author role="editor" fullname="Daniel Veillard"/>
-    <author role="editor" fullname="Paul Grosso"/>
+    <author role="editor" fullname="Daniel Veillard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grosso">
+      <organization/>
+    </author>
     <date year="2001" month="February" day="12"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-xml-fragment-20010212"/>
 </reference>

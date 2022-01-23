@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-csvw-html-20160225" target="https://www.w3.org/TR/2016/NOTE-csvw-html-20160225/">
   <front>
     <title>Embedding Tabular Metadata in HTML</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-csvw-html-20160225"/>
-    <author role="editor" fullname="Gregg Kellogg"/>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
     <date year="2016" month="February" day="25"/>
     <workgroup>CSV on the Web Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-csvw-html-20160225"/>
 </reference>

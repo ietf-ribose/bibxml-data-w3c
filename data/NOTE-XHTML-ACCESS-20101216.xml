@@ -1,13 +1,23 @@
 <reference anchor="W3C.NOTE-xhtml-access-20101216" target="https://www.w3.org/TR/2010/NOTE-xhtml-access-20101216/">
   <front>
     <title>XHTML Access Module</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xhtml-access-20101216"/>
-    <author role="editor" fullname="Mark Birbeck"/>
-    <author role="editor" fullname="Richard Schwerdtfeger"/>
-    <author role="editor" fullname="Shane McCarron"/>
-    <author role="editor" fullname="Steven Pemberton"/>
-    <author role="editor" fullname="T.V. Raman"/>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T.V. Raman">
+      <organization/>
+    </author>
     <date year="2010" month="December" day="16"/>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xhtml-access-20101216"/>
 </reference>

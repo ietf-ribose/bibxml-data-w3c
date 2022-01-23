@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-WebCryptoAPI-20170126" target="https://www.w3.org/TR/2017/REC-WebCryptoAPI-20170126/">
   <front>
     <title>Web Cryptography API</title>
-    <seriesInfo name="W3C REC" value="REC-WebCryptoAPI-20170126"/>
-    <author role="editor" fullname="Mark Watson"/>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
     <date year="2017" month="January" day="26"/>
     <workgroup>Web Cryptography Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-WebCryptoAPI-20170126"/>
 </reference>

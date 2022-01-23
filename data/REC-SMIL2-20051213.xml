@@ -1,16 +1,32 @@
 <reference anchor="W3C.REC-SMIL2-20051213" target="https://www.w3.org/TR/2005/REC-SMIL2-20051213/">
   <front>
     <title>Synchronized Multimedia Integration Language (SMIL 2.1)</title>
-    <seriesInfo name="W3C REC" value="REC-SMIL2-20051213"/>
-    <author role="editor" fullname="Antti Koivisto"/>
-    <author role="editor" fullname="Daniel Zucker"/>
-    <author role="editor" fullname="Dick Bulterman"/>
-    <author role="editor" fullname="Guido Grassel"/>
-    <author role="editor" fullname="Jack Jansen"/>
-    <author role="editor" fullname="Nabil Layaida"/>
-    <author role="editor" fullname="Sjoerd Mullender"/>
-    <author role="editor" fullname="Thierry Michel"/>
+    <author role="editor" fullname="Antti Koivisto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Zucker">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dick Bulterman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Guido Grassel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jack Jansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nabil Layaida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sjoerd Mullender">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thierry Michel">
+      <organization/>
+    </author>
     <date year="2005" month="December" day="13"/>
     <workgroup>Synchronized Multimedia Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-SMIL2-20051213"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-soap12-part3-20070702" target="https://www.w3.org/TR/2007/NOTE-soap12-part3-20070702/">
   <front>
     <title>SOAP 1.2 Part 3: One-Way MEP</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-soap12-part3-20070702"/>
-    <author role="editor" fullname="David Orchard"/>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
     <date year="2007" month="July" day="2"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-soap12-part3-20070702"/>
 </reference>

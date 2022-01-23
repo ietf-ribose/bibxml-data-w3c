@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-pub-manifest-20201110" target="https://www.w3.org/TR/2020/REC-pub-manifest-20201110/">
   <front>
     <title>Publication Manifest</title>
-    <seriesInfo name="W3C REC" value="REC-pub-manifest-20201110"/>
-    <author role="editor" fullname="Ivan Herman"/>
-    <author role="editor" fullname="Matt Garrish"/>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
     <date year="2020" month="November" day="10"/>
     <workgroup>Audiobooks Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-pub-manifest-20201110"/>
 </reference>

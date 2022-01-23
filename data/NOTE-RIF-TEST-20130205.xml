@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-rif-test-20130205" target="https://www.w3.org/TR/2013/NOTE-rif-test-20130205/">
   <front>
     <title>RIF Test Cases (Second Edition)</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-rif-test-20130205"/>
-    <author role="editor" fullname="Adrian Paschke"/>
-    <author role="editor" fullname="Leora Morgenstern"/>
-    <author role="editor" fullname="Stella Mitchell"/>
+    <author role="editor" fullname="Adrian Paschke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Leora Morgenstern">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stella Mitchell">
+      <organization/>
+    </author>
     <date year="2013" month="February" day="5"/>
     <workgroup>RIF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rif-test-20130205"/>
 </reference>

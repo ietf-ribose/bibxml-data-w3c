@@ -1,18 +1,40 @@
 <reference anchor="W3C.NOTE-DOM-Requirements-20201103" target="https://www.w3.org/TR/2020/NOTE-DOM-Requirements-20201103/">
   <front>
     <title>Document Object Model (DOM) Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-DOM-Requirements-20201103"/>
-    <author role="editor" fullname="Andy Heninger"/>
-    <author role="editor" fullname="Angel Diaz"/>
-    <author role="editor" fullname="Arnaud Le Hors"/>
-    <author role="editor" fullname="Ben Chang"/>
-    <author role="editor" fullname="James Davidson"/>
-    <author role="editor" fullname="Jared Sorensen"/>
-    <author role="editor" fullname="Joseph Kesselman"/>
-    <author role="editor" fullname="Lauren Wood"/>
-    <author role="editor" fullname="Mike Champion"/>
-    <author role="editor" fullname="Philippe Le Hégaret"/>
-    <author role="editor" fullname="Ray Whitmer"/>
+    <author role="editor" fullname="Andy Heninger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Angel Diaz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ben Chang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Davidson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jared Sorensen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ray Whitmer">
+      <organization/>
+    </author>
     <date year="2020" month="November" day="3"/>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-DOM-Requirements-20201103"/>
 </reference>

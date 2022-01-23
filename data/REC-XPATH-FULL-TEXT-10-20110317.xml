@@ -1,19 +1,39 @@
 <reference anchor="W3C.REC-xpath-full-text-10-20110317" target="https://www.w3.org/TR/2011/REC-xpath-full-text-10-20110317/">
   <front>
     <title>XQuery and XPath Full Text 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-xpath-full-text-10-20110317"/>
-    <author role="editor" fullname="Chavdar Botev"/>
-    <author role="editor" fullname="Jayavel Shanmugasundaram"/>
-    <author role="editor" fullname="Jim Melton"/>
-    <author role="editor" fullname="Jochen Dörre"/>
-    <author role="editor" fullname="Mary Holstege"/>
-    <author role="editor" fullname="Michael Dyck"/>
-    <author role="editor" fullname="Michael Rys"/>
-    <author role="editor" fullname="Pat Case"/>
-    <author role="editor" fullname="Sihem Amer-Yahia"/>
-    <author role="editor" fullname="Stephen Buxton"/>
+    <author role="editor" fullname="Chavdar Botev">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jayavel Shanmugasundaram">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jochen Dörre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Holstege">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Dyck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Rys">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pat Case">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sihem Amer-Yahia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Buxton">
+      <organization/>
+    </author>
     <date year="2011" month="March" day="17"/>
     <workgroup>Extensible Stylesheet Language Family</workgroup>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xpath-full-text-10-20110317"/>
 </reference>

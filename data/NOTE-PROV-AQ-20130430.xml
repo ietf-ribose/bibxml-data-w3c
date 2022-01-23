@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-prov-aq-20130430" target="https://www.w3.org/TR/2013/NOTE-prov-aq-20130430/">
   <front>
     <title>PROV-AQ: Provenance Access and Query</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-prov-aq-20130430"/>
-    <author role="editor" fullname="Graham Klyne"/>
-    <author role="editor" fullname="Paul Groth"/>
+    <author role="editor" fullname="Graham Klyne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Groth">
+      <organization/>
+    </author>
     <date year="2013" month="April" day="30"/>
     <workgroup>Provenance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-prov-aq-20130430"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-swbp-skos-core-guide-20051102" target="https://www.w3.org/TR/2005/WD-swbp-skos-core-guide-20051102/">
   <front>
     <title>SKOS Core Guide</title>
-    <seriesInfo name="W3C WD" value="WD-swbp-skos-core-guide-20051102"/>
-    <author role="editor" fullname="Alistair Miles"/>
-    <author role="editor" fullname="Dan Brickley"/>
+    <author role="editor" fullname="Alistair Miles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dan Brickley">
+      <organization/>
+    </author>
     <date year="2005" month="November" day="2"/>
     <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-skos-core-guide-20051102"/>
 </reference>

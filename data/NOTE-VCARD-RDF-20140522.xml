@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-vcard-rdf-20140522" target="https://www.w3.org/TR/2014/NOTE-vcard-rdf-20140522/">
   <front>
     <title>vCard Ontology - for describing People and Organizations</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-vcard-rdf-20140522"/>
-    <author role="editor" fullname="James McKinney"/>
-    <author role="editor" fullname="Renato Iannella"/>
+    <author role="editor" fullname="James McKinney">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
     <date year="2014" month="May" day="22"/>
     <workgroup>Semantic Web Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vcard-rdf-20140522"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-SVGTiny12Reqs-20060810" target="https://www.w3.org/TR/2006/WD-SVGTiny12Reqs-20060810/">
   <front>
     <title>SVGT 1.2 Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-SVGTiny12Reqs-20060810"/>
-    <author role="editor" fullname="Andrew Emmons"/>
+    <author role="editor" fullname="Andrew Emmons">
+      <organization/>
+    </author>
     <date year="2006" month="August" day="10"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-SVGTiny12Reqs-20060810"/>
 </reference>

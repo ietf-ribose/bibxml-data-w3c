@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-xhtml-modularization-20100729" target="https://www.w3.org/TR/2010/REC-xhtml-modularization-20100729/">
   <front>
     <title>XHTML™ Modularization 1.1 - Second Edition</title>
-    <seriesInfo name="W3C REC" value="REC-xhtml-modularization-20100729"/>
-    <author role="editor" fullname="Shane McCarron"/>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
     <date year="2010" month="July" day="29"/>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xhtml-modularization-20100729"/>
 </reference>

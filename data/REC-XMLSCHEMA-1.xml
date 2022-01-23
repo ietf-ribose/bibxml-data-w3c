@@ -1,7 +1,6 @@
 <reference anchor="W3C.REC-xmlschema-1" target="http://www.w3.org/TR/xmlschema-1/">
   <front>
     <title>XML Schema Part 1: Structures</title>
-    <seriesInfo name="W3C" value="REC-xmlschema-1"/>
     <author fullname="Henry S. Thompson" initials="H." surname="Thompson">
       <organization>University of Edinburgh</organization>
     </author>
@@ -16,4 +15,5 @@
     </author>
     <date year="2001" month="May"/>
   </front>
+  <seriesInfo name="W3C" value="REC-xmlschema-1"/>
 </reference>

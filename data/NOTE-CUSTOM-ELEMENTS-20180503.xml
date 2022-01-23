@@ -1,8 +1,8 @@
 <reference anchor="W3C.NOTE-custom-elements-20180503" target="https://www.w3.org/TR/2018/NOTE-custom-elements-20180503/">
   <front>
     <title>Custom Elements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-custom-elements-20180503"/>
     <date year="2018" month="May" day="3"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-custom-elements-20180503"/>
 </reference>

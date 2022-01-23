@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-ct-guidelines-20101026" target="https://www.w3.org/TR/2010/NOTE-ct-guidelines-20101026/">
   <front>
     <title>Guidelines for Web Content Transformation Proxies 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-ct-guidelines-20101026"/>
-    <author role="editor" fullname="Jo Rabin"/>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
     <date year="2010" month="October" day="26"/>
     <workgroup>Mobile Web Best Practices Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ct-guidelines-20101026"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-rif-dtb-20100622" target="https://www.w3.org/TR/2010/REC-rif-dtb-20100622/">
   <front>
     <title>RIF Datatypes and Built-Ins 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-rif-dtb-20100622"/>
-    <author role="editor" fullname="Axel Polleres"/>
-    <author role="editor" fullname="Harold Boley"/>
-    <author role="editor" fullname="Michael Kifer"/>
+    <author role="editor" fullname="Axel Polleres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Harold Boley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Kifer">
+      <organization/>
+    </author>
     <date year="2010" month="June" day="22"/>
     <workgroup>RIF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rif-dtb-20100622"/>
 </reference>

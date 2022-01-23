@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-XMLHttpRequest-20161006" target="https://www.w3.org/TR/2016/NOTE-XMLHttpRequest-20161006/">
   <front>
     <title>XMLHttpRequest Level 1</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-XMLHttpRequest-20161006"/>
-    <author role="editor" fullname="Anne van Kesteren"/>
-    <author role="editor" fullname="Hallvord Steen"/>
-    <author role="editor" fullname="Julian Aubourg"/>
-    <author role="editor" fullname="Jungkee Song"/>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hallvord Steen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Julian Aubourg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jungkee Song">
+      <organization/>
+    </author>
     <date year="2016" month="October" day="6"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-XMLHttpRequest-20161006"/>
 </reference>

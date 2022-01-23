@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-ssml11reqs-20070611" target="https://www.w3.org/TR/2007/WD-ssml11reqs-20070611/">
   <front>
     <title>Speech Synthesis Markup Language Version 1.1 Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-ssml11reqs-20070611"/>
-    <author role="editor" fullname="Daniel Burnett"/>
-    <author role="editor" fullname="Zhi Wei Shuang"/>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhi Wei Shuang">
+      <organization/>
+    </author>
     <date year="2007" month="June" day="11"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-ssml11reqs-20070611"/>
 </reference>

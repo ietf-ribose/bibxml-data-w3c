@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-xhtml-forms-req-20010404" target="https://www.w3.org/TR/2001/WD-xhtml-forms-req-20010404">
   <front>
     <title>XForms Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-xhtml-forms-req-20010404"/>
-    <author role="editor" fullname="Dave Raggett"/>
-    <author role="editor" fullname="Micah Dubinko"/>
-    <author role="editor" fullname="Sebastian Schnitzenbaumer"/>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Micah Dubinko">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Schnitzenbaumer">
+      <organization/>
+    </author>
     <date year="2001" month="April" day="4"/>
     <workgroup>Forms Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-forms-req-20010404"/>
 </reference>

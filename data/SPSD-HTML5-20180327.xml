@@ -1,15 +1,29 @@
 <reference anchor="W3C.SPSD-html5-20180327" target="https://www.w3.org/TR/2018/SPSD-html5-20180327/">
   <front>
     <title>HTML5</title>
-    <seriesInfo name="W3C REC" value="SPSD-html5-20180327"/>
-    <author role="editor" fullname="Erika Doyle Navara"/>
-    <author role="editor" fullname="Ian Hickson"/>
-    <author role="editor" fullname="Robin Berjon"/>
-    <author role="editor" fullname="Silvia Pfeiffer"/>
-    <author role="editor" fullname="Steve Faulkner"/>
-    <author role="editor" fullname="Theresa O'Connor"/>
-    <author role="editor" fullname="Travis Leithead"/>
+    <author role="editor" fullname="Erika Doyle Navara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Silvia Pfeiffer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Theresa O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
     <date year="2018" month="March" day="27"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-html5-20180327"/>
 </reference>

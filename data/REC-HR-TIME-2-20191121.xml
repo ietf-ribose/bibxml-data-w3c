@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-hr-time-2-20191121" target="https://www.w3.org/TR/2019/REC-hr-time-2-20191121/">
   <front>
     <title>High Resolution Time Level 2</title>
-    <seriesInfo name="W3C REC" value="REC-hr-time-2-20191121"/>
-    <author role="editor" fullname="Ilya Grigorik"/>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
     <date year="2019" month="November" day="21"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-hr-time-2-20191121"/>
 </reference>

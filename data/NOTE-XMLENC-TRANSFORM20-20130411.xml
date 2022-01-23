@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-xmlenc-transform20-20130411" target="https://www.w3.org/TR/2013/NOTE-xmlenc-transform20-20130411/">
   <front>
     <title>XML Encryption 1.1 CipherReference Processing using 2.0 Transforms</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xmlenc-transform20-20130411"/>
-    <author role="editor" fullname="Frederick Hirsch"/>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
     <date year="2013" month="April" day="11"/>
     <workgroup>XML Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xmlenc-transform20-20130411"/>
 </reference>

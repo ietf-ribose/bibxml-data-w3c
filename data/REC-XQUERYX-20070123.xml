@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-xqueryx-20070123" target="https://www.w3.org/TR/2007/REC-xqueryx-20070123/">
   <front>
     <title>XML Syntax for XQuery 1.0 (XQueryX)</title>
-    <seriesInfo name="W3C REC" value="REC-xqueryx-20070123"/>
-    <author role="editor" fullname="Jim Melton"/>
-    <author role="editor" fullname="Subramanian Muralidhar"/>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Subramanian Muralidhar">
+      <organization/>
+    </author>
     <date year="2007" month="January" day="23"/>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xqueryx-20070123"/>
 </reference>

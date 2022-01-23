@@ -1,11 +1,15 @@
 <reference anchor="W3C.NOTE-xlink-principles-19980303" target="https://www.w3.org/TR/1998/NOTE-xlink-principles-19980303">
   <front>
     <title>XML Linking Language (XLink) Design Principles</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xlink-principles-19980303"/>
-    <author role="editor" fullname="Eve Maler"/>
-    <author role="editor" fullname="Steven DeRose"/>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven DeRose">
+      <organization/>
+    </author>
     <date year="1998" month="March" day="3"/>
     <workgroup>XML Core Working Group</workgroup>
     <workgroup>XML Linking Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xlink-principles-19980303"/>
 </reference>

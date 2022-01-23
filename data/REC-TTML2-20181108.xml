@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-ttml2-20181108" target="https://www.w3.org/TR/2018/REC-ttml2-20181108/">
   <front>
     <title>Timed Text Markup Language 2 (TTML2)</title>
-    <seriesInfo name="W3C REC" value="REC-ttml2-20181108"/>
-    <author role="editor" fullname="Cyril Concolato"/>
-    <author role="editor" fullname="Glenn Adams"/>
+    <author role="editor" fullname="Cyril Concolato">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
     <date year="2018" month="November" day="8"/>
     <workgroup>Timed Text Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-ttml2-20181108"/>
 </reference>

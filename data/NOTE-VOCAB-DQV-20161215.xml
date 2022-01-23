@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-vocab-dqv-20161215" target="https://www.w3.org/TR/2016/NOTE-vocab-dqv-20161215/">
   <front>
     <title>Data on the Web Best Practices: Data Quality Vocabulary</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-vocab-dqv-20161215"/>
-    <author role="editor" fullname="Antoine Isaac"/>
-    <author role="editor" fullname="Riccardo Albertoni"/>
+    <author role="editor" fullname="Antoine Isaac">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Riccardo Albertoni">
+      <organization/>
+    </author>
     <date year="2016" month="December" day="15"/>
     <workgroup>Data on the Web Best Practices Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vocab-dqv-20161215"/>
 </reference>

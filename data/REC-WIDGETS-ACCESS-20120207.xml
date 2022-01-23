@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-widgets-access-20120207" target="https://www.w3.org/TR/2012/REC-widgets-access-20120207/">
   <front>
     <title>Widget Access Request Policy</title>
-    <seriesInfo name="W3C REC" value="REC-widgets-access-20120207"/>
-    <author role="editor" fullname="Marcos Caceres"/>
-    <author role="editor" fullname="Robin Berjon"/>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
     <date year="2012" month="February" day="7"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-widgets-access-20120207"/>
 </reference>

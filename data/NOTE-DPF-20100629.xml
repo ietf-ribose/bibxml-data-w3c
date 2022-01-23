@@ -1,16 +1,32 @@
 <reference anchor="W3C.NOTE-DPF-20100629" target="https://www.w3.org/TR/2010/NOTE-DPF-20100629/">
   <front>
     <title>Delivery Context: Client Interfaces (DCCI) 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-DPF-20100629"/>
-    <author role="editor" fullname="Dave Raggett"/>
-    <author role="editor" fullname="Keith Rosenblatt"/>
-    <author role="editor" fullname="Keith Waters"/>
-    <author role="editor" fullname="Matt Womer"/>
-    <author role="editor" fullname="Max Froumentin"/>
-    <author role="editor" fullname="Rafah Hosn"/>
-    <author role="editor" fullname="Rhys Lewis"/>
-    <author role="editor" fullname="Sailesh Sathish"/>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keith Rosenblatt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keith Waters">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Womer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah Hosn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sailesh Sathish">
+      <organization/>
+    </author>
     <date year="2010" month="June" day="29"/>
     <workgroup>Ubiquitous Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-DPF-20100629"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-xquery-31-20170321" target="https://www.w3.org/TR/2017/REC-xquery-31-20170321/">
   <front>
     <title>XQuery 3.1: An XML Query Language</title>
-    <seriesInfo name="W3C REC" value="REC-xquery-31-20170321"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Josh Spiegel"/>
-    <author role="editor" fullname="Michael Dyck"/>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Josh Spiegel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Dyck">
+      <organization/>
+    </author>
     <date year="2017" month="March" day="21"/>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xquery-31-20170321"/>
 </reference>

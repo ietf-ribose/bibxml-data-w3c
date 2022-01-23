@@ -1,7 +1,7 @@
 <reference anchor="W3C.REC-PICSRules-971222" target="https://www.w3.org/TR/REC-PICSRules-971222">
   <front>
     <title>PICSRules 1.1 Specification</title>
-    <seriesInfo name="W3C REC" value="REC-PICSRules-971222"/>
     <date year="1997" month="December" day="22"/>
   </front>
+  <seriesInfo name="W3C REC" value="REC-PICSRules-971222"/>
 </reference>

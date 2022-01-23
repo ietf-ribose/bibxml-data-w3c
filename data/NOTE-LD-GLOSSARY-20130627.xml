@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-ld-glossary-20130627" target="https://www.w3.org/TR/2013/NOTE-ld-glossary-20130627/">
   <front>
     <title>Linked Data Glossary</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-ld-glossary-20130627"/>
-    <author role="editor" fullname="Bernadette Hyland"/>
-    <author role="editor" fullname="Biplav Srivastava"/>
-    <author role="editor" fullname="Ghislain Auguste Atemezing"/>
-    <author role="editor" fullname="Michael Pendleton"/>
+    <author role="editor" fullname="Bernadette Hyland">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Biplav Srivastava">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ghislain Auguste Atemezing">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Pendleton">
+      <organization/>
+    </author>
     <date year="2013" month="June" day="27"/>
     <workgroup>Government Linked Data Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ld-glossary-20130627"/>
 </reference>

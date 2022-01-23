@@ -1,7 +1,6 @@
 <reference anchor="W3C.PICS-rules" target="http://www.w3.org/TR/REC-PICSRules">
   <front>
     <title>PICSRules 1.1</title>
-    <seriesInfo name="W3C Recommendation" value="REC-PICSRules"/>
     <author fullname="Christopher Evans" initials="C." surname="Evans">
       <organization abbrev="W3C">W3C</organization>
       <address>
@@ -34,4 +33,5 @@
     </author>
     <date year="1997" month="December" day="29"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="REC-PICSRules"/>
 </reference>

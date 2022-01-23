@@ -1,9 +1,13 @@
 <reference anchor="W3C.NOTE-xh-19980511" target="https://www.w3.org/TR/1998/NOTE-xh-19980511">
   <front>
     <title>XML in HTML Meeting Report</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xh-19980511"/>
-    <author role="editor" fullname="Dan Connolly"/>
-    <author role="editor" fullname="Lauren Wood"/>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
     <date year="1998" month="May" day="11"/>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xh-19980511"/>
 </reference>

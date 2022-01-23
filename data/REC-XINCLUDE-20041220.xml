@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-xinclude-20041220" target="https://www.w3.org/TR/2004/REC-xinclude-20041220/">
   <front>
     <title>XML Inclusions (XInclude) Version 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-xinclude-20041220"/>
-    <author role="editor" fullname="David Orchard"/>
-    <author role="editor" fullname="Jonathan Marsh"/>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
     <date year="2004" month="December" day="20"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xinclude-20041220"/>
 </reference>

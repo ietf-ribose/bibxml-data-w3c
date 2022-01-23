@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-poe-ucr-20170223" target="https://www.w3.org/TR/2017/WD-poe-ucr-20170223/">
   <front>
     <title>POE Use Cases and Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-poe-ucr-20170223"/>
-    <author role="editor" fullname="Benedict Whittam Smith"/>
-    <author role="editor" fullname="Michael Steidl"/>
-    <author role="editor" fullname="Simon Steyskal"/>
+    <author role="editor" fullname="Benedict Whittam Smith">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Steidl">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Steyskal">
+      <organization/>
+    </author>
     <date year="2017" month="February" day="23"/>
     <workgroup>Permissions and Obligations Expression Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-poe-ucr-20170223"/>
 </reference>

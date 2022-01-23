@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-xforms-20031014" target="https://www.w3.org/TR/2003/REC-xforms-20031014/">
   <front>
     <title>XForms 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-xforms-20031014"/>
-    <author role="editor" fullname="L Klotz"/>
-    <author role="editor" fullname="Micah Dubinko"/>
-    <author role="editor" fullname="Roland Merrick"/>
-    <author role="editor" fullname="T.V. Raman"/>
+    <author role="editor" fullname="L Klotz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Micah Dubinko">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T.V. Raman">
+      <organization/>
+    </author>
     <date year="2003" month="October" day="14"/>
     <workgroup>Forms Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xforms-20031014"/>
 </reference>

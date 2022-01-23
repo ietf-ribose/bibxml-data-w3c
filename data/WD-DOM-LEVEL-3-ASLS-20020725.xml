@@ -1,15 +1,29 @@
 <reference anchor="W3C.WD-DOM-Level-3-ASLS-20020725" target="https://www.w3.org/TR/2002/WD-DOM-Level-3-ASLS-20020725/">
   <front>
     <title>Document Object Model (DOM) Level 3 Abstract Schemas and Load and       Save Specification</title>
-    <seriesInfo name="W3C WD" value="WD-DOM-Level-3-ASLS-20020725"/>
-    <author role="editor" fullname="Andy Heninger"/>
-    <author role="editor" fullname="Ben Chang"/>
-    <author role="editor" fullname="Elena Litani"/>
-    <author role="editor" fullname="J.M. van Rotterdam"/>
-    <author role="editor" fullname="Johnny Stenback"/>
-    <author role="editor" fullname="Joseph Kesselman"/>
-    <author role="editor" fullname="rezaur rahman"/>
+    <author role="editor" fullname="Andy Heninger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ben Chang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elena Litani">
+      <organization/>
+    </author>
+    <author role="editor" fullname="J.M. van Rotterdam">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johnny Stenback">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="rezaur rahman">
+      <organization/>
+    </author>
     <date year="2002" month="July" day="25"/>
     <workgroup>Web Hypertext Application Technology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Level-3-ASLS-20020725"/>
 </reference>

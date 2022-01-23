@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-WCAG21-20180605" target="https://www.w3.org/TR/2018/REC-WCAG21-20180605/">
   <front>
     <title>Web Content Accessibility Guidelines (WCAG) 2.1</title>
-    <seriesInfo name="W3C REC" value="REC-WCAG21-20180605"/>
-    <author role="editor" fullname="Alastair Campbell"/>
-    <author role="editor" fullname="Andrew Kirkpatrick"/>
-    <author role="editor" fullname="Joshue O'Connor"/>
-    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Alastair Campbell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Kirkpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
     <date year="2018" month="June" day="5"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-WCAG21-20180605"/>
 </reference>

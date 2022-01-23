@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-role-attribute-20130328" target="https://www.w3.org/TR/2013/REC-role-attribute-20130328/">
   <front>
     <title>Role Attribute 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-role-attribute-20130328"/>
-    <author role="editor" fullname="Shane McCarron"/>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
     <date year="2013" month="March" day="28"/>
     <workgroup>Protocols and Formats Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-role-attribute-20130328"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-system-info-api-20140114" target="https://www.w3.org/TR/2014/NOTE-system-info-api-20140114/">
   <front>
     <title>The System Information API</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-system-info-api-20140114"/>
-    <author role="editor" fullname="Bryan Sullivan"/>
-    <author role="editor" fullname="Dzung Tran"/>
-    <author role="editor" fullname="Max Froumentin"/>
+    <author role="editor" fullname="Bryan Sullivan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dzung Tran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
     <date year="2014" month="January" day="14"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-system-info-api-20140114"/>
 </reference>

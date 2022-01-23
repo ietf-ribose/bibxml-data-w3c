@@ -1,12 +1,20 @@
 <reference anchor="W3C.WD-media-frags-recipes-20111201" target="https://www.w3.org/TR/2011/WD-media-frags-recipes-20111201/">
   <front>
     <title>Protocol for Media Fragments 1.0 Resolution in HTTP</title>
-    <seriesInfo name="W3C WD" value="WD-media-frags-recipes-20111201"/>
-    <author role="editor" fullname="Davy Van Deursen"/>
-    <author role="editor" fullname="Erik Mannens"/>
-    <author role="editor" fullname="Raphaël Troncy"/>
-    <author role="editor" fullname="Silvia Pfeiffer"/>
+    <author role="editor" fullname="Davy Van Deursen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Mannens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raphaël Troncy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Silvia Pfeiffer">
+      <organization/>
+    </author>
     <date year="2011" month="December" day="1"/>
     <workgroup>Media Fragments Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-media-frags-recipes-20111201"/>
 </reference>

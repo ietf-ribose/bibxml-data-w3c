@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-webaudio-usecases-20130129" target="https://www.w3.org/TR/2013/NOTE-webaudio-usecases-20130129/">
   <front>
     <title>Web Audio Processing: Use Cases and Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-webaudio-usecases-20130129"/>
-    <author role="editor" fullname="Joe Berkovitz"/>
-    <author role="editor" fullname="Olivier Thereaux"/>
+    <author role="editor" fullname="Joe Berkovitz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Olivier Thereaux">
+      <organization/>
+    </author>
     <date year="2013" month="January" day="29"/>
     <workgroup>Audio Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-webaudio-usecases-20130129"/>
 </reference>

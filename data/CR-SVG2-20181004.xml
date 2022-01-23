@@ -1,14 +1,26 @@
 <reference anchor="W3C.CR-SVG2-20181004" target="https://www.w3.org/TR/2018/CR-SVG2-20181004/">
   <front>
     <title>Scalable Vector Graphics (SVG) 2</title>
-    <seriesInfo name="W3C CR" value="CR-SVG2-20181004"/>
-    <author role="editor" fullname="Amelia Bellamy-Royds"/>
-    <author role="editor" fullname="Bogdan Brinza"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="David Storey"/>
-    <author role="editor" fullname="Dirk Schulze"/>
-    <author role="editor" fullname="Eric Willigers"/>
+    <author role="editor" fullname="Amelia Bellamy-Royds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bogdan Brinza">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Storey">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Willigers">
+      <organization/>
+    </author>
     <date year="2018" month="October" day="4"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-SVG2-20181004"/>
 </reference>

@@ -1,14 +1,28 @@
 <reference anchor="W3C.WD-font-19990902" target="https://www.w3.org/TR/1999/WD-font-19990902">
   <front>
     <title>Web Fonts</title>
-    <seriesInfo name="W3C WD" value="WD-font-19990902"/>
-    <author role="editor" fullname="Brad Chase"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="Chuck Rowe"/>
-    <author role="editor" fullname="David Meltzer"/>
-    <author role="editor" fullname="Håkon Lie"/>
-    <author role="editor" fullname="Robert Stevahn"/>
-    <author role="editor" fullname="Steve Zilles"/>
+    <author role="editor" fullname="Brad Chase">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chuck Rowe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Meltzer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Stevahn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Zilles">
+      <organization/>
+    </author>
     <date year="1999" month="September" day="2"/>
   </front>
+  <seriesInfo name="W3C WD" value="WD-font-19990902"/>
 </reference>

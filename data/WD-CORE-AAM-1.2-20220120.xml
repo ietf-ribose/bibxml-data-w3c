@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-core-aam-1.2-20220120" target="https://www.w3.org/TR/2022/WD-core-aam-1.2-20220120/">
   <front>
     <title>Core Accessibility API Mappings 1.2</title>
-    <seriesInfo name="W3C WD" value="WD-core-aam-1.2-20220120"/>
-    <author role="editor" fullname="Alexander Surkov"/>
-    <author role="editor" fullname="Joanmarie Diggs"/>
-    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Alexander Surkov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
     <date year="2022" month="January" day="20"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-core-aam-1.2-20220120"/>
 </reference>

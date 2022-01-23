@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-modality-interface-20040510" target="https://www.w3.org/TR/2004/NOTE-modality-interface-20040510/">
   <front>
     <title>Modality Component to Host Environment DOM Requirements and Capabilities Assessment</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-modality-interface-20040510"/>
-    <author role="editor" fullname="Brandon Porter"/>
+    <author role="editor" fullname="Brandon Porter">
+      <organization/>
+    </author>
     <date year="2004" month="May" day="10"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-modality-interface-20040510"/>
 </reference>

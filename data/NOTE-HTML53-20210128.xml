@@ -1,15 +1,29 @@
 <reference anchor="W3C.NOTE-html53-20210128" target="https://www.w3.org/TR/2021/NOTE-html53-20210128/">
   <front>
     <title>HTML 5.3</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-html53-20210128"/>
-    <author role="editor" fullname="Bruce Lawson"/>
-    <author role="editor" fullname="Patricia Aas"/>
-    <author role="editor" fullname="Sangwhan Moon"/>
-    <author role="editor" fullname="Scott O'Hara"/>
-    <author role="editor" fullname="Shwetank Dixit"/>
-    <author role="editor" fullname="Terence Eden"/>
-    <author role="editor" fullname="Xiaoqian Wu"/>
+    <author role="editor" fullname="Bruce Lawson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patricia Aas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sangwhan Moon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott O'Hara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shwetank Dixit">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Terence Eden">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Xiaoqian Wu">
+      <organization/>
+    </author>
     <date year="2021" month="January" day="28"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-html53-20210128"/>
 </reference>

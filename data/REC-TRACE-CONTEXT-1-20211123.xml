@@ -1,14 +1,26 @@
 <reference anchor="W3C.REC-trace-context-1-20211123" target="https://www.w3.org/TR/2021/REC-trace-context-1-20211123/">
   <front>
     <title>Trace Context</title>
-    <seriesInfo name="W3C REC" value="REC-trace-context-1-20211123"/>
-    <author role="editor" fullname="Alois Reitbauer"/>
-    <author role="editor" fullname="Bogdan Drutu"/>
-    <author role="editor" fullname="Morgan McLean"/>
-    <author role="editor" fullname="Nik Molnar"/>
-    <author role="editor" fullname="Sergey Kanzhelev"/>
-    <author role="editor" fullname="Yuri Shkuro"/>
+    <author role="editor" fullname="Alois Reitbauer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bogdan Drutu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Morgan McLean">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nik Molnar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sergey Kanzhelev">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yuri Shkuro">
+      <organization/>
+    </author>
     <date year="2021" month="November" day="23"/>
     <workgroup>Distributed Tracing Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-trace-context-1-20211123"/>
 </reference>

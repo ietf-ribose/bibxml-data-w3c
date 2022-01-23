@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-ccxml-20110705" target="https://www.w3.org/TR/2011/REC-ccxml-20110705/">
   <front>
     <title>Voice Browser Call Control: CCXML Version 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-ccxml-20110705"/>
-    <author role="editor" fullname="Mark Scott"/>
-    <author role="editor" fullname="Paolo Baggia"/>
+    <author role="editor" fullname="Mark Scott">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Baggia">
+      <organization/>
+    </author>
     <date year="2011" month="July" day="5"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-ccxml-20110705"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-graphics-aam-1.0-20181002" target="https://www.w3.org/TR/2018/REC-graphics-aam-1.0-20181002/">
   <front>
     <title>Graphics Accessibility API Mappings</title>
-    <seriesInfo name="W3C REC" value="REC-graphics-aam-1.0-20181002"/>
-    <author role="editor" fullname="Amelia Bellamy-Royds"/>
-    <author role="editor" fullname="Joanmarie Diggs"/>
-    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Amelia Bellamy-Royds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
     <date year="2018" month="October" day="2"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-graphics-aam-1.0-20181002"/>
 </reference>

@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-owl2-profiles-20091027" target="https://www.w3.org/TR/2009/REC-owl2-profiles-20091027/">
   <front>
     <title>OWL 2 Web Ontology Language Profiles</title>
-    <seriesInfo name="W3C REC" value="REC-owl2-profiles-20091027"/>
-    <author role="editor" fullname="Achille Fokoue"/>
-    <author role="editor" fullname="Bernardo Cuenca Grau"/>
-    <author role="editor" fullname="Boris Motik"/>
-    <author role="editor" fullname="Ian Horrocks"/>
-    <author role="editor" fullname="Zhe Wu"/>
+    <author role="editor" fullname="Achille Fokoue">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bernardo Cuenca Grau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Boris Motik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhe Wu">
+      <organization/>
+    </author>
     <date year="2009" month="October" day="27"/>
     <workgroup>OWL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl2-profiles-20091027"/>
 </reference>

@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-wsa-reqs-20040211" target="https://www.w3.org/TR/2004/NOTE-wsa-reqs-20040211/">
   <front>
     <title>Web Services Architecture Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-wsa-reqs-20040211"/>
-    <author role="editor" fullname="Abbie Barbir"/>
-    <author role="editor" fullname="Christopher Ferris"/>
-    <author role="editor" fullname="Daniel Austin"/>
-    <author role="editor" fullname="Sharad Garg"/>
+    <author role="editor" fullname="Abbie Barbir">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Christopher Ferris">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Austin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sharad Garg">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="11"/>
     <workgroup>Web Services Architecture Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wsa-reqs-20040211"/>
 </reference>

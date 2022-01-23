@@ -1,14 +1,26 @@
 <reference anchor="W3C.DNOTE-clreq-20220101" target="https://www.w3.org/TR/2022/DNOTE-clreq-20220101/">
   <front>
     <title>Requirements for Chinese Text Layout - 中文排版需求</title>
-    <seriesInfo name="W3C NOTE" value="DNOTE-clreq-20220101"/>
-    <author role="editor" fullname="Bobby Tung"/>
-    <author role="editor" fullname="Eric Q LIU"/>
-    <author role="editor" fullname="Fuqiao Xue"/>
-    <author role="editor" fullname="Hui Jing Chen"/>
-    <author role="editor" fullname="Richard Ishida"/>
-    <author role="editor" fullname="Yijun Chen"/>
+    <author role="editor" fullname="Bobby Tung">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Q LIU">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Fuqiao Xue">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hui Jing Chen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yijun Chen">
+      <organization/>
+    </author>
     <date year="2022" month="January" day="1"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-clreq-20220101"/>
 </reference>

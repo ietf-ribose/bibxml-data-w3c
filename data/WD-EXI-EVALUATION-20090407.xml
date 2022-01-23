@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-exi-evaluation-20090407" target="https://www.w3.org/TR/2009/WD-exi-evaluation-20090407/">
   <front>
     <title>Efficient XML Interchange Evaluation</title>
-    <seriesInfo name="W3C WD" value="WD-exi-evaluation-20090407"/>
-    <author role="editor" fullname="Carine Bournez"/>
+    <author role="editor" fullname="Carine Bournez">
+      <organization/>
+    </author>
     <date year="2009" month="April" day="7"/>
     <workgroup>Efficient Extensible Interchange Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-exi-evaluation-20090407"/>
 </reference>

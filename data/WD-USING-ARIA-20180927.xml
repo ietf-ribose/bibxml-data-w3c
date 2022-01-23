@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-using-aria-20180927" target="https://www.w3.org/TR/2018/WD-using-aria-20180927/">
   <front>
     <title>Using ARIA</title>
-    <seriesInfo name="W3C WD" value="WD-using-aria-20180927"/>
-    <author role="editor" fullname="David MacDonald"/>
-    <author role="editor" fullname="Steve Faulkner"/>
+    <author role="editor" fullname="David MacDonald">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
     <date year="2018" month="September" day="27"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-using-aria-20180927"/>
 </reference>

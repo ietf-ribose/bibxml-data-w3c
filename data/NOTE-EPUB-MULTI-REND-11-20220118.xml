@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-epub-multi-rend-11-20220118" target="https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220118/">
   <front>
     <title>EPUB 3 Multiple-Rendition Publications 1.1</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-epub-multi-rend-11-20220118"/>
-    <author role="editor" fullname="Matt Garrish"/>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
     <date year="2022" month="January" day="18"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-multi-rend-11-20220118"/>
 </reference>

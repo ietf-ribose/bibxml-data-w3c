@@ -1,14 +1,26 @@
 <reference anchor="W3C.NOTE-vc-use-cases-20190924" target="https://www.w3.org/TR/2019/NOTE-vc-use-cases-20190924/">
   <front>
     <title>Verifiable Credentials Use Cases</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-vc-use-cases-20190924"/>
-    <author role="editor" fullname="Gregg Kellogg"/>
-    <author role="editor" fullname="Joe Andrieu"/>
-    <author role="editor" fullname="Matt Stone"/>
-    <author role="editor" fullname="Shane McCarron"/>
-    <author role="editor" fullname="Ted Thibodeau"/>
-    <author role="editor" fullname="Tzviya Siegman"/>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joe Andrieu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Stone">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ted Thibodeau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tzviya Siegman">
+      <organization/>
+    </author>
     <date year="2019" month="September" day="24"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vc-use-cases-20190924"/>
 </reference>

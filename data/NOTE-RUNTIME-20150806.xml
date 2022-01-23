@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-runtime-20150806" target="https://www.w3.org/TR/2015/NOTE-runtime-20150806/">
   <front>
     <title>Runtime and Security Model for Web Applications</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-runtime-20150806"/>
-    <author role="editor" fullname="MING JIN"/>
-    <author role="editor" fullname="Mounir Lamouri"/>
+    <author role="editor" fullname="MING JIN">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
     <date year="2015" month="August" day="6"/>
     <workgroup>System Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-runtime-20150806"/>
 </reference>

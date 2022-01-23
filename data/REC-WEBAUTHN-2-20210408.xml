@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-webauthn-2-20210408" target="https://www.w3.org/TR/2021/REC-webauthn-2-20210408/">
   <front>
     <title>Web Authentication: An API for accessing Public Key Credentials - Level 2</title>
-    <seriesInfo name="W3C REC" value="REC-webauthn-2-20210408"/>
-    <author role="editor" fullname="Akshay Kumar"/>
-    <author role="editor" fullname="Emil Lundberg"/>
-    <author role="editor" fullname="J.C. Jones"/>
-    <author role="editor" fullname="Jeff Hodges"/>
-    <author role="editor" fullname="Michael Jones"/>
+    <author role="editor" fullname="Akshay Kumar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Emil Lundberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="J.C. Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Hodges">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
     <date year="2021" month="April" day="8"/>
     <workgroup>Web Authentication Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-webauthn-2-20210408"/>
 </reference>

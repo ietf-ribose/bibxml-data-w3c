@@ -1,8 +1,10 @@
 <reference anchor="W3C.WD-xkms2-xbulk-20020318" target="https://www.w3.org/TR/2002/WD-xkms2-xbulk-20020318/">
   <front>
     <title>XML Key Management Specification Bulk Operation (X-BULK)</title>
-    <seriesInfo name="W3C WD" value="WD-xkms2-xbulk-20020318"/>
-    <author role="editor" fullname="Merlin Hughes"/>
+    <author role="editor" fullname="Merlin Hughes">
+      <organization/>
+    </author>
     <date year="2002" month="March" day="18"/>
   </front>
+  <seriesInfo name="W3C WD" value="WD-xkms2-xbulk-20020318"/>
 </reference>

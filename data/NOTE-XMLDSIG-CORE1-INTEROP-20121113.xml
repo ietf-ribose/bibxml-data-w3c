@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-xmldsig-core1-interop-20121113" target="https://www.w3.org/TR/2012/NOTE-xmldsig-core1-interop-20121113/">
   <front>
     <title>XML Signature 1.1 Interop Test Report</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-core1-interop-20121113"/>
-    <author role="editor" fullname="Frederick Hirsch"/>
-    <author role="editor" fullname="Pratik Datta"/>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pratik Datta">
+      <organization/>
+    </author>
     <date year="2012" month="November" day="13"/>
     <workgroup>XML Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-core1-interop-20121113"/>
 </reference>

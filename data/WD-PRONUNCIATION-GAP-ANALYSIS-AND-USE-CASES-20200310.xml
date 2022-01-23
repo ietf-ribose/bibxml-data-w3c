@@ -1,14 +1,26 @@
 <reference anchor="W3C.WD-pronunciation-gap-analysis-and-use-cases-20200310" target="https://www.w3.org/TR/2020/WD-pronunciation-gap-analysis-and-use-cases-20200310/">
   <front>
     <title>Pronunciation Gap Analysis and Use Cases</title>
-    <seriesInfo name="W3C WD" value="WD-pronunciation-gap-analysis-and-use-cases-20200310"/>
-    <author role="editor" fullname="Dee Dyer"/>
-    <author role="editor" fullname="Irfan Ali"/>
-    <author role="editor" fullname="Markku Hakkinen"/>
-    <author role="editor" fullname="Paul Grenier"/>
-    <author role="editor" fullname="Ruoxi Ran"/>
-    <author role="editor" fullname="Steve Noble"/>
+    <author role="editor" fullname="Dee Dyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Irfan Ali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markku Hakkinen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grenier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Noble">
+      <organization/>
+    </author>
     <date year="2020" month="March" day="10"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-pronunciation-gap-analysis-and-use-cases-20200310"/>
 </reference>

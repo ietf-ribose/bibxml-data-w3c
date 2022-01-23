@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-MathML-19990707" target="https://www.w3.org/1999/07/REC-MathML-19990707/">
   <front>
     <title>Mathematical Markup Language (MathML) 1.01 Specification</title>
-    <seriesInfo name="W3C REC" value="REC-MathML-19990707"/>
-    <author role="editor" fullname="Patrick D F Ion"/>
-    <author role="editor" fullname="Robert R Miner"/>
+    <author role="editor" fullname="Patrick D F Ion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert R Miner">
+      <organization/>
+    </author>
     <date year="1999" month="July" day="7"/>
     <workgroup>Math Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-MathML-19990707"/>
 </reference>

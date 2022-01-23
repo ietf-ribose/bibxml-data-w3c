@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-CCPP-COORDINATION-20011220" target="https://www.w3.org/TR/2001/NOTE-CCPP-COORDINATION-20011220/">
   <front>
     <title>CC/PP Implementors Guide: Harmonization with Existing Vocabularies and Content Transformation Heuristics</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-CCPP-COORDINATION-20011220"/>
-    <author role="editor" fullname="Johan Hjelm"/>
-    <author role="editor" fullname="Lalitha Suryanarayana"/>
+    <author role="editor" fullname="Johan Hjelm">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lalitha Suryanarayana">
+      <organization/>
+    </author>
     <date year="2001" month="December" day="20"/>
     <workgroup>Composite Capability/Preference Profiles Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CCPP-COORDINATION-20011220"/>
 </reference>

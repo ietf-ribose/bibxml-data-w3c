@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-xml-entity-names-20100401" target="https://www.w3.org/TR/2010/REC-xml-entity-names-20100401/">
   <front>
     <title>XML Entity Definitions for Characters</title>
-    <seriesInfo name="W3C REC" value="REC-xml-entity-names-20100401"/>
-    <author role="editor" fullname="David Carlisle"/>
-    <author role="editor" fullname="Patrick D F Ion"/>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick D F Ion">
+      <organization/>
+    </author>
     <date year="2010" month="April" day="1"/>
     <workgroup>Math Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xml-entity-names-20100401"/>
 </reference>

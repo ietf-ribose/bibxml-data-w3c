@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-charreq-20090915" target="https://www.w3.org/TR/2009/NOTE-charreq-20090915/">
   <front>
     <title>Requirements for String Identity Matching and String Indexing</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-charreq-20090915"/>
-    <author role="editor" fullname="Martin Dürst"/>
+    <author role="editor" fullname="Martin Dürst">
+      <organization/>
+    </author>
     <date year="2009" month="September" day="15"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-charreq-20090915"/>
 </reference>

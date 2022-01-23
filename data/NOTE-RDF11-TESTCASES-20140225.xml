@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-rdf11-testcases-20140225" target="https://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/">
   <front>
     <title>RDF 1.1 Test Cases</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-rdf11-testcases-20140225"/>
-    <author role="editor" fullname="Gregg Kellogg"/>
-    <author role="editor" fullname="Markus Lanthaler"/>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Lanthaler">
+      <organization/>
+    </author>
     <date year="2014" month="February" day="25"/>
     <workgroup>RDF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdf11-testcases-20140225"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-accname-1.2-20190711" target="https://www.w3.org/TR/2019/WD-accname-1.2-20190711/">
   <front>
     <title>Accessible Name and Description Computation 1.2</title>
-    <seriesInfo name="W3C WD" value="WD-accname-1.2-20190711"/>
-    <author role="editor" fullname="Bryan Garaventa"/>
-    <author role="editor" fullname="Joanmarie Diggs"/>
-    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Bryan Garaventa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
     <date year="2019" month="July" day="11"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-accname-1.2-20190711"/>
 </reference>

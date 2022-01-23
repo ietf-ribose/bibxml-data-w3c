@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-css3-color-20110607" target="https://www.w3.org/TR/2011/REC-css3-color-20110607/">
   <front>
     <title>CSS Color Module Level 3</title>
-    <seriesInfo name="W3C REC" value="REC-css3-color-20110607"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="David Baron"/>
-    <author role="editor" fullname="Tantek Çelik"/>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Baron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
     <date year="2011" month="June" day="7"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-css3-color-20110607"/>
 </reference>

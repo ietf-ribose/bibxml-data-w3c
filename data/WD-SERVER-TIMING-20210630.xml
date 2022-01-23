@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-server-timing-20210630" target="https://www.w3.org/TR/2021/WD-server-timing-20210630/">
   <front>
     <title>Server Timing</title>
-    <seriesInfo name="W3C WD" value="WD-server-timing-20210630"/>
-    <author role="editor" fullname="Charles Vazac"/>
-    <author role="editor" fullname="Ilya Grigorik"/>
+    <author role="editor" fullname="Charles Vazac">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
     <date year="2021" month="June" day="30"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-server-timing-20210630"/>
 </reference>

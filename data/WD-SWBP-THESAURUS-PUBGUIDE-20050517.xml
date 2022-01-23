@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-swbp-thesaurus-pubguide-20050517" target="https://www.w3.org/TR/2005/WD-swbp-thesaurus-pubguide-20050517/">
   <front>
     <title>Quick Guide to Publishing a Thesaurus on the Semantic Web</title>
-    <seriesInfo name="W3C WD" value="WD-swbp-thesaurus-pubguide-20050517"/>
-    <author role="editor" fullname="Alistair Miles"/>
+    <author role="editor" fullname="Alistair Miles">
+      <organization/>
+    </author>
     <date year="2005" month="May" day="17"/>
     <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-thesaurus-pubguide-20050517"/>
 </reference>

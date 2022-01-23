@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-performance-timeline-20131212" target="https://www.w3.org/TR/2013/REC-performance-timeline-20131212/">
   <front>
     <title>Performance Timeline</title>
-    <seriesInfo name="W3C REC" value="REC-performance-timeline-20131212"/>
-    <author role="editor" fullname="Jatinder Mann"/>
-    <author role="editor" fullname="Zhiheng Wang"/>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
     <date year="2013" month="December" day="12"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-performance-timeline-20131212"/>
 </reference>

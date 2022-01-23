@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-xmlschema-2-20010502" target="https://www.w3.org/TR/2001/REC-xmlschema-2-20010502/">
   <front>
     <title>XML Schema Part 2: Datatypes</title>
-    <seriesInfo name="W3C REC" value="REC-xmlschema-2-20010502"/>
-    <author role="editor" fullname="Ashok Malhotra"/>
-    <author role="editor" fullname="Paul V. Biron"/>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul V. Biron">
+      <organization/>
+    </author>
     <date year="2001" month="May" day="2"/>
     <workgroup>XML Schema Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xmlschema-2-20010502"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-UMP-20141002" target="https://www.w3.org/TR/2014/NOTE-UMP-20141002/">
   <front>
     <title>Uniform Messaging Policy, Level One</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-UMP-20141002"/>
-    <author role="editor" fullname="Mark Miller"/>
-    <author role="editor" fullname="Tyler Close"/>
+    <author role="editor" fullname="Mark Miller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tyler Close">
+      <organization/>
+    </author>
     <date year="2014" month="October" day="2"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-UMP-20141002"/>
 </reference>

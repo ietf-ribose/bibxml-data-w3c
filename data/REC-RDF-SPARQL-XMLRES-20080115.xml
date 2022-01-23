@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-rdf-sparql-XMLres-20080115" target="https://www.w3.org/TR/2008/REC-rdf-sparql-XMLres-20080115/">
   <front>
     <title>SPARQL Query Results XML Format</title>
-    <seriesInfo name="W3C REC" value="REC-rdf-sparql-XMLres-20080115"/>
-    <author role="editor" fullname="Dave Beckett"/>
-    <author role="editor" fullname="Jeen Broekstra"/>
+    <author role="editor" fullname="Dave Beckett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeen Broekstra">
+      <organization/>
+    </author>
     <date year="2008" month="January" day="15"/>
     <workgroup>SPARQL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rdf-sparql-XMLres-20080115"/>
 </reference>

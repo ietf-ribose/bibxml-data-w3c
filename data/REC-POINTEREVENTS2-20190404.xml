@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-pointerevents2-20190404" target="https://www.w3.org/TR/2019/REC-pointerevents2-20190404/">
   <front>
     <title>Pointer Events</title>
-    <seriesInfo name="W3C REC" value="REC-pointerevents2-20190404"/>
-    <author role="editor" fullname="Matt Brubeck"/>
-    <author role="editor" fullname="Navid Zolghadr"/>
-    <author role="editor" fullname="Patrick Lauke"/>
-    <author role="editor" fullname="Rick Byers"/>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Navid Zolghadr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Lauke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rick Byers">
+      <organization/>
+    </author>
     <date year="2019" month="April" day="4"/>
     <workgroup>Pointer Events Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-pointerevents2-20190404"/>
 </reference>

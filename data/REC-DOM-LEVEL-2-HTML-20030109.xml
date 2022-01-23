@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-DOM-Level-2-HTML-20030109" target="https://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109/">
   <front>
     <title>Document Object Model (DOM) Level 2 HTML Specification</title>
-    <seriesInfo name="W3C REC" value="REC-DOM-Level-2-HTML-20030109"/>
-    <author role="editor" fullname="Arnaud Le Hors"/>
-    <author role="editor" fullname="Johnny Stenback"/>
-    <author role="editor" fullname="Philippe Le Hégaret"/>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johnny Stenback">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
     <date year="2003" month="January" day="9"/>
     <workgroup>Web Hypertext Application Technology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-DOM-Level-2-HTML-20030109"/>
 </reference>

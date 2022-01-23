@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-owl2-conformance-20121211" target="https://www.w3.org/TR/2012/REC-owl2-conformance-20121211/">
   <front>
     <title>OWL 2 Web Ontology Language Conformance (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-owl2-conformance-20121211"/>
-    <author role="editor" fullname="Birte Glimm"/>
-    <author role="editor" fullname="Ian Horrocks"/>
-    <author role="editor" fullname="Markus Krötzsch"/>
-    <author role="editor" fullname="Michael[tm] Smith"/>
+    <author role="editor" fullname="Birte Glimm">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Krötzsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael[tm] Smith">
+      <organization/>
+    </author>
     <date year="2012" month="December" day="11"/>
     <workgroup>OWL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl2-conformance-20121211"/>
 </reference>

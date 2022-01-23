@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-media-capture-api-20120322" target="https://www.w3.org/TR/2012/NOTE-media-capture-api-20120322/">
   <front>
     <title>The Media Capture API</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-media-capture-api-20120322"/>
-    <author role="editor" fullname="Dzung Tran"/>
-    <author role="editor" fullname="Ilkka Oksanen"/>
-    <author role="editor" fullname="Ingmar Kliche"/>
+    <author role="editor" fullname="Dzung Tran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilkka Oksanen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ingmar Kliche">
+      <organization/>
+    </author>
     <date year="2012" month="March" day="22"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-media-capture-api-20120322"/>
 </reference>

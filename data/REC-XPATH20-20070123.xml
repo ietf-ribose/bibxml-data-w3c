@@ -1,16 +1,30 @@
 <reference anchor="W3C.REC-xpath20-20070123" target="https://www.w3.org/TR/2007/REC-xpath20-20070123/">
   <front>
     <title>XML Path Language (XPath) 2.0</title>
-    <seriesInfo name="W3C REC" value="REC-xpath20-20070123"/>
-    <author role="editor" fullname="Anders Berglund"/>
-    <author role="editor" fullname="Don Chamberlin"/>
-    <author role="editor" fullname="Jerome Simeon"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Mary Fernandez"/>
-    <author role="editor" fullname="Michael Kay"/>
-    <author role="editor" fullname="Scott Boag"/>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerome Simeon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernandez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Boag">
+      <organization/>
+    </author>
     <date year="2007" month="January" day="23"/>
     <workgroup>Extensible Stylesheet Language Family</workgroup>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xpath20-20070123"/>
 </reference>

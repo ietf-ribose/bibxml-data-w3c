@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-notifications-20151022" target="https://www.w3.org/TR/2015/REC-notifications-20151022/">
   <front>
     <title>Web Notifications</title>
-    <seriesInfo name="W3C REC" value="REC-notifications-20151022"/>
-    <author role="editor" fullname="Anne van Kesteren"/>
-    <author role="editor" fullname="John Gregg"/>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Gregg">
+      <organization/>
+    </author>
     <date year="2015" month="October" day="22"/>
     <workgroup>Web Notification Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-notifications-20151022"/>
 </reference>

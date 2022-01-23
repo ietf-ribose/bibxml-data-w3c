@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-motion-sensors-20170830" target="https://www.w3.org/TR/2017/NOTE-motion-sensors-20170830/">
   <front>
     <title>Motion Sensors Explainer</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-motion-sensors-20170830"/>
-    <author role="editor" fullname="Alexander Shalamov"/>
-    <author role="editor" fullname="Kenneth Christiansen"/>
+    <author role="editor" fullname="Alexander Shalamov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
     <date year="2017" month="August" day="30"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-motion-sensors-20170830"/>
 </reference>

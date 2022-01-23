@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-UAAG20-requirements-20071031" target="https://www.w3.org/TR/2007/WD-UAAG20-requirements-20071031/">
   <front>
     <title>User Agent Accessibility Guidelines 2.0 Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-UAAG20-requirements-20071031"/>
-    <author role="editor" fullname="Jan Richards"/>
-    <author role="editor" fullname="Jim Allan"/>
+    <author role="editor" fullname="Jan Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Allan">
+      <organization/>
+    </author>
     <date year="2007" month="October" day="31"/>
     <workgroup>User Agent Accessibility Guidelines Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-UAAG20-requirements-20071031"/>
 </reference>

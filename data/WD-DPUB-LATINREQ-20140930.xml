@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-dpub-latinreq-20140930" target="https://www.w3.org/TR/2014/WD-dpub-latinreq-20140930/">
   <front>
     <title>Requirements for Latin Text Layout and Pagination</title>
-    <seriesInfo name="W3C WD" value="WD-dpub-latinreq-20140930"/>
-    <author role="editor" fullname="Dave Cramer"/>
+    <author role="editor" fullname="Dave Cramer">
+      <organization/>
+    </author>
     <date year="2014" month="September" day="30"/>
     <workgroup>Digital Publishing Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-dpub-latinreq-20140930"/>
 </reference>

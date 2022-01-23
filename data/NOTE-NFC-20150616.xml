@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-nfc-20150616" target="https://www.w3.org/TR/2015/NOTE-nfc-20150616/">
   <front>
     <title>Web NFC API</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-nfc-20150616"/>
-    <author role="editor" fullname="Don Coleman"/>
-    <author role="editor" fullname="Luc Yriarte"/>
-    <author role="editor" fullname="Samuel Ortiz"/>
+    <author role="editor" fullname="Don Coleman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Luc Yriarte">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Samuel Ortiz">
+      <organization/>
+    </author>
     <date year="2015" month="June" day="16"/>
     <workgroup>Near Field Communications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-nfc-20150616"/>
 </reference>

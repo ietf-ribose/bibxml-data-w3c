@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-xmldsig-filter2-20021108" target="https://www.w3.org/TR/2002/REC-xmldsig-filter2-20021108/">
   <front>
     <title>XML-Signature XPath Filter 2.0</title>
-    <seriesInfo name="W3C REC" value="REC-xmldsig-filter2-20021108"/>
-    <author role="editor" fullname="John Boyer"/>
-    <author role="editor" fullname="Joseph Reagle"/>
-    <author role="editor" fullname="Merlin Hughes"/>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Reagle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Merlin Hughes">
+      <organization/>
+    </author>
     <date year="2002" month="November" day="8"/>
     <workgroup>XML Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xmldsig-filter2-20021108"/>
 </reference>

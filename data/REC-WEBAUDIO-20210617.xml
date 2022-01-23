@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-webaudio-20210617" target="https://www.w3.org/TR/2021/REC-webaudio-20210617/">
   <front>
     <title>Web Audio API</title>
-    <seriesInfo name="W3C REC" value="REC-webaudio-20210617"/>
-    <author role="editor" fullname="Hongchan Choi"/>
-    <author role="editor" fullname="Paul Adenot"/>
+    <author role="editor" fullname="Hongchan Choi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
     <date year="2021" month="June" day="17"/>
     <workgroup>Audio Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-webaudio-20210617"/>
 </reference>

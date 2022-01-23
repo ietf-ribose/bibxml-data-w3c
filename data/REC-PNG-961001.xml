@@ -1,8 +1,10 @@
 <reference anchor="W3C.REC-png-961001" target="https://www.w3.org/TR/REC-png-961001">
   <front>
     <title>PNG (Portable Network Graphics) Specification</title>
-    <seriesInfo name="W3C REC" value="REC-png-961001"/>
-    <author role="editor" fullname="Tom Lane"/>
+    <author role="editor" fullname="Tom Lane">
+      <organization/>
+    </author>
     <date year="1996" month="October" day="1"/>
   </front>
+  <seriesInfo name="W3C REC" value="REC-png-961001"/>
 </reference>

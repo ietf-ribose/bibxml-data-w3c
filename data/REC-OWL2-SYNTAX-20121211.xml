@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-owl2-syntax-20121211" target="https://www.w3.org/TR/2012/REC-owl2-syntax-20121211/">
   <front>
     <title>OWL 2 Web Ontology Language Structural Specification and Functional-Style Syntax (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-owl2-syntax-20121211"/>
-    <author role="editor" fullname="Bijan Parsia"/>
-    <author role="editor" fullname="Boris Motik"/>
-    <author role="editor" fullname="Peter Patel-Schneider"/>
+    <author role="editor" fullname="Bijan Parsia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Boris Motik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Patel-Schneider">
+      <organization/>
+    </author>
     <date year="2012" month="December" day="11"/>
     <workgroup>OWL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl2-syntax-20121211"/>
 </reference>

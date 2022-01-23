@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-owl-time-20171019" target="https://www.w3.org/TR/2017/REC-owl-time-20171019/">
   <front>
     <title>Time Ontology in OWL</title>
-    <seriesInfo name="W3C REC" value="REC-owl-time-20171019"/>
-    <author role="editor" fullname="Chris Little"/>
-    <author role="editor" fullname="Simon Cox"/>
+    <author role="editor" fullname="Chris Little">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Cox">
+      <organization/>
+    </author>
     <date year="2017" month="October" day="19"/>
     <workgroup>Spatial Data on the Web Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl-time-20171019"/>
 </reference>

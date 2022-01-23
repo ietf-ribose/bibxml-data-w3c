@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-sw-oosd-primer-20060309" target="https://www.w3.org/TR/2006/NOTE-sw-oosd-primer-20060309/">
   <front>
     <title>A Semantic Web Primer for Object-Oriented Software Developers</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-sw-oosd-primer-20060309"/>
-    <author role="editor" fullname="Daniel Oberle"/>
-    <author role="editor" fullname="Evan Wallace"/>
-    <author role="editor" fullname="Holger Knublauch"/>
-    <author role="editor" fullname="Philip Tetlow"/>
+    <author role="editor" fullname="Daniel Oberle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Evan Wallace">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Holger Knublauch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip Tetlow">
+      <organization/>
+    </author>
     <date year="2006" month="March" day="9"/>
     <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-sw-oosd-primer-20060309"/>
 </reference>

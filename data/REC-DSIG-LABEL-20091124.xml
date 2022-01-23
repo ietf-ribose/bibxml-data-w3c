@@ -1,11 +1,19 @@
 <reference anchor="W3C.REC-DSig-label-20091124" target="https://www.w3.org/TR/2009/REC-DSig-label-20091124/">
   <front>
     <title>PICS Signed Labels (DSig) 1.0 Specification</title>
-    <seriesInfo name="W3C REC" value="REC-DSig-label-20091124"/>
-    <author role="editor" fullname="Brian LaMacchia"/>
-    <author role="editor" fullname="Peter Lipp"/>
-    <author role="editor" fullname="Philip DesAutels"/>
-    <author role="editor" fullname="Yanghua Chu"/>
+    <author role="editor" fullname="Brian LaMacchia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Lipp">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip DesAutels">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yanghua Chu">
+      <organization/>
+    </author>
     <date year="2009" month="November" day="24"/>
   </front>
+  <seriesInfo name="W3C REC" value="REC-DSig-label-20091124"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-html40-971218" target="https://www.w3.org/TR/REC-html40-971218">
   <front>
     <title>HTML 4.0 Recommendation</title>
-    <seriesInfo name="W3C REC" value="REC-html40-971218"/>
-    <author role="editor" fullname="Arnaud Le Hors"/>
-    <author role="editor" fullname="Dave Raggett"/>
-    <author role="editor" fullname="Ian Jacobs"/>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
     <date year="1997" month="December" day="18"/>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-html40-971218"/>
 </reference>

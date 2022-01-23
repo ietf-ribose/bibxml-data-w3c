@@ -1,17 +1,35 @@
 <reference anchor="W3C.NOTE-ws-i18n-scenarios-20040730" target="https://www.w3.org/TR/2004/NOTE-ws-i18n-scenarios-20040730/">
   <front>
     <title>Web Services Internationalization Usage Scenarios</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-ws-i18n-scenarios-20040730"/>
-    <author role="editor" fullname="Addison Phillips"/>
-    <author role="editor" fullname="Andrea Vine"/>
-    <author role="editor" fullname="Debasish Banerjee"/>
-    <author role="editor" fullname="Kentaro Noji"/>
-    <author role="editor" fullname="Martin Dürst"/>
-    <author role="editor" fullname="Mary Trumble"/>
-    <author role="editor" fullname="Michael McKenna"/>
-    <author role="editor" fullname="Takao Suzuki"/>
-    <author role="editor" fullname="Tex Texin"/>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrea Vine">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Debasish Banerjee">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kentaro Noji">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Dürst">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Trumble">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McKenna">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takao Suzuki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tex Texin">
+      <organization/>
+    </author>
     <date year="2004" month="July" day="30"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ws-i18n-scenarios-20040730"/>
 </reference>

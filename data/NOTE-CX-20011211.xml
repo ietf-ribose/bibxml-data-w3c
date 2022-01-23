@@ -1,15 +1,29 @@
 <reference anchor="W3C.NOTE-CX-20011211" target="https://www.w3.org/TR/2001/NOTE-CX-20011211">
   <front>
     <title>Component Extension (CX) API requirements Version 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-CX-20011211"/>
-    <author role="editor" fullname="Angel Diaz"/>
-    <author role="editor" fullname="Charles McCathieNevile"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="Jon Ferraiolo"/>
-    <author role="editor" fullname="Philippe Le Hégaret"/>
-    <author role="editor" fullname="Ray Whitmer"/>
-    <author role="editor" fullname="Tapas Roy"/>
+    <author role="editor" fullname="Angel Diaz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ray Whitmer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tapas Roy">
+      <organization/>
+    </author>
     <date year="2001" month="December" day="11"/>
     <workgroup>Hypertext Coordination Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CX-20011211"/>
 </reference>

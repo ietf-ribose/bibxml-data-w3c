@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-rdf-dawg-uc-20050325" target="https://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/">
   <front>
     <title>RDF Data Access Use Cases and Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-rdf-dawg-uc-20050325"/>
-    <author role="editor" fullname="Kendall Clark"/>
+    <author role="editor" fullname="Kendall Clark">
+      <organization/>
+    </author>
     <date year="2005" month="March" day="25"/>
     <workgroup>SPARQL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-dawg-uc-20050325"/>
 </reference>

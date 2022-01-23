@@ -1,12 +1,18 @@
 <reference anchor="W3C.REC-xpath-31-20170321" target="https://www.w3.org/TR/2017/REC-xpath-31-20170321/">
   <front>
     <title>XML Path Language (XPath) 3.1</title>
-    <seriesInfo name="W3C REC" value="REC-xpath-31-20170321"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Josh Spiegel"/>
-    <author role="editor" fullname="Michael Dyck"/>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Josh Spiegel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Dyck">
+      <organization/>
+    </author>
     <date year="2017" month="March" day="21"/>
     <workgroup>Extensible Stylesheet Language Family</workgroup>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xpath-31-20170321"/>
 </reference>

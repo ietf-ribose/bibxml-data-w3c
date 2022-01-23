@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-CSS1-20080411" target="https://www.w3.org/TR/2008/REC-CSS1-20080411/">
   <front>
     <title>Cascading Style Sheets (CSS1) Level 1 Specification</title>
-    <seriesInfo name="W3C REC" value="REC-CSS1-20080411"/>
-    <author role="editor" fullname="Bert Bos"/>
-    <author role="editor" fullname="Håkon Wium Lie"/>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
     <date year="2008" month="April" day="11"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-CSS1-20080411"/>
 </reference>

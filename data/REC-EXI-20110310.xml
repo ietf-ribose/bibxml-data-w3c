@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-exi-20110310" target="https://www.w3.org/TR/2011/REC-exi-20110310/">
   <front>
     <title>Efficient XML Interchange (EXI) Format 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-exi-20110310"/>
-    <author role="editor" fullname="John Schneider"/>
-    <author role="editor" fullname="Takuki Kamiya"/>
+    <author role="editor" fullname="John Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
     <date year="2011" month="March" day="10"/>
     <workgroup>Efficient Extensible Interchange Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-exi-20110310"/>
 </reference>

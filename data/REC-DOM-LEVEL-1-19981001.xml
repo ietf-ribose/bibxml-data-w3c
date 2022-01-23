@@ -1,18 +1,38 @@
 <reference anchor="W3C.REC-DOM-Level-1-19981001" target="https://www.w3.org/TR/1998/REC-DOM-Level-1-19981001/">
   <front>
     <title>Document Object Model (DOM) Level 1</title>
-    <seriesInfo name="W3C REC" value="REC-DOM-Level-1-19981001"/>
-    <author role="editor" fullname="Arnaud Le Hors"/>
-    <author role="editor" fullname="Chris Wilson"/>
-    <author role="editor" fullname="Gavin Nicol"/>
-    <author role="editor" fullname="Ian Jacobs"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Lauren Wood"/>
-    <author role="editor" fullname="Mike Champion"/>
-    <author role="editor" fullname="Robert S Sutor"/>
-    <author role="editor" fullname="Scott Isaacson"/>
-    <author role="editor" fullname="Steven B Byrne"/>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Wilson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Nicol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert S Sutor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Isaacson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven B Byrne">
+      <organization/>
+    </author>
     <date year="1998" month="October" day="1"/>
     <workgroup>Web Hypertext Application Technology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-DOM-Level-1-19981001"/>
 </reference>

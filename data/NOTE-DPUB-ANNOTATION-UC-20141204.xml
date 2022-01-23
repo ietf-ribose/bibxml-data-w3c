@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-dpub-annotation-uc-20141204" target="https://www.w3.org/TR/2014/NOTE-dpub-annotation-uc-20141204/">
   <front>
     <title>Digital Publishing Annotation Use Cases</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-dpub-annotation-uc-20141204"/>
-    <author role="editor" fullname="Robert Sanderson"/>
+    <author role="editor" fullname="Robert Sanderson">
+      <organization/>
+    </author>
     <date year="2014" month="December" day="4"/>
     <workgroup>Digital Publishing Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-dpub-annotation-uc-20141204"/>
 </reference>

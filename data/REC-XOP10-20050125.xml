@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-xop10-20050125" target="https://www.w3.org/TR/2005/REC-xop10-20050125/">
   <front>
     <title>XML-binary Optimized Packaging</title>
-    <seriesInfo name="W3C REC" value="REC-xop10-20050125"/>
-    <author role="editor" fullname="Hervé Ruellan"/>
-    <author role="editor" fullname="Mark Nottingham"/>
-    <author role="editor" fullname="Martin Gudgin"/>
-    <author role="editor" fullname="Noah Mendelsohn"/>
+    <author role="editor" fullname="Hervé Ruellan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Nottingham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
     <date year="2005" month="January" day="25"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xop10-20050125"/>
 </reference>

@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-task-models-20140408" target="https://www.w3.org/TR/2014/NOTE-task-models-20140408/">
   <front>
     <title>MBUI - Task Models</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-task-models-20140408"/>
-    <author role="editor" fullname="Carmen Santoro"/>
-    <author role="editor" fullname="Dave Raggett"/>
-    <author role="editor" fullname="Fabio Paternò"/>
-    <author role="editor" fullname="Spano Lucio Davide"/>
+    <author role="editor" fullname="Carmen Santoro">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Fabio Paternò">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Spano Lucio Davide">
+      <organization/>
+    </author>
     <date year="2014" month="April" day="8"/>
     <workgroup>Model-Based User Interfaces Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-task-models-20140408"/>
 </reference>

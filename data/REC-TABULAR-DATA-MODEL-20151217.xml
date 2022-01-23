@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-tabular-data-model-20151217" target="https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/">
   <front>
     <title>Model for Tabular Data and Metadata on the Web</title>
-    <seriesInfo name="W3C REC" value="REC-tabular-data-model-20151217"/>
-    <author role="editor" fullname="Gregg Kellogg"/>
-    <author role="editor" fullname="Jeni Tennison"/>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeni Tennison">
+      <organization/>
+    </author>
     <date year="2015" month="December" day="17"/>
     <workgroup>CSV on the Web Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-tabular-data-model-20151217"/>
 </reference>

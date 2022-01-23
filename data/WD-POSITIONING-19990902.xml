@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-positioning-19990902" target="https://www.w3.org/TR/1999/WD-positioning-19990902">
   <front>
     <title>Positioning HTML Elements with Cascading Style Sheets</title>
-    <seriesInfo name="W3C WD" value="WD-positioning-19990902"/>
-    <author role="editor" fullname="Robert Stevahn"/>
-    <author role="editor" fullname="Scott Furman"/>
-    <author role="editor" fullname="Scott Isaacson"/>
+    <author role="editor" fullname="Robert Stevahn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Furman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Isaacson">
+      <organization/>
+    </author>
     <date year="1999" month="September" day="2"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-positioning-19990902"/>
 </reference>

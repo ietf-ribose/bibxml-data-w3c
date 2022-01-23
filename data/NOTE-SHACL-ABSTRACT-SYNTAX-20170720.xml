@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-shacl-abstract-syntax-20170720" target="https://www.w3.org/TR/2017/NOTE-shacl-abstract-syntax-20170720/">
   <front>
     <title>SHACL Abstract Syntax -- Note on Status of Obsolete Proposal</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-shacl-abstract-syntax-20170720"/>
-    <author role="editor" fullname="Eric Prud'hommeaux"/>
-    <author role="editor" fullname="Karen Coyle"/>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Karen Coyle">
+      <organization/>
+    </author>
     <date year="2017" month="July" day="20"/>
     <workgroup>RDF Data Shapes Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-shacl-abstract-syntax-20170720"/>
 </reference>

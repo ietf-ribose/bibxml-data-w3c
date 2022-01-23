@@ -1,7 +1,7 @@
 <reference anchor="W3C.NOTE-imagemap" target="https://www.w3.org/TR/NOTE-imagemap">
   <front>
     <title>Imagemapped Images and Image-Incapable User Agents</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-imagemap"/>
     <date year="1996" month="November" day="27"/>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-imagemap"/>
 </reference>

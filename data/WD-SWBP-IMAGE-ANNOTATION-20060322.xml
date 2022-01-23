@@ -1,12 +1,20 @@
 <reference anchor="W3C.WD-swbp-image-annotation-20060322" target="https://www.w3.org/TR/2006/WD-swbp-image-annotation-20060322/">
   <front>
     <title>Image Annotation on the Semantic Web</title>
-    <seriesInfo name="W3C WD" value="WD-swbp-image-annotation-20060322"/>
-    <author role="editor" fullname="Giorgos Stamou"/>
-    <author role="editor" fullname="Jacco van Ossenbruggen"/>
-    <author role="editor" fullname="Jeff Pan"/>
-    <author role="editor" fullname="Raphaël Troncy"/>
+    <author role="editor" fullname="Giorgos Stamou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jacco van Ossenbruggen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Pan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raphaël Troncy">
+      <organization/>
+    </author>
     <date year="2006" month="March" day="22"/>
     <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-image-annotation-20060322"/>
 </reference>

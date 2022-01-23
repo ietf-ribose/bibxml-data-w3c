@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-soap12-part0-20070427" target="https://www.w3.org/TR/2007/REC-soap12-part0-20070427/">
   <front>
     <title>SOAP Version 1.2 Part 0: Primer (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-soap12-part0-20070427"/>
-    <author role="editor" fullname="Nilo Mitra"/>
-    <author role="editor" fullname="Yves Lafon"/>
+    <author role="editor" fullname="Nilo Mitra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Lafon">
+      <organization/>
+    </author>
     <date year="2007" month="April" day="27"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-soap12-part0-20070427"/>
 </reference>

@@ -1,11 +1,15 @@
 <reference anchor="W3C.WD-coga-user-research-20150115" target="https://www.w3.org/TR/2015/WD-coga-user-research-20150115/">
   <front>
     <title>Cognitive Accessibility User Research</title>
-    <seriesInfo name="W3C WD" value="WD-coga-user-research-20150115"/>
-    <author role="editor" fullname="Lisa Seeman-Horwitz"/>
-    <author role="editor" fullname="Michael Cooper"/>
+    <author role="editor" fullname="Lisa Seeman-Horwitz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
     <date year="2015" month="January" day="15"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
     <workgroup>Protocols and Formats Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-coga-user-research-20150115"/>
 </reference>

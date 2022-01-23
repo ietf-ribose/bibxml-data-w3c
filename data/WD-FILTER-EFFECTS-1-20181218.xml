@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-filter-effects-1-20181218" target="https://www.w3.org/TR/2018/WD-filter-effects-1-20181218/">
   <front>
     <title>Filter Effects Module Level 1</title>
-    <seriesInfo name="W3C WD" value="WD-filter-effects-1-20181218"/>
-    <author role="editor" fullname="Dean Jackson"/>
-    <author role="editor" fullname="Dirk Schulze"/>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
     <date year="2018" month="December" day="18"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-filter-effects-1-20181218"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="W3C.xpath" target="http://www.w3.org/TR/xpath">
   <front>
     <title>XML Path Language (XPath) Version 1.0</title>
-    <seriesInfo name="W3C Recommendation" value="xpath"/>
     <author fullname="James Clark" initials="J." surname="Clark">
       <organization>
       </organization>
@@ -18,4 +17,5 @@
     </author>
     <date year="1999" month="November" day="16"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="xpath"/>
 </reference>

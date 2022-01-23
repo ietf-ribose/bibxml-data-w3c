@@ -1,7 +1,6 @@
 <reference anchor="W3C.REC-xml-names" target="http://www.w3.org/TR/REC-xml-names">
   <front>
     <title>Namespaces in XML</title>
-    <seriesInfo name="W3C" value="REC-xml-names"/>
     <author fullname="Tim Bray" initials="T." surname="Bray">
       <organization>Textuality</organization>
       <address>
@@ -22,4 +21,5 @@
     </author>
     <date year="1999" month="January" day="14"/>
   </front>
+  <seriesInfo name="W3C" value="REC-xml-names"/>
 </reference>

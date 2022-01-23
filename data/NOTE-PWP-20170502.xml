@@ -1,14 +1,26 @@
 <reference anchor="W3C.NOTE-pwp-20170502" target="https://www.w3.org/TR/2017/NOTE-pwp-20170502/">
   <front>
     <title>Web Publications for the Open Web Platform: Vision And Technical Challenges</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-pwp-20170502"/>
-    <author role="editor" fullname="Ben De Meester"/>
-    <author role="editor" fullname="Dave Cramer"/>
-    <author role="editor" fullname="Ivan Herman"/>
-    <author role="editor" fullname="Leonard Rosenthol"/>
-    <author role="editor" fullname="Markus Gylling"/>
-    <author role="editor" fullname="Tzviya Siegman"/>
+    <author role="editor" fullname="Ben De Meester">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Cramer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Leonard Rosenthol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Gylling">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tzviya Siegman">
+      <organization/>
+    </author>
     <date year="2017" month="May" day="2"/>
     <workgroup>Digital Publishing Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-pwp-20170502"/>
 </reference>

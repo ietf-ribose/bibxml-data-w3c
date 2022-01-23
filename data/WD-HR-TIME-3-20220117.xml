@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-hr-time-3-20220117" target="https://www.w3.org/TR/2022/WD-hr-time-3-20220117/">
   <front>
     <title>High Resolution Time</title>
-    <seriesInfo name="W3C WD" value="WD-hr-time-3-20220117"/>
-    <author role="editor" fullname="Yoav Weiss"/>
+    <author role="editor" fullname="Yoav Weiss">
+      <organization/>
+    </author>
     <date year="2022" month="January" day="17"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-hr-time-3-20220117"/>
 </reference>

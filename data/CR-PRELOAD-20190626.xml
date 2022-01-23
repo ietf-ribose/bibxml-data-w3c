@@ -1,10 +1,14 @@
 <reference anchor="W3C.CR-preload-20190626" target="https://www.w3.org/TR/2019/CR-preload-20190626/">
   <front>
     <title>Preload</title>
-    <seriesInfo name="W3C CR" value="CR-preload-20190626"/>
-    <author role="editor" fullname="Ilya Grigorik"/>
-    <author role="editor" fullname="Yoav Weiss"/>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yoav Weiss">
+      <organization/>
+    </author>
     <date year="2019" month="June" day="26"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-preload-20190626"/>
 </reference>

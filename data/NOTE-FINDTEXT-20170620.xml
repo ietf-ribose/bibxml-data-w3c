@@ -1,10 +1,12 @@
 <reference anchor="W3C.NOTE-findtext-20170620" target="https://www.w3.org/TR/2017/NOTE-findtext-20170620/">
   <front>
     <title>FindText API</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-findtext-20170620"/>
-    <author role="editor" fullname="Doug Schepers"/>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
     <date year="2017" month="June" day="20"/>
     <workgroup>Web Applications Working Group</workgroup>
     <workgroup>Annotation Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-findtext-20170620"/>
 </reference>

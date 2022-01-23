@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-osge-osa-gap-20210524" target="https://www.w3.org/TR/2021/WD-osge-osa-gap-20210524/">
   <front>
     <title>Osage Gap Analysis</title>
-    <seriesInfo name="W3C WD" value="WD-osge-osa-gap-20210524"/>
-    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
     <date year="2021" month="May" day="24"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-osge-osa-gap-20210524"/>
 </reference>

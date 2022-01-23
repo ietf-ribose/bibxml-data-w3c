@@ -1,12 +1,20 @@
 <reference anchor="W3C.CR-css-flexbox-1-20181119" target="https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/">
   <front>
     <title>CSS Flexible Box Layout Module Level 1</title>
-    <seriesInfo name="W3C CR" value="CR-css-flexbox-1-20181119"/>
-    <author role="editor" fullname="David Baron"/>
-    <author role="editor" fullname="Elika Etemad"/>
-    <author role="editor" fullname="Rossen Atanassov"/>
-    <author role="editor" fullname="Tab Atkins Jr."/>
+    <author role="editor" fullname="David Baron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rossen Atanassov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
     <date year="2018" month="November" day="19"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-css-flexbox-1-20181119"/>
 </reference>

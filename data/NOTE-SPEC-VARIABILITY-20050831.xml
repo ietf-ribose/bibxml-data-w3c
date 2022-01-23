@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-spec-variability-20050831" target="https://www.w3.org/TR/2005/NOTE-spec-variability-20050831/">
   <front>
     <title>Variability in Specifications</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-spec-variability-20050831"/>
-    <author role="editor" fullname="Dominique Hazaël-Massieux"/>
-    <author role="editor" fullname="Lynne Rosenthal"/>
+    <author role="editor" fullname="Dominique Hazaël-Massieux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lynne Rosenthal">
+      <organization/>
+    </author>
     <date year="2005" month="August" day="31"/>
     <workgroup>Quality Assurance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-spec-variability-20050831"/>
 </reference>

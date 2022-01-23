@@ -1,10 +1,16 @@
 <reference anchor="W3C.NOTE-p3p-rdfschema-20180830" target="https://www.w3.org/TR/2018/NOTE-p3p-rdfschema-20180830/">
   <front>
     <title>An RDF Schema for P3P</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-p3p-rdfschema-20180830"/>
-    <author role="editor" fullname="Brian McBride"/>
-    <author role="editor" fullname="Lorrie Cranor"/>
-    <author role="editor" fullname="Rigo Wenning"/>
+    <author role="editor" fullname="Brian McBride">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lorrie Cranor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rigo Wenning">
+      <organization/>
+    </author>
     <date year="2018" month="August" day="30"/>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-p3p-rdfschema-20180830"/>
 </reference>

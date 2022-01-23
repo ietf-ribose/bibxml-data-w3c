@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-simple-ruby-20200609" target="https://www.w3.org/TR/2020/WD-simple-ruby-20200609/">
   <front>
     <title>Rules for Simple Placement of Japanese Ruby</title>
-    <seriesInfo name="W3C WD" value="WD-simple-ruby-20200609"/>
-    <author role="editor" fullname="Atsushi Shimono"/>
-    <author role="editor" fullname="Florian Rivoal"/>
-    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Atsushi Shimono">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florian Rivoal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
     <date year="2020" month="June" day="9"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-simple-ruby-20200609"/>
 </reference>

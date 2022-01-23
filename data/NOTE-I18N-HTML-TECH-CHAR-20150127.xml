@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-i18n-html-tech-char-20150127" target="https://www.w3.org/TR/2015/NOTE-i18n-html-tech-char-20150127/">
   <front>
     <title>Authoring Techniques for XHTML &amp; HTML Internationalization: Characters and Encodings 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-i18n-html-tech-char-20150127"/>
-    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
     <date year="2015" month="January" day="27"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-i18n-html-tech-char-20150127"/>
 </reference>

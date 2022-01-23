@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-vocab-org-20140116" target="https://www.w3.org/TR/2014/REC-vocab-org-20140116/">
   <front>
     <title>The Organization Ontology</title>
-    <seriesInfo name="W3C REC" value="REC-vocab-org-20140116"/>
-    <author role="editor" fullname="Dave Reynolds"/>
+    <author role="editor" fullname="Dave Reynolds">
+      <organization/>
+    </author>
     <date year="2014" month="January" day="16"/>
     <workgroup>Government Linked Data Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-vocab-org-20140116"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.SPSD-webcgm20-20191205" target="https://www.w3.org/TR/2019/SPSD-webcgm20-20191205/">
   <front>
     <title>WebCGM 2.0</title>
-    <seriesInfo name="W3C REC" value="SPSD-webcgm20-20191205"/>
-    <author role="editor" fullname="Benoit Bezaire"/>
-    <author role="editor" fullname="David Cruikshank"/>
-    <author role="editor" fullname="Lofton Henderson"/>
+    <author role="editor" fullname="Benoit Bezaire">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Cruikshank">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
     <date year="2019" month="December" day="5"/>
     <workgroup>WebCGM Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-webcgm20-20191205"/>
 </reference>

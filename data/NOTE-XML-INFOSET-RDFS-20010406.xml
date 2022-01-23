@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-xml-infoset-rdfs-20010406" target="https://www.w3.org/TR/2001/NOTE-xml-infoset-rdfs-20010406">
   <front>
     <title>An RDF Schema for the XML Information Set</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xml-infoset-rdfs-20010406"/>
-    <author role="editor" fullname="Richard Tobin"/>
+    <author role="editor" fullname="Richard Tobin">
+      <organization/>
+    </author>
     <date year="2001" month="April" day="6"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xml-infoset-rdfs-20010406"/>
 </reference>

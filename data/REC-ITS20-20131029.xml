@@ -1,16 +1,32 @@
 <reference anchor="W3C.REC-its20-20131029" target="https://www.w3.org/TR/2013/REC-its20-20131029/">
   <front>
     <title>Internationalization Tag Set (ITS) Version 2.0</title>
-    <seriesInfo name="W3C REC" value="REC-its20-20131029"/>
-    <author role="editor" fullname="Arle Lommel"/>
-    <author role="editor" fullname="Christian Lieske"/>
-    <author role="editor" fullname="David Filip"/>
-    <author role="editor" fullname="David Lewis"/>
-    <author role="editor" fullname="Felix Sasaki"/>
-    <author role="editor" fullname="Jirka Kosek"/>
-    <author role="editor" fullname="Shaun McCance"/>
-    <author role="editor" fullname="Yves Savourel"/>
+    <author role="editor" fullname="Arle Lommel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Christian Lieske">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Filip">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jirka Kosek">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shaun McCance">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Savourel">
+      <organization/>
+    </author>
     <date year="2013" month="October" day="29"/>
     <workgroup>MultilingualWeb-LT Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-its20-20131029"/>
 </reference>

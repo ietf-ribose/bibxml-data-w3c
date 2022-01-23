@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-sawsdl-guide-20070828" target="https://www.w3.org/TR/2007/NOTE-sawsdl-guide-20070828/">
   <front>
     <title>Semantic Annotations for WSDL and XML Schema — Usage Guide</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-sawsdl-guide-20070828"/>
-    <author role="editor" fullname="Brahmananda Sapkota"/>
-    <author role="editor" fullname="Rama Akkiraju"/>
+    <author role="editor" fullname="Brahmananda Sapkota">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rama Akkiraju">
+      <organization/>
+    </author>
     <date year="2007" month="August" day="28"/>
     <workgroup>Semantic Annotations for WSDL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-sawsdl-guide-20070828"/>
 </reference>

@@ -1,19 +1,41 @@
 <reference anchor="W3C.REC-voicexml21-20070619" target="https://www.w3.org/TR/2007/REC-voicexml21-20070619/">
   <front>
     <title>Voice Extensible Markup Language (VoiceXML) 2.1</title>
-    <seriesInfo name="W3C REC" value="REC-voicexml21-20070619"/>
-    <author role="editor" fullname="Alex Lee"/>
-    <author role="editor" fullname="Brandon Porter"/>
-    <author role="editor" fullname="Daniel Burnett"/>
-    <author role="editor" fullname="David Burke"/>
-    <author role="editor" fullname="Jerry Carter"/>
-    <author role="editor" fullname="Kenneth Rehor"/>
-    <author role="editor" fullname="Matt Oshry"/>
-    <author role="editor" fullname="Michael Bodell"/>
-    <author role="editor" fullname="Paolo Baggia"/>
-    <author role="editor" fullname="RJ Auburn"/>
-    <author role="editor" fullname="Scott McGlashan"/>
+    <author role="editor" fullname="Alex Lee">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brandon Porter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Burke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Carter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Rehor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Oshry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Bodell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Baggia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="RJ Auburn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott McGlashan">
+      <organization/>
+    </author>
     <date year="2007" month="June" day="19"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-voicexml21-20070619"/>
 </reference>

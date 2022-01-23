@@ -1,7 +1,6 @@
 <reference anchor="W3C.PICS-labels" target="http://www.w3.org/TR/REC-PICS-labels">
   <front>
     <title>PICS Label Distribution Label Syntax and Communication Protocols</title>
-    <seriesInfo name="W3C Recommendation" value="REC-PICS-labels"/>
     <author fullname="Jim Miller" initials="J." surname="Miller">
       <organization abbrev="W3C">W3C</organization>
       <address>
@@ -37,4 +36,5 @@
     </author>
     <date year="1996" month="October" day="31"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="REC-PICS-labels"/>
 </reference>

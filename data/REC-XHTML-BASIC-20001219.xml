@@ -1,14 +1,26 @@
 <reference anchor="W3C.REC-xhtml-basic-20001219" target="https://www.w3.org/TR/2000/REC-xhtml-basic-20001219/">
   <front>
     <title>XHTML™ Basic</title>
-    <seriesInfo name="W3C REC" value="REC-xhtml-basic-20001219"/>
-    <author role="editor" fullname="Mark Baker"/>
-    <author role="editor" fullname="Masayasu Ishikawa"/>
-    <author role="editor" fullname="Peter Stark"/>
-    <author role="editor" fullname="Shinichi Matsui"/>
-    <author role="editor" fullname="Ted Wugofski"/>
-    <author role="editor" fullname="Toshihiko Yamakami"/>
+    <author role="editor" fullname="Mark Baker">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Stark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shinichi Matsui">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ted Wugofski">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toshihiko Yamakami">
+      <organization/>
+    </author>
     <date year="2000" month="December" day="19"/>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xhtml-basic-20001219"/>
 </reference>

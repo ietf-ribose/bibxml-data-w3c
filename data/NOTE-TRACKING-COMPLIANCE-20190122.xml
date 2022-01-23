@@ -1,13 +1,23 @@
 <reference anchor="W3C.NOTE-tracking-compliance-20190122" target="https://www.w3.org/TR/2019/NOTE-tracking-compliance-20190122/">
   <front>
     <title>Tracking Compliance and Scope</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-tracking-compliance-20190122"/>
-    <author role="editor" fullname="Erica Newland"/>
-    <author role="editor" fullname="Heather West"/>
-    <author role="editor" fullname="Justin Brookman"/>
-    <author role="editor" fullname="Nick Doty"/>
-    <author role="editor" fullname="Sean Harvey"/>
+    <author role="editor" fullname="Erica Newland">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Heather West">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Justin Brookman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nick Doty">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean Harvey">
+      <organization/>
+    </author>
     <date year="2019" month="January" day="22"/>
     <workgroup>Tracking Protection Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-tracking-compliance-20190122"/>
 </reference>

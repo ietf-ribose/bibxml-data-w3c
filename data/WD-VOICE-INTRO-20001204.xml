@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-voice-intro-20001204" target="https://www.w3.org/TR/2000/WD-voice-intro-20001204/">
   <front>
     <title>Voice Browsers, Introduction</title>
-    <seriesInfo name="W3C WD" value="WD-voice-intro-20001204"/>
-    <author role="editor" fullname="Jim Larson"/>
+    <author role="editor" fullname="Jim Larson">
+      <organization/>
+    </author>
     <date year="2000" month="December" day="4"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-voice-intro-20001204"/>
 </reference>

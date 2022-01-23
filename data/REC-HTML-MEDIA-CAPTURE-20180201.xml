@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-html-media-capture-20180201" target="https://www.w3.org/TR/2018/REC-html-media-capture-20180201/">
   <front>
     <title>HTML Media Capture</title>
-    <seriesInfo name="W3C REC" value="REC-html-media-capture-20180201"/>
-    <author role="editor" fullname="Anssi Kostiainen"/>
-    <author role="editor" fullname="Dominique Hazaël-Massieux"/>
-    <author role="editor" fullname="Ilkka Oksanen"/>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dominique Hazaël-Massieux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilkka Oksanen">
+      <organization/>
+    </author>
     <date year="2018" month="February" day="1"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-html-media-capture-20180201"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-dfaui-20070912" target="https://www.w3.org/TR/2007/NOTE-dfaui-20070912/">
   <front>
     <title>Declarative Formats for Applications and User Interfaces</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-dfaui-20070912"/>
-    <author role="editor" fullname="Arthur Barstow"/>
+    <author role="editor" fullname="Arthur Barstow">
+      <organization/>
+    </author>
     <date year="2007" month="September" day="12"/>
     <workgroup>Web Application Formats Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-dfaui-20070912"/>
 </reference>

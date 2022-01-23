@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-Window-20060407" target="https://www.w3.org/TR/2006/WD-Window-20060407/">
   <front>
     <title>Window Object 1.0</title>
-    <seriesInfo name="W3C WD" value="WD-Window-20060407"/>
-    <author role="editor" fullname="Ian Davis"/>
-    <author role="editor" fullname="Maciej Stachowiak"/>
+    <author role="editor" fullname="Ian Davis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maciej Stachowiak">
+      <organization/>
+    </author>
     <date year="2006" month="April" day="7"/>
     <workgroup>Web API Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-Window-20060407"/>
 </reference>

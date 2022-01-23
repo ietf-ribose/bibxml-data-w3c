@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-mmi-discovery-20120705" target="https://www.w3.org/TR/2012/NOTE-mmi-discovery-20120705/">
   <front>
     <title>Registration &amp; Discovery of Multimodal Modality Components in Multimodal Systems: Use Cases and Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-mmi-discovery-20120705"/>
-    <author role="editor" fullname="B Helena RODRIGUEZ"/>
+    <author role="editor" fullname="B Helena RODRIGUEZ">
+      <organization/>
+    </author>
     <date year="2012" month="July" day="5"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mmi-discovery-20120705"/>
 </reference>

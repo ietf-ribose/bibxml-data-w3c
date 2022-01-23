@@ -1,8 +1,8 @@
 <reference anchor="W3C.REC-mmi-arch-20121025" target="https://www.w3.org/TR/2012/REC-mmi-arch-20121025/">
   <front>
     <title>Multimodal Architecture and Interfaces</title>
-    <seriesInfo name="W3C REC" value="REC-mmi-arch-20121025"/>
     <date year="2012" month="October" day="25"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-mmi-arch-20121025"/>
 </reference>

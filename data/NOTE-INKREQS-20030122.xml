@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-inkreqs-20030122" target="https://www.w3.org/TR/2003/NOTE-inkreqs-20030122/">
   <front>
     <title>Requirements for the Ink Markup Language</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-inkreqs-20030122"/>
-    <author role="editor" fullname="Sai Prasad"/>
-    <author role="editor" fullname="Yi-Min Chee"/>
+    <author role="editor" fullname="Sai Prasad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yi-Min Chee">
+      <organization/>
+    </author>
     <date year="2003" month="January" day="22"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-inkreqs-20030122"/>
 </reference>

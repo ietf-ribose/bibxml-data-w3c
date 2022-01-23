@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-multimodal-reqs-20000710" target="https://www.w3.org/TR/2000/WD-multimodal-reqs-20000710">
   <front>
     <title>Multimodal Requirements for Voice Markup Languages</title>
-    <seriesInfo name="W3C WD" value="WD-multimodal-reqs-20000710"/>
-    <author role="editor" fullname="Marianne Hickey"/>
+    <author role="editor" fullname="Marianne Hickey">
+      <organization/>
+    </author>
     <date year="2000" month="July" day="10"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-multimodal-reqs-20000710"/>
 </reference>

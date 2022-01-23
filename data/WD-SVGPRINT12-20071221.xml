@@ -1,13 +1,23 @@
 <reference anchor="W3C.WD-SVGPrint12-20071221" target="https://www.w3.org/TR/2007/WD-SVGPrint12-20071221/">
   <front>
     <title>SVG Print 1.2, Part 2: Language</title>
-    <seriesInfo name="W3C WD" value="WD-SVGPrint12-20071221"/>
-    <author role="editor" fullname="Alex Danilo"/>
-    <author role="editor" fullname="Andrew Shellshear"/>
-    <author role="editor" fullname="Anthony Grasso"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="Craig Northway"/>
+    <author role="editor" fullname="Alex Danilo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Shellshear">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anthony Grasso">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Craig Northway">
+      <organization/>
+    </author>
     <date year="2007" month="December" day="21"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-SVGPrint12-20071221"/>
 </reference>

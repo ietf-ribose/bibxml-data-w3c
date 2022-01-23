@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-xml-20060816" target="https://www.w3.org/TR/2006/REC-xml-20060816/">
   <front>
     <title>Extensible Markup Language (XML) 1.0 (Fourth Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-xml-20060816"/>
-    <author role="editor" fullname="Eve Maler"/>
-    <author role="editor" fullname="François Yergeau"/>
-    <author role="editor" fullname="Jean Paoli"/>
-    <author role="editor" fullname="Michael Sperberg-McQueen"/>
-    <author role="editor" fullname="Tim Bray"/>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="François Yergeau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean Paoli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Sperberg-McQueen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
     <date year="2006" month="August" day="16"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xml-20060816"/>
 </reference>

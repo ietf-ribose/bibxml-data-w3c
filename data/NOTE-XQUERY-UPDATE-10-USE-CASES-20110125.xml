@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-xquery-update-10-use-cases-20110125" target="https://www.w3.org/TR/2011/NOTE-xquery-update-10-use-cases-20110125/">
   <front>
     <title>XQuery Update Facility 1.0 Use Cases</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xquery-update-10-use-cases-20110125"/>
-    <author role="editor" fullname="Ioana Manolescu"/>
-    <author role="editor" fullname="Jonathan Robie"/>
+    <author role="editor" fullname="Ioana Manolescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
     <date year="2011" month="January" day="25"/>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xquery-update-10-use-cases-20110125"/>
 </reference>

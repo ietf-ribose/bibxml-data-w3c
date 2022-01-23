@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-exi-20140211" target="https://www.w3.org/TR/2014/REC-exi-20140211/">
   <front>
     <title>Efficient XML Interchange (EXI) Format 1.0 (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-exi-20140211"/>
-    <author role="editor" fullname="Daniel Peintner"/>
-    <author role="editor" fullname="John Schneider"/>
-    <author role="editor" fullname="Rumen Kyusakov"/>
-    <author role="editor" fullname="Takuki Kamiya"/>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rumen Kyusakov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
     <date year="2014" month="February" day="11"/>
     <workgroup>Efficient Extensible Interchange Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-exi-20140211"/>
 </reference>

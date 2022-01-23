@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-xmlp-scenarios-20030730" target="https://www.w3.org/TR/2003/NOTE-xmlp-scenarios-20030730/">
   <front>
     <title>SOAP Version 1.2 Usage Scenarios</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xmlp-scenarios-20030730"/>
-    <author role="editor" fullname="John Ibbotson"/>
+    <author role="editor" fullname="John Ibbotson">
+      <organization/>
+    </author>
     <date year="2003" month="July" day="30"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xmlp-scenarios-20030730"/>
 </reference>

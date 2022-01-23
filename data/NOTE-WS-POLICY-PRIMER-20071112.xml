@@ -1,15 +1,29 @@
 <reference anchor="W3C.NOTE-ws-policy-primer-20071112" target="https://www.w3.org/TR/2007/NOTE-ws-policy-primer-20071112/">
   <front>
     <title>Web Services Policy 1.5 - Primer</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-ws-policy-primer-20071112"/>
-    <author role="editor" fullname="Asir Vedamuthu"/>
-    <author role="editor" fullname="David Orchard"/>
-    <author role="editor" fullname="Frederick Hirsch"/>
-    <author role="editor" fullname="Maryann Hondo"/>
-    <author role="editor" fullname="Prasad Yendluri"/>
-    <author role="editor" fullname="Toufic Boubez"/>
-    <author role="editor" fullname="Ümit Yalçinalp"/>
+    <author role="editor" fullname="Asir Vedamuthu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maryann Hondo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Prasad Yendluri">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toufic Boubez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ümit Yalçinalp">
+      <organization/>
+    </author>
     <date year="2007" month="November" day="12"/>
     <workgroup>Web Services Policy Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ws-policy-primer-20071112"/>
 </reference>

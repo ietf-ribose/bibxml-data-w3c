@@ -1,10 +1,14 @@
 <reference anchor="W3C.CR-geometry-1-20181204" target="https://www.w3.org/TR/2018/CR-geometry-1-20181204/">
   <front>
     <title>Geometry Interfaces Module Level 1</title>
-    <seriesInfo name="W3C CR" value="CR-geometry-1-20181204"/>
-    <author role="editor" fullname="Chris Harrelson"/>
-    <author role="editor" fullname="Simon Pieters"/>
+    <author role="editor" fullname="Chris Harrelson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Pieters">
+      <organization/>
+    </author>
     <date year="2018" month="December" day="4"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-geometry-1-20181204"/>
 </reference>

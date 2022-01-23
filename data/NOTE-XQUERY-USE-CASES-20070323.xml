@@ -1,13 +1,23 @@
 <reference anchor="W3C.NOTE-xquery-use-cases-20070323" target="https://www.w3.org/TR/2007/NOTE-xquery-use-cases-20070323/">
   <front>
     <title>XML Query Use Cases</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xquery-use-cases-20070323"/>
-    <author role="editor" fullname="Daniela Florescu"/>
-    <author role="editor" fullname="Don Chamberlin"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Massimo Marchiori"/>
-    <author role="editor" fullname="Peter Fankhauser"/>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Massimo Marchiori">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Fankhauser">
+      <organization/>
+    </author>
     <date year="2007" month="March" day="23"/>
     <workgroup>XML Query Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xquery-use-cases-20070323"/>
 </reference>

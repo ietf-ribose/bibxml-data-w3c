@@ -1,12 +1,20 @@
 <reference anchor="W3C.WD-xmlschema-formal-20010925" target="https://www.w3.org/TR/2001/WD-xmlschema-formal-20010925/">
   <front>
     <title>XML Schema: Formal Description</title>
-    <seriesInfo name="W3C WD" value="WD-xmlschema-formal-20010925"/>
-    <author role="editor" fullname="Allen Brown"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Matthew Fuchs"/>
-    <author role="editor" fullname="Philip Wadler"/>
+    <author role="editor" fullname="Allen Brown">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew Fuchs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip Wadler">
+      <organization/>
+    </author>
     <date year="2001" month="September" day="25"/>
     <workgroup>XML Schema Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-xmlschema-formal-20010925"/>
 </reference>

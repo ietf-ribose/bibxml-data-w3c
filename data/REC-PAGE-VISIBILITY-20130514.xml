@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-page-visibility-20130514" target="https://www.w3.org/TR/2013/REC-page-visibility-20130514/">
   <front>
     <title>Page Visibility</title>
-    <seriesInfo name="W3C REC" value="REC-page-visibility-20130514"/>
-    <author role="editor" fullname="Arvind Jain"/>
-    <author role="editor" fullname="Jatinder Mann"/>
+    <author role="editor" fullname="Arvind Jain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
     <date year="2013" month="May" day="14"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-page-visibility-20130514"/>
 </reference>

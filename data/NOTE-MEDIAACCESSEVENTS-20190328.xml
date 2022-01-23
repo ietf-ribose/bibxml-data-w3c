@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-MediaAccessEvents-20190328" target="https://www.w3.org/TR/2019/NOTE-MediaAccessEvents-20190328/">
   <front>
     <title>Media Access Events</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-MediaAccessEvents-20190328"/>
-    <author role="editor" fullname="Jean-Claude Dufourd"/>
-    <author role="editor" fullname="Ola Andersson"/>
+    <author role="editor" fullname="Jean-Claude Dufourd">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ola Andersson">
+      <organization/>
+    </author>
     <date year="2019" month="March" day="28"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-MediaAccessEvents-20190328"/>
 </reference>

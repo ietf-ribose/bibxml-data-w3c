@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-r2rml-20120927" target="https://www.w3.org/TR/2012/REC-r2rml-20120927/">
   <front>
     <title>R2RML: RDB to RDF Mapping Language</title>
-    <seriesInfo name="W3C REC" value="REC-r2rml-20120927"/>
-    <author role="editor" fullname="Richard Cyganiak"/>
-    <author role="editor" fullname="Seema Sundara"/>
-    <author role="editor" fullname="Souripriya Das"/>
+    <author role="editor" fullname="Richard Cyganiak">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Seema Sundara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Souripriya Das">
+      <organization/>
+    </author>
     <date year="2012" month="September" day="27"/>
     <workgroup>RDB2RDF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-r2rml-20120927"/>
 </reference>

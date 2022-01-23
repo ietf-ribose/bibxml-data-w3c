@@ -1,7 +1,6 @@
 <reference anchor="W3C.P3P-rdfschema" target="http://www.w3.org/TR/P3P-rdfschema">
   <front>
     <title>An RDF Schema for P3P</title>
-    <seriesInfo name="W3C Note" value="P3P-rdfschema"/>
     <author fullname="Brian McBride" initials="B." surname="McBride">
       <organization abbrev="HP">Hewlett Packard</organization>
       <address>
@@ -22,4 +21,5 @@
     </author>
     <date year="2002" month="January" day="25"/>
   </front>
+  <seriesInfo name="W3C Note" value="P3P-rdfschema"/>
 </reference>

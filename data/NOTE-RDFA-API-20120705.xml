@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-rdfa-api-20120705" target="https://www.w3.org/TR/2012/NOTE-rdfa-api-20120705/">
   <front>
     <title>RDFa API</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-rdfa-api-20120705"/>
-    <author role="editor" fullname="Benjamin Adrian"/>
-    <author role="editor" fullname="Manu Sporny"/>
+    <author role="editor" fullname="Benjamin Adrian">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
     <date year="2012" month="July" day="5"/>
     <workgroup>RDFa Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdfa-api-20120705"/>
 </reference>

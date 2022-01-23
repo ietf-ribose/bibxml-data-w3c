@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-dwbp-ucr-20150224" target="https://www.w3.org/TR/2015/NOTE-dwbp-ucr-20150224/">
   <front>
     <title>Data on the Web Best Practices Use Cases &amp; Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-dwbp-ucr-20150224"/>
-    <author role="editor" fullname="Bernadette Farias Loscio"/>
-    <author role="editor" fullname="Deirdre Lee"/>
-    <author role="editor" fullname="Phil Archer"/>
+    <author role="editor" fullname="Bernadette Farias Loscio">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Deirdre Lee">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
     <date year="2015" month="February" day="24"/>
     <workgroup>Data on the Web Best Practices Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-dwbp-ucr-20150224"/>
 </reference>

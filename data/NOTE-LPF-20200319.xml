@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-lpf-20200319" target="https://www.w3.org/TR/2020/NOTE-lpf-20200319/">
   <front>
     <title>Lightweight Packaging Format (LPF)</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-lpf-20200319"/>
-    <author role="editor" fullname="Laurent Le Meur"/>
+    <author role="editor" fullname="Laurent Le Meur">
+      <organization/>
+    </author>
     <date year="2020" month="March" day="19"/>
     <workgroup>Audiobooks Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-lpf-20200319"/>
 </reference>

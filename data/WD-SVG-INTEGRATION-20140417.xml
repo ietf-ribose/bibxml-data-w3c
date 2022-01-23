@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-svg-integration-20140417" target="https://www.w3.org/TR/2014/WD-svg-integration-20140417/">
   <front>
     <title>SVG Integration</title>
-    <seriesInfo name="W3C WD" value="WD-svg-integration-20140417"/>
-    <author role="editor" fullname="Cameron McCormack"/>
-    <author role="editor" fullname="Dirk Schulze"/>
-    <author role="editor" fullname="Doug Schepers"/>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
     <date year="2014" month="April" day="17"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-svg-integration-20140417"/>
 </reference>

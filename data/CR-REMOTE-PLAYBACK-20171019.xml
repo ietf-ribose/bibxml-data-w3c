@@ -1,10 +1,14 @@
 <reference anchor="W3C.CR-remote-playback-20171019" target="https://www.w3.org/TR/2017/CR-remote-playback-20171019/">
   <front>
     <title>Remote Playback API</title>
-    <seriesInfo name="W3C CR" value="CR-remote-playback-20171019"/>
-    <author role="editor" fullname="Anton Vayvod"/>
-    <author role="editor" fullname="Mounir Lamouri"/>
+    <author role="editor" fullname="Anton Vayvod">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
     <date year="2017" month="October" day="19"/>
     <workgroup>Second Screen Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-remote-playback-20171019"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-xbc-characterization-20050331" target="https://www.w3.org/TR/2005/NOTE-xbc-characterization-20050331/">
   <front>
     <title>XML Binary Characterization</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xbc-characterization-20050331"/>
-    <author role="editor" fullname="Dmitry Lenkov"/>
-    <author role="editor" fullname="Oliver Goldman"/>
+    <author role="editor" fullname="Dmitry Lenkov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Oliver Goldman">
+      <organization/>
+    </author>
     <date year="2005" month="March" day="31"/>
     <workgroup>XML Binary Characterization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xbc-characterization-20050331"/>
 </reference>

@@ -1,25 +1,59 @@
 <reference anchor="W3C.NOTE-xmlp-reqs-20030728" target="https://www.w3.org/TR/2003/NOTE-xmlp-reqs-20030728/">
   <front>
     <title>XML Protocol (XMLP) Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xmlp-reqs-20030728"/>
-    <author role="editor" fullname="Alex Ceponkus"/>
-    <author role="editor" fullname="Alex Miłowski"/>
-    <author role="editor" fullname="Amr Yassin"/>
-    <author role="editor" fullname="Bob Lojek"/>
-    <author role="editor" fullname="David Ezell"/>
-    <author role="editor" fullname="David Fallside"/>
-    <author role="editor" fullname="Eric Newcomer"/>
-    <author role="editor" fullname="Henrik Frystyk Nielsen"/>
-    <author role="editor" fullname="Jean-Jacques Moreau"/>
-    <author role="editor" fullname="John Ibbotson"/>
-    <author role="editor" fullname="Kevin Mitchell"/>
-    <author role="editor" fullname="Mark Nottingham"/>
-    <author role="editor" fullname="Martin Gudgin"/>
-    <author role="editor" fullname="Oisin Hurley"/>
-    <author role="editor" fullname="Paul Cotton"/>
-    <author role="editor" fullname="Stuart Williams"/>
-    <author role="editor" fullname="Waqar Sadiq"/>
+    <author role="editor" fullname="Alex Ceponkus">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Alex Miłowski">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Amr Yassin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bob Lojek">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Ezell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Fallside">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Newcomer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Ibbotson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevin Mitchell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Nottingham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Oisin Hurley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Cotton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stuart Williams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Waqar Sadiq">
+      <organization/>
+    </author>
     <date year="2003" month="July" day="28"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xmlp-reqs-20030728"/>
 </reference>

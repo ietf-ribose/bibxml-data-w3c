@@ -1,8 +1,10 @@
 <reference anchor="W3C.WD-Micropayment-Markup-19990825" target="https://www.w3.org/TR/1999/WD-Micropayment-Markup-19990825/">
   <front>
     <title>Common Markup for micropayment per-fee-links</title>
-    <seriesInfo name="W3C WD" value="WD-Micropayment-Markup-19990825"/>
-    <author role="editor" fullname="Thierry Michel"/>
+    <author role="editor" fullname="Thierry Michel">
+      <organization/>
+    </author>
     <date year="1999" month="August" day="25"/>
   </front>
+  <seriesInfo name="W3C WD" value="WD-Micropayment-Markup-19990825"/>
 </reference>

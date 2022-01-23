@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-soap12-part0-20030624" target="https://www.w3.org/TR/2003/REC-soap12-part0-20030624/">
   <front>
     <title>SOAP Version 1.2 Part 0: Primer</title>
-    <seriesInfo name="W3C REC" value="REC-soap12-part0-20030624"/>
-    <author role="editor" fullname="Nilo Mitra"/>
+    <author role="editor" fullname="Nilo Mitra">
+      <organization/>
+    </author>
     <date year="2003" month="June" day="24"/>
     <workgroup>XML Protocol Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-soap12-part0-20030624"/>
 </reference>

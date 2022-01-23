@@ -1,11 +1,15 @@
 <reference anchor="W3C.NOTE-mwbp-wcag-20090709" target="https://www.w3.org/TR/2009/NOTE-mwbp-wcag-20090709/">
   <front>
     <title>Relationship between Mobile Web Best Practices (MWBP) and Web Content Accessibility Guidelines (WCAG)</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-mwbp-wcag-20090709"/>
-    <author role="editor" fullname="Alan Chuter"/>
-    <author role="editor" fullname="Yeliz Yesilada"/>
+    <author role="editor" fullname="Alan Chuter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yeliz Yesilada">
+      <organization/>
+    </author>
     <date year="2009" month="July" day="9"/>
     <workgroup>Mobile Web Best Practices Working Group</workgroup>
     <workgroup>Education and Outreach Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mwbp-wcag-20090709"/>
 </reference>

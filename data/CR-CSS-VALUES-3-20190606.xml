@@ -1,10 +1,14 @@
 <reference anchor="W3C.CR-css-values-3-20190606" target="https://www.w3.org/TR/2019/CR-css-values-3-20190606/">
   <front>
     <title>CSS Values and Units Module Level 3</title>
-    <seriesInfo name="W3C CR" value="CR-css-values-3-20190606"/>
-    <author role="editor" fullname="Elika Etemad"/>
-    <author role="editor" fullname="Tab Atkins Jr."/>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
     <date year="2019" month="June" day="6"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-css-values-3-20190606"/>
 </reference>

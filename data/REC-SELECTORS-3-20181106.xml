@@ -1,14 +1,26 @@
 <reference anchor="W3C.REC-selectors-3-20181106" target="https://www.w3.org/TR/2018/REC-selectors-3-20181106/">
   <front>
     <title>Selectors Level 3</title>
-    <seriesInfo name="W3C REC" value="REC-selectors-3-20181106"/>
-    <author role="editor" fullname="Daniel Glazman"/>
-    <author role="editor" fullname="Elika Etemad"/>
-    <author role="editor" fullname="Ian Hickson"/>
-    <author role="editor" fullname="John Williams"/>
-    <author role="editor" fullname="Peter Linss"/>
-    <author role="editor" fullname="Tantek Çelik"/>
+    <author role="editor" fullname="Daniel Glazman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Williams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Linss">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
     <date year="2018" month="November" day="6"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-selectors-3-20181106"/>
 </reference>

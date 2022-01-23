@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-p3pdeployment-20020211" target="https://www.w3.org/TR/2002/NOTE-p3pdeployment-20020211">
   <front>
     <title>The Platform for Privacy Preferences 1.0 Deployment Guide</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-p3pdeployment-20020211"/>
-    <author role="editor" fullname="Martin PreslerMarshall"/>
+    <author role="editor" fullname="Martin PreslerMarshall">
+      <organization/>
+    </author>
     <date year="2002" month="February" day="11"/>
     <workgroup>P3P Specification Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-p3pdeployment-20020211"/>
 </reference>

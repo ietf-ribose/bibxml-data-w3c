@@ -1,18 +1,38 @@
 <reference anchor="W3C.REC-SVG11-20110816" target="https://www.w3.org/TR/2011/REC-SVG11-20110816/">
   <front>
     <title>Scalable Vector Graphics (SVG) 1.1 (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-SVG11-20110816"/>
-    <author role="editor" fullname="Anthony Grasso"/>
-    <author role="editor" fullname="Cameron McCormack"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="Dean Jackson"/>
-    <author role="editor" fullname="Doug Schepers"/>
-    <author role="editor" fullname="Erik Dahlström"/>
-    <author role="editor" fullname="Jon Ferraiolo"/>
-    <author role="editor" fullname="Jonathan Watt"/>
-    <author role="editor" fullname="Jun Fujisawa"/>
-    <author role="editor" fullname="Patrick Dengler"/>
+    <author role="editor" fullname="Anthony Grasso">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jun Fujisawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Dengler">
+      <organization/>
+    </author>
     <date year="2011" month="August" day="16"/>
     <workgroup>SVG Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-SVG11-20110816"/>
 </reference>

@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-touch-events-20131010" target="https://www.w3.org/TR/2013/REC-touch-events-20131010/">
   <front>
     <title>Touch Events</title>
-    <seriesInfo name="W3C REC" value="REC-touch-events-20131010"/>
-    <author role="editor" fullname="Arthur Barstow"/>
-    <author role="editor" fullname="Doug Schepers"/>
-    <author role="editor" fullname="Matt Brubeck"/>
-    <author role="editor" fullname="Sangwhan Moon"/>
+    <author role="editor" fullname="Arthur Barstow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sangwhan Moon">
+      <organization/>
+    </author>
     <date year="2013" month="October" day="10"/>
     <workgroup>Web Events Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-touch-events-20131010"/>
 </reference>

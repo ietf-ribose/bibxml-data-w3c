@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-websub-20180123" target="https://www.w3.org/TR/2018/REC-websub-20180123/">
   <front>
     <title>WebSub</title>
-    <seriesInfo name="W3C REC" value="REC-websub-20180123"/>
-    <author role="editor" fullname="Aaron Parecki"/>
-    <author role="editor" fullname="Julien Genestoux"/>
+    <author role="editor" fullname="Aaron Parecki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Julien Genestoux">
+      <organization/>
+    </author>
     <date year="2018" month="January" day="23"/>
     <workgroup>Social Web Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-websub-20180123"/>
 </reference>

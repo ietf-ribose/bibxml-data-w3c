@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-widgets-apis-20131031" target="https://www.w3.org/TR/2013/REC-widgets-apis-20131031/">
   <front>
     <title>Widget Interface</title>
-    <seriesInfo name="W3C REC" value="REC-widgets-apis-20131031"/>
-    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
     <date year="2013" month="October" day="31"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-widgets-apis-20131031"/>
 </reference>

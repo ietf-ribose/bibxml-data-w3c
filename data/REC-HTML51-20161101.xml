@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-html51-20161101" target="https://www.w3.org/TR/2016/REC-html51-20161101/">
   <front>
     <title>HTML 5.1</title>
-    <seriesInfo name="W3C REC" value="REC-html51-20161101"/>
-    <author role="editor" fullname="Alex Danilo"/>
-    <author role="editor" fullname="Arron Eicholz"/>
-    <author role="editor" fullname="Steve Faulkner"/>
-    <author role="editor" fullname="Travis Leithead"/>
+    <author role="editor" fullname="Alex Danilo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arron Eicholz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
     <date year="2016" month="November" day="1"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-html51-20161101"/>
 </reference>

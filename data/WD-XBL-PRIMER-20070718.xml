@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-xbl-primer-20070718" target="https://www.w3.org/TR/2007/WD-xbl-primer-20070718/">
   <front>
     <title>XBL 2.0 Primer: An Introduction for Developers</title>
-    <seriesInfo name="W3C WD" value="WD-xbl-primer-20070718"/>
-    <author role="editor" fullname="Lachlan Hunt"/>
-    <author role="editor" fullname="Marcos Caceres"/>
+    <author role="editor" fullname="Lachlan Hunt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
     <date year="2007" month="July" day="18"/>
     <workgroup>Web Application Formats Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-xbl-primer-20070718"/>
 </reference>

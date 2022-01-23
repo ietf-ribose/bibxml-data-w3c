@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-vocab-ssn-ext-20200116" target="https://www.w3.org/TR/2020/WD-vocab-ssn-ext-20200116/">
   <front>
     <title>Extensions to the Semantic Sensor Network Ontology</title>
-    <seriesInfo name="W3C WD" value="WD-vocab-ssn-ext-20200116"/>
-    <author role="editor" fullname="Simon Cox"/>
+    <author role="editor" fullname="Simon Cox">
+      <organization/>
+    </author>
     <date year="2020" month="January" day="16"/>
     <workgroup>Spatial Data on the Web Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-vocab-ssn-ext-20200116"/>
 </reference>

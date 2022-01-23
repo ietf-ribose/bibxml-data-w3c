@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-rif-fld-20130205" target="https://www.w3.org/TR/2013/REC-rif-fld-20130205/">
   <front>
     <title>RIF Framework for Logic Dialects (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-rif-fld-20130205"/>
-    <author role="editor" fullname="Harold Boley"/>
-    <author role="editor" fullname="Michael Kifer"/>
+    <author role="editor" fullname="Harold Boley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Kifer">
+      <organization/>
+    </author>
     <date year="2013" month="February" day="5"/>
     <workgroup>RIF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rif-fld-20130205"/>
 </reference>

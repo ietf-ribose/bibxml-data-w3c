@@ -1,12 +1,20 @@
 <reference anchor="W3C.NOTE-wot-usecases-20210518" target="https://www.w3.org/TR/2021/NOTE-wot-usecases-20210518/">
   <front>
     <title>Web of Things (WoT): Use Cases and Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-wot-usecases-20210518"/>
-    <author role="editor" fullname="Michael Lagally"/>
-    <author role="editor" fullname="Michael McCool"/>
-    <author role="editor" fullname="Ryuichi Matsukura"/>
-    <author role="editor" fullname="Tomoaki Mizushima"/>
+    <author role="editor" fullname="Michael Lagally">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McCool">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryuichi Matsukura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tomoaki Mizushima">
+      <organization/>
+    </author>
     <date year="2021" month="May" day="18"/>
     <workgroup>WoT Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wot-usecases-20210518"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-html-bidi-20150721" target="https://www.w3.org/TR/2015/NOTE-html-bidi-20150721/">
   <front>
     <title>Additional Requirements for Bidi in HTML &amp; CSS</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-html-bidi-20150721"/>
-    <author role="editor" fullname="Aharon Lanin"/>
-    <author role="editor" fullname="Richard Ishida"/>
+    <author role="editor" fullname="Aharon Lanin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
     <date year="2015" month="July" day="21"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-html-bidi-20150721"/>
 </reference>

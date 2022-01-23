@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-qa-handbook-20050906" target="https://www.w3.org/TR/2005/NOTE-qa-handbook-20050906/">
   <front>
     <title>The QA Handbook</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-qa-handbook-20050906"/>
-    <author role="editor" fullname="Lofton Henderson"/>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
     <date year="2005" month="September" day="6"/>
     <workgroup>Quality Assurance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-qa-handbook-20050906"/>
 </reference>

@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-wot-thing-description-20200409" target="https://www.w3.org/TR/2020/REC-wot-thing-description-20200409/">
   <front>
     <title>Web of Things (WoT) Thing Description</title>
-    <seriesInfo name="W3C REC" value="REC-wot-thing-description-20200409"/>
-    <author role="editor" fullname="Matthias Kovatsch"/>
-    <author role="editor" fullname="Michael McCool"/>
-    <author role="editor" fullname="Sebastian Käbisch"/>
-    <author role="editor" fullname="Takuki Kamiya"/>
-    <author role="editor" fullname="Victor Charpenay"/>
+    <author role="editor" fullname="Matthias Kovatsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McCool">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Käbisch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Victor Charpenay">
+      <organization/>
+    </author>
     <date year="2020" month="April" day="9"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-wot-thing-description-20200409"/>
 </reference>

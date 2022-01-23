@@ -1,14 +1,26 @@
 <reference anchor="W3C.NOTE-vehicle-data-20171012" target="https://www.w3.org/TR/2017/NOTE-vehicle-data-20171012/">
   <front>
     <title>Vehicle Data</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-vehicle-data-20171012"/>
-    <author role="editor" fullname="Adam Crofts"/>
-    <author role="editor" fullname="Justin(JongSeon) Park"/>
-    <author role="editor" fullname="Kevin Gavigan"/>
-    <author role="editor" fullname="Kevron Rees"/>
-    <author role="editor" fullname="Qing An"/>
-    <author role="editor" fullname="Wonsuk Lee"/>
+    <author role="editor" fullname="Adam Crofts">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Justin(JongSeon) Park">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevin Gavigan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevron Rees">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Qing An">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wonsuk Lee">
+      <organization/>
+    </author>
     <date year="2017" month="October" day="12"/>
     <workgroup>Automotive Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vehicle-data-20171012"/>
 </reference>

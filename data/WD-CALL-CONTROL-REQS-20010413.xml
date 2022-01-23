@@ -1,9 +1,11 @@
 <reference anchor="W3C.WD-call-control-reqs-20010413" target="https://www.w3.org/TR/2001/WD-call-control-reqs-20010413/">
   <front>
     <title>Call Control Requirements in a Voice Browser Framework</title>
-    <seriesInfo name="W3C WD" value="WD-call-control-reqs-20010413"/>
-    <author role="editor" fullname="Brandon Porter"/>
+    <author role="editor" fullname="Brandon Porter">
+      <organization/>
+    </author>
     <date year="2001" month="April" day="13"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-call-control-reqs-20010413"/>
 </reference>

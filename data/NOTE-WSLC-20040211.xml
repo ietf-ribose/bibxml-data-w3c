@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-wslc-20040211" target="https://www.w3.org/TR/2004/NOTE-wslc-20040211/">
   <front>
     <title>Web Service Management: Service Life Cycle</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-wslc-20040211"/>
-    <author role="editor" fullname="Hao He"/>
-    <author role="editor" fullname="Igor Sedukhin"/>
-    <author role="editor" fullname="Mark Potts"/>
+    <author role="editor" fullname="Hao He">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Igor Sedukhin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Potts">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="11"/>
     <workgroup>Web Services Architecture Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wslc-20040211"/>
 </reference>

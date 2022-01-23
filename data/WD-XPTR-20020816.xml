@@ -1,13 +1,25 @@
 <reference anchor="W3C.WD-xptr-20020816" target="https://www.w3.org/TR/2002/WD-xptr-20020816/">
   <front>
     <title>XML Pointer Language (XPointer)</title>
-    <seriesInfo name="W3C WD" value="WD-xptr-20020816"/>
-    <author role="editor" fullname="Eve Maler"/>
-    <author role="editor" fullname="Jonathan Marsh"/>
-    <author role="editor" fullname="Norman Walsh"/>
-    <author role="editor" fullname="Paul Grosso"/>
-    <author role="editor" fullname="Ron Daniel"/>
-    <author role="editor" fullname="Steven DeRose"/>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grosso">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ron Daniel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven DeRose">
+      <organization/>
+    </author>
     <date year="2002" month="August" day="16"/>
   </front>
+  <seriesInfo name="W3C WD" value="WD-xptr-20020816"/>
 </reference>

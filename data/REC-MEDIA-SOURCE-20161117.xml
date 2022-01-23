@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-media-source-20161117" target="https://www.w3.org/TR/2016/REC-media-source-20161117/">
   <front>
     <title>Media Source Extensions™</title>
-    <seriesInfo name="W3C REC" value="REC-media-source-20161117"/>
-    <author role="editor" fullname="Aaron Colwell"/>
-    <author role="editor" fullname="Adrian Bateman"/>
-    <author role="editor" fullname="Jerry Smith"/>
-    <author role="editor" fullname="Mark Watson"/>
-    <author role="editor" fullname="Matthew Wolenetz"/>
+    <author role="editor" fullname="Aaron Colwell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Smith">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew Wolenetz">
+      <organization/>
+    </author>
     <date year="2016" month="November" day="17"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-media-source-20161117"/>
 </reference>

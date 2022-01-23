@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-xmlsec-algorithms-20130411" target="https://www.w3.org/TR/2013/NOTE-xmlsec-algorithms-20130411/">
   <front>
     <title>XML Security Algorithm Cross-Reference</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xmlsec-algorithms-20130411"/>
-    <author role="editor" fullname="Frederick Hirsch"/>
-    <author role="editor" fullname="Kelvin Yiu"/>
-    <author role="editor" fullname="Thomas Roessler"/>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kelvin Yiu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Roessler">
+      <organization/>
+    </author>
     <date year="2013" month="April" day="11"/>
     <workgroup>XML Security Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xmlsec-algorithms-20130411"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-hcls-orb-20111020" target="https://www.w3.org/TR/2011/NOTE-hcls-orb-20111020/">
   <front>
     <title>Ontology of Rhetorical Blocks (ORB)</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-hcls-orb-20111020"/>
-    <author role="editor" fullname="Paolo Ciccarese"/>
-    <author role="editor" fullname="Tudor Groza"/>
+    <author role="editor" fullname="Paolo Ciccarese">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tudor Groza">
+      <organization/>
+    </author>
     <date year="2011" month="October" day="20"/>
     <workgroup>Semantic Web Health Care and Life Sciences Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-hcls-orb-20111020"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-xproc-20100511" target="https://www.w3.org/TR/2010/REC-xproc-20100511/">
   <front>
     <title>XProc: An XML Pipeline Language</title>
-    <seriesInfo name="W3C REC" value="REC-xproc-20100511"/>
-    <author role="editor" fullname="Alex Miłowski"/>
-    <author role="editor" fullname="Henry Thompson"/>
-    <author role="editor" fullname="Norman Walsh"/>
+    <author role="editor" fullname="Alex Miłowski">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
     <date year="2010" month="May" day="11"/>
     <workgroup>XML Processing Model Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xproc-20100511"/>
 </reference>

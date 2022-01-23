@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-audio-eq-cookbook-20210608" target="https://www.w3.org/TR/2021/NOTE-audio-eq-cookbook-20210608/">
   <front>
     <title>Audio EQ Cookbook</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-audio-eq-cookbook-20210608"/>
-    <author role="editor" fullname="Raymond Toy"/>
+    <author role="editor" fullname="Raymond Toy">
+      <organization/>
+    </author>
     <date year="2021" month="June" day="8"/>
     <workgroup>Audio Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-audio-eq-cookbook-20210608"/>
 </reference>

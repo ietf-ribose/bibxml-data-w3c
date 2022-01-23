@@ -1,15 +1,29 @@
 <reference anchor="W3C.REC-CCPP-struct-vocab-20040115" target="https://www.w3.org/TR/2004/REC-CCPP-struct-vocab-20040115/">
   <front>
     <title>Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-CCPP-struct-vocab-20040115"/>
-    <author role="editor" fullname="Christopher Woodrow"/>
-    <author role="editor" fullname="Franklin Reynolds"/>
-    <author role="editor" fullname="Graham Klyne"/>
-    <author role="editor" fullname="Hidetaka Ohto"/>
-    <author role="editor" fullname="Johan Hjelm"/>
-    <author role="editor" fullname="Luu Tran"/>
-    <author role="editor" fullname="Mark Butler"/>
+    <author role="editor" fullname="Christopher Woodrow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Franklin Reynolds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Graham Klyne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hidetaka Ohto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johan Hjelm">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Luu Tran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Butler">
+      <organization/>
+    </author>
     <date year="2004" month="January" day="15"/>
     <workgroup>Device Independence Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-CCPP-struct-vocab-20040115"/>
 </reference>

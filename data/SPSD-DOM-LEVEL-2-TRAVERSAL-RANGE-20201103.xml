@@ -1,13 +1,23 @@
 <reference anchor="W3C.SPSD-DOM-Level-2-Traversal-Range-20201103" target="https://www.w3.org/TR/2020/SPSD-DOM-Level-2-Traversal-Range-20201103/">
   <front>
     <title>Document Object Model (DOM) Level 2 Traversal and Range Specification</title>
-    <seriesInfo name="W3C REC" value="SPSD-DOM-Level-2-Traversal-Range-20201103"/>
-    <author role="editor" fullname="Jonathan Robie"/>
-    <author role="editor" fullname="Joseph Kesselman"/>
-    <author role="editor" fullname="Lauren Wood"/>
-    <author role="editor" fullname="Mike Champion"/>
-    <author role="editor" fullname="Peter Sharpe"/>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Sharpe">
+      <organization/>
+    </author>
     <date year="2020" month="November" day="3"/>
     <workgroup>Web Hypertext Application Technology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-DOM-Level-2-Traversal-Range-20201103"/>
 </reference>

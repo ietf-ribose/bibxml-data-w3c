@@ -1,12 +1,20 @@
 <reference anchor="W3C.CR-css-transforms-1-20190214" target="https://www.w3.org/TR/2019/CR-css-transforms-1-20190214/">
   <front>
     <title>CSS Transforms Module Level 1</title>
-    <seriesInfo name="W3C CR" value="CR-css-transforms-1-20190214"/>
-    <author role="editor" fullname="Dean Jackson"/>
-    <author role="editor" fullname="Dirk Schulze"/>
-    <author role="editor" fullname="Simon Fraser"/>
-    <author role="editor" fullname="Theresa O'Connor"/>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Fraser">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Theresa O'Connor">
+      <organization/>
+    </author>
     <date year="2019" month="February" day="14"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C CR" value="CR-css-transforms-1-20190214"/>
 </reference>

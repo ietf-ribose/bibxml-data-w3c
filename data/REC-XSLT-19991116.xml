@@ -1,9 +1,11 @@
 <reference anchor="W3C.REC-xslt-19991116" target="https://www.w3.org/TR/1999/REC-xslt-19991116">
   <front>
     <title>XSL Transformations (XSLT) Version 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-xslt-19991116"/>
-    <author role="editor" fullname="James Clark"/>
+    <author role="editor" fullname="James Clark">
+      <organization/>
+    </author>
     <date year="1999" month="November" day="16"/>
     <workgroup>Extensible Stylesheet Language Family</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xslt-19991116"/>
 </reference>

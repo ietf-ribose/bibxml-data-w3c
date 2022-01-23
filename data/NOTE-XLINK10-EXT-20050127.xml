@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-xlink10-ext-20050127" target="https://www.w3.org/TR/2005/NOTE-xlink10-ext-20050127/">
   <front>
     <title>Extending XLink 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-xlink10-ext-20050127"/>
-    <author role="editor" fullname="Norman Walsh"/>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
     <date year="2005" month="January" day="27"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xlink10-ext-20050127"/>
 </reference>

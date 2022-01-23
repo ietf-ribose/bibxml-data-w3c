@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-sawsdl-20070828" target="https://www.w3.org/TR/2007/REC-sawsdl-20070828/">
   <front>
     <title>Semantic Annotations for WSDL and XML Schema</title>
-    <seriesInfo name="W3C REC" value="REC-sawsdl-20070828"/>
-    <author role="editor" fullname="Holger Lausen"/>
-    <author role="editor" fullname="Joel Farrell"/>
+    <author role="editor" fullname="Holger Lausen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joel Farrell">
+      <organization/>
+    </author>
     <date year="2007" month="August" day="28"/>
     <workgroup>Semantic Annotations for WSDL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-sawsdl-20070828"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-xhtml-prof-req-19990906" target="https://www.w3.org/TR/1999/WD-xhtml-prof-req-19990906/">
   <front>
     <title>XHTML™ Document Profile Requirements</title>
-    <seriesInfo name="W3C WD" value="WD-xhtml-prof-req-19990906"/>
-    <author role="editor" fullname="Dave Raggett"/>
-    <author role="editor" fullname="Peter Stark"/>
-    <author role="editor" fullname="Ted Wugofski"/>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Stark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ted Wugofski">
+      <organization/>
+    </author>
     <date year="1999" month="September" day="6"/>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-prof-req-19990906"/>
 </reference>

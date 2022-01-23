@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-XMLHttpRequest1-20120117" target="https://www.w3.org/TR/2012/NOTE-XMLHttpRequest1-20120117/">
   <front>
     <title>XMLHttpRequest</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-XMLHttpRequest1-20120117"/>
-    <author role="editor" fullname="Anne van Kesteren"/>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
     <date year="2012" month="January" day="17"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-XMLHttpRequest1-20120117"/>
 </reference>

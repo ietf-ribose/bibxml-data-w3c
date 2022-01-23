@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-rif-prd-20100622" target="https://www.w3.org/TR/2010/REC-rif-prd-20100622/">
   <front>
     <title>RIF Production Rule Dialect</title>
-    <seriesInfo name="W3C REC" value="REC-rif-prd-20100622"/>
-    <author role="editor" fullname="Adrian Paschke"/>
-    <author role="editor" fullname="Christian de Sainte Marie"/>
-    <author role="editor" fullname="Gary Hallmark"/>
+    <author role="editor" fullname="Adrian Paschke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Christian de Sainte Marie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gary Hallmark">
+      <organization/>
+    </author>
     <date year="2010" month="June" day="22"/>
     <workgroup>RIF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rif-prd-20100622"/>
 </reference>

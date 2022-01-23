@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-DOM-Level-3-LS-20040407" target="https://www.w3.org/TR/2004/REC-DOM-Level-3-LS-20040407/">
   <front>
     <title>Document Object Model (DOM) Level 3 Load and Save Specification</title>
-    <seriesInfo name="W3C REC" value="REC-DOM-Level-3-LS-20040407"/>
-    <author role="editor" fullname="Andy Heninger"/>
-    <author role="editor" fullname="Johnny Stenback"/>
+    <author role="editor" fullname="Andy Heninger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johnny Stenback">
+      <organization/>
+    </author>
     <date year="2004" month="April" day="7"/>
     <workgroup>Web Hypertext Application Technology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-DOM-Level-3-LS-20040407"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-webdatabase-20101118" target="https://www.w3.org/TR/2010/NOTE-webdatabase-20101118/">
   <front>
     <title>Web SQL Database</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-webdatabase-20101118"/>
-    <author role="editor" fullname="Ian Hickson"/>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
     <date year="2010" month="November" day="18"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-webdatabase-20101118"/>
 </reference>

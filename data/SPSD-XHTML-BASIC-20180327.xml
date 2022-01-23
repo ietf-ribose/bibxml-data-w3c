@@ -1,9 +1,11 @@
 <reference anchor="W3C.SPSD-xhtml-basic-20180327" target="https://www.w3.org/TR/2018/SPSD-xhtml-basic-20180327/">
   <front>
     <title>XHTML™ Basic 1.1 - Second Edition</title>
-    <seriesInfo name="W3C REC" value="SPSD-xhtml-basic-20180327"/>
-    <author role="editor" fullname="Shane McCarron"/>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
     <date year="2018" month="March" day="27"/>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-xhtml-basic-20180327"/>
 </reference>

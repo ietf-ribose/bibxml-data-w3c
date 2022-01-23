@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-media-accessibility-reqs-20151203" target="https://www.w3.org/TR/2015/NOTE-media-accessibility-reqs-20151203/">
   <front>
     <title>Media Accessibility User Requirements</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-media-accessibility-reqs-20151203"/>
-    <author role="editor" fullname="Mark Sadecki"/>
-    <author role="editor" fullname="Michael Cooper"/>
-    <author role="editor" fullname="Shane McCarron"/>
+    <author role="editor" fullname="Mark Sadecki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
     <date year="2015" month="December" day="3"/>
     <workgroup>Protocols and Formats Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-media-accessibility-reqs-20151203"/>
 </reference>

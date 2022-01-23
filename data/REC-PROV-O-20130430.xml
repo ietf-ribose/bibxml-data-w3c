@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-prov-o-20130430" target="https://www.w3.org/TR/2013/REC-prov-o-20130430/">
   <front>
     <title>PROV-O: The PROV Ontology</title>
-    <seriesInfo name="W3C REC" value="REC-prov-o-20130430"/>
-    <author role="editor" fullname="Deborah McGuinness"/>
-    <author role="editor" fullname="Satya Sahoo"/>
-    <author role="editor" fullname="Timothy Lebo"/>
+    <author role="editor" fullname="Deborah McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Satya Sahoo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timothy Lebo">
+      <organization/>
+    </author>
     <date year="2013" month="April" day="30"/>
     <workgroup>Provenance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-prov-o-20130430"/>
 </reference>

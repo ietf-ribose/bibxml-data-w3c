@@ -1,10 +1,12 @@
 <reference anchor="W3C.NOTE-worklets-1-20210729" target="https://www.w3.org/TR/2021/NOTE-worklets-1-20210729/">
   <front>
     <title>Worklets Level 1</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-worklets-1-20210729"/>
-    <author role="editor" fullname="Ian Kilpatrick"/>
+    <author role="editor" fullname="Ian Kilpatrick">
+      <organization/>
+    </author>
     <date year="2021" month="July" day="29"/>
     <workgroup>Technical Architecture Group</workgroup>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-worklets-1-20210729"/>
 </reference>

@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-webcodecs-20211216" target="https://www.w3.org/TR/2021/WD-webcodecs-20211216/">
   <front>
     <title>WebCodecs</title>
-    <seriesInfo name="W3C WD" value="WD-webcodecs-20211216"/>
-    <author role="editor" fullname="Bernard Aboba"/>
-    <author role="editor" fullname="Chris Cunningham"/>
-    <author role="editor" fullname="Paul Adenot"/>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Cunningham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
     <date year="2021" month="December" day="16"/>
     <workgroup>Media Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-20211216"/>
 </reference>

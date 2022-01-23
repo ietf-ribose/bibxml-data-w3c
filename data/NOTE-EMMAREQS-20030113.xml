@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-EMMAreqs-20030113" target="https://www.w3.org/TR/2003/NOTE-EMMAreqs-20030113/">
   <front>
     <title>Requirements for EMMA</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-EMMAreqs-20030113"/>
-    <author role="editor" fullname="Stephen Potter"/>
-    <author role="editor" fullname="Stéphane Maes"/>
+    <author role="editor" fullname="Stephen Potter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stéphane Maes">
+      <organization/>
+    </author>
     <date year="2003" month="January" day="13"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-EMMAreqs-20030113"/>
 </reference>

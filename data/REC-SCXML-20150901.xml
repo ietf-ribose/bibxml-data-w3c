@@ -1,22 +1,50 @@
 <reference anchor="W3C.REC-scxml-20150901" target="https://www.w3.org/TR/2015/REC-scxml-20150901/">
   <front>
     <title>State Chart XML (SCXML): State Machine Notation for Control Abstraction</title>
-    <seriesInfo name="W3C REC" value="REC-scxml-20150901"/>
-    <author role="editor" fullname="Daniel Burnett"/>
-    <author role="editor" fullname="James Barnett"/>
-    <author role="editor" fullname="Jerry Carter"/>
-    <author role="editor" fullname="Johan Roxendal"/>
-    <author role="editor" fullname="Klaus Reifenrath"/>
-    <author role="editor" fullname="Marc Helbing"/>
-    <author role="editor" fullname="Michael Bodell"/>
-    <author role="editor" fullname="Noam Rosenthal"/>
-    <author role="editor" fullname="RJ Auburn"/>
-    <author role="editor" fullname="Rafah Hosn"/>
-    <author role="editor" fullname="Rahul Akolkar"/>
-    <author role="editor" fullname="Scott McGlashan"/>
-    <author role="editor" fullname="T.V. Raman"/>
-    <author role="editor" fullname="Torbjörn Lager"/>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Barnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Carter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johan Roxendal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Klaus Reifenrath">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marc Helbing">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Bodell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noam Rosenthal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="RJ Auburn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah Hosn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rahul Akolkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott McGlashan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T.V. Raman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Torbjörn Lager">
+      <organization/>
+    </author>
     <date year="2015" month="September" day="1"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-scxml-20150901"/>
 </reference>

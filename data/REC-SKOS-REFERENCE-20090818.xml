@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-skos-reference-20090818" target="https://www.w3.org/TR/2009/REC-skos-reference-20090818/">
   <front>
     <title>SKOS Simple Knowledge Organization System Reference</title>
-    <seriesInfo name="W3C REC" value="REC-skos-reference-20090818"/>
-    <author role="editor" fullname="Alistair Miles"/>
-    <author role="editor" fullname="Sean Bechhofer"/>
+    <author role="editor" fullname="Alistair Miles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean Bechhofer">
+      <organization/>
+    </author>
     <date year="2009" month="August" day="18"/>
     <workgroup>Semantic Web Deployment Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-skos-reference-20090818"/>
 </reference>

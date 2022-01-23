@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-html5-pubnotes-20080610" target="https://www.w3.org/TR/2008/NOTE-html5-pubnotes-20080610/">
   <front>
     <title>HTML 5 Publication Notes</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-html5-pubnotes-20080610"/>
-    <author role="editor" fullname="Michael[tm] Smith"/>
+    <author role="editor" fullname="Michael[tm] Smith">
+      <organization/>
+    </author>
     <date year="2008" month="June" day="10"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-html5-pubnotes-20080610"/>
 </reference>

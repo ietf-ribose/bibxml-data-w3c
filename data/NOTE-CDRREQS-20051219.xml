@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-CDRReqs-20051219" target="https://www.w3.org/TR/2005/NOTE-CDRReqs-20051219/">
   <front>
     <title>Compound Document by Reference Use Cases and Requirements Version 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-CDRReqs-20051219"/>
-    <author role="editor" fullname="Antoine Quint"/>
-    <author role="editor" fullname="Daniel Appelquist"/>
-    <author role="editor" fullname="Timur Mehrvarz"/>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Appelquist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timur Mehrvarz">
+      <organization/>
+    </author>
     <date year="2005" month="December" day="19"/>
     <workgroup>Compound Document Formats Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CDRReqs-20051219"/>
 </reference>

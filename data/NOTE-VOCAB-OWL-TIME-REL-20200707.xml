@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-vocab-owl-time-rel-20200707" target="https://www.w3.org/TR/2020/NOTE-vocab-owl-time-rel-20200707/">
   <front>
     <title>Extensions to the OWL-Time Ontology - entity relations</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-vocab-owl-time-rel-20200707"/>
-    <author role="editor" fullname="Chris Little"/>
-    <author role="editor" fullname="Simon Cox"/>
+    <author role="editor" fullname="Chris Little">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Cox">
+      <organization/>
+    </author>
     <date year="2020" month="July" day="7"/>
     <workgroup>Spatial Data on the Web Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vocab-owl-time-rel-20200707"/>
 </reference>

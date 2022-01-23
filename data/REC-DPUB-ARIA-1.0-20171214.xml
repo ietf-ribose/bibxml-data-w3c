@@ -1,12 +1,20 @@
 <reference anchor="W3C.REC-dpub-aria-1.0-20171214" target="https://www.w3.org/TR/2017/REC-dpub-aria-1.0-20171214/">
   <front>
     <title>Digital Publishing WAI-ARIA Module 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-dpub-aria-1.0-20171214"/>
-    <author role="editor" fullname="Markus Gylling"/>
-    <author role="editor" fullname="Matt Garrish"/>
-    <author role="editor" fullname="Shane McCarron"/>
-    <author role="editor" fullname="Tzviya Siegman"/>
+    <author role="editor" fullname="Markus Gylling">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tzviya Siegman">
+      <organization/>
+    </author>
     <date year="2017" month="December" day="14"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-dpub-aria-1.0-20171214"/>
 </reference>

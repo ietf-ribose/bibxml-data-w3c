@@ -1,10 +1,14 @@
 <reference anchor="W3C.SPSD-pointerevents1-20190404" target="https://www.w3.org/TR/2019/SPSD-pointerevents1-20190404/">
   <front>
     <title>Pointer Events</title>
-    <seriesInfo name="W3C REC" value="SPSD-pointerevents1-20190404"/>
-    <author role="editor" fullname="Jacob Rossi"/>
-    <author role="editor" fullname="Matt Brubeck"/>
+    <author role="editor" fullname="Jacob Rossi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
     <date year="2019" month="April" day="4"/>
     <workgroup>Pointer Events Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-pointerevents1-20190404"/>
 </reference>

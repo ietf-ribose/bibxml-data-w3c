@@ -1,11 +1,17 @@
 <reference anchor="W3C.NOTE-did-spec-registries-20211102" target="https://www.w3.org/TR/2021/NOTE-did-spec-registries-20211102/">
   <front>
     <title>DID Specification Registries</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-did-spec-registries-20211102"/>
-    <author role="editor" fullname="Manu Sporny"/>
-    <author role="editor" fullname="Michael Prorock"/>
-    <author role="editor" fullname="Orie Steele"/>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Prorock">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Orie Steele">
+      <organization/>
+    </author>
     <date year="2021" month="November" day="2"/>
     <workgroup>Decentralized Identifier Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-did-spec-registries-20211102"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.SPSD-CSS1-20180913" target="https://www.w3.org/TR/2018/SPSD-CSS1-20180913/">
   <front>
     <title>Cascading Style Sheets, level 1</title>
-    <seriesInfo name="W3C REC" value="SPSD-CSS1-20180913"/>
-    <author role="editor" fullname="Bert Bos"/>
-    <author role="editor" fullname="Håkon Wium Lie"/>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
     <date year="2018" month="September" day="13"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-CSS1-20180913"/>
 </reference>

@@ -1,9 +1,11 @@
 <reference anchor="W3C.SPSD-html32-20180315" target="https://www.w3.org/TR/2018/SPSD-html32-20180315/">
   <front>
     <title>HTML 3.2 Reference Specification</title>
-    <seriesInfo name="W3C REC" value="SPSD-html32-20180315"/>
-    <author role="editor" fullname="Dave Raggett"/>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
     <date year="2018" month="March" day="15"/>
     <workgroup>XHTML2 Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="SPSD-html32-20180315"/>
 </reference>

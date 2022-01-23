@@ -1,17 +1,35 @@
 <reference anchor="W3C.REC-webauthn-1-20190304" target="https://www.w3.org/TR/2019/REC-webauthn-1-20190304/">
   <front>
     <title>Web Authentication:An API for accessing Public Key Credentials Level 1</title>
-    <seriesInfo name="W3C REC" value="REC-webauthn-1-20190304"/>
-    <author role="editor" fullname="Akshay Kumar"/>
-    <author role="editor" fullname="Alexei Czeskis"/>
-    <author role="editor" fullname="Dirk Balfanz"/>
-    <author role="editor" fullname="Emil Lundberg"/>
-    <author role="editor" fullname="Huakai Liao"/>
-    <author role="editor" fullname="J.C. Jones"/>
-    <author role="editor" fullname="Jeff Hodges"/>
-    <author role="editor" fullname="Michael Jones"/>
-    <author role="editor" fullname="Rolf Lindemann"/>
+    <author role="editor" fullname="Akshay Kumar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Alexei Czeskis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Balfanz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Emil Lundberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Huakai Liao">
+      <organization/>
+    </author>
+    <author role="editor" fullname="J.C. Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Hodges">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rolf Lindemann">
+      <organization/>
+    </author>
     <date year="2019" month="March" day="4"/>
     <workgroup>Web Authentication Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-webauthn-1-20190304"/>
 </reference>

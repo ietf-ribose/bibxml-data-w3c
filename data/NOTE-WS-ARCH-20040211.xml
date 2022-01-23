@@ -1,15 +1,29 @@
 <reference anchor="W3C.NOTE-ws-arch-20040211" target="https://www.w3.org/TR/2004/NOTE-ws-arch-20040211/">
   <front>
     <title>Web Services Architecture</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-ws-arch-20040211"/>
-    <author role="editor" fullname="Christopher Ferris"/>
-    <author role="editor" fullname="David Booth"/>
-    <author role="editor" fullname="David Orchard"/>
-    <author role="editor" fullname="Eric Newcomer"/>
-    <author role="editor" fullname="Francis McCabe"/>
-    <author role="editor" fullname="Hugo Haas"/>
-    <author role="editor" fullname="Mike Champion"/>
+    <author role="editor" fullname="Christopher Ferris">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Booth">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Newcomer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Francis McCabe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hugo Haas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="11"/>
     <workgroup>Web Services Architecture Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ws-arch-20040211"/>
 </reference>

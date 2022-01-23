@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-xmlschema-11-req-20030121" target="https://www.w3.org/TR/2003/WD-xmlschema-11-req-20030121/">
   <front>
     <title>Requirements for XML Schema 1.1</title>
-    <seriesInfo name="W3C WD" value="WD-xmlschema-11-req-20030121"/>
-    <author role="editor" fullname="Ashok Malhotra"/>
-    <author role="editor" fullname="Charles Campbell"/>
-    <author role="editor" fullname="Priscilla Walmsley"/>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles Campbell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Priscilla Walmsley">
+      <organization/>
+    </author>
     <date year="2003" month="January" day="21"/>
     <workgroup>XML Schema Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-xmlschema-11-req-20030121"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-owl-guide-20040210" target="https://www.w3.org/TR/2004/REC-owl-guide-20040210/">
   <front>
     <title>OWL Web Ontology Language Guide</title>
-    <seriesInfo name="W3C REC" value="REC-owl-guide-20040210"/>
-    <author role="editor" fullname="Christopher Welty"/>
-    <author role="editor" fullname="Deborah McGuinness"/>
+    <author role="editor" fullname="Christopher Welty">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Deborah McGuinness">
+      <organization/>
+    </author>
     <date year="2004" month="February" day="10"/>
     <workgroup>Web-Ontology Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl-guide-20040210"/>
 </reference>

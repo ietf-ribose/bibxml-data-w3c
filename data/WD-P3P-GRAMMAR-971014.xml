@@ -1,13 +1,23 @@
 <reference anchor="W3C.WD-P3P-grammar-971014" target="https://www.w3.org/TR/WD-P3P-grammar-971014">
   <front>
     <title>P3P Vocabulary Working Group: Grammatical Model and Data Design Model</title>
-    <seriesInfo name="W3C WD" value="WD-P3P-grammar-971014"/>
-    <author role="editor" fullname="Joseph Reagle"/>
-    <author role="editor" fullname="Lorrie Cranor"/>
-    <author role="editor" fullname="Mark Ackerman"/>
-    <author role="editor" fullname="Melissa W Dunn"/>
-    <author role="editor" fullname="Philip DesAutels"/>
+    <author role="editor" fullname="Joseph Reagle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lorrie Cranor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Ackerman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Melissa W Dunn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip DesAutels">
+      <organization/>
+    </author>
     <date year="1997" month="October" day="14"/>
     <workgroup>P3P Specification Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-P3P-grammar-971014"/>
 </reference>

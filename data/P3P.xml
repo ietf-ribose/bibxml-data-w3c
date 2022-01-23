@@ -1,7 +1,6 @@
 <reference anchor="W3C.P3P">
   <front>
     <title>The Platform for Privacy Preferences 1.0 (P3P1.0) Specification</title>
-    <seriesInfo name="W3C Recommendation" value="REC-PICS-services"/>
     <author fullname="Massimo Marchiori" initials="M." surname="Marchiori">
       <organization abbrev="W3C">W3C</organization>
       <address>
@@ -25,4 +24,5 @@
     </author>
     <date year="2002" month="April" day="16"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="REC-PICS-services"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-rdf-schema-20140225" target="https://www.w3.org/TR/2014/REC-rdf-schema-20140225/">
   <front>
     <title>RDF Schema 1.1</title>
-    <seriesInfo name="W3C REC" value="REC-rdf-schema-20140225"/>
-    <author role="editor" fullname="Dan Brickley"/>
-    <author role="editor" fullname="Ramanathan Guha"/>
+    <author role="editor" fullname="Dan Brickley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ramanathan Guha">
+      <organization/>
+    </author>
     <date year="2014" month="February" day="25"/>
     <workgroup>RDF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-rdf-schema-20140225"/>
 </reference>

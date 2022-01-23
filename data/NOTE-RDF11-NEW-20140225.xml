@@ -1,9 +1,11 @@
 <reference anchor="W3C.NOTE-rdf11-new-20140225" target="https://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/">
   <front>
     <title>What’s New in RDF 1.1</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-rdf11-new-20140225"/>
-    <author role="editor" fullname="David Wood"/>
+    <author role="editor" fullname="David Wood">
+      <organization/>
+    </author>
     <date year="2014" month="February" day="25"/>
     <workgroup>RDF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdf11-new-20140225"/>
 </reference>

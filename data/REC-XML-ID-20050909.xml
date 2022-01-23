@@ -1,11 +1,17 @@
 <reference anchor="W3C.REC-xml-id-20050909" target="https://www.w3.org/TR/2005/REC-xml-id-20050909/">
   <front>
     <title>xml:id Version 1.0</title>
-    <seriesInfo name="W3C REC" value="REC-xml-id-20050909"/>
-    <author role="editor" fullname="Daniel Veillard"/>
-    <author role="editor" fullname="Jonathan Marsh"/>
-    <author role="editor" fullname="Norman Walsh"/>
+    <author role="editor" fullname="Daniel Veillard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
     <date year="2005" month="September" day="9"/>
     <workgroup>XML Core Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-xml-id-20050909"/>
 </reference>

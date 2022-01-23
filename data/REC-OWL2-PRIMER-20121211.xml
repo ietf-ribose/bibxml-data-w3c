@@ -1,13 +1,23 @@
 <reference anchor="W3C.REC-owl2-primer-20121211" target="https://www.w3.org/TR/2012/REC-owl2-primer-20121211/">
   <front>
     <title>OWL 2 Web Ontology Language Primer (Second Edition)</title>
-    <seriesInfo name="W3C REC" value="REC-owl2-primer-20121211"/>
-    <author role="editor" fullname="Bijan Parsia"/>
-    <author role="editor" fullname="Markus Krötzsch"/>
-    <author role="editor" fullname="Pascal Hitzler"/>
-    <author role="editor" fullname="Peter Patel-Schneider"/>
-    <author role="editor" fullname="Sebastian Rudolph"/>
+    <author role="editor" fullname="Bijan Parsia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Krötzsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pascal Hitzler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Patel-Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Rudolph">
+      <organization/>
+    </author>
     <date year="2012" month="December" day="11"/>
     <workgroup>OWL Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-owl2-primer-20121211"/>
 </reference>

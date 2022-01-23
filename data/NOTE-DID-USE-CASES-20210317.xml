@@ -1,13 +1,23 @@
 <reference anchor="W3C.NOTE-did-use-cases-20210317" target="https://www.w3.org/TR/2021/NOTE-did-use-cases-20210317/">
   <front>
     <title>Use Cases and Requirements for Decentralized Identifiers</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-did-use-cases-20210317"/>
-    <author role="editor" fullname="Adrian Gropper"/>
-    <author role="editor" fullname="Joe Andrieu"/>
-    <author role="editor" fullname="Kim Duffy"/>
-    <author role="editor" fullname="Phil Archer"/>
-    <author role="editor" fullname="Ryan Grant"/>
+    <author role="editor" fullname="Adrian Gropper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joe Andrieu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kim Duffy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryan Grant">
+      <organization/>
+    </author>
     <date year="2021" month="March" day="17"/>
     <workgroup>Decentralized Identifier Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-did-use-cases-20210317"/>
 </reference>

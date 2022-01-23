@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-pointerlock-2-20211117" target="https://www.w3.org/TR/2021/WD-pointerlock-2-20211117/">
   <front>
     <title>Pointer Lock 2.0</title>
-    <seriesInfo name="W3C WD" value="WD-pointerlock-2-20211117"/>
-    <author role="editor" fullname="Mustaq Ahmed"/>
-    <author role="editor" fullname="Navid Zolghadr"/>
+    <author role="editor" fullname="Mustaq Ahmed">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Navid Zolghadr">
+      <organization/>
+    </author>
     <date year="2021" month="November" day="17"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-pointerlock-2-20211117"/>
 </reference>

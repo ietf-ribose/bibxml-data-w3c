@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-rdb2rdf-ucr-20100608" target="https://www.w3.org/TR/2010/WD-rdb2rdf-ucr-20100608/">
   <front>
     <title>Use Cases and Requirements for Mapping Relational Databases to RDF</title>
-    <seriesInfo name="W3C WD" value="WD-rdb2rdf-ucr-20100608"/>
-    <author role="editor" fullname="Eric Prud'hommeaux"/>
-    <author role="editor" fullname="Michael Hausenblas"/>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Hausenblas">
+      <organization/>
+    </author>
     <date year="2010" month="June" day="8"/>
     <workgroup>RDB2RDF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-rdb2rdf-ucr-20100608"/>
 </reference>

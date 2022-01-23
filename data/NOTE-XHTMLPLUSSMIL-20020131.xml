@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-XHTMLplusSMIL-20020131" target="https://www.w3.org/TR/2002/NOTE-XHTMLplusSMIL-20020131/">
   <front>
     <title>XHTML+SMIL Profile</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-XHTMLplusSMIL-20020131"/>
-    <author role="editor" fullname="Aaron Patterson"/>
-    <author role="editor" fullname="Patrick Schmitz"/>
+    <author role="editor" fullname="Aaron Patterson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Schmitz">
+      <organization/>
+    </author>
     <date year="2002" month="January" day="31"/>
     <workgroup>Synchronized Multimedia Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-XHTMLplusSMIL-20020131"/>
 </reference>

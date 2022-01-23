@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-animation-timing-20150922" target="https://www.w3.org/TR/2015/NOTE-animation-timing-20150922/">
   <front>
     <title>Timing control for script-based animations</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-animation-timing-20150922"/>
-    <author role="editor" fullname="Cameron McCormack"/>
-    <author role="editor" fullname="James Robinson"/>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Robinson">
+      <organization/>
+    </author>
     <date year="2015" month="September" day="22"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-animation-timing-20150922"/>
 </reference>

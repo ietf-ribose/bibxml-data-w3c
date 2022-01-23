@@ -1,11 +1,17 @@
 <reference anchor="W3C.WD-payment-method-manifest-20171212" target="https://www.w3.org/TR/2017/WD-payment-method-manifest-20171212/">
   <front>
     <title>Payment Method Manifest</title>
-    <seriesInfo name="W3C WD" value="WD-payment-method-manifest-20171212"/>
-    <author role="editor" fullname="Dapeng(Max) Liu"/>
-    <author role="editor" fullname="Domenic Denicola"/>
-    <author role="editor" fullname="Zach Koch"/>
+    <author role="editor" fullname="Dapeng(Max) Liu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Domenic Denicola">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zach Koch">
+      <organization/>
+    </author>
     <date year="2017" month="December" day="12"/>
     <workgroup>Web Payments Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-payment-method-manifest-20171212"/>
 </reference>

@@ -1,10 +1,14 @@
 <reference anchor="W3C.NOTE-rdfcal-20050929" target="https://www.w3.org/TR/2005/NOTE-rdfcal-20050929/">
   <front>
     <title>RDF Calendar - an application of the Resource Description Framework to iCalendar Data</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-rdfcal-20050929"/>
-    <author role="editor" fullname="Dan Connolly"/>
-    <author role="editor" fullname="Libby Miller"/>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Libby Miller">
+      <organization/>
+    </author>
     <date year="2005" month="September" day="29"/>
     <workgroup>Semantic Web Interest Group</workgroup>
   </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdfcal-20050929"/>
 </reference>

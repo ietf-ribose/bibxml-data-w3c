@@ -1,10 +1,14 @@
 <reference anchor="W3C.WD-acss-19990902" target="https://www.w3.org/TR/1999/WD-acss-19990902">
   <front>
     <title>Aural Cascading Style Sheets (ACSS) Specification</title>
-    <seriesInfo name="W3C WD" value="WD-acss-19990902"/>
-    <author role="editor" fullname="Chris Lilley"/>
-    <author role="editor" fullname="T.V. Raman"/>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T.V. Raman">
+      <organization/>
+    </author>
     <date year="1999" month="September" day="2"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C WD" value="WD-acss-19990902"/>
 </reference>

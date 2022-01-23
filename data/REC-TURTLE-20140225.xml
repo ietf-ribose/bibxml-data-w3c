@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-turtle-20140225" target="https://www.w3.org/TR/2014/REC-turtle-20140225/">
   <front>
     <title>RDF 1.1 Turtle</title>
-    <seriesInfo name="W3C REC" value="REC-turtle-20140225"/>
-    <author role="editor" fullname="Eric Prud'hommeaux"/>
-    <author role="editor" fullname="Gavin Carothers"/>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Carothers">
+      <organization/>
+    </author>
     <date year="2014" month="February" day="25"/>
     <workgroup>RDF Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-turtle-20140225"/>
 </reference>

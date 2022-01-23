@@ -1,10 +1,14 @@
 <reference anchor="W3C.REC-InkML-20110920" target="https://www.w3.org/TR/2011/REC-InkML-20110920/">
   <front>
     <title>Ink Markup Language (InkML)</title>
-    <seriesInfo name="W3C REC" value="REC-InkML-20110920"/>
-    <author role="editor" fullname="Stephen Watt"/>
-    <author role="editor" fullname="Tom Underhill"/>
+    <author role="editor" fullname="Stephen Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Underhill">
+      <organization/>
+    </author>
     <date year="2011" month="September" day="20"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>
+  <seriesInfo name="W3C REC" value="REC-InkML-20110920"/>
 </reference>

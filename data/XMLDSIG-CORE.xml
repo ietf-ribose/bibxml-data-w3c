@@ -1,7 +1,6 @@
 <reference anchor="W3C.xmldsig-core" target="http://www.w3.org/TR/xmldsig-core/">
   <front>
     <title>XML-Signature Syntax and Processing</title>
-    <seriesInfo name="W3C Recommendation" value="xmldsig-core"/>
     <author fullname="Donald Eastlake" initials="D." surname="Eastlake">
       <organization>Motorola</organization>
       <address>
@@ -22,4 +21,5 @@
     </author>
     <date year="2000" month="October"/>
   </front>
+  <seriesInfo name="W3C Recommendation" value="xmldsig-core"/>
 </reference>
