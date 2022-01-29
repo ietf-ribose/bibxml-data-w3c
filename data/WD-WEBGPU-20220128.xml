@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webgpu-20220128" target="https://www.w3.org/TR/2022/WD-webgpu-20220128/">
+  <front>
+    <title>WebGPU</title>
+    <author role="editor" fullname="Brandon Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dzmitry Malyshau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kai Ninomiya">
+      <organization/>
+    </author>
+    <date year="2022" month="January" day="28"/>
+    <workgroup>GPU for the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webgpu-20220128"/>
+</reference>

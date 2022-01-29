@@ -1,0 +1,11 @@
+<reference anchor="W3C.DNOTE-adlm-gap-20220128" target="https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220128/">
+  <front>
+    <title>Adlam Gap Analysis</title>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2022" month="January" day="28"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-adlm-gap-20220128"/>
+</reference>
