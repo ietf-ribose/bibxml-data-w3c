@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-appmanifest-20220202" target="https://www.w3.org/TR/2022/WD-appmanifest-20220202/">
+  <front>
+    <title>Web Application Manifest</title>
+    <author role="editor" fullname="Aaron Gustafson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Murphy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Giuca">
+      <organization/>
+    </author>
+    <date year="2022" month="February" day="2"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20220202"/>
+</reference>
