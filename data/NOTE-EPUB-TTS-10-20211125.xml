@@ -1,9 +1,0 @@
-<reference anchor="W3C.NOTE-epub-tts-10-20211125" target="https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211125/">
-  <front>
-    <title>EPUB 3 Text-to-Speech Enhancements 1.0</title>
-    <seriesInfo name="W3C NOTE" value="NOTE-epub-tts-10-20211125"/>
-    <author role="editor" fullname="Matt Garrish"/>
-    <date year="2021" month="November" day="25"/>
-    <workgroup>EPUB 3 Working Group</workgroup>
-  </front>
-</reference>

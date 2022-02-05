@@ -1,9 +1,0 @@
-<reference anchor="W3C.WD-geor-gap-20210524" target="https://www.w3.org/TR/2021/WD-geor-gap-20210524/">
-  <front>
-    <title>Georgian Gap Analysis</title>
-    <seriesInfo name="W3C WD" value="WD-geor-gap-20210524"/>
-    <author role="editor" fullname="Richard Ishida"/>
-    <date year="2021" month="May" day="24"/>
-    <workgroup>Internationalization Working Group</workgroup>
-  </front>
-</reference>
