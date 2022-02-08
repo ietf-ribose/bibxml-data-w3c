@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-pointerevents3-20220201" target="https://www.w3.org/TR/2022/WD-pointerevents3-20220201/">
+<reference anchor="W3C.WD-pointerevents3-20220207" target="https://www.w3.org/TR/2022/WD-pointerevents3-20220207/">
   <front>
     <title>Pointer Events</title>
     <author role="editor" fullname="Navid Zolghadr">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Patrick Lauke">
       <organization/>
     </author>
-    <date year="2022" month="February" day="1"/>
+    <date year="2022" month="February" day="7"/>
     <workgroup>Pointer Events Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-pointerevents3-20220201"/>
+  <seriesInfo name="W3C WD" value="WD-pointerevents3-20220207"/>
 </reference>
