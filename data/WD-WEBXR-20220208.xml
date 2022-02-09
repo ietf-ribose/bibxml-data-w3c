@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webxr-20220207" target="https://www.w3.org/TR/2022/WD-webxr-20220207/">
+<reference anchor="W3C.WD-webxr-20220208" target="https://www.w3.org/TR/2022/WD-webxr-20220208/">
   <front>
     <title>WebXR Device API</title>
     <author role="editor" fullname="Brandon Jones">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Rik Cabanier">
       <organization/>
     </author>
-    <date year="2022" month="February" day="7"/>
+    <date year="2022" month="February" day="8"/>
     <workgroup>Immersive Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webxr-20220207"/>
+  <seriesInfo name="W3C WD" value="WD-webxr-20220208"/>
 </reference>

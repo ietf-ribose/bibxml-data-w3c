@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-codec-registry-20220126" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-codec-registry-20220126/">
+<reference anchor="W3C.DNOTE-webcodecs-codec-registry-20220209" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-codec-registry-20220209/">
   <front>
     <title>WebCodecs Codec Registry</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="January" day="26"/>
+    <date year="2022" month="February" day="9"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-codec-registry-20220126"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-codec-registry-20220209"/>
 </reference>
