@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webxr-depth-sensing-1-20220215" target="https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220215/">
+  <front>
+    <title>WebXR Depth Sensing Module</title>
+    <author role="editor" fullname="Piotr Bialecki">
+      <organization/>
+    </author>
+    <date year="2022" month="February" day="15"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxr-depth-sensing-1-20220215"/>
+</reference>
