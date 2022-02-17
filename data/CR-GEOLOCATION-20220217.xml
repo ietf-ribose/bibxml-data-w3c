@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-geolocation-20220210" target="https://www.w3.org/TR/2022/WD-geolocation-20220210/">
+<reference anchor="W3C.CR-geolocation-20220217" target="https://www.w3.org/TR/2022/CR-geolocation-20220217/">
   <front>
     <title>Geolocation API</title>
     <author role="editor" fullname="Marcos Caceres">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Reilly Grant">
       <organization/>
     </author>
-    <date year="2022" month="February" day="10"/>
+    <date year="2022" month="February" day="17"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-geolocation-20220210"/>
+  <seriesInfo name="W3C CR" value="CR-geolocation-20220217"/>
 </reference>

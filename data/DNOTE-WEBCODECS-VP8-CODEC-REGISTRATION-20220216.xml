@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-webcodecs-flac-codec-registration-20220209" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-flac-codec-registration-20220209/">
+<reference anchor="W3C.DNOTE-webcodecs-vp8-codec-registration-20220216" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-vp8-codec-registration-20220216/">
   <front>
-    <title>FLAC WebCodecs Registration</title>
+    <title>VP8 WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="February" day="9"/>
+    <date year="2022" month="February" day="16"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-flac-codec-registration-20220209"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-vp8-codec-registration-20220216"/>
 </reference>

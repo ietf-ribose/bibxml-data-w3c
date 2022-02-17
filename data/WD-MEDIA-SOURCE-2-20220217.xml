@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-media-source-2-20210930" target="https://www.w3.org/TR/2021/WD-media-source-2-20210930/">
+<reference anchor="W3C.WD-media-source-2-20220217" target="https://www.w3.org/TR/2022/WD-media-source-2-20220217/">
   <front>
     <title>Media Source Extensions™</title>
     <author role="editor" fullname="Mark Watson">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Matthew Wolenetz">
       <organization/>
     </author>
-    <date year="2021" month="September" day="30"/>
+    <date year="2022" month="February" day="17"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-media-source-2-20210930"/>
+  <seriesInfo name="W3C WD" value="WD-media-source-2-20220217"/>
 </reference>
