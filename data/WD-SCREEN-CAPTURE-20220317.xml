@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-screen-capture-20220203" target="https://www.w3.org/TR/2022/WD-screen-capture-20220203/">
+<reference anchor="W3C.WD-screen-capture-20220317" target="https://www.w3.org/TR/2022/WD-screen-capture-20220317/">
   <front>
     <title>Screen Capture</title>
     <author role="editor" fullname="Elad Alon">
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Suhas Nandakumar">
       <organization/>
     </author>
-    <date year="2022" month="February" day="3"/>
+    <date year="2022" month="March" day="17"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-screen-capture-20220203"/>
+  <seriesInfo name="W3C WD" value="WD-screen-capture-20220317"/>
 </reference>
