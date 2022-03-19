@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-css-text-4-20191113" target="https://www.w3.org/TR/2019/WD-css-text-4-20191113/">
+<reference anchor="W3C.WD-css-text-4-20220318" target="https://www.w3.org/TR/2022/WD-css-text-4-20220318/">
   <front>
     <title>CSS Text Module Level 4</title>
     <author role="editor" fullname="Alan Stearns">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Koji Ishii">
       <organization/>
     </author>
-    <date year="2019" month="November" day="13"/>
+    <date year="2022" month="March" day="18"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-css-text-4-20191113"/>
+  <seriesInfo name="W3C WD" value="WD-css-text-4-20220318"/>
 </reference>
