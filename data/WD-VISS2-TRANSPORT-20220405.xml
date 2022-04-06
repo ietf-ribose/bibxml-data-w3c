@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-viss2-transport-20220311" target="https://www.w3.org/TR/2022/WD-viss2-transport-20220311/">
+<reference anchor="W3C.WD-viss2-transport-20220405" target="https://www.w3.org/TR/2022/WD-viss2-transport-20220405/">
   <front>
     <title>VISS version 2-Transport</title>
     <author role="editor" fullname="Ulf Bjorkengren">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Wonsuk Lee">
       <organization/>
     </author>
-    <date year="2022" month="March" day="11"/>
+    <date year="2022" month="April" day="5"/>
     <workgroup>Automotive Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-viss2-transport-20220311"/>
+  <seriesInfo name="W3C WD" value="WD-viss2-transport-20220405"/>
 </reference>

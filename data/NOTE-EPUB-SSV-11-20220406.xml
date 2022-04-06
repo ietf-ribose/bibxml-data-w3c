@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-epub-ssv-11-20220331" target="https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220331/">
+<reference anchor="W3C.NOTE-epub-ssv-11-20220406" target="https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220406/">
   <front>
     <title>EPUB 3 Structural Semantics Vocabulary 1.1</title>
     <author role="editor" fullname="Ivan Herman">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Matt Garrish">
       <organization/>
     </author>
-    <date year="2022" month="March" day="31"/>
+    <date year="2022" month="April" day="6"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-epub-ssv-11-20220331"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-ssv-11-20220406"/>
 </reference>

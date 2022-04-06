@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-WGSL-20220404" target="https://www.w3.org/TR/2022/WD-WGSL-20220404/">
+<reference anchor="W3C.WD-WGSL-20220406" target="https://www.w3.org/TR/2022/WD-WGSL-20220406/">
   <front>
     <title>WebGPU Shading Language</title>
     <author role="editor" fullname="David Neto">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Myles Maxfield">
       <organization/>
     </author>
-    <date year="2022" month="April" day="4"/>
+    <date year="2022" month="April" day="6"/>
     <workgroup>GPU for the Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-WGSL-20220404"/>
+  <seriesInfo name="W3C WD" value="WD-WGSL-20220406"/>
 </reference>
