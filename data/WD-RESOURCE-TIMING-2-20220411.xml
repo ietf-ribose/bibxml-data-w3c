@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-resource-timing-2-20220127" target="https://www.w3.org/TR/2022/WD-resource-timing-2-20220127/">
+<reference anchor="W3C.WD-resource-timing-2-20220411" target="https://www.w3.org/TR/2022/WD-resource-timing-2-20220411/">
   <front>
     <title>Resource Timing Level 2</title>
     <author role="editor" fullname="Noam Rosenthal">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2022" month="January" day="27"/>
+    <date year="2022" month="April" day="11"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-resource-timing-2-20220127"/>
+  <seriesInfo name="W3C WD" value="WD-resource-timing-2-20220411"/>
 </reference>
