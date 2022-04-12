@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-webcodecs-aac-codec-registration-20220321" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-aac-codec-registration-20220321/">
+<reference anchor="W3C.DNOTE-webcodecs-opus-codec-registration-20220411" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-opus-codec-registration-20220411/">
   <front>
-    <title>AAC WebCodecs Registration</title>
+    <title>Opus WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="March" day="21"/>
+    <date year="2022" month="April" day="11"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-aac-codec-registration-20220321"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-opus-codec-registration-20220411"/>
 </reference>
