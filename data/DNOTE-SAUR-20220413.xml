@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-saur-20210928" target="https://www.w3.org/TR/2021/WD-saur-20210928/">
+<reference anchor="W3C.DNOTE-saur-20220413" target="https://www.w3.org/TR/2022/DNOTE-saur-20220413/">
   <front>
     <title>Synchronization Accessibility User Requirements</title>
     <author role="editor" fullname="Janina Sajka">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Steve Noble">
       <organization/>
     </author>
-    <date year="2021" month="September" day="28"/>
+    <date year="2022" month="April" day="13"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-saur-20210928"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-saur-20220413"/>
 </reference>
