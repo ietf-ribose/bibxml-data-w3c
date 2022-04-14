@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-font-rationale-20220414" target="https://www.w3.org/TR/2022/NOTE-font-rationale-20220414/">
+  <front>
+    <title>Fonts for the Web: Rationale, 1996</title>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="14"/>
+    <workgroup>Web Fonts Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-font-rationale-20220414"/>
+</reference>
