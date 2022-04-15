@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-epub-a11y-11-20220414" target="https://www.w3.org/TR/2022/WD-epub-a11y-11-20220414/">
+<reference anchor="W3C.WD-epub-a11y-11-20220415" target="https://www.w3.org/TR/2022/WD-epub-a11y-11-20220415/">
   <front>
     <title>EPUB Accessibility 1.1</title>
     <author role="editor" fullname="Avneesh Singh">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Matt Garrish">
       <organization/>
     </author>
-    <date year="2022" month="April" day="14"/>
+    <date year="2022" month="April" day="15"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-epub-a11y-11-20220414"/>
+  <seriesInfo name="W3C WD" value="WD-epub-a11y-11-20220415"/>
 </reference>
