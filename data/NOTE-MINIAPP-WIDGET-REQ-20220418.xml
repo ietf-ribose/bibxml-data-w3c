@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-miniapp-widget-req-20220308" target="https://www.w3.org/TR/2022/NOTE-miniapp-widget-req-20220308/">
+<reference anchor="W3C.NOTE-miniapp-widget-req-20220418" target="https://www.w3.org/TR/2022/NOTE-miniapp-widget-req-20220418/">
   <front>
     <title>MiniApp Widget Requirements</title>
     <author role="editor" fullname="Bin Guo">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Chen Yinli">
       <organization/>
     </author>
-    <date year="2022" month="March" day="8"/>
+    <date year="2022" month="April" day="18"/>
     <workgroup>MiniApps Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-miniapp-widget-req-20220308"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-miniapp-widget-req-20220418"/>
 </reference>
