@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-wasm-js-api-2-20220419" target="https://www.w3.org/TR/2022/WD-wasm-js-api-2-20220419/">
+  <front>
+    <title>WebAssembly JavaScript Interface</title>
+    <author role="editor" fullname=". Ms2ger">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="19"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wasm-js-api-2-20220419"/>
+</reference>
