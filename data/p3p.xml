@@ -1,0 +1,28 @@
+<reference anchor="W3C.P3P" target="http://www.w3.org/TR/P3P/">
+  <front>
+    <title>The Platform for Privacy Preferences 1.0 (P3P1.0) Specification</title>
+    <author fullname="Massimo Marchiori" initials="M." surname="Marchiori">
+      <organization abbrev="W3C">W3C</organization>
+      <address>
+        <email>massimo@w3.or</email>
+      </address>
+    </author>
+    <author fullname="Lorrie Cranor" initials="L." surname="Cranor">
+      <organization>AT&amp;T</organization>
+    </author>
+    <author fullname="Marc Langheinrich" initials="M." surname="Lanheinrich">
+      <organization>ETH Zurich</organization>
+    </author>
+    <author fullname="Martin Presler-Marshall" initials="M." surname="Presler-Marshall">
+      <organization>IBM</organization>
+      <address>
+        <email>mpresler@us.ibm.com</email>
+      </address>
+    </author>
+    <author fullname="Joseph Reagle" initials="J." surname="Reale">
+      <organization>W3C</organization>
+    </author>
+    <date year="2002" month="April" day="16"/>
+  </front>
+  <seriesInfo name="W3C Recommendation" value="REC-PICS-services"/>
+</reference>
