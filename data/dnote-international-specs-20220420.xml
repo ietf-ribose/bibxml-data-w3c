@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-international-specs-20210325" target="https://www.w3.org/TR/2021/WD-international-specs-20210325/">
+<reference anchor="W3C.DNOTE-international-specs-20220420" target="https://www.w3.org/TR/2022/DNOTE-international-specs-20220420/">
   <front>
     <title>Internationalization Best Practices for Spec Developers</title>
     <author role="editor" fullname="Addison Phillips">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2021" month="March" day="25"/>
+    <date year="2022" month="April" day="20"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-international-specs-20210325"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-international-specs-20220420"/>
 </reference>
