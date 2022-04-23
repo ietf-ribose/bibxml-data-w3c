@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-presentation-api-20201105" target="https://www.w3.org/TR/2020/CRD-presentation-api-20201105/">
+<reference anchor="W3C.CRD-presentation-api-20220422" target="https://www.w3.org/TR/2022/CRD-presentation-api-20220422/">
   <front>
     <title>Presentation API</title>
     <author role="editor" fullname="Dominik Röttsches">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Mark Foltz">
       <organization/>
     </author>
-    <date year="2020" month="November" day="5"/>
+    <date year="2022" month="April" day="22"/>
     <workgroup>Second Screen Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-presentation-api-20201105"/>
+  <seriesInfo name="W3C CR" value="CRD-presentation-api-20220422"/>
 </reference>
