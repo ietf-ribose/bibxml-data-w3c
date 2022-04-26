@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-webxr-gamepads-module-1-20220203" target="https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220203/">
+<reference anchor="W3C.WD-webxr-ar-module-1-20220426" target="https://www.w3.org/TR/2022/WD-webxr-ar-module-1-20220426/">
   <front>
-    <title>WebXR Gamepads Module - Level 1</title>
+    <title>WebXR Augmented Reality Module - Level 1</title>
     <author role="editor" fullname="Brandon Jones">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Rik Cabanier">
       <organization/>
     </author>
-    <date year="2022" month="February" day="3"/>
+    <date year="2022" month="April" day="26"/>
     <workgroup>Immersive Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webxr-gamepads-module-1-20220203"/>
+  <seriesInfo name="W3C WD" value="WD-webxr-ar-module-1-20220426"/>
 </reference>
