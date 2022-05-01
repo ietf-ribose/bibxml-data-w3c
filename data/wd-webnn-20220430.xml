@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webnn-20220421" target="https://www.w3.org/TR/2022/WD-webnn-20220421/">
+<reference anchor="W3C.WD-webnn-20220430" target="https://www.w3.org/TR/2022/WD-webnn-20220430/">
   <front>
     <title>Web Neural Network API</title>
     <author role="editor" fullname="Chai Chaoweeraprasit">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Ningxin Hu">
       <organization/>
     </author>
-    <date year="2022" month="April" day="21"/>
+    <date year="2022" month="April" day="30"/>
     <workgroup>Web Machine Learning Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webnn-20220421"/>
+  <seriesInfo name="W3C WD" value="WD-webnn-20220430"/>
 </reference>
