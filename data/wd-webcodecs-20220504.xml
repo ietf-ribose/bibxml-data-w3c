@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webcodecs-20220504" target="https://www.w3.org/TR/2022/WD-webcodecs-20220504/">
+  <front>
+    <title>WebCodecs</title>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Cunningham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
+    <date year="2022" month="May" day="4"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-20220504"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-html-aam-1.0-20220503" target="https://www.w3.org/TR/2022/WD-html-aam-1.0-20220503/">
+<reference anchor="W3C.WD-html-aam-1.0-20220504" target="https://www.w3.org/TR/2022/WD-html-aam-1.0-20220504/">
   <front>
     <title>HTML Accessibility API Mappings 1.0</title>
     <author role="editor" fullname="Scott O'Hara">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Steve Faulkner">
       <organization/>
     </author>
-    <date year="2022" month="May" day="3"/>
+    <date year="2022" month="May" day="4"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-html-aam-1.0-20220503"/>
+  <seriesInfo name="W3C WD" value="WD-html-aam-1.0-20220504"/>
 </reference>
