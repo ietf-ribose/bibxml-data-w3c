@@ -2,7 +2,6 @@
   <front>
     <title>Content Security Policy: Embedded Enforcement</title>
     <date year="2016" month="September" day="9"/>
-    <workgroup>Web Application Security Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-csp-embedded-enforcement-20160909"/>
 </reference>
