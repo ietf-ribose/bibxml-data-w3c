@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mediacapture-viewport-20220524" target="https://www.w3.org/TR/2022/WD-mediacapture-viewport-20220524/">
+  <front>
+    <title>Viewport Capture</title>
+    <author role="editor" fullname="Elad Alon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan-Ivar Bruaroey">
+      <organization/>
+    </author>
+    <date year="2022" month="May" day="24"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-viewport-20220524"/>
+</reference>
