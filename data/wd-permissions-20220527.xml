@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-permissions-20220509" target="https://www.w3.org/TR/2022/WD-permissions-20220509/">
+<reference anchor="W3C.WD-permissions-20220527" target="https://www.w3.org/TR/2022/WD-permissions-20220527/">
   <front>
     <title>Permissions</title>
     <author role="editor" fullname="Marcos Caceres">
@@ -7,7 +7,7 @@
     <author role="editor" fullname="Mike Taylor">
       <organization/>
     </author>
-    <date year="2022" month="May" day="9"/>
+    <date year="2022" month="May" day="27"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-permissions-20220509"/>
+  <seriesInfo name="W3C WD" value="WD-permissions-20220527"/>
 </reference>
