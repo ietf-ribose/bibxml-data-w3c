@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-web-share-20220527" target="https://www.w3.org/TR/2022/WD-web-share-20220527/">
+<reference anchor="W3C.WD-web-share-20220530" target="https://www.w3.org/TR/2022/WD-web-share-20220530/">
   <front>
     <title>Web Share API</title>
     <author role="editor" fullname="Eric Willigers">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Matt Giuca">
       <organization/>
     </author>
-    <date year="2022" month="May" day="27"/>
+    <date year="2022" month="May" day="30"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-web-share-20220527"/>
+  <seriesInfo name="W3C WD" value="WD-web-share-20220530"/>
 </reference>
