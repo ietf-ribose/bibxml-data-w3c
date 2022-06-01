@@ -1,0 +1,6 @@
+<reference anchor="W3C.ATAG10-TECHS" target="https://www.w3.org/TR/ATAG10-TECHS/">
+  <front>
+    <title>Techniques for Authoring Tool Accessibility Guidelines 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ATAG10-TECHS"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.svg-integration" target="https://www.w3.org/TR/svg-integration/">
+  <front>
+    <title>SVG Integration</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="svg-integration"/>
+</reference>

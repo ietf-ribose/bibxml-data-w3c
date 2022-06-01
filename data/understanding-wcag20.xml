@@ -1,0 +1,6 @@
+<reference anchor="W3C.UNDERSTANDING-WCAG20" target="https://www.w3.org/TR/UNDERSTANDING-WCAG20/">
+  <front>
+    <title>Understanding WCAG 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="UNDERSTANDING-WCAG20"/>
+</reference>

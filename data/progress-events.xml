@@ -1,0 +1,6 @@
+<reference anchor="W3C.progress-events" target="https://www.w3.org/TR/progress-events/">
+  <front>
+    <title>Progress Events</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="progress-events"/>
+</reference>

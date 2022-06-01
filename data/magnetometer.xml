@@ -1,0 +1,6 @@
+<reference anchor="W3C.magnetometer" target="https://www.w3.org/TR/magnetometer/">
+  <front>
+    <title>Magnetometer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="magnetometer"/>
+</reference>

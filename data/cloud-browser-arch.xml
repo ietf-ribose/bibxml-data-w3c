@@ -1,0 +1,6 @@
+<reference anchor="W3C.cloud-browser-arch" target="https://www.w3.org/TR/cloud-browser-arch/">
+  <front>
+    <title>Cloud Browser Architecture</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="cloud-browser-arch"/>
+</reference>

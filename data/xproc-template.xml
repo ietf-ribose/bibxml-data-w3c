@@ -1,0 +1,6 @@
+<reference anchor="W3C.xproc-template" target="https://www.w3.org/TR/xproc-template/">
+  <front>
+    <title>Document Templating Steps for XProc</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xproc-template"/>
+</reference>

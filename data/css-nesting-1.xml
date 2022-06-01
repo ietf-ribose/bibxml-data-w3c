@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-nesting-1" target="https://www.w3.org/TR/css-nesting-1/">
+  <front>
+    <title>CSS Nesting Module</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-nesting-1"/>
+</reference>

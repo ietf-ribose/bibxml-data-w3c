@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcodecs-avc-codec-registration" target="https://www.w3.org/TR/webcodecs-avc-codec-registration/">
+  <front>
+    <title>AVC (H.264) WebCodecs Registration</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcodecs-avc-codec-registration"/>
+</reference>

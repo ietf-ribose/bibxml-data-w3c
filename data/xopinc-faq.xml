@@ -1,0 +1,6 @@
+<reference anchor="W3C.xopinc-FAQ" target="https://www.w3.org/TR/xopinc-FAQ/">
+  <front>
+    <title>XOP Inclusion Mechanism - Frequently Asked Questions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xopinc-FAQ"/>
+</reference>

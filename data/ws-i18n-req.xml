@@ -1,0 +1,6 @@
+<reference anchor="W3C.ws-i18n-req" target="https://www.w3.org/TR/ws-i18n-req/">
+  <front>
+    <title>Requirements for the Internationalization of Web Services</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ws-i18n-req"/>
+</reference>

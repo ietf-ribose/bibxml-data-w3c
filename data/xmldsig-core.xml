@@ -1,25 +1,6 @@
-<reference anchor="W3C.xmldsig-core" target="http://www.w3.org/TR/xmldsig-core/">
+<reference anchor="W3C.xmldsig-core" target="https://www.w3.org/TR/xmldsig-core/">
   <front>
-    <title>XML-Signature Syntax and Processing</title>
-    <author fullname="Donald Eastlake" initials="D." surname="Eastlake">
-      <organization>Motorola</organization>
-      <address>
-        <email>dee3@torque.pothole.com</email>
-      </address>
-    </author>
-    <author fullname="Joseph Reagle " initials="J." surname="Reagle ">
-      <organization>W3C</organization>
-      <address>
-        <email>reagle@w3.org</email>
-      </address>
-    </author>
-    <author fullname="David Solo" initials="D." surname="Solo">
-      <organization>Citigroup</organization>
-      <address>
-        <email>dsolo@alum.mit.edu</email>
-      </address>
-    </author>
-    <date year="2000" month="October"/>
+    <title>XML Signature Syntax and Processing (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C Recommendation" value="xmldsig-core"/>
+  <seriesInfo name="W3C technicalReport" value="xmldsig-core"/>
 </reference>

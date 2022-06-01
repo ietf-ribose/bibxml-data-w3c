@@ -1,0 +1,6 @@
+<reference anchor="W3C.wake-lock-use-cases" target="https://www.w3.org/TR/wake-lock-use-cases/">
+  <front>
+    <title>Wake Lock: Use cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wake-lock-use-cases"/>
+</reference>

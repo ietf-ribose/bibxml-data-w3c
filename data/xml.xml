@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml" target="https://www.w3.org/TR/xml/">
+  <front>
+    <title>Extensible Markup Language (XML) 1.0 (Fifth Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml"/>
+</reference>

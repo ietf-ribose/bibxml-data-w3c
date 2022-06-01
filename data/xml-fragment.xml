@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml-fragment" target="https://www.w3.org/TR/xml-fragment">
+  <front>
+    <title>XML Fragment Interchange</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml-fragment"/>
+</reference>

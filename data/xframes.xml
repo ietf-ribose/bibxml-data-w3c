@@ -1,0 +1,6 @@
+<reference anchor="W3C.xframes" target="https://www.w3.org/TR/xframes/">
+  <front>
+    <title>XFrames</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xframes"/>
+</reference>

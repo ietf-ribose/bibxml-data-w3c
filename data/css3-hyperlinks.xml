@@ -1,0 +1,6 @@
+<reference anchor="W3C.css3-hyperlinks" target="https://www.w3.org/TR/css3-hyperlinks/">
+  <front>
+    <title>CSS3 Hyperlink Presentation Module</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css3-hyperlinks"/>
+</reference>

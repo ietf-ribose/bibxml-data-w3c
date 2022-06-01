@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-contain-3" target="https://www.w3.org/TR/css-contain-3/">
+  <front>
+    <title>CSS Containment Module Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-contain-3"/>
+</reference>

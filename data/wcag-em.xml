@@ -1,0 +1,6 @@
+<reference anchor="W3C.WCAG-EM" target="https://www.w3.org/TR/WCAG-EM/">
+  <front>
+    <title>Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WCAG-EM"/>
+</reference>

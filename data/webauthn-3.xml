@@ -1,0 +1,6 @@
+<reference anchor="W3C.webauthn-3" target="https://www.w3.org/TR/webauthn-3/">
+  <front>
+    <title>Web Authentication: An API for accessing Public Key Credentials - Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webauthn-3"/>
+</reference>

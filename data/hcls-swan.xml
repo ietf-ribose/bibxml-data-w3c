@@ -1,0 +1,6 @@
+<reference anchor="W3C.hcls-swan" target="https://www.w3.org/TR/hcls-swan/">
+  <front>
+    <title>Semantic Web Applications in Neuromedicine (SWAN) Ontology</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="hcls-swan"/>
+</reference>

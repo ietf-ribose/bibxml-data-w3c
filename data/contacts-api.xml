@@ -1,0 +1,6 @@
+<reference anchor="W3C.contacts-api" target="https://www.w3.org/TR/contacts-api/">
+  <front>
+    <title>Pick Contacts Intent</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="contacts-api"/>
+</reference>

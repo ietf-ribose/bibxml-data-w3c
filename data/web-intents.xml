@@ -1,0 +1,6 @@
+<reference anchor="W3C.web-intents" target="https://www.w3.org/TR/web-intents/">
+  <front>
+    <title>Web Intents</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="web-intents"/>
+</reference>

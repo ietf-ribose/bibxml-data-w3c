@@ -1,0 +1,6 @@
+<reference anchor="W3C.xkms-wsdl" target="https://www.w3.org/TR/xkms-wsdl/">
+  <front>
+    <title>A WSDL 1.1 description for XKMS</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xkms-wsdl"/>
+</reference>

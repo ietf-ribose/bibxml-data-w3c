@@ -1,0 +1,6 @@
+<reference anchor="W3C.annotation-protocol" target="https://www.w3.org/TR/annotation-protocol/">
+  <front>
+    <title>Web Annotation Protocol</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="annotation-protocol"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.owl2-direct-semantics" target="https://www.w3.org/TR/owl2-direct-semantics/">
+  <front>
+    <title>OWL 2 Web Ontology Language Direct Semantics (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="owl2-direct-semantics"/>
+</reference>

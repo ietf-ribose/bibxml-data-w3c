@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcodecs-vorbis-codec-registration" target="https://www.w3.org/TR/webcodecs-vorbis-codec-registration/">
+  <front>
+    <title>Vorbis WebCodecs Registration</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcodecs-vorbis-codec-registration"/>
+</reference>

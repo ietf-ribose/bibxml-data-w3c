@@ -1,0 +1,6 @@
+<reference anchor="W3C.widgets-updates" target="https://www.w3.org/TR/widgets-updates/">
+  <front>
+    <title>Widget Updates</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="widgets-updates"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.MediaAccessEvents" target="https://www.w3.org/TR/MediaAccessEvents/">
+  <front>
+    <title>Media Access Events</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="MediaAccessEvents"/>
+</reference>

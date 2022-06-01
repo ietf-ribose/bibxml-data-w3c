@@ -1,0 +1,6 @@
+<reference anchor="W3C.dpub-annotation-uc" target="https://www.w3.org/TR/dpub-annotation-uc/">
+  <front>
+    <title>Digital Publishing Annotation Use Cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dpub-annotation-uc"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-typed-om-1" target="https://www.w3.org/TR/css-typed-om-1/">
+  <front>
+    <title>CSS Typed OM Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-typed-om-1"/>
+</reference>

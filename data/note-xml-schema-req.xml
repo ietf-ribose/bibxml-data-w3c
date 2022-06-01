@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-xml-schema-req" target="https://www.w3.org/TR/NOTE-xml-schema-req">
+  <front>
+    <title>XML Schema Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-xml-schema-req"/>
+</reference>

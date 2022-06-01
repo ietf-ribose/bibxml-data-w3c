@@ -1,0 +1,6 @@
+<reference anchor="W3C.mmi-suggestions" target="https://www.w3.org/TR/mmi-suggestions/">
+  <front>
+    <title>Common Sense Suggestions for Developing Multimodal User Interfaces</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mmi-suggestions"/>
+</reference>

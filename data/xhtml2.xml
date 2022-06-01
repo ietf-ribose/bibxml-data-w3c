@@ -1,0 +1,6 @@
+<reference anchor="W3C.xhtml2" target="https://www.w3.org/TR/xhtml2/">
+  <front>
+    <title>XHTML™ 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xhtml2"/>
+</reference>

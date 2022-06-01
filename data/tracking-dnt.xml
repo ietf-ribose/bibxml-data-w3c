@@ -1,0 +1,6 @@
+<reference anchor="W3C.tracking-dnt" target="https://www.w3.org/TR/tracking-dnt/">
+  <front>
+    <title>Tracking Preference Expression (DNT)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="tracking-dnt"/>
+</reference>

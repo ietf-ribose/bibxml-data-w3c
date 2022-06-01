@@ -1,0 +1,6 @@
+<reference anchor="W3C.xsd-precisionDecimal" target="https://www.w3.org/TR/xsd-precisionDecimal/">
+  <front>
+    <title>An XSD datatype for IEEE floating-point decimal</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xsd-precisionDecimal"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.predefined-counter-styles" target="https://www.w3.org/TR/predefined-counter-styles/">
+  <front>
+    <title>Ready-made Counter Styles</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="predefined-counter-styles"/>
+</reference>

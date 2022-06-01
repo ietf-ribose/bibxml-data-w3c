@@ -1,0 +1,6 @@
+<reference anchor="W3C.css3-reader" target="https://www.w3.org/TR/css3-reader/">
+  <front>
+    <title>The CSS ‘Reader’ Media Type</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css3-reader"/>
+</reference>

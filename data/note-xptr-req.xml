@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-xptr-req" target="https://www.w3.org/TR/NOTE-xptr-req">
+  <front>
+    <title>XML XPointer Requirements Version 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-xptr-req"/>
+</reference>

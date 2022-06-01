@@ -1,0 +1,6 @@
+<reference anchor="W3C.eme-initdata-cenc" target="https://www.w3.org/TR/eme-initdata-cenc/">
+  <front>
+    <title>"cenc" Initialization Data Format</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="eme-initdata-cenc"/>
+</reference>

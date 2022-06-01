@@ -1,0 +1,6 @@
+<reference anchor="W3C.eme-initdata-registry" target="https://www.w3.org/TR/eme-initdata-registry/">
+  <front>
+    <title>Encrypted Media Extensions Initialization Data Format Registry</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="eme-initdata-registry"/>
+</reference>

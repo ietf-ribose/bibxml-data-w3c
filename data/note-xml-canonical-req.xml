@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-xml-canonical-req" target="https://www.w3.org/TR/NOTE-xml-canonical-req">
+  <front>
+    <title>XML Canonicalization Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-xml-canonical-req"/>
+</reference>

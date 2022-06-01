@@ -1,0 +1,6 @@
+<reference anchor="W3C.schema-arch" target="https://www.w3.org/TR/schema-arch/">
+  <front>
+    <title>The Cambridge Communiqué</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="schema-arch"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.sml-epr-ref-scheme" target="https://www.w3.org/TR/sml-epr-ref-scheme/">
+  <front>
+    <title>Framework for SML EPR-Based Reference Schemes</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="sml-epr-ref-scheme"/>
+</reference>

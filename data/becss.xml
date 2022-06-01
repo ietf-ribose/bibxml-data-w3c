@@ -1,0 +1,6 @@
+<reference anchor="W3C.becss" target="https://www.w3.org/TR/becss/">
+  <front>
+    <title>Behavioral Extensions to CSS</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="becss"/>
+</reference>

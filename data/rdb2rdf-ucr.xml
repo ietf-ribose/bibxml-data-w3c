@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdb2rdf-ucr" target="https://www.w3.org/TR/rdb2rdf-ucr/">
+  <front>
+    <title>Use Cases and Requirements for Mapping Relational Databases to RDF</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdb2rdf-ucr"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.xpath-full-text-10" target="https://www.w3.org/TR/xpath-full-text-10/">
+  <front>
+    <title>XQuery and XPath Full Text 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xpath-full-text-10"/>
+</reference>

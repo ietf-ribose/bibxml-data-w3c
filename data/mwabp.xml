@@ -1,0 +1,6 @@
+<reference anchor="W3C.mwabp" target="https://www.w3.org/TR/mwabp/">
+  <front>
+    <title>Mobile Web Application Best Practices</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mwabp"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.mbui-intro" target="https://www.w3.org/TR/mbui-intro/">
+  <front>
+    <title>Introduction to Model-Based User Interfaces</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mbui-intro"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.media-accessibility-reqs" target="https://www.w3.org/TR/media-accessibility-reqs/">
+  <front>
+    <title>Media Accessibility User Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="media-accessibility-reqs"/>
+</reference>

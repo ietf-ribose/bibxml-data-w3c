@@ -1,0 +1,6 @@
+<reference anchor="W3C.html-media-capture" target="https://www.w3.org/TR/html-media-capture/">
+  <front>
+    <title>HTML Media Capture</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html-media-capture"/>
+</reference>

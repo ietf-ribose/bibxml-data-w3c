@@ -1,0 +1,6 @@
+<reference anchor="W3C.html-picture-element" target="https://www.w3.org/TR/html-picture-element/">
+  <front>
+    <title>The picture Element</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html-picture-element"/>
+</reference>

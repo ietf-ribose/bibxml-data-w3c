@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml-c14n2-testcases" target="https://www.w3.org/TR/xml-c14n2-testcases/">
+  <front>
+    <title>Test cases for Canonical XML 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml-c14n2-testcases"/>
+</reference>

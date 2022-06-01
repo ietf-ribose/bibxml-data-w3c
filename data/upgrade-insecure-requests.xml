@@ -1,0 +1,6 @@
+<reference anchor="W3C.upgrade-insecure-requests" target="https://www.w3.org/TR/upgrade-insecure-requests/">
+  <front>
+    <title>Upgrade Insecure Requests</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="upgrade-insecure-requests"/>
+</reference>

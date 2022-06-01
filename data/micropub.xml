@@ -1,0 +1,6 @@
+<reference anchor="W3C.micropub" target="https://www.w3.org/TR/micropub/">
+  <front>
+    <title>Micropub</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="micropub"/>
+</reference>

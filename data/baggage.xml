@@ -1,0 +1,6 @@
+<reference anchor="W3C.baggage" target="https://www.w3.org/TR/baggage/">
+  <front>
+    <title>Propagation format for distributed context: Baggage</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="baggage"/>
+</reference>

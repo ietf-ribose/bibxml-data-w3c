@@ -1,0 +1,6 @@
+<reference anchor="W3C.css3-userint" target="https://www.w3.org/TR/css3-userint">
+  <front>
+    <title>User Interface for CSS3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css3-userint"/>
+</reference>

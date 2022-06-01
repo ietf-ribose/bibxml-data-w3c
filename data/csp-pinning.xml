@@ -1,0 +1,6 @@
+<reference anchor="W3C.csp-pinning" target="https://www.w3.org/TR/csp-pinning/">
+  <front>
+    <title>Content Security Policy Pinning</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="csp-pinning"/>
+</reference>

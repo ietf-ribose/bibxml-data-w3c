@@ -1,0 +1,6 @@
+<reference anchor="W3C.xquery-31-requirements" target="https://www.w3.org/TR/xquery-31-requirements/">
+  <front>
+    <title>XQuery 3.1 Requirements and Use Cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xquery-31-requirements"/>
+</reference>

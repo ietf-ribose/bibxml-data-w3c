@@ -1,0 +1,6 @@
+<reference anchor="W3C.mobileOK" target="https://www.w3.org/TR/mobileOK/">
+  <front>
+    <title>W3C mobileOK Scheme 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mobileOK"/>
+</reference>

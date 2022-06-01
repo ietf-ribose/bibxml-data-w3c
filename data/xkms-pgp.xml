@@ -1,0 +1,6 @@
+<reference anchor="W3C.xkms-pgp" target="https://www.w3.org/TR/xkms-pgp/">
+  <front>
+    <title>Using XKMS with PGP</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xkms-pgp"/>
+</reference>

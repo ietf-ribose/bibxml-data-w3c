@@ -1,0 +1,6 @@
+<reference anchor="W3C.timezone" target="https://www.w3.org/TR/timezone/">
+  <front>
+    <title>Working with Time Zones</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="timezone"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdf-sparql-query" target="https://www.w3.org/TR/rdf-sparql-query/">
+  <front>
+    <title>SPARQL Query Language for RDF</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdf-sparql-query"/>
+</reference>

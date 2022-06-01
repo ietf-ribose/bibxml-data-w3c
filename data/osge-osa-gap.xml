@@ -1,0 +1,6 @@
+<reference anchor="W3C.osge-osa-gap" target="https://www.w3.org/TR/osge-osa-gap/">
+  <front>
+    <title>Osage Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="osge-osa-gap"/>
+</reference>

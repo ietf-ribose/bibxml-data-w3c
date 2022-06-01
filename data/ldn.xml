@@ -1,0 +1,6 @@
+<reference anchor="W3C.ldn" target="https://www.w3.org/TR/ldn/">
+  <front>
+    <title>Linked Data Notifications</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ldn"/>
+</reference>

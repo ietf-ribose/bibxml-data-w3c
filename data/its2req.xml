@@ -1,0 +1,6 @@
+<reference anchor="W3C.its2req" target="https://www.w3.org/TR/its2req/">
+  <front>
+    <title>Requirements for Internationalization Tag Set (ITS) 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="its2req"/>
+</reference>

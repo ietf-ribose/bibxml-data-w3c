@@ -1,0 +1,6 @@
+<reference anchor="W3C.xbl-primer" target="https://www.w3.org/TR/xbl-primer/">
+  <front>
+    <title>XBL 2.0 Primer: An Introduction for Developers</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xbl-primer"/>
+</reference>

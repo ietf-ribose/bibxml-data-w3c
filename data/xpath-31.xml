@@ -1,0 +1,6 @@
+<reference anchor="W3C.xpath-31" target="https://www.w3.org/TR/xpath-31/">
+  <front>
+    <title>XML Path Language (XPath) 3.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xpath-31"/>
+</reference>

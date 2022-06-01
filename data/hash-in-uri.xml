@@ -1,0 +1,6 @@
+<reference anchor="W3C.hash-in-uri" target="https://www.w3.org/TR/hash-in-uri/">
+  <front>
+    <title>Usage Patterns For Client-Side URI parameters</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="hash-in-uri"/>
+</reference>

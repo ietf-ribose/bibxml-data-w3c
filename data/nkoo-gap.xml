@@ -1,0 +1,6 @@
+<reference anchor="W3C.nkoo-gap" target="https://www.w3.org/TR/nkoo-gap/">
+  <front>
+    <title>N’Ko Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="nkoo-gap"/>
+</reference>

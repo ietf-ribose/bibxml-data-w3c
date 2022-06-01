@@ -1,0 +1,6 @@
+<reference anchor="W3C.scxml" target="https://www.w3.org/TR/scxml/">
+  <front>
+    <title>State Chart XML (SCXML): State Machine Notation for Control Abstraction</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="scxml"/>
+</reference>

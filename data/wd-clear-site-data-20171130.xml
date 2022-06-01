@@ -5,6 +5,7 @@
       <organization/>
     </author>
     <date year="2017" month="November" day="30"/>
+    <workgroup>Web Application Security Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-clear-site-data-20171130"/>
 </reference>

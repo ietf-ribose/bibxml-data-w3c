@@ -1,0 +1,6 @@
+<reference anchor="W3C.UAAG10" target="https://www.w3.org/TR/UAAG10/">
+  <front>
+    <title>User Agent Accessibility Guidelines 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="UAAG10"/>
+</reference>

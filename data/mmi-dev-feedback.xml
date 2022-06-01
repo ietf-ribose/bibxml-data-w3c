@@ -1,0 +1,6 @@
+<reference anchor="W3C.mmi-dev-feedback" target="https://www.w3.org/TR/mmi-dev-feedback/">
+  <front>
+    <title>Multimodal Application Developer Feedback</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mmi-dev-feedback"/>
+</reference>

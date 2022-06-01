@@ -1,0 +1,6 @@
+<reference anchor="W3C.inkreqs" target="https://www.w3.org/TR/inkreqs/">
+  <front>
+    <title>Requirements for the Ink Markup Language</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="inkreqs"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-tv" target="https://www.w3.org/TR/css-tv/">
+  <front>
+    <title>CSS TV Profile 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-tv"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.namespaceState" target="https://www.w3.org/TR/namespaceState/">
+  <front>
+    <title>The Disposition of Names in an XML Namespace</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="namespaceState"/>
+</reference>

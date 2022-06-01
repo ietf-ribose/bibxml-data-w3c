@@ -1,0 +1,6 @@
+<reference anchor="W3C.offline-webapps" target="https://www.w3.org/TR/offline-webapps/">
+  <front>
+    <title>Offline Web Applications</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="offline-webapps"/>
+</reference>

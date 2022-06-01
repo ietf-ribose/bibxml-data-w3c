@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdfcal" target="https://www.w3.org/TR/rdfcal/">
+  <front>
+    <title>RDF Calendar - an application of the Resource Description Framework to iCalendar Data</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdfcal"/>
+</reference>

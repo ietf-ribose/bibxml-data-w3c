@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-sgml-xml" target="https://www.w3.org/TR/NOTE-sgml-xml">
+  <front>
+    <title>Comparison of SGML and XML</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-sgml-xml"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-ilu-requestor" target="https://www.w3.org/TR/WD-ilu-requestor">
+  <front>
+    <title>The ILU Requester: Object Services in HTTP Servers</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-ilu-requestor"/>
+</reference>

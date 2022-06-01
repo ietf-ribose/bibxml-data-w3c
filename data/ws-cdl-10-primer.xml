@@ -1,0 +1,6 @@
+<reference anchor="W3C.ws-cdl-10-primer" target="https://www.w3.org/TR/ws-cdl-10-primer/">
+  <front>
+    <title>Web Services Choreography Description Language: Primer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ws-cdl-10-primer"/>
+</reference>

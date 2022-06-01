@@ -1,0 +1,6 @@
+<reference anchor="W3C.cssom-view-1" target="https://www.w3.org/TR/cssom-view-1/">
+  <front>
+    <title>CSSOM View Module</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="cssom-view-1"/>
+</reference>

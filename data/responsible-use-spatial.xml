@@ -1,0 +1,6 @@
+<reference anchor="W3C.responsible-use-spatial" target="https://www.w3.org/TR/responsible-use-spatial/">
+  <front>
+    <title>The Responsible Use of Spatial Data</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="responsible-use-spatial"/>
+</reference>

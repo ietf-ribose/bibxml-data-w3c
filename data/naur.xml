@@ -1,0 +1,6 @@
+<reference anchor="W3C.naur" target="https://www.w3.org/TR/naur/">
+  <front>
+    <title>Natural Language Interface Accessibility User Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="naur"/>
+</reference>

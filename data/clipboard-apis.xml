@@ -1,0 +1,6 @@
+<reference anchor="W3C.clipboard-apis" target="https://www.w3.org/TR/clipboard-apis/">
+  <front>
+    <title>Clipboard API and events</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="clipboard-apis"/>
+</reference>

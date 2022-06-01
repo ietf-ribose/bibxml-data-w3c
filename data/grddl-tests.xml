@@ -1,0 +1,6 @@
+<reference anchor="W3C.grddl-tests" target="https://www.w3.org/TR/grddl-tests/">
+  <front>
+    <title>GRDDL Test Cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="grddl-tests"/>
+</reference>

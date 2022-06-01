@@ -1,0 +1,6 @@
+<reference anchor="W3C.clear-site-data" target="https://www.w3.org/TR/clear-site-data/">
+  <front>
+    <title>Clear Site Data</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="clear-site-data"/>
+</reference>

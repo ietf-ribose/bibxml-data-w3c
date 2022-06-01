@@ -1,0 +1,6 @@
+<reference anchor="W3C.REC-CSS1" target="https://www.w3.org/TR/REC-CSS1/">
+  <front>
+    <title>Cascading Style Sheets (CSS1) Level 1 Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="REC-CSS1"/>
+</reference>

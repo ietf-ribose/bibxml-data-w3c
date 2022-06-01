@@ -1,0 +1,6 @@
+<reference anchor="W3C.indie-ui-context" target="https://www.w3.org/TR/indie-ui-context/">
+  <front>
+    <title>IndieUI: User Context 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="indie-ui-context"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.gyroscope" target="https://www.w3.org/TR/gyroscope/">
+  <front>
+    <title>Gyroscope</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="gyroscope"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.WCAG10-TECHS" target="https://www.w3.org/TR/WCAG10-TECHS/">
+  <front>
+    <title>Techniques for Web Content Accessibility Guidelines 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WCAG10-TECHS"/>
+</reference>

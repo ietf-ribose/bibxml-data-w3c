@@ -1,0 +1,6 @@
+<reference anchor="W3C.ATAG20" target="https://www.w3.org/TR/ATAG20/">
+  <front>
+    <title>Authoring Tool Accessibility Guidelines (ATAG) 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ATAG20"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.SVGMobile" target="https://www.w3.org/TR/SVGMobile/">
+  <front>
+    <title>Mobile SVG Profiles: SVG Tiny and SVG Basic</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="SVGMobile"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.screen-capture" target="https://www.w3.org/TR/screen-capture/">
+  <front>
+    <title>Screen Capture</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="screen-capture"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.lpf" target="https://www.w3.org/TR/lpf/">
+  <front>
+    <title>Lightweight Packaging Format (LPF)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="lpf"/>
+</reference>

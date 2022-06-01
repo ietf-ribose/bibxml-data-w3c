@@ -1,0 +1,6 @@
+<reference anchor="W3C.SVG12" target="https://www.w3.org/TR/SVG12/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) Full 1.2 Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="SVG12"/>
+</reference>

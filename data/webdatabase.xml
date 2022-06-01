@@ -1,0 +1,6 @@
+<reference anchor="W3C.webdatabase" target="https://www.w3.org/TR/webdatabase/">
+  <front>
+    <title>Web SQL Database</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webdatabase"/>
+</reference>

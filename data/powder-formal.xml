@@ -1,0 +1,6 @@
+<reference anchor="W3C.powder-formal" target="https://www.w3.org/TR/powder-formal/">
+  <front>
+    <title>Protocol for Web Description Resources (POWDER): Formal Semantics</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="powder-formal"/>
+</reference>

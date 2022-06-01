@@ -1,0 +1,6 @@
+<reference anchor="W3C.xquery-update-10-requirements" target="https://www.w3.org/TR/xquery-update-10-requirements/">
+  <front>
+    <title>XQuery Update Facility 1.0 Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xquery-update-10-requirements"/>
+</reference>

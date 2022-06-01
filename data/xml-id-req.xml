@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml-id-req" target="https://www.w3.org/TR/xml-id-req/">
+  <front>
+    <title>xml:id Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml-id-req"/>
+</reference>

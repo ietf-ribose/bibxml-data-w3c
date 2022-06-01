@@ -1,0 +1,6 @@
+<reference anchor="W3C.mobile-bp" target="https://www.w3.org/TR/mobile-bp/">
+  <front>
+    <title>Mobile Web Best Practices 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mobile-bp"/>
+</reference>

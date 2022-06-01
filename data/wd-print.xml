@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-print" target="https://www.w3.org/TR/WD-print">
+  <front>
+    <title>CSS Printing Extensions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-print"/>
+</reference>

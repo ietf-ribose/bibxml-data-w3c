@@ -1,0 +1,6 @@
+<reference anchor="W3C.accessibility-metrics-report" target="https://www.w3.org/TR/accessibility-metrics-report/">
+  <front>
+    <title>Research Report on Web Accessibility Metrics</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="accessibility-metrics-report"/>
+</reference>

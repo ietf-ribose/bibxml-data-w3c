@@ -1,0 +1,6 @@
+<reference anchor="W3C.localizable-manifests" target="https://www.w3.org/TR/localizable-manifests/">
+  <front>
+    <title>Developing Localizable Manifests</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="localizable-manifests"/>
+</reference>

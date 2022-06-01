@@ -1,0 +1,6 @@
+<reference anchor="W3C.di-testing" target="https://www.w3.org/TR/di-testing/">
+  <front>
+    <title>Guidelines for writing device independent tests</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="di-testing"/>
+</reference>

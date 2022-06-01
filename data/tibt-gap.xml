@@ -1,0 +1,6 @@
+<reference anchor="W3C.tibt-gap" target="https://www.w3.org/TR/tibt-gap/">
+  <front>
+    <title>Tibetan Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="tibt-gap"/>
+</reference>

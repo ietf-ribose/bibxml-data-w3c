@@ -5,6 +5,7 @@
       <organization/>
     </author>
     <date year="2016" month="June" day="7"/>
+    <workgroup>Web Application Security Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-UISecurity-20160607"/>
 </reference>

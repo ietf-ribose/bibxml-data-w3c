@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-highlight-api-1" target="https://www.w3.org/TR/css-highlight-api-1/">
+  <front>
+    <title>CSS Custom Highlight API Module Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-highlight-api-1"/>
+</reference>

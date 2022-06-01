@@ -1,0 +1,6 @@
+<reference anchor="W3C.DDR-requirements" target="https://www.w3.org/TR/DDR-requirements/">
+  <front>
+    <title>Device Description Repository Requirements 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="DDR-requirements"/>
+</reference>

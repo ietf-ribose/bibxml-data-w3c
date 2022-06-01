@@ -1,0 +1,6 @@
+<reference anchor="W3C.permissions" target="https://www.w3.org/TR/permissions/">
+  <front>
+    <title>Permissions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="permissions"/>
+</reference>

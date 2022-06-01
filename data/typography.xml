@@ -1,0 +1,6 @@
+<reference anchor="W3C.typography" target="https://www.w3.org/TR/typography/">
+  <front>
+    <title>Language enablement index</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="typography"/>
+</reference>

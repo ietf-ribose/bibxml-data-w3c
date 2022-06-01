@@ -1,0 +1,6 @@
+<reference anchor="W3C.fragid-best-practices" target="https://www.w3.org/TR/fragid-best-practices/">
+  <front>
+    <title>Best Practices for Fragment Identifiers and Media Type Definitions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="fragid-best-practices"/>
+</reference>

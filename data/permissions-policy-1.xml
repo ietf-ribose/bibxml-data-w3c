@@ -1,0 +1,6 @@
+<reference anchor="W3C.permissions-policy-1" target="https://www.w3.org/TR/permissions-policy-1/">
+  <front>
+    <title>Permissions Policy</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="permissions-policy-1"/>
+</reference>

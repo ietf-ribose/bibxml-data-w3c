@@ -1,0 +1,6 @@
+<reference anchor="W3C.proc-model-req" target="https://www.w3.org/TR/proc-model-req/">
+  <front>
+    <title>XML Processing Model Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="proc-model-req"/>
+</reference>

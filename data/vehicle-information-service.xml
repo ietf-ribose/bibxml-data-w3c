@@ -1,0 +1,6 @@
+<reference anchor="W3C.vehicle-information-service" target="https://www.w3.org/TR/vehicle-information-service/">
+  <front>
+    <title>Vehicle Information Service Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="vehicle-information-service"/>
+</reference>

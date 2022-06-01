@@ -1,0 +1,6 @@
+<reference anchor="W3C.html-polyglot" target="https://www.w3.org/TR/html-polyglot/">
+  <front>
+    <title>Polyglot Markup: A robust profile of the HTML5 vocabulary</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html-polyglot"/>
+</reference>

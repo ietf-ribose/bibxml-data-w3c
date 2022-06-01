@@ -1,0 +1,6 @@
+<reference anchor="W3C.xslt" target="https://www.w3.org/TR/xslt/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xslt"/>
+</reference>

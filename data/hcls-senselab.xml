@@ -1,0 +1,6 @@
+<reference anchor="W3C.hcls-senselab" target="https://www.w3.org/TR/hcls-senselab/">
+  <front>
+    <title>Experiences with the conversion of SenseLab databases to RDF/OWL</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="hcls-senselab"/>
+</reference>

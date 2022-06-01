@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcodecs-aac-codec-registration" target="https://www.w3.org/TR/webcodecs-aac-codec-registration/">
+  <front>
+    <title>AAC WebCodecs Registration</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcodecs-aac-codec-registration"/>
+</reference>

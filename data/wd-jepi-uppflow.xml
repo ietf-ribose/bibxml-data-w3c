@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-jepi-uppflow" target="https://www.w3.org/TR/WD-jepi-uppflow">
+  <front>
+    <title>Selecting Payment Mechanisms Over HTTP</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-jepi-uppflow"/>
+</reference>

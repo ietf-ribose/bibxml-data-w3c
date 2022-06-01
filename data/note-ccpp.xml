@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-CCPP" target="https://www.w3.org/TR/NOTE-CCPP/">
+  <front>
+    <title>Composite Capability/Preference Profiles (CC/PP): A user side framework for content negotiation</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-CCPP"/>
+</reference>

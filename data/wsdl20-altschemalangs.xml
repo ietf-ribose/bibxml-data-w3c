@@ -1,0 +1,6 @@
+<reference anchor="W3C.wsdl20-altschemalangs" target="https://www.w3.org/TR/wsdl20-altschemalangs/">
+  <front>
+    <title>Discussion of Alternative Schema Languages and Type System Support in WSDL 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wsdl20-altschemalangs"/>
+</reference>

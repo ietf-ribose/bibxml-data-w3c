@@ -1,0 +1,6 @@
+<reference anchor="W3C.powder-xsd" target="https://www.w3.org/TR/powder-xsd/">
+  <front>
+    <title>Protocol for Web Description Resources (POWDER): Web Description Resources Datatypes (WDRD)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="powder-xsd"/>
+</reference>

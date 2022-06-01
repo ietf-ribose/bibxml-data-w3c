@@ -1,0 +1,6 @@
+<reference anchor="W3C.dcontology" target="https://www.w3.org/TR/dcontology/">
+  <front>
+    <title>Delivery Context Ontology</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dcontology"/>
+</reference>

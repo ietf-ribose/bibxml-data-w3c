@@ -1,0 +1,6 @@
+<reference anchor="W3C.security-privacy-questionnaire" target="https://www.w3.org/TR/security-privacy-questionnaire/">
+  <front>
+    <title>Self-Review Questionnaire: Security and Privacy</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="security-privacy-questionnaire"/>
+</reference>

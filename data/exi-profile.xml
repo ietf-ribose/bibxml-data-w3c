@@ -1,0 +1,6 @@
+<reference anchor="W3C.exi-profile" target="https://www.w3.org/TR/exi-profile/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Profile for limiting usage of dynamic memory</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="exi-profile"/>
+</reference>

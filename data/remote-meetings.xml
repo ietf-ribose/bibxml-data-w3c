@@ -1,0 +1,6 @@
+<reference anchor="W3C.remote-meetings" target="https://www.w3.org/TR/remote-meetings/">
+  <front>
+    <title>Accessibility of Remote Meetings</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="remote-meetings"/>
+</reference>

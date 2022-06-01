@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-DSIG-label-arch" target="https://www.w3.org/TR/WD-DSIG-label-arch">
+  <front>
+    <title>Digital Signature Label Architecture</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-DSIG-label-arch"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.eme-stream-registry" target="https://www.w3.org/TR/eme-stream-registry/">
+  <front>
+    <title>Encrypted Media Extensions Stream Format Registry</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="eme-stream-registry"/>
+</reference>

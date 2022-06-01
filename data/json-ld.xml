@@ -1,0 +1,6 @@
+<reference anchor="W3C.json-ld" target="https://www.w3.org/TR/json-ld/">
+  <front>
+    <title>JSON-LD 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="json-ld"/>
+</reference>

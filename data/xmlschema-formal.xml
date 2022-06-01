@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlschema-formal" target="https://www.w3.org/TR/xmlschema-formal/">
+  <front>
+    <title>XML Schema: Formal Description</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlschema-formal"/>
+</reference>

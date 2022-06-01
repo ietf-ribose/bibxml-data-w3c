@@ -1,0 +1,6 @@
+<reference anchor="W3C.touch-events-extensions" target="https://www.w3.org/TR/touch-events-extensions/">
+  <front>
+    <title>Touch Events Extensions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="touch-events-extensions"/>
+</reference>

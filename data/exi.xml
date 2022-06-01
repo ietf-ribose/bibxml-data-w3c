@@ -1,0 +1,6 @@
+<reference anchor="W3C.exi" target="https://www.w3.org/TR/exi/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Format 1.0 (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="exi"/>
+</reference>

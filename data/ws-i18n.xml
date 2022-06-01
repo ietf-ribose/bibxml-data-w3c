@@ -1,0 +1,6 @@
+<reference anchor="W3C.ws-i18n" target="https://www.w3.org/TR/ws-i18n/">
+  <front>
+    <title>Web Services Internationalization (WS-I18N)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ws-i18n"/>
+</reference>

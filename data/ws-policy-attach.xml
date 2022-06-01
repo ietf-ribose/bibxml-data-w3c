@@ -1,0 +1,6 @@
+<reference anchor="W3C.ws-policy-attach" target="https://www.w3.org/TR/ws-policy-attach/">
+  <front>
+    <title>Web Services Policy 1.5 - Attachment</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ws-policy-attach"/>
+</reference>

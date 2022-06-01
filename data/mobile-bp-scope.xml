@@ -1,0 +1,6 @@
+<reference anchor="W3C.mobile-bp-scope" target="https://www.w3.org/TR/mobile-bp-scope/">
+  <front>
+    <title>Scope of Mobile Web Best Practices</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mobile-bp-scope"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.pwpub" target="https://www.w3.org/TR/pwpub/">
+  <front>
+    <title>Packaged Web Publications</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="pwpub"/>
+</reference>

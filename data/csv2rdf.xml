@@ -1,0 +1,6 @@
+<reference anchor="W3C.csv2rdf" target="https://www.w3.org/TR/csv2rdf/">
+  <front>
+    <title>Generating RDF from Tabular Data on the Web</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="csv2rdf"/>
+</reference>

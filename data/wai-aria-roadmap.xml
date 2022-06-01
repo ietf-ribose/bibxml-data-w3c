@@ -1,0 +1,6 @@
+<reference anchor="W3C.wai-aria-roadmap" target="https://www.w3.org/TR/wai-aria-roadmap/">
+  <front>
+    <title>Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wai-aria-roadmap"/>
+</reference>

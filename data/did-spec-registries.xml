@@ -1,0 +1,6 @@
+<reference anchor="W3C.did-spec-registries" target="https://www.w3.org/TR/did-spec-registries/">
+  <front>
+    <title>DID Specification Registries</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="did-spec-registries"/>
+</reference>

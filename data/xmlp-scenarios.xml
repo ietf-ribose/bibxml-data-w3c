@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlp-scenarios" target="https://www.w3.org/TR/xmlp-scenarios/">
+  <front>
+    <title>SOAP Version 1.2 Usage Scenarios</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlp-scenarios"/>
+</reference>

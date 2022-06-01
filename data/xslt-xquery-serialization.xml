@@ -1,0 +1,6 @@
+<reference anchor="W3C.xslt-xquery-serialization" target="https://www.w3.org/TR/xslt-xquery-serialization/">
+  <front>
+    <title>XSLT 2.0 and XQuery 1.0 Serialization (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xslt-xquery-serialization"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.qaframe-test" target="https://www.w3.org/TR/qaframe-test/">
+  <front>
+    <title>QA Framework: Test Guidelines</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="qaframe-test"/>
+</reference>

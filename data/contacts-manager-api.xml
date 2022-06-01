@@ -1,0 +1,6 @@
+<reference anchor="W3C.contacts-manager-api" target="https://www.w3.org/TR/contacts-manager-api/">
+  <front>
+    <title>Contacts Manager API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="contacts-manager-api"/>
+</reference>

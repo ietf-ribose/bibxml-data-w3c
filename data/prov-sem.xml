@@ -1,0 +1,6 @@
+<reference anchor="W3C.prov-sem" target="https://www.w3.org/TR/prov-sem/">
+  <front>
+    <title>Semantics of the PROV Data Model</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="prov-sem"/>
+</reference>

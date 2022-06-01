@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdf-plain-literal" target="https://www.w3.org/TR/rdf-plain-literal/">
+  <front>
+    <title>rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdf-plain-literal"/>
+</reference>

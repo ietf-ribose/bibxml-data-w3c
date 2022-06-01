@@ -1,0 +1,6 @@
+<reference anchor="W3C.json-ld11-api" target="https://www.w3.org/TR/json-ld11-api/">
+  <front>
+    <title>JSON-LD 1.1 Processing Algorithms and API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="json-ld11-api"/>
+</reference>

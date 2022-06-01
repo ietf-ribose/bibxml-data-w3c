@@ -1,0 +1,6 @@
+<reference anchor="W3C.emotionml" target="https://www.w3.org/TR/emotionml/">
+  <front>
+    <title>Emotion Markup Language (EmotionML) 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="emotionml"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.prov-links" target="https://www.w3.org/TR/prov-links/">
+  <front>
+    <title>Linking Across Provenance Bundles</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="prov-links"/>
+</reference>

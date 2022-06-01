@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcodecs-mp3-codec-registration" target="https://www.w3.org/TR/webcodecs-mp3-codec-registration/">
+  <front>
+    <title>MP3 WebCodecs Registration</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcodecs-mp3-codec-registration"/>
+</reference>

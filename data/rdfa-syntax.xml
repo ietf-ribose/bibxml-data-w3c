@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdfa-syntax" target="https://www.w3.org/TR/rdfa-syntax/">
+  <front>
+    <title>RDFa in XHTML: Syntax and Processing</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdfa-syntax"/>
+</reference>

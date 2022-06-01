@@ -1,0 +1,6 @@
+<reference anchor="W3C.wai-aria-1.2" target="https://www.w3.org/TR/wai-aria-1.2/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) 1.2</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wai-aria-1.2"/>
+</reference>

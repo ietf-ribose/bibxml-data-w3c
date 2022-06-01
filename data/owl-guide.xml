@@ -1,0 +1,6 @@
+<reference anchor="W3C.owl-guide" target="https://www.w3.org/TR/owl-guide/">
+  <front>
+    <title>OWL Web Ontology Language Guide</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="owl-guide"/>
+</reference>

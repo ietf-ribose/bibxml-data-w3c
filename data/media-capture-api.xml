@@ -1,0 +1,6 @@
+<reference anchor="W3C.media-capture-api" target="https://www.w3.org/TR/media-capture-api/">
+  <front>
+    <title>The Media Capture API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="media-capture-api"/>
+</reference>

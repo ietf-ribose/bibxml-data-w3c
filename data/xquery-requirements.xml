@@ -1,0 +1,6 @@
+<reference anchor="W3C.xquery-requirements" target="https://www.w3.org/TR/xquery-requirements/">
+  <front>
+    <title>XML Query (XQuery) Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xquery-requirements"/>
+</reference>

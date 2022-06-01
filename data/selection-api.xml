@@ -1,0 +1,6 @@
+<reference anchor="W3C.selection-api" target="https://www.w3.org/TR/selection-api/">
+  <front>
+    <title>Selection API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="selection-api"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdfa-api" target="https://www.w3.org/TR/rdfa-api/">
+  <front>
+    <title>RDFa API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdfa-api"/>
+</reference>

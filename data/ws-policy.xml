@@ -1,0 +1,6 @@
+<reference anchor="W3C.ws-policy" target="https://www.w3.org/TR/ws-policy/">
+  <front>
+    <title>Web Services Policy 1.5 - Framework</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ws-policy"/>
+</reference>

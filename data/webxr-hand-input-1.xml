@@ -1,0 +1,6 @@
+<reference anchor="W3C.webxr-hand-input-1" target="https://www.w3.org/TR/webxr-hand-input-1/">
+  <front>
+    <title>WebXR Hand Input Module - Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webxr-hand-input-1"/>
+</reference>

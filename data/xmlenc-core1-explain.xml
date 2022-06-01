@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlenc-core1-explain" target="https://www.w3.org/TR/xmlenc-core1-explain/">
+  <front>
+    <title>Functional Explanation of Changes in XML Encryption 1.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlenc-core1-explain"/>
+</reference>

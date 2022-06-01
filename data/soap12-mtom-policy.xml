@@ -1,0 +1,6 @@
+<reference anchor="W3C.soap12-mtom-policy" target="https://www.w3.org/TR/soap12-mtom-policy/">
+  <front>
+    <title>MTOM Serialization Policy Assertion 1.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="soap12-mtom-policy"/>
+</reference>

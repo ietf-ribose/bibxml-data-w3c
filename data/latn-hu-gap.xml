@@ -1,0 +1,6 @@
+<reference anchor="W3C.latn-hu-gap" target="https://www.w3.org/TR/latn-hu-gap/">
+  <front>
+    <title>Hungarian Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="latn-hu-gap"/>
+</reference>

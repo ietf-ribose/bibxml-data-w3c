@@ -1,0 +1,6 @@
+<reference anchor="W3C.dpub-latinreq" target="https://www.w3.org/TR/dpub-latinreq/">
+  <front>
+    <title>Requirements for Latin Text Layout and Pagination</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dpub-latinreq"/>
+</reference>

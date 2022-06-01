@@ -1,0 +1,6 @@
+<reference anchor="W3C.dd-landscape" target="https://www.w3.org/TR/dd-landscape/">
+  <front>
+    <title>Device Description Landscape 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dd-landscape"/>
+</reference>

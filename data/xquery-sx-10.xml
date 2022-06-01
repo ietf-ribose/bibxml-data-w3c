@@ -1,0 +1,6 @@
+<reference anchor="W3C.xquery-sx-10" target="https://www.w3.org/TR/xquery-sx-10/">
+  <front>
+    <title>XQuery Scripting Extension 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xquery-sx-10"/>
+</reference>

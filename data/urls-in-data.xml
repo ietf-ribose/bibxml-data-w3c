@@ -1,0 +1,6 @@
+<reference anchor="W3C.urls-in-data" target="https://www.w3.org/TR/urls-in-data/">
+  <front>
+    <title>URLs in Data Primer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="urls-in-data"/>
+</reference>

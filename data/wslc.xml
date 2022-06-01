@@ -1,0 +1,6 @@
+<reference anchor="W3C.wslc" target="https://www.w3.org/TR/wslc/">
+  <front>
+    <title>Web Service Management: Service Life Cycle</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wslc"/>
+</reference>

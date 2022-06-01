@@ -1,0 +1,6 @@
+<reference anchor="W3C.html5-author" target="https://www.w3.org/TR/html5-author/">
+  <front>
+    <title>HTML5: Edition for Web Authors</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html5-author"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-font-loading-3" target="https://www.w3.org/TR/css-font-loading-3/">
+  <front>
+    <title>CSS Font Loading Module Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-font-loading-3"/>
+</reference>

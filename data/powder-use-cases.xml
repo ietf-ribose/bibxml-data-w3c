@@ -1,0 +1,6 @@
+<reference anchor="W3C.powder-use-cases" target="https://www.w3.org/TR/powder-use-cases/">
+  <front>
+    <title>POWDER: Use Cases and Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="powder-use-cases"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.wot-profile" target="https://www.w3.org/TR/wot-profile/">
+  <front>
+    <title>Web of Things (WoT) Profile</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wot-profile"/>
+</reference>

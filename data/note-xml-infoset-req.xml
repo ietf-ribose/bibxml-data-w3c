@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-xml-infoset-req" target="https://www.w3.org/TR/NOTE-xml-infoset-req">
+  <front>
+    <title>XML Information Set Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-xml-infoset-req"/>
+</reference>

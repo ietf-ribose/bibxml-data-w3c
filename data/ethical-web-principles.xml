@@ -1,0 +1,6 @@
+<reference anchor="W3C.ethical-web-principles" target="https://www.w3.org/TR/ethical-web-principles/">
+  <front>
+    <title>W3C TAG Ethical Web Principles</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ethical-web-principles"/>
+</reference>

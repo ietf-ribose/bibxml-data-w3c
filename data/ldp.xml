@@ -1,0 +1,6 @@
+<reference anchor="W3C.ldp" target="https://www.w3.org/TR/ldp/">
+  <front>
+    <title>Linked Data Platform 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ldp"/>
+</reference>

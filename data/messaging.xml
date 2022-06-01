@@ -1,0 +1,6 @@
+<reference anchor="W3C.messaging" target="https://www.w3.org/TR/messaging/">
+  <front>
+    <title>Messaging API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="messaging"/>
+</reference>

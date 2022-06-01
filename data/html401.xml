@@ -1,0 +1,6 @@
+<reference anchor="W3C.html401" target="https://www.w3.org/TR/html401/">
+  <front>
+    <title>HTML 4.01 Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html401"/>
+</reference>

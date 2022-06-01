@@ -1,0 +1,6 @@
+<reference anchor="W3C.accname-1.2" target="https://www.w3.org/TR/accname-1.2/">
+  <front>
+    <title>Accessible Name and Description Computation 1.2</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="accname-1.2"/>
+</reference>

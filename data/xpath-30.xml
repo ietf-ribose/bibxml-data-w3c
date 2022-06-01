@@ -1,0 +1,6 @@
+<reference anchor="W3C.xpath-30" target="https://www.w3.org/TR/xpath-30/">
+  <front>
+    <title>XML Path Language (XPath) 3.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xpath-30"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.speech-grammar" target="https://www.w3.org/TR/speech-grammar/">
+  <front>
+    <title>Speech Recognition Grammar Specification Version 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="speech-grammar"/>
+</reference>

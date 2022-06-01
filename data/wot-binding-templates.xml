@@ -1,0 +1,6 @@
+<reference anchor="W3C.wot-binding-templates" target="https://www.w3.org/TR/wot-binding-templates/">
+  <front>
+    <title>Web of Things (WoT) Binding Templates</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wot-binding-templates"/>
+</reference>

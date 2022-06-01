@@ -1,0 +1,6 @@
+<reference anchor="W3C.i18n-html-tech-lang" target="https://www.w3.org/TR/i18n-html-tech-lang/">
+  <front>
+    <title>Authoring HTML: Language declarations</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="i18n-html-tech-lang"/>
+</reference>

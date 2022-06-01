@@ -1,0 +1,6 @@
+<reference anchor="W3C.webmessaging" target="https://www.w3.org/TR/webmessaging/">
+  <front>
+    <title>HTML5 Web Messaging</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webmessaging"/>
+</reference>

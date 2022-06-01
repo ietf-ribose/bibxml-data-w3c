@@ -1,0 +1,6 @@
+<reference anchor="W3C.wcag2-ext-req" target="https://www.w3.org/TR/wcag2-ext-req/">
+  <front>
+    <title>Requirements for WCAG 2.0 Extensions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wcag2-ext-req"/>
+</reference>

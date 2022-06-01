@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-easing-1" target="https://www.w3.org/TR/css-easing-1/">
+  <front>
+    <title>CSS Easing Functions Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-easing-1"/>
+</reference>

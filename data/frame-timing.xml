@@ -1,0 +1,6 @@
+<reference anchor="W3C.frame-timing" target="https://www.w3.org/TR/frame-timing/">
+  <front>
+    <title>Frame Timing</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="frame-timing"/>
+</reference>

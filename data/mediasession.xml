@@ -1,0 +1,6 @@
+<reference anchor="W3C.mediasession" target="https://www.w3.org/TR/mediasession/">
+  <front>
+    <title>Media Session Standard</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mediasession"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.XMLHttpRequest1" target="https://www.w3.org/TR/XMLHttpRequest1/">
+  <front>
+    <title>XMLHttpRequest</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="XMLHttpRequest1"/>
+</reference>

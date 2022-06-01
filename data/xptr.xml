@@ -1,0 +1,6 @@
+<reference anchor="W3C.xptr" target="https://www.w3.org/TR/xptr/">
+  <front>
+    <title>XML Pointer Language (XPointer)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xptr"/>
+</reference>

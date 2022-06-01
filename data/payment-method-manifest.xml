@@ -1,0 +1,6 @@
+<reference anchor="W3C.payment-method-manifest" target="https://www.w3.org/TR/payment-method-manifest/">
+  <front>
+    <title>Payment Method Manifest</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="payment-method-manifest"/>
+</reference>

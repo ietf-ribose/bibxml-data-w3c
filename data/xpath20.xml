@@ -1,0 +1,6 @@
+<reference anchor="W3C.xpath20" target="https://www.w3.org/TR/xpath20/">
+  <front>
+    <title>XML Path Language (XPath) 2.0 (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xpath20"/>
+</reference>

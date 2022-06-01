@@ -1,0 +1,6 @@
+<reference anchor="W3C.vocab-regorg" target="https://www.w3.org/TR/vocab-regorg/">
+  <front>
+    <title>Registered Organization Vocabulary</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="vocab-regorg"/>
+</reference>

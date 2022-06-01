@@ -1,0 +1,6 @@
+<reference anchor="W3C.html-data-guide" target="https://www.w3.org/TR/html-data-guide/">
+  <front>
+    <title>HTML Data Guide</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html-data-guide"/>
+</reference>

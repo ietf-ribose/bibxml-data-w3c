@@ -1,0 +1,6 @@
+<reference anchor="W3C.uri-clarification" target="https://www.w3.org/TR/uri-clarification/">
+  <front>
+    <title>URIs, URLs, and URNs: Clarifications and Recommendations 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="uri-clarification"/>
+</reference>

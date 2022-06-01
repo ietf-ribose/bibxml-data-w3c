@@ -1,0 +1,6 @@
+<reference anchor="W3C.wcag-3.0" target="https://www.w3.org/TR/wcag-3.0/">
+  <front>
+    <title>W3C Accessibility Guidelines (WCAG) 3.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wcag-3.0"/>
+</reference>

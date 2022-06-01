@@ -1,0 +1,6 @@
+<reference anchor="W3C.epub-ssv-11" target="https://www.w3.org/TR/epub-ssv-11/">
+  <front>
+    <title>EPUB 3 Structural Semantics Vocabulary 1.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="epub-ssv-11"/>
+</reference>

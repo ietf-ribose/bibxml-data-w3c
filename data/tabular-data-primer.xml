@@ -1,0 +1,6 @@
+<reference anchor="W3C.tabular-data-primer" target="https://www.w3.org/TR/tabular-data-primer/">
+  <front>
+    <title>CSV on the Web: A Primer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="tabular-data-primer"/>
+</reference>

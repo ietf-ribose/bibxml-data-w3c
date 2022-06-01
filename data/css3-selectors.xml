@@ -1,0 +1,6 @@
+<reference anchor="W3C.css3-selectors" target="https://www.w3.org/TR/css3-selectors/">
+  <front>
+    <title>Selectors Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css3-selectors"/>
+</reference>

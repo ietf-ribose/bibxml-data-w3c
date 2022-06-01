@@ -1,0 +1,6 @@
+<reference anchor="W3C.push-api" target="https://www.w3.org/TR/push-api/">
+  <front>
+    <title>Push API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="push-api"/>
+</reference>

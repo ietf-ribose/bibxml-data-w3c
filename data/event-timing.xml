@@ -1,0 +1,6 @@
+<reference anchor="W3C.event-timing" target="https://www.w3.org/TR/event-timing/">
+  <front>
+    <title>Event Timing API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="event-timing"/>
+</reference>

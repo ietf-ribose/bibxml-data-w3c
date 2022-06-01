@@ -1,0 +1,6 @@
+<reference anchor="W3C.merchant-validation" target="https://www.w3.org/TR/merchant-validation/">
+  <front>
+    <title>The MerchantValidationEvent interface</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="merchant-validation"/>
+</reference>

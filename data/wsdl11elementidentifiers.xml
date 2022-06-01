@@ -1,0 +1,6 @@
+<reference anchor="W3C.wsdl11elementidentifiers" target="https://www.w3.org/TR/wsdl11elementidentifiers/">
+  <front>
+    <title>WSDL 1.1 Element Identifiers</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wsdl11elementidentifiers"/>
+</reference>

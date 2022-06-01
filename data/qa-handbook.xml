@@ -1,0 +1,6 @@
+<reference anchor="W3C.qa-handbook" target="https://www.w3.org/TR/qa-handbook/">
+  <front>
+    <title>The QA Handbook</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="qa-handbook"/>
+</reference>

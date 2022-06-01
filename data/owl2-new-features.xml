@@ -1,0 +1,6 @@
+<reference anchor="W3C.owl2-new-features" target="https://www.w3.org/TR/owl2-new-features/">
+  <front>
+    <title>OWL 2 Web Ontology Language New Features and Rationale (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="owl2-new-features"/>
+</reference>

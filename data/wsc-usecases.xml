@@ -1,0 +1,6 @@
+<reference anchor="W3C.wsc-usecases" target="https://www.w3.org/TR/wsc-usecases/">
+  <front>
+    <title>Web Security Experience, Indicators and Trust: Scope and Use Cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wsc-usecases"/>
+</reference>

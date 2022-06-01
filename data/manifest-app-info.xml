@@ -1,0 +1,6 @@
+<reference anchor="W3C.manifest-app-info" target="https://www.w3.org/TR/manifest-app-info/">
+  <front>
+    <title>Web App Manifest - Application Information</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="manifest-app-info"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.geometry-1" target="https://www.w3.org/TR/geometry-1/">
+  <front>
+    <title>Geometry Interfaces Module Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="geometry-1"/>
+</reference>

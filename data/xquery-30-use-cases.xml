@@ -1,0 +1,6 @@
+<reference anchor="W3C.xquery-30-use-cases" target="https://www.w3.org/TR/xquery-30-use-cases/">
+  <front>
+    <title>XQuery 3.0 Use Cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xquery-30-use-cases"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmldsig2ed-tests" target="https://www.w3.org/TR/xmldsig2ed-tests/">
+  <front>
+    <title>Test Cases for C14N 1.1 and XMLDSig Interoperability</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmldsig2ed-tests"/>
+</reference>

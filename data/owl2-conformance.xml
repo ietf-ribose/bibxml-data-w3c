@@ -1,0 +1,6 @@
+<reference anchor="W3C.owl2-conformance" target="https://www.w3.org/TR/owl2-conformance/">
+  <front>
+    <title>OWL 2 Web Ontology Language Conformance (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="owl2-conformance"/>
+</reference>

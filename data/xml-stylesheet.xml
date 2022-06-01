@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml-stylesheet" target="https://www.w3.org/TR/xml-stylesheet/">
+  <front>
+    <title>Associating Style Sheets with XML documents 1.0 (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml-stylesheet"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.ttaf1-req" target="https://www.w3.org/TR/ttaf1-req/">
+  <front>
+    <title>Timed Text (TT) Authoring Format 1.0 Use Cases and Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ttaf1-req"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.Content-in-RDF10" target="https://www.w3.org/TR/Content-in-RDF10/">
+  <front>
+    <title>Representing Content in RDF 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="Content-in-RDF10"/>
+</reference>

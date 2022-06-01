@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-mux" target="https://www.w3.org/TR/WD-mux">
+  <front>
+    <title>SMUX Protocol Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-mux"/>
+</reference>

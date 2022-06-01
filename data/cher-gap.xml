@@ -1,0 +1,6 @@
+<reference anchor="W3C.cher-gap" target="https://www.w3.org/TR/cher-gap/">
+  <front>
+    <title>Cherokee Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="cher-gap"/>
+</reference>

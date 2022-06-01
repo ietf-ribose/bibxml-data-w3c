@@ -1,0 +1,6 @@
+<reference anchor="W3C.xforms" target="https://www.w3.org/TR/xforms/">
+  <front>
+    <title>XForms 1.0 (Third Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xforms"/>
+</reference>

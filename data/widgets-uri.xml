@@ -1,0 +1,6 @@
+<reference anchor="W3C.widgets-uri" target="https://www.w3.org/TR/widgets-uri/">
+  <front>
+    <title>Widget URI scheme</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="widgets-uri"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-sizing-3" target="https://www.w3.org/TR/css-sizing-3/">
+  <front>
+    <title>CSS Box Sizing Module Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-sizing-3"/>
+</reference>

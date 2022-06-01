@@ -1,0 +1,6 @@
+<reference anchor="W3C.vsso-core" target="https://www.w3.org/TR/vsso-core/">
+  <front>
+    <title>VSSo Core: Vehicle Signal Specification Core Ontology</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="vsso-core"/>
+</reference>

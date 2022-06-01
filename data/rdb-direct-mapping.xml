@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdb-direct-mapping" target="https://www.w3.org/TR/rdb-direct-mapping/">
+  <front>
+    <title>A Direct Mapping of Relational Data to RDF</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdb-direct-mapping"/>
+</reference>

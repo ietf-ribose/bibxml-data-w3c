@@ -1,0 +1,6 @@
+<reference anchor="W3C.mediaont-api-1.0" target="https://www.w3.org/TR/mediaont-api-1.0/">
+  <front>
+    <title>Metadata API for Media Resources 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mediaont-api-1.0"/>
+</reference>

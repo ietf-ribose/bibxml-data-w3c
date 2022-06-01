@@ -1,0 +1,6 @@
+<reference anchor="W3C.ws-arch-scenarios" target="https://www.w3.org/TR/ws-arch-scenarios/">
+  <front>
+    <title>Web Services Architecture Usage Scenarios</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ws-arch-scenarios"/>
+</reference>

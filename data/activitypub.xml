@@ -1,0 +1,6 @@
+<reference anchor="W3C.activitypub" target="https://www.w3.org/TR/activitypub/">
+  <front>
+    <title>ActivityPub</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="activitypub"/>
+</reference>

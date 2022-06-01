@@ -1,0 +1,6 @@
+<reference anchor="W3C.WebCryptoAPI" target="https://www.w3.org/TR/WebCryptoAPI/">
+  <front>
+    <title>Web Cryptography API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WebCryptoAPI"/>
+</reference>

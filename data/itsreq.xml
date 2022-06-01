@@ -1,0 +1,6 @@
+<reference anchor="W3C.itsreq" target="https://www.w3.org/TR/itsreq/">
+  <front>
+    <title>Internationalization and Localization Markup Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="itsreq"/>
+</reference>

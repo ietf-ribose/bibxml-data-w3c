@@ -1,0 +1,6 @@
+<reference anchor="W3C.xpath-full-text-30" target="https://www.w3.org/TR/xpath-full-text-30/">
+  <front>
+    <title>XQuery and XPath Full Text 3.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xpath-full-text-30"/>
+</reference>

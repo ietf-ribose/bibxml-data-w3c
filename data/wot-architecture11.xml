@@ -1,0 +1,6 @@
+<reference anchor="W3C.wot-architecture11" target="https://www.w3.org/TR/wot-architecture11/">
+  <front>
+    <title>Web of Things (WoT) Architecture 1.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wot-architecture11"/>
+</reference>

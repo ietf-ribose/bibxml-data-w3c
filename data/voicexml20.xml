@@ -1,0 +1,6 @@
+<reference anchor="W3C.voicexml20" target="https://www.w3.org/TR/voicexml20/">
+  <front>
+    <title>Voice Extensible Markup Language (VoiceXML) Version 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="voicexml20"/>
+</reference>

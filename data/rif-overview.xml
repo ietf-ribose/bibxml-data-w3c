@@ -1,0 +1,6 @@
+<reference anchor="W3C.rif-overview" target="https://www.w3.org/TR/rif-overview/">
+  <front>
+    <title>RIF Overview (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rif-overview"/>
+</reference>

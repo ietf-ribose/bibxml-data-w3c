@@ -1,0 +1,6 @@
+<reference anchor="W3C.IndexedDB-3" target="https://www.w3.org/TR/IndexedDB-3/">
+  <front>
+    <title>Indexed Database API 3.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="IndexedDB-3"/>
+</reference>

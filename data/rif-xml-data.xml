@@ -1,0 +1,6 @@
+<reference anchor="W3C.rif-xml-data" target="https://www.w3.org/TR/rif-xml-data/">
+  <front>
+    <title>RIF Combination with XML data (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rif-xml-data"/>
+</reference>

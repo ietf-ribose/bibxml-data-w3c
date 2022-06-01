@@ -1,0 +1,6 @@
+<reference anchor="W3C.miniapp-addressing" target="https://www.w3.org/TR/miniapp-addressing/">
+  <front>
+    <title>MiniApp Addressing</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="miniapp-addressing"/>
+</reference>

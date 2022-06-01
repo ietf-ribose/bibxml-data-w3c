@@ -1,0 +1,6 @@
+<reference anchor="W3C.skos-primer" target="https://www.w3.org/TR/skos-primer/">
+  <front>
+    <title>SKOS Simple Knowledge Organization System Primer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="skos-primer"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.speech-synthesis" target="https://www.w3.org/TR/speech-synthesis/">
+  <front>
+    <title>Speech Synthesis Markup Language (SSML) Version 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="speech-synthesis"/>
+</reference>

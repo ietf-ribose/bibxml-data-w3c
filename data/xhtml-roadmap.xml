@@ -1,0 +1,6 @@
+<reference anchor="W3C.xhtml-roadmap" target="https://www.w3.org/TR/xhtml-roadmap/">
+  <front>
+    <title>HTML Working Group Roadmap</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xhtml-roadmap"/>
+</reference>

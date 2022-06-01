@@ -1,0 +1,6 @@
+<reference anchor="W3C.UAAG20-requirements" target="https://www.w3.org/TR/UAAG20-requirements/">
+  <front>
+    <title>User Agent Accessibility Guidelines 2.0 Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="UAAG20-requirements"/>
+</reference>

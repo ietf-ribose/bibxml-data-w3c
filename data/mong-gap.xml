@@ -1,0 +1,6 @@
+<reference anchor="W3C.mong-gap" target="https://www.w3.org/TR/mong-gap/">
+  <front>
+    <title>Mongolian Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mong-gap"/>
+</reference>

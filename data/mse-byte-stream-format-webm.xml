@@ -1,0 +1,6 @@
+<reference anchor="W3C.mse-byte-stream-format-webm" target="https://www.w3.org/TR/mse-byte-stream-format-webm/">
+  <front>
+    <title>WebM Byte Stream Format</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mse-byte-stream-format-webm"/>
+</reference>

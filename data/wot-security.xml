@@ -1,0 +1,6 @@
+<reference anchor="W3C.wot-security" target="https://www.w3.org/TR/wot-security/">
+  <front>
+    <title>Web of Things (WoT) Security and Privacy Guidelines</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wot-security"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.user-timing-2" target="https://www.w3.org/TR/user-timing-2/">
+  <front>
+    <title>User Timing Level 2</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="user-timing-2"/>
+</reference>

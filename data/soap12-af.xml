@@ -1,0 +1,6 @@
+<reference anchor="W3C.soap12-af" target="https://www.w3.org/TR/soap12-af/">
+  <front>
+    <title>SOAP 1.2 Attachment Feature</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="soap12-af"/>
+</reference>

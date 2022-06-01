@@ -1,0 +1,6 @@
+<reference anchor="W3C.i18n-glossary" target="https://www.w3.org/TR/i18n-glossary/">
+  <front>
+    <title>Internationalization Glossary</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="i18n-glossary"/>
+</reference>

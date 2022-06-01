@@ -1,0 +1,6 @@
+<reference anchor="W3C.publishing-linking" target="https://www.w3.org/TR/publishing-linking/">
+  <front>
+    <title>Publishing and Linking on the Web</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="publishing-linking"/>
+</reference>

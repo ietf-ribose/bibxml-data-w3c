@@ -1,0 +1,6 @@
+<reference anchor="W3C.swbp-n-aryRelations" target="https://www.w3.org/TR/swbp-n-aryRelations/">
+  <front>
+    <title>Defining N-ary Relations on the Semantic Web</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="swbp-n-aryRelations"/>
+</reference>

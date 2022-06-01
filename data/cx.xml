@@ -1,0 +1,6 @@
+<reference anchor="W3C.CX" target="https://www.w3.org/TR/CX/">
+  <front>
+    <title>Component Extension (CX) API requirements Version 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="CX"/>
+</reference>

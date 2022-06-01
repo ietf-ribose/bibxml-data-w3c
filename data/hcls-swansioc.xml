@@ -1,0 +1,6 @@
+<reference anchor="W3C.hcls-swansioc" target="https://www.w3.org/TR/hcls-swansioc/">
+  <front>
+    <title>SWAN/SIOC: Alignment Between the SWAN and SIOC Ontologies</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="hcls-swansioc"/>
+</reference>

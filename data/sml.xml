@@ -1,0 +1,6 @@
+<reference anchor="W3C.sml" target="https://www.w3.org/TR/sml/">
+  <front>
+    <title>Service Modeling Language, Version 1.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="sml"/>
+</reference>

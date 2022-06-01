@@ -1,0 +1,6 @@
+<reference anchor="W3C.SVG11" target="https://www.w3.org/TR/SVG11/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) 1.1 (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="SVG11"/>
+</reference>

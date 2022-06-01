@@ -1,0 +1,6 @@
+<reference anchor="W3C.html-ruby-extensions" target="https://www.w3.org/TR/html-ruby-extensions/">
+  <front>
+    <title>W3C HTML Ruby Markup Extensions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html-ruby-extensions"/>
+</reference>

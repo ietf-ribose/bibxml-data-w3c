@@ -1,0 +1,6 @@
+<reference anchor="W3C.streams-api" target="https://www.w3.org/TR/streams-api/">
+  <front>
+    <title>Streams API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="streams-api"/>
+</reference>

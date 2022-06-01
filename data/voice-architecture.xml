@@ -1,0 +1,6 @@
+<reference anchor="W3C.voice-architecture" target="https://www.w3.org/TR/voice-architecture/">
+  <front>
+    <title>Model Architecture for Voice Browser Systems</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="voice-architecture"/>
+</reference>

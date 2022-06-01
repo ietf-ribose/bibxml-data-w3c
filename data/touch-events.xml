@@ -1,0 +1,6 @@
+<reference anchor="W3C.touch-events" target="https://www.w3.org/TR/touch-events/">
+  <front>
+    <title>Touch Events</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="touch-events"/>
+</reference>

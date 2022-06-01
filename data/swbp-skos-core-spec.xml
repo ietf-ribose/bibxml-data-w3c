@@ -1,0 +1,6 @@
+<reference anchor="W3C.swbp-skos-core-spec" target="https://www.w3.org/TR/swbp-skos-core-spec/">
+  <front>
+    <title>SKOS Core Vocabulary Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="swbp-skos-core-spec"/>
+</reference>

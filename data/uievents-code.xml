@@ -1,0 +1,6 @@
+<reference anchor="W3C.uievents-code" target="https://www.w3.org/TR/uievents-code/">
+  <front>
+    <title>UI Events KeyboardEvent code Values</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="uievents-code"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.encoding" target="https://www.w3.org/TR/encoding/">
+  <front>
+    <title>Encoding</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="encoding"/>
+</reference>

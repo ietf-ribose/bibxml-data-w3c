@@ -1,0 +1,6 @@
+<reference anchor="W3C.C14N-issues" target="https://www.w3.org/TR/C14N-issues/">
+  <front>
+    <title>Known Issues with Canonical XML 1.0 (C14N/1.0)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="C14N-issues"/>
+</reference>

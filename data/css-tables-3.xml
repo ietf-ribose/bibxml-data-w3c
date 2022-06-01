@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-tables-3" target="https://www.w3.org/TR/css-tables-3/">
+  <front>
+    <title>CSS Table Module Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-tables-3"/>
+</reference>

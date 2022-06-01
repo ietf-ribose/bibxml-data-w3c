@@ -1,0 +1,6 @@
+<reference anchor="W3C.ct-guidelines" target="https://www.w3.org/TR/ct-guidelines/">
+  <front>
+    <title>Guidelines for Web Content Transformation Proxies 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ct-guidelines"/>
+</reference>

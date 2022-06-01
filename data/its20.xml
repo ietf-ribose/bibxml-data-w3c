@@ -1,0 +1,6 @@
+<reference anchor="W3C.its20" target="https://www.w3.org/TR/its20/">
+  <front>
+    <title>Internationalization Tag Set (ITS) Version 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="its20"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlsec-generic-hybrid" target="https://www.w3.org/TR/xmlsec-generic-hybrid/">
+  <front>
+    <title>XML Security Generic Hybrid Ciphers</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlsec-generic-hybrid"/>
+</reference>

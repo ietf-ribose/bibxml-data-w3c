@@ -1,0 +1,6 @@
+<reference anchor="W3C.SMIL3" target="https://www.w3.org/TR/SMIL3/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 3.0)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="SMIL3"/>
+</reference>

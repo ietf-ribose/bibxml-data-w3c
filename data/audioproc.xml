@@ -1,0 +1,6 @@
+<reference anchor="W3C.audioproc" target="https://www.w3.org/TR/audioproc/">
+  <front>
+    <title>Audio Processing API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="audioproc"/>
+</reference>

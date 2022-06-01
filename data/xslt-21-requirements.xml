@@ -1,0 +1,6 @@
+<reference anchor="W3C.xslt-21-requirements" target="https://www.w3.org/TR/xslt-21-requirements/">
+  <front>
+    <title>Requirements and Use Cases for XSLT 2.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xslt-21-requirements"/>
+</reference>

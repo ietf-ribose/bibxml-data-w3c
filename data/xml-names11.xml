@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml-names11" target="https://www.w3.org/TR/xml-names11/">
+  <front>
+    <title>Namespaces in XML 1.1 (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml-names11"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.CSP3" target="https://www.w3.org/TR/CSP3/">
+  <front>
+    <title>Content Security Policy Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="CSP3"/>
+</reference>

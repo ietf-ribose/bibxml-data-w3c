@@ -1,0 +1,6 @@
+<reference anchor="W3C.xslfo20-req" target="https://www.w3.org/TR/xslfo20-req/">
+  <front>
+    <title>Extensible Stylesheet Language (XSL) Requirements Version 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xslfo20-req"/>
+</reference>

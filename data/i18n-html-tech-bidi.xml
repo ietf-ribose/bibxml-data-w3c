@@ -1,0 +1,6 @@
+<reference anchor="W3C.i18n-html-tech-bidi" target="https://www.w3.org/TR/i18n-html-tech-bidi/">
+  <front>
+    <title>Authoring HTML: Handling Right-to-left Scripts</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="i18n-html-tech-bidi"/>
+</reference>

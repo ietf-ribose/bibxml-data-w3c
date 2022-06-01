@@ -1,0 +1,6 @@
+<reference anchor="W3C.ime-api" target="https://www.w3.org/TR/ime-api/">
+  <front>
+    <title>Input Method Editor API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ime-api"/>
+</reference>

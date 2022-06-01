@@ -1,0 +1,6 @@
+<reference anchor="W3C.svg-strokes" target="https://www.w3.org/TR/svg-strokes/">
+  <front>
+    <title>SVG Strokes</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="svg-strokes"/>
+</reference>

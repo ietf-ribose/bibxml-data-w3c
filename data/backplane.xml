@@ -1,0 +1,6 @@
+<reference anchor="W3C.backplane" target="https://www.w3.org/TR/backplane/">
+  <front>
+    <title>Rich Web Application Backplane</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="backplane"/>
+</reference>

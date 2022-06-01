@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-xlink-req" target="https://www.w3.org/TR/NOTE-xlink-req/">
+  <front>
+    <title>XML XLink Requirements Version 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-xlink-req"/>
+</reference>

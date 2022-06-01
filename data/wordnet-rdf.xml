@@ -1,0 +1,6 @@
+<reference anchor="W3C.wordnet-rdf" target="https://www.w3.org/TR/wordnet-rdf/">
+  <front>
+    <title>RDF/OWL Representation of WordNet</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wordnet-rdf"/>
+</reference>

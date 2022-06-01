@@ -1,0 +1,6 @@
+<reference anchor="W3C.ldp-primer" target="https://www.w3.org/TR/ldp-primer/">
+  <front>
+    <title>Linked Data Platform 1.0 Primer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ldp-primer"/>
+</reference>

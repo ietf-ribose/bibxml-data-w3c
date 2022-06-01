@@ -1,0 +1,6 @@
+<reference anchor="W3C.websub" target="https://www.w3.org/TR/websub/">
+  <front>
+    <title>WebSub</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="websub"/>
+</reference>

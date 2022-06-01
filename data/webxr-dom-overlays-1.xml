@@ -1,0 +1,6 @@
+<reference anchor="W3C.webxr-dom-overlays-1" target="https://www.w3.org/TR/webxr-dom-overlays-1/">
+  <front>
+    <title>WebXR DOM Overlays Module</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webxr-dom-overlays-1"/>
+</reference>

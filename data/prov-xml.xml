@@ -1,0 +1,6 @@
+<reference anchor="W3C.prov-xml" target="https://www.w3.org/TR/prov-xml/">
+  <front>
+    <title>PROV-XML: The PROV XML Schema</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="prov-xml"/>
+</reference>

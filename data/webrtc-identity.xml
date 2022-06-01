@@ -1,0 +1,6 @@
+<reference anchor="W3C.webrtc-identity" target="https://www.w3.org/TR/webrtc-identity/">
+  <front>
+    <title>Identity for WebRTC 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webrtc-identity"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.clreq" target="https://www.w3.org/TR/clreq/">
+  <front>
+    <title>Requirements for Chinese Text Layout - 中文排版需求</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="clreq"/>
+</reference>

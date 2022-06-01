@@ -1,0 +1,6 @@
+<reference anchor="W3C.xhtml-prof-req" target="https://www.w3.org/TR/xhtml-prof-req/">
+  <front>
+    <title>XHTML™ Document Profile Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xhtml-prof-req"/>
+</reference>

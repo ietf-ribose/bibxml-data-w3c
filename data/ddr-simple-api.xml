@@ -1,0 +1,6 @@
+<reference anchor="W3C.DDR-Simple-API" target="https://www.w3.org/TR/DDR-Simple-API/">
+  <front>
+    <title>Device Description Repository Simple API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="DDR-Simple-API"/>
+</reference>

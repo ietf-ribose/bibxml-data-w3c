@@ -1,0 +1,6 @@
+<reference anchor="W3C.alreq" target="https://www.w3.org/TR/alreq/">
+  <front>
+    <title>Text Layout Requirements for the Arabic Script</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="alreq"/>
+</reference>

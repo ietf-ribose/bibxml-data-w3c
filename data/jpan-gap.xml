@@ -1,0 +1,6 @@
+<reference anchor="W3C.jpan-gap" target="https://www.w3.org/TR/jpan-gap/">
+  <front>
+    <title>Japanese Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="jpan-gap"/>
+</reference>

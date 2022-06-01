@@ -8,6 +8,7 @@
       <organization/>
     </author>
     <date year="2015" month="February" day="19"/>
+    <workgroup>Web Application Security Working Group</workgroup>
   </front>
   <seriesInfo name="W3C NOTE" value="NOTE-CSP1-20150219"/>
 </reference>

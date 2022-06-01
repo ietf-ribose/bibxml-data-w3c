@@ -1,0 +1,6 @@
+<reference anchor="W3C.xhtml-building" target="https://www.w3.org/TR/xhtml-building/">
+  <front>
+    <title>Building XHTML™ Modules</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xhtml-building"/>
+</reference>

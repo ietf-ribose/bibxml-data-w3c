@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml-link-style" target="https://www.w3.org/TR/xml-link-style/">
+  <front>
+    <title>XML Linking and Style</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml-link-style"/>
+</reference>

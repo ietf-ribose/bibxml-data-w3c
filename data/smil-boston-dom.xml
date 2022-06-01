@@ -1,0 +1,6 @@
+<reference anchor="W3C.smil-boston-dom" target="https://www.w3.org/TR/smil-boston-dom/">
+  <front>
+    <title>Synchronized Multimedia Integration Language Document Object Model</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="smil-boston-dom"/>
+</reference>

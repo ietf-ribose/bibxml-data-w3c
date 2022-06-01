@@ -1,0 +1,6 @@
+<reference anchor="W3C.html-templates" target="https://www.w3.org/TR/html-templates/">
+  <front>
+    <title>HTML Templates</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html-templates"/>
+</reference>

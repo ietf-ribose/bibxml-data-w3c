@@ -1,0 +1,6 @@
+<reference anchor="W3C.paint-timing" target="https://www.w3.org/TR/paint-timing/">
+  <front>
+    <title>Paint Timing 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="paint-timing"/>
+</reference>

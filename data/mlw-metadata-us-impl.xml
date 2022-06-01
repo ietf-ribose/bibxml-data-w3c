@@ -1,0 +1,6 @@
+<reference anchor="W3C.mlw-metadata-us-impl" target="https://www.w3.org/TR/mlw-metadata-us-impl/">
+  <front>
+    <title>Metadata for the Multilingual Web - Usage Scenarios and Implementations</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mlw-metadata-us-impl"/>
+</reference>

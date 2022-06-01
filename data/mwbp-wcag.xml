@@ -1,0 +1,6 @@
+<reference anchor="W3C.mwbp-wcag" target="https://www.w3.org/TR/mwbp-wcag/">
+  <front>
+    <title>Relationship between Mobile Web Best Practices (MWBP) and Web Content Accessibility Guidelines (WCAG)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mwbp-wcag"/>
+</reference>

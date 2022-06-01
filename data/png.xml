@@ -1,0 +1,6 @@
+<reference anchor="W3C.PNG" target="https://www.w3.org/TR/PNG/">
+  <front>
+    <title>Portable Network Graphics (PNG) Specification (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="PNG"/>
+</reference>

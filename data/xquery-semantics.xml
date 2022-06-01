@@ -1,0 +1,6 @@
+<reference anchor="W3C.xquery-semantics" target="https://www.w3.org/TR/xquery-semantics/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Formal Semantics (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xquery-semantics"/>
+</reference>

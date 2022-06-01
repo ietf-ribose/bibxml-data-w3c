@@ -1,0 +1,6 @@
+<reference anchor="W3C.DPF" target="https://www.w3.org/TR/DPF/">
+  <front>
+    <title>Delivery Context: Client Interfaces (DCCI) 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="DPF"/>
+</reference>

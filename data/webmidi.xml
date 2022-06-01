@@ -1,0 +1,6 @@
+<reference anchor="W3C.webmidi" target="https://www.w3.org/TR/webmidi/">
+  <front>
+    <title>Web MIDI API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webmidi"/>
+</reference>

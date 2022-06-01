@@ -1,0 +1,6 @@
+<reference anchor="W3C.voicexml21" target="https://www.w3.org/TR/voicexml21/">
+  <front>
+    <title>Voice Extensible Markup Language (VoiceXML) 2.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="voicexml21"/>
+</reference>

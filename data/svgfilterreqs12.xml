@@ -1,0 +1,6 @@
+<reference anchor="W3C.SVGFilterReqs12" target="https://www.w3.org/TR/SVGFilterReqs12/">
+  <front>
+    <title>SVG Filter Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="SVGFilterReqs12"/>
+</reference>

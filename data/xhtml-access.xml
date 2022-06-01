@@ -1,0 +1,6 @@
+<reference anchor="W3C.xhtml-access" target="https://www.w3.org/TR/xhtml-access/">
+  <front>
+    <title>XHTML Access Module</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xhtml-access"/>
+</reference>

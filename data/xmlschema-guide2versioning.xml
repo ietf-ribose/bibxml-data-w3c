@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlschema-guide2versioning" target="https://www.w3.org/TR/xmlschema-guide2versioning/">
+  <front>
+    <title>Guide to Versioning XML Languages using new XML Schema 1.1 features</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlschema-guide2versioning"/>
+</reference>

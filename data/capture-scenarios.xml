@@ -1,0 +1,6 @@
+<reference anchor="W3C.capture-scenarios" target="https://www.w3.org/TR/capture-scenarios/">
+  <front>
+    <title>MediaStream Capture Scenarios</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="capture-scenarios"/>
+</reference>

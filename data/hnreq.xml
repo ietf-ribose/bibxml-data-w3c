@@ -1,0 +1,6 @@
+<reference anchor="W3C.hnreq" target="https://www.w3.org/TR/hnreq/">
+  <front>
+    <title>Requirements for Home Networking Scenarios</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="hnreq"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.WOFF" target="https://www.w3.org/TR/WOFF/">
+  <front>
+    <title>WOFF File Format 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WOFF"/>
+</reference>

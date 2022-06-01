@@ -1,0 +1,6 @@
+<reference anchor="W3C.webdriver2" target="https://www.w3.org/TR/webdriver2/">
+  <front>
+    <title>WebDriver</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webdriver2"/>
+</reference>

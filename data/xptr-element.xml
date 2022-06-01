@@ -1,0 +1,6 @@
+<reference anchor="W3C.xptr-element" target="https://www.w3.org/TR/xptr-element/">
+  <front>
+    <title>XPointer element() Scheme</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xptr-element"/>
+</reference>

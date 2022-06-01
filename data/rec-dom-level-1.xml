@@ -1,0 +1,6 @@
+<reference anchor="W3C.REC-DOM-Level-1" target="https://www.w3.org/TR/REC-DOM-Level-1/">
+  <front>
+    <title>Document Object Model (DOM) Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="REC-DOM-Level-1"/>
+</reference>

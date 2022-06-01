@@ -1,0 +1,6 @@
+<reference anchor="W3C.ld-bp" target="https://www.w3.org/TR/ld-bp/">
+  <front>
+    <title>Best Practices for Publishing Linked Data</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ld-bp"/>
+</reference>

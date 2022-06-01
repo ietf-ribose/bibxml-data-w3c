@@ -1,0 +1,6 @@
+<reference anchor="W3C.indie-ui-requirements" target="https://www.w3.org/TR/indie-ui-requirements/">
+  <front>
+    <title>Requirements for IndieUI: Events 1.0 and IndieUI: User Context 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="indie-ui-requirements"/>
+</reference>

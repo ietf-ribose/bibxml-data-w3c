@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdb2rdf-implementations" target="https://www.w3.org/TR/rdb2rdf-implementations/">
+  <front>
+    <title>RDB2RDF Implementation Report</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdb2rdf-implementations"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.voice-intro" target="https://www.w3.org/TR/voice-intro/">
+  <front>
+    <title>Voice Browsers, Introduction</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="voice-intro"/>
+</reference>

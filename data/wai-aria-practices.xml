@@ -1,0 +1,6 @@
+<reference anchor="W3C.wai-aria-practices" target="https://www.w3.org/TR/wai-aria-practices/">
+  <front>
+    <title>WAI-ARIA 1.0 Authoring Practices</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wai-aria-practices"/>
+</reference>

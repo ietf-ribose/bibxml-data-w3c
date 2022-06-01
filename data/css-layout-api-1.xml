@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-layout-api-1" target="https://www.w3.org/TR/css-layout-api-1/">
+  <front>
+    <title>CSS Layout API Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-layout-api-1"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.mmi-reqs" target="https://www.w3.org/TR/mmi-reqs/">
+  <front>
+    <title>Multimodal Interaction Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mmi-reqs"/>
+</reference>

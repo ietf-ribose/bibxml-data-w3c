@@ -1,0 +1,6 @@
+<reference anchor="W3C.audiobooks" target="https://www.w3.org/TR/audiobooks/">
+  <front>
+    <title>Audiobooks</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="audiobooks"/>
+</reference>

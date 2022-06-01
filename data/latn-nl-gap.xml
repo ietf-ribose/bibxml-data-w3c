@@ -1,0 +1,6 @@
+<reference anchor="W3C.latn-nl-gap" target="https://www.w3.org/TR/latn-nl-gap/">
+  <front>
+    <title>Dutch Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="latn-nl-gap"/>
+</reference>

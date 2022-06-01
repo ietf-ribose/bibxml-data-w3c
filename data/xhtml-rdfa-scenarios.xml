@@ -1,0 +1,6 @@
+<reference anchor="W3C.xhtml-rdfa-scenarios" target="https://www.w3.org/TR/xhtml-rdfa-scenarios/">
+  <front>
+    <title>RDFa Use Cases: Scenarios for Embedding RDF in HTML</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xhtml-rdfa-scenarios"/>
+</reference>

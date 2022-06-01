@@ -1,0 +1,6 @@
+<reference anchor="W3C.hcls-dataset" target="https://www.w3.org/TR/hcls-dataset/">
+  <front>
+    <title>Dataset Descriptions: HCLS Community Profile</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="hcls-dataset"/>
+</reference>

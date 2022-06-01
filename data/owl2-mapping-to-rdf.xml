@@ -1,0 +1,6 @@
+<reference anchor="W3C.owl2-mapping-to-rdf" target="https://www.w3.org/TR/owl2-mapping-to-rdf/">
+  <front>
+    <title>OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="owl2-mapping-to-rdf"/>
+</reference>

@@ -11,6 +11,7 @@
       <organization/>
     </author>
     <date year="2016" month="December" day="15"/>
+    <workgroup>Web Application Security Working Group</workgroup>
   </front>
   <seriesInfo name="W3C REC" value="REC-CSP2-20161215"/>
 </reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.acdi" target="https://www.w3.org/TR/acdi/">
+  <front>
+    <title>Authoring Challenges for Device Independence</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="acdi"/>
+</reference>

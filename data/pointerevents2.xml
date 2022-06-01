@@ -1,0 +1,6 @@
+<reference anchor="W3C.pointerevents2" target="https://www.w3.org/TR/pointerevents2/">
+  <front>
+    <title>Pointer Events</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="pointerevents2"/>
+</reference>

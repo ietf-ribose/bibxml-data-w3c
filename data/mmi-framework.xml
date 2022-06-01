@@ -1,0 +1,6 @@
+<reference anchor="W3C.mmi-framework" target="https://www.w3.org/TR/mmi-framework/">
+  <front>
+    <title>W3C Multimodal Interaction Framework</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mmi-framework"/>
+</reference>

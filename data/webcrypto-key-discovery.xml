@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcrypto-key-discovery" target="https://www.w3.org/TR/webcrypto-key-discovery/">
+  <front>
+    <title>WebCrypto Key Discovery</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcrypto-key-discovery"/>
+</reference>

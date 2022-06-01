@@ -1,0 +1,6 @@
+<reference anchor="W3C.EARL10-Guide" target="https://www.w3.org/TR/EARL10-Guide/">
+  <front>
+    <title>Developer Guide for Evaluation and Report Language (EARL) 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="EARL10-Guide"/>
+</reference>

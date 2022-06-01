@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-http-pep" target="https://www.w3.org/TR/WD-http-pep">
+  <front>
+    <title>PEP Specification: an Extension Mechanism for HTTP</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-http-pep"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.WebIDL-1" target="https://www.w3.org/TR/WebIDL-1/">
+  <front>
+    <title>WebIDL Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WebIDL-1"/>
+</reference>

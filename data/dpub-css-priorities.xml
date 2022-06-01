@@ -1,0 +1,6 @@
+<reference anchor="W3C.dpub-css-priorities" target="https://www.w3.org/TR/dpub-css-priorities/">
+  <front>
+    <title>Priorities for CSS from the Digital Publishing Interest Group</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dpub-css-priorities"/>
+</reference>

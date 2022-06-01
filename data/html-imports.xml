@@ -1,0 +1,6 @@
+<reference anchor="W3C.html-imports" target="https://www.w3.org/TR/html-imports/">
+  <front>
+    <title>HTML Imports</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="html-imports"/>
+</reference>

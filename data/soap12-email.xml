@@ -1,0 +1,6 @@
+<reference anchor="W3C.soap12-email" target="https://www.w3.org/TR/soap12-email/">
+  <front>
+    <title>SOAP Version 1.2 Email Binding</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="soap12-email"/>
+</reference>

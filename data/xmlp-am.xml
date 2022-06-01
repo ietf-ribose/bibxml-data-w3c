@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlp-am" target="https://www.w3.org/TR/xmlp-am/">
+  <front>
+    <title>XML Protocol Abstract Model</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlp-am"/>
+</reference>

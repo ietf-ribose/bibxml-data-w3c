@@ -1,0 +1,6 @@
+<reference anchor="W3C.jlreq" target="https://www.w3.org/TR/jlreq/">
+  <front>
+    <title>Requirements for Japanese Text Layout 日本語組版処理の要件(日本語版)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="jlreq"/>
+</reference>

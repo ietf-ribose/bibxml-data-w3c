@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-acss" target="https://www.w3.org/TR/WD-acss">
+  <front>
+    <title>Aural Cascading Style Sheets (ACSS) Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-acss"/>
+</reference>

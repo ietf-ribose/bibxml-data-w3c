@@ -1,0 +1,6 @@
+<reference anchor="W3C.audio-output" target="https://www.w3.org/TR/audio-output/">
+  <front>
+    <title>Audio Output Devices API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="audio-output"/>
+</reference>

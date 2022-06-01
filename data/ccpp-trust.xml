@@ -1,0 +1,6 @@
+<reference anchor="W3C.CCPP-trust" target="https://www.w3.org/TR/CCPP-trust/">
+  <front>
+    <title>CC/PP Implementors Guide: Privacy and Protocols</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="CCPP-trust"/>
+</reference>

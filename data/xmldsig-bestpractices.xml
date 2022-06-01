@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmldsig-bestpractices" target="https://www.w3.org/TR/xmldsig-bestpractices/">
+  <front>
+    <title>XML Signature Best Practices</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmldsig-bestpractices"/>
+</reference>

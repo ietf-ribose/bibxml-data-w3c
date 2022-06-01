@@ -1,0 +1,6 @@
+<reference anchor="W3C.SVGPrintReqs" target="https://www.w3.org/TR/SVGPrintReqs/">
+  <front>
+    <title>SVG Printing Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="SVGPrintReqs"/>
+</reference>

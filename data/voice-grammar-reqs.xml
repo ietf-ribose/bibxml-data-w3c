@@ -1,0 +1,6 @@
+<reference anchor="W3C.voice-grammar-reqs" target="https://www.w3.org/TR/voice-grammar-reqs/">
+  <front>
+    <title>Grammar Representation Requirements for Voice Markup Languages</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="voice-grammar-reqs"/>
+</reference>

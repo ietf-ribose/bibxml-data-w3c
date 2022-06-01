@@ -1,0 +1,6 @@
+<reference anchor="W3C.tlreq" target="https://www.w3.org/TR/tlreq/">
+  <front>
+    <title>Requirements for Tibetan Text Layout and Typography</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="tlreq"/>
+</reference>

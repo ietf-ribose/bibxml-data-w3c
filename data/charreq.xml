@@ -1,0 +1,6 @@
+<reference anchor="W3C.charreq" target="https://www.w3.org/TR/charreq/">
+  <front>
+    <title>Requirements for String Identity Matching and String Indexing</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="charreq"/>
+</reference>

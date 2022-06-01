@@ -1,0 +1,6 @@
+<reference anchor="W3C.payment-request" target="https://www.w3.org/TR/payment-request/">
+  <front>
+    <title>Payment Request API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="payment-request"/>
+</reference>

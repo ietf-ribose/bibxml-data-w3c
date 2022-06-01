@@ -1,0 +1,6 @@
+<reference anchor="W3C.IFT" target="https://www.w3.org/TR/IFT/">
+  <front>
+    <title>Incremental Font Transfer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="IFT"/>
+</reference>

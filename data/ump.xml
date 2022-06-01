@@ -1,0 +1,6 @@
+<reference anchor="W3C.UMP" target="https://www.w3.org/TR/UMP/">
+  <front>
+    <title>Uniform Messaging Policy, Level One</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="UMP"/>
+</reference>

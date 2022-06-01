@@ -1,0 +1,6 @@
+<reference anchor="W3C.microdata" target="https://www.w3.org/TR/microdata/">
+  <front>
+    <title>HTML Microdata</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="microdata"/>
+</reference>

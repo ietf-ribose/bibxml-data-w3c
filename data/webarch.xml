@@ -1,0 +1,6 @@
+<reference anchor="W3C.webarch" target="https://www.w3.org/TR/webarch/">
+  <front>
+    <title>Architecture of the World Wide Web, Volume One</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webarch"/>
+</reference>

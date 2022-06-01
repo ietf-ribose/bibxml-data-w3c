@@ -1,0 +1,6 @@
+<reference anchor="W3C.poi-core" target="https://www.w3.org/TR/poi-core/">
+  <front>
+    <title>Points of Interest Core</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="poi-core"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.motion-1" target="https://www.w3.org/TR/motion-1/">
+  <front>
+    <title>Motion Path Module Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="motion-1"/>
+</reference>

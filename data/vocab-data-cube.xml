@@ -1,0 +1,6 @@
+<reference anchor="W3C.vocab-data-cube" target="https://www.w3.org/TR/vocab-data-cube/">
+  <front>
+    <title>The RDF Data Cube Vocabulary</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="vocab-data-cube"/>
+</reference>

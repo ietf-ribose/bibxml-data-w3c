@@ -1,0 +1,6 @@
+<reference anchor="W3C.post-type-discovery" target="https://www.w3.org/TR/post-type-discovery/">
+  <front>
+    <title>Post Type Discovery</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="post-type-discovery"/>
+</reference>

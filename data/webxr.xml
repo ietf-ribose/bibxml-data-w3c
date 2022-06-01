@@ -1,0 +1,6 @@
+<reference anchor="W3C.webxr" target="https://www.w3.org/TR/webxr/">
+  <front>
+    <title>WebXR Device API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webxr"/>
+</reference>

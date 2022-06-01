@@ -1,0 +1,6 @@
+<reference anchor="W3C.secure-payment-confirmation" target="https://www.w3.org/TR/secure-payment-confirmation/">
+  <front>
+    <title>Secure Payment Confirmation</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="secure-payment-confirmation"/>
+</reference>

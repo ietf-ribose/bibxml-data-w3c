@@ -1,0 +1,6 @@
+<reference anchor="W3C.intersection-observer" target="https://www.w3.org/TR/intersection-observer/">
+  <front>
+    <title>Intersection Observer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="intersection-observer"/>
+</reference>

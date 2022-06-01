@@ -1,0 +1,6 @@
+<reference anchor="W3C.modality-interface" target="https://www.w3.org/TR/modality-interface/">
+  <front>
+    <title>Modality Component to Host Environment DOM Requirements and Capabilities Assessment</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="modality-interface"/>
+</reference>

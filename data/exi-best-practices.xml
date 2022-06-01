@@ -1,0 +1,6 @@
+<reference anchor="W3C.exi-best-practices" target="https://www.w3.org/TR/exi-best-practices/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Best Practices</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="exi-best-practices"/>
+</reference>

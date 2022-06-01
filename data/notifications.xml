@@ -1,0 +1,6 @@
+<reference anchor="W3C.notifications" target="https://www.w3.org/TR/notifications/">
+  <front>
+    <title>Web Notifications</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="notifications"/>
+</reference>

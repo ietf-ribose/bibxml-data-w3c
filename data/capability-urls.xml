@@ -1,0 +1,6 @@
+<reference anchor="W3C.capability-urls" target="https://www.w3.org/TR/capability-urls/">
+  <front>
+    <title>Good Practices for Capability URLs</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="capability-urls"/>
+</reference>

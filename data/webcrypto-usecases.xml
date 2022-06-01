@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcrypto-usecases" target="https://www.w3.org/TR/webcrypto-usecases/">
+  <front>
+    <title>Web Cryptography API Use Cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcrypto-usecases"/>
+</reference>

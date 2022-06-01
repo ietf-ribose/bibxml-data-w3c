@@ -1,0 +1,6 @@
+<reference anchor="W3C.dom40" target="https://www.w3.org/TR/dom40/">
+  <front>
+    <title>W3C DOM4</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dom40"/>
+</reference>

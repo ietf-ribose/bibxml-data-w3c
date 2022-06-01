@@ -1,0 +1,6 @@
+<reference anchor="W3C.xml-events2" target="https://www.w3.org/TR/xml-events2/">
+  <front>
+    <title>XML Events 2</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xml-events2"/>
+</reference>

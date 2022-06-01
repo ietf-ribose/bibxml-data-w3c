@@ -1,0 +1,6 @@
+<reference anchor="W3C.wsc-threats" target="https://www.w3.org/TR/wsc-threats/">
+  <front>
+    <title>Web User Interaction: Threat Trees</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wsc-threats"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.xptr-xmlns" target="https://www.w3.org/TR/xptr-xmlns/">
+  <front>
+    <title>XPointer xmlns() Scheme</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xptr-xmlns"/>
+</reference>

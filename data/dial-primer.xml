@@ -1,0 +1,6 @@
+<reference anchor="W3C.dial-primer" target="https://www.w3.org/TR/dial-primer/">
+  <front>
+    <title>DIAL Part 0: Primer</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dial-primer"/>
+</reference>

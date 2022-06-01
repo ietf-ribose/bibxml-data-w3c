@@ -1,0 +1,6 @@
+<reference anchor="W3C.mediaqueries-4" target="https://www.w3.org/TR/mediaqueries-4/">
+  <front>
+    <title>Media Queries Level 4</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mediaqueries-4"/>
+</reference>

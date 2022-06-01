@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlschema-ref" target="https://www.w3.org/TR/xmlschema-ref/">
+  <front>
+    <title>W3C XML Schema Definition Language (XSD): Component Designators</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlschema-ref"/>
+</reference>

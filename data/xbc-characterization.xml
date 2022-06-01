@@ -1,0 +1,6 @@
+<reference anchor="W3C.xbc-characterization" target="https://www.w3.org/TR/xbc-characterization/">
+  <front>
+    <title>XML Binary Characterization</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xbc-characterization"/>
+</reference>

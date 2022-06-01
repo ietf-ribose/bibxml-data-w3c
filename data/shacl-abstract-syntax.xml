@@ -1,0 +1,6 @@
+<reference anchor="W3C.shacl-abstract-syntax" target="https://www.w3.org/TR/shacl-abstract-syntax/">
+  <front>
+    <title>SHACL Abstract Syntax -- Note on Status of Obsolete Proposal</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="shacl-abstract-syntax"/>
+</reference>

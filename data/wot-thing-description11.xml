@@ -1,0 +1,6 @@
+<reference anchor="W3C.wot-thing-description11" target="https://www.w3.org/TR/wot-thing-description11/">
+  <front>
+    <title>Web of Things (WoT) Thing Description 1.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wot-thing-description11"/>
+</reference>

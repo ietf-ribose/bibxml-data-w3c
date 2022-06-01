@@ -1,0 +1,6 @@
+<reference anchor="W3C.mobileOK-basic10-tests" target="https://www.w3.org/TR/mobileOK-basic10-tests/">
+  <front>
+    <title>W3C mobileOK Basic Tests 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mobileOK-basic10-tests"/>
+</reference>

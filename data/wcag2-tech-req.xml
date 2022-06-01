@@ -1,0 +1,6 @@
+<reference anchor="W3C.wcag2-tech-req" target="https://www.w3.org/TR/wcag2-tech-req/">
+  <front>
+    <title>Requirements for WCAG 2.0 Checklists and Techniques</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wcag2-tech-req"/>
+</reference>

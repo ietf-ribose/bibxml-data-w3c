@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlp-reqs" target="https://www.w3.org/TR/xmlp-reqs/">
+  <front>
+    <title>XML Protocol (XMLP) Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlp-reqs"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.di-princ" target="https://www.w3.org/TR/di-princ/">
+  <front>
+    <title>Device Independence Principles</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="di-princ"/>
+</reference>

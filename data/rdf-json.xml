@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdf-json" target="https://www.w3.org/TR/rdf-json/">
+  <front>
+    <title>RDF 1.1 JSON Alternate Serialization (RDF/JSON)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdf-json"/>
+</reference>

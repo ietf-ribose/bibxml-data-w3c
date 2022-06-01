@@ -1,0 +1,6 @@
+<reference anchor="W3C.prov-dc" target="https://www.w3.org/TR/prov-dc/">
+  <front>
+    <title>Dublin Core to PROV Mapping</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="prov-dc"/>
+</reference>

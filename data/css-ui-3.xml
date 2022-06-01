@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-ui-3" target="https://www.w3.org/TR/css-ui-3/">
+  <front>
+    <title>CSS Basic User Interface Module Level 3 (CSS3 UI)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-ui-3"/>
+</reference>

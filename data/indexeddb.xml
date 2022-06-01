@@ -1,0 +1,6 @@
+<reference anchor="W3C.IndexedDB" target="https://www.w3.org/TR/IndexedDB/">
+  <front>
+    <title>Indexed Database API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="IndexedDB"/>
+</reference>

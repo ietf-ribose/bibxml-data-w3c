@@ -1,0 +1,6 @@
+<reference anchor="W3C.xkms2-bindings" target="https://www.w3.org/TR/xkms2-bindings/">
+  <front>
+    <title>XML Key Management Specification (XKMS 2.0) Bindings</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xkms2-bindings"/>
+</reference>

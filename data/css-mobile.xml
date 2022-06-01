@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-mobile" target="https://www.w3.org/TR/css-mobile/">
+  <front>
+    <title>CSS Mobile Profile 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-mobile"/>
+</reference>

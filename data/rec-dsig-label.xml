@@ -1,0 +1,6 @@
+<reference anchor="W3C.REC-DSig-label" target="https://www.w3.org/TR/REC-DSig-label/">
+  <front>
+    <title>PICS Signed Labels (DSig) 1.0 Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="REC-DSig-label"/>
+</reference>

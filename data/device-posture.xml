@@ -1,0 +1,6 @@
+<reference anchor="W3C.device-posture" target="https://www.w3.org/TR/device-posture/">
+  <front>
+    <title>Device Posture API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="device-posture"/>
+</reference>

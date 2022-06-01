@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmldsig-filter2" target="https://www.w3.org/TR/xmldsig-filter2/">
+  <front>
+    <title>XML-Signature XPath Filter 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmldsig-filter2"/>
+</reference>

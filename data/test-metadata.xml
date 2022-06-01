@@ -1,0 +1,6 @@
+<reference anchor="W3C.test-metadata" target="https://www.w3.org/TR/test-metadata/">
+  <front>
+    <title>Test Metadata</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="test-metadata"/>
+</reference>

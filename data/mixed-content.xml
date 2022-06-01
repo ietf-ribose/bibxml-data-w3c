@@ -1,0 +1,6 @@
+<reference anchor="W3C.mixed-content" target="https://www.w3.org/TR/mixed-content/">
+  <front>
+    <title>Mixed Content</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mixed-content"/>
+</reference>

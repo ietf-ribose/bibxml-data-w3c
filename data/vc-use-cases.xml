@@ -1,0 +1,6 @@
+<reference anchor="W3C.vc-use-cases" target="https://www.w3.org/TR/vc-use-cases/">
+  <front>
+    <title>Verifiable Credentials Use Cases</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="vc-use-cases"/>
+</reference>

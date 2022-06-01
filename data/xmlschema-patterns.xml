@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlschema-patterns" target="https://www.w3.org/TR/xmlschema-patterns/">
+  <front>
+    <title>Basic XML Schema Patterns for Databinding Version 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlschema-patterns"/>
+</reference>

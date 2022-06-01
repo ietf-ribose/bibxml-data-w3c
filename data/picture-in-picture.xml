@@ -1,0 +1,6 @@
+<reference anchor="W3C.picture-in-picture" target="https://www.w3.org/TR/picture-in-picture/">
+  <front>
+    <title>Picture-in-Picture</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="picture-in-picture"/>
+</reference>

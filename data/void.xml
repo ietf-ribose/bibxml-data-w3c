@@ -1,0 +1,6 @@
+<reference anchor="W3C.void" target="https://www.w3.org/TR/void/">
+  <front>
+    <title>Describing Linked Datasets with the VoID Vocabulary</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="void"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdf-sparql-json-res" target="https://www.w3.org/TR/rdf-sparql-json-res/">
+  <front>
+    <title>Serializing SPARQL Query Results in JSON</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rdf-sparql-json-res"/>
+</reference>

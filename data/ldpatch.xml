@@ -1,0 +1,6 @@
+<reference anchor="W3C.ldpatch" target="https://www.w3.org/TR/ldpatch/">
+  <front>
+    <title>Linked Data Patch Format</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ldpatch"/>
+</reference>

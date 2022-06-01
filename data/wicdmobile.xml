@@ -1,0 +1,6 @@
+<reference anchor="W3C.WICDMobile" target="https://www.w3.org/TR/WICDMobile/">
+  <front>
+    <title>WICD Mobile 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WICDMobile"/>
+</reference>

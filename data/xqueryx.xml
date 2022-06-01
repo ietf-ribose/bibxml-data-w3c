@@ -1,0 +1,6 @@
+<reference anchor="W3C.xqueryx" target="https://www.w3.org/TR/xqueryx/">
+  <front>
+    <title>XML Syntax for XQuery 1.0 (XQueryX) (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xqueryx"/>
+</reference>

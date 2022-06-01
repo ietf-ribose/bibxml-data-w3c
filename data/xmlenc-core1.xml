@@ -1,0 +1,6 @@
+<reference anchor="W3C.xmlenc-core1" target="https://www.w3.org/TR/xmlenc-core1/">
+  <front>
+    <title>XML Encryption Syntax and Processing Version 1.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xmlenc-core1"/>
+</reference>

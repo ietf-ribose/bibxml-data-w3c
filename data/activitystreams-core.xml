@@ -1,0 +1,6 @@
+<reference anchor="W3C.activitystreams-core" target="https://www.w3.org/TR/activitystreams-core/">
+  <front>
+    <title>Activity Streams 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="activitystreams-core"/>
+</reference>

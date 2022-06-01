@@ -1,0 +1,6 @@
+<reference anchor="W3C.odrl-vocab" target="https://www.w3.org/TR/odrl-vocab/">
+  <front>
+    <title>ODRL Vocabulary &amp; Expression 2.2</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="odrl-vocab"/>
+</reference>

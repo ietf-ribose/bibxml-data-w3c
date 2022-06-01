@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcgm20" target="https://www.w3.org/TR/webcgm20/">
+  <front>
+    <title>WebCGM 2.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcgm20"/>
+</reference>

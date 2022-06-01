@@ -6,6 +6,7 @@
     </author>
     <date year="2020" month="June" day="2"/>
     <workgroup>Web Applications Working Group</workgroup>
+    <workgroup>Web Application Security Working Group</workgroup>
   </front>
   <seriesInfo name="W3C REC" value="SPSD-cors-20200602"/>
 </reference>

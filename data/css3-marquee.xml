@@ -1,0 +1,6 @@
+<reference anchor="W3C.css3-marquee" target="https://www.w3.org/TR/css3-marquee/">
+  <front>
+    <title>CSS Marquee Module Level 3</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css3-marquee"/>
+</reference>

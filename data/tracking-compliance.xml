@@ -1,0 +1,6 @@
+<reference anchor="W3C.tracking-compliance" target="https://www.w3.org/TR/tracking-compliance/">
+  <front>
+    <title>Tracking Compliance and Scope</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="tracking-compliance"/>
+</reference>

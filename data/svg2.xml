@@ -1,0 +1,6 @@
+<reference anchor="W3C.SVG2" target="https://www.w3.org/TR/SVG2/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) 2</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="SVG2"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.xpath-datamodel" target="https://www.w3.org/TR/xpath-datamodel/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xpath-datamodel"/>
+</reference>

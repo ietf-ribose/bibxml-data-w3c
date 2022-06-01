@@ -1,37 +1,6 @@
-<reference anchor="W3C.soap12-part1" target="http://www.w3.org/TR/soap12-part1">
+<reference anchor="W3C.soap12-part1" target="https://www.w3.org/TR/soap12-part1/">
   <front>
-    <title>SOAP Version 1.2 Part 1: Messaging Framework</title>
-    <author fullname="Martin Gudgin" initials="M." surname="Gudgin">
-      <organization>Developmentor</organization>
-      <address>
-        <email>marting@develop.com</email>
-      </address>
-    </author>
-    <author fullname="Marc Hadley" initials="M." surname="Hadley">
-      <organization>Sun Microsystems</organization>
-      <address>
-        <email>marc.hadley@sun.com</email>
-      </address>
-    </author>
-    <author fullname="Noah Mendelsohn" initials="N." surname="Mendelsohn">
-      <organization>IBM</organization>
-      <address>
-        <email>Noah_Mendelsohn@us.ibm.com</email>
-      </address>
-    </author>
-    <author fullname="Jean-Jacques Moreau" initials="J." surname="Moreau">
-      <organization>Canon</organization>
-      <address>
-        <email>moreau@crf.canon.fr</email>
-      </address>
-    </author>
-    <author fullname="Henrik Frystyk Nielsen" initials="H." surname="Nielsen">
-      <organization>Microsoft</organization>
-      <address>
-        <email>henrikn@microsoft.com</email>
-      </address>
-    </author>
-    <date year="2002" month="June" day="26"/>
+    <title>SOAP Version 1.2 Part 1: Messaging Framework (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C Working Draft" value="soap12-part1"/>
+  <seriesInfo name="W3C technicalReport" value="soap12-part1"/>
 </reference>

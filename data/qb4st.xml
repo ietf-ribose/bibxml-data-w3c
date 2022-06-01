@@ -1,0 +1,6 @@
+<reference anchor="W3C.qb4st" target="https://www.w3.org/TR/qb4st/">
+  <front>
+    <title>QB4ST: RDF Data Cube extensions for spatio-temporal components</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="qb4st"/>
+</reference>

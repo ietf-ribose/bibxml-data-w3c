@@ -1,0 +1,6 @@
+<reference anchor="W3C.css3-exclusions" target="https://www.w3.org/TR/css3-exclusions/">
+  <front>
+    <title>CSS Exclusions Module Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css3-exclusions"/>
+</reference>

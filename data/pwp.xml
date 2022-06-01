@@ -1,0 +1,6 @@
+<reference anchor="W3C.pwp" target="https://www.w3.org/TR/pwp/">
+  <front>
+    <title>Web Publications for the Open Web Platform: Vision And Technical Challenges</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="pwp"/>
+</reference>

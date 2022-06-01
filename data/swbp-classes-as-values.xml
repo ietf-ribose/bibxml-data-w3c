@@ -1,0 +1,6 @@
+<reference anchor="W3C.swbp-classes-as-values" target="https://www.w3.org/TR/swbp-classes-as-values/">
+  <front>
+    <title>Representing Classes As Property Values on the Semantic Web</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="swbp-classes-as-values"/>
+</reference>

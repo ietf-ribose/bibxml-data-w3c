@@ -1,0 +1,6 @@
+<reference anchor="W3C.svg-paths" target="https://www.w3.org/TR/svg-paths/">
+  <front>
+    <title>SVG Paths</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="svg-paths"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.wot-usecases" target="https://www.w3.org/TR/wot-usecases/">
+  <front>
+    <title>Web of Things (WoT): Use Cases and Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wot-usecases"/>
+</reference>

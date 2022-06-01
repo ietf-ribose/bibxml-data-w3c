@@ -1,0 +1,6 @@
+<reference anchor="W3C.page-visibility" target="https://www.w3.org/TR/page-visibility/">
+  <front>
+    <title>Page Visibility (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="page-visibility"/>
+</reference>

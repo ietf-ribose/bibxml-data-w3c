@@ -1,0 +1,6 @@
+<reference anchor="W3C.gallery" target="https://www.w3.org/TR/gallery/">
+  <front>
+    <title>Pick Media Intent</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="gallery"/>
+</reference>

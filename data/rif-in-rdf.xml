@@ -1,0 +1,6 @@
+<reference anchor="W3C.rif-in-rdf" target="https://www.w3.org/TR/rif-in-rdf/">
+  <front>
+    <title>RIF In RDF (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="rif-in-rdf"/>
+</reference>

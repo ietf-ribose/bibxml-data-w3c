@@ -1,0 +1,6 @@
+<reference anchor="W3C.calendar-api" target="https://www.w3.org/TR/calendar-api/">
+  <front>
+    <title>Calendar API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="calendar-api"/>
+</reference>

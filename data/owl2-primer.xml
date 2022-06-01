@@ -1,0 +1,6 @@
+<reference anchor="W3C.owl2-primer" target="https://www.w3.org/TR/owl2-primer/">
+  <front>
+    <title>OWL 2 Web Ontology Language Primer (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="owl2-primer"/>
+</reference>

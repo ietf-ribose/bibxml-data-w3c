@@ -1,0 +1,6 @@
+<reference anchor="W3C.mmi-auth" target="https://www.w3.org/TR/mmi-auth/">
+  <front>
+    <title>Authoring Applications for the Multimodal Architecture</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mmi-auth"/>
+</reference>

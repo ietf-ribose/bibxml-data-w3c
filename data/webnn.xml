@@ -1,0 +1,6 @@
+<reference anchor="W3C.webnn" target="https://www.w3.org/TR/webnn/">
+  <front>
+    <title>Web Neural Network API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webnn"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.xslt-xquery-serialization-31" target="https://www.w3.org/TR/xslt-xquery-serialization-31/">
+  <front>
+    <title>XSLT and XQuery Serialization 3.1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xslt-xquery-serialization-31"/>
+</reference>

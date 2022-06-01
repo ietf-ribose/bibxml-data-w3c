@@ -1,0 +1,6 @@
+<reference anchor="W3C.virtual-keyboard" target="https://www.w3.org/TR/virtual-keyboard/">
+  <front>
+    <title>VirtualKeyboard API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="virtual-keyboard"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-rdf-uml" target="https://www.w3.org/TR/NOTE-rdf-uml/">
+  <front>
+    <title>A Discussion of the Relationship Between RDF-Schema and UML</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-rdf-uml"/>
+</reference>

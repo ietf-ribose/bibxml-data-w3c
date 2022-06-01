@@ -1,0 +1,6 @@
+<reference anchor="W3C.from-origin" target="https://www.w3.org/TR/from-origin/">
+  <front>
+    <title>The From-Origin Header</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="from-origin"/>
+</reference>

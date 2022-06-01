@@ -1,0 +1,6 @@
+<reference anchor="W3C.did-rubric" target="https://www.w3.org/TR/did-rubric/">
+  <front>
+    <title>DID Method Rubric v1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="did-rubric"/>
+</reference>

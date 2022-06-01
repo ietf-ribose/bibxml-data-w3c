@@ -1,0 +1,6 @@
+<reference anchor="W3C.alreq-gap" target="https://www.w3.org/TR/alreq-gap/">
+  <front>
+    <title>Arabic and Persian Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="alreq-gap"/>
+</reference>

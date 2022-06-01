@@ -1,0 +1,6 @@
+<reference anchor="W3C.2dcontext" target="https://www.w3.org/TR/2dcontext/">
+  <front>
+    <title>HTML Canvas 2D Context</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="2dcontext"/>
+</reference>

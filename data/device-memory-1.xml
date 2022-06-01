@@ -1,0 +1,6 @@
+<reference anchor="W3C.device-memory-1" target="https://www.w3.org/TR/device-memory-1/">
+  <front>
+    <title>Device Memory</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="device-memory-1"/>
+</reference>

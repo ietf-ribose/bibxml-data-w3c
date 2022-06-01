@@ -1,0 +1,6 @@
+<reference anchor="W3C.di-dco" target="https://www.w3.org/TR/di-dco/">
+  <front>
+    <title>Delivery Context Overview for Device Independence</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="di-dco"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.role-attribute" target="https://www.w3.org/TR/role-attribute/">
+  <front>
+    <title>Role Attribute 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="role-attribute"/>
+</reference>

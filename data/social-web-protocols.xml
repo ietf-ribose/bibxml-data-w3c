@@ -1,0 +1,6 @@
+<reference anchor="W3C.social-web-protocols" target="https://www.w3.org/TR/social-web-protocols/">
+  <front>
+    <title>Social Web Protocols</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="social-web-protocols"/>
+</reference>

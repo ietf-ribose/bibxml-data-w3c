@@ -1,0 +1,6 @@
+<reference anchor="W3C.WD-SVGReq" target="https://www.w3.org/TR/WD-SVGReq">
+  <front>
+    <title>Scalable Vector Graphics (SVG) Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="WD-SVGReq"/>
+</reference>

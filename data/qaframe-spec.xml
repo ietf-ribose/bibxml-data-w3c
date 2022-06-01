@@ -1,0 +1,6 @@
+<reference anchor="W3C.qaframe-spec" target="https://www.w3.org/TR/qaframe-spec/">
+  <front>
+    <title>QA Framework: Specification Guidelines</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="qaframe-spec"/>
+</reference>

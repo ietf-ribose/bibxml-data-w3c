@@ -1,0 +1,6 @@
+<reference anchor="W3C.Window" target="https://www.w3.org/TR/Window/">
+  <front>
+    <title>Window Object 1.0</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="Window"/>
+</reference>

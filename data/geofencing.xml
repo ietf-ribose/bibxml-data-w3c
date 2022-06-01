@@ -1,0 +1,6 @@
+<reference anchor="W3C.geofencing" target="https://www.w3.org/TR/geofencing/">
+  <front>
+    <title>Geofencing API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="geofencing"/>
+</reference>

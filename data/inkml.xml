@@ -1,0 +1,6 @@
+<reference anchor="W3C.InkML" target="https://www.w3.org/TR/InkML/">
+  <front>
+    <title>Ink Markup Language (InkML)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="InkML"/>
+</reference>

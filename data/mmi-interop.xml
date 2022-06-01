@@ -1,0 +1,6 @@
+<reference anchor="W3C.mmi-interop" target="https://www.w3.org/TR/mmi-interop/">
+  <front>
+    <title>MMI interoperability test report</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="mmi-interop"/>
+</reference>

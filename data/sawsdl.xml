@@ -1,0 +1,6 @@
+<reference anchor="W3C.sawsdl" target="https://www.w3.org/TR/sawsdl/">
+  <front>
+    <title>Semantic Annotations for WSDL and XML Schema</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="sawsdl"/>
+</reference>

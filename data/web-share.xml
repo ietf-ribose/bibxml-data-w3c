@@ -1,0 +1,6 @@
+<reference anchor="W3C.web-share" target="https://www.w3.org/TR/web-share/">
+  <front>
+    <title>Web Share API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="web-share"/>
+</reference>

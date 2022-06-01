@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-print" target="https://www.w3.org/TR/css-print/">
+  <front>
+    <title>CSS Print Profile</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-print"/>
+</reference>

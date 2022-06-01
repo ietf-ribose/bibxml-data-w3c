@@ -1,0 +1,6 @@
+<reference anchor="W3C.webstorage" target="https://www.w3.org/TR/webstorage/">
+  <front>
+    <title>Web Storage (Second Edition)</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webstorage"/>
+</reference>

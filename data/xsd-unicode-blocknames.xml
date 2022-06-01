@@ -1,0 +1,6 @@
+<reference anchor="W3C.xsd-unicode-blocknames" target="https://www.w3.org/TR/xsd-unicode-blocknames/">
+  <front>
+    <title>Unicode block names for use in XSD regular expressions</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xsd-unicode-blocknames"/>
+</reference>

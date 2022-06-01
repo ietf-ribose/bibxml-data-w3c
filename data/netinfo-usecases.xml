@@ -1,0 +1,6 @@
+<reference anchor="W3C.netinfo-usecases" target="https://www.w3.org/TR/netinfo-usecases/">
+  <front>
+    <title>Review of apps that use network information</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="netinfo-usecases"/>
+</reference>

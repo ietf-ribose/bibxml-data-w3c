@@ -1,0 +1,6 @@
+<reference anchor="W3C.wot-architecture10" target="https://www.w3.org/TR/wot-architecture10/">
+  <front>
+    <title>Web of Things (WoT) Architecture</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wot-architecture10"/>
+</reference>

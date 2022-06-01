@@ -1,0 +1,6 @@
+<reference anchor="W3C.css-variables-1" target="https://www.w3.org/TR/css-variables-1/">
+  <front>
+    <title>CSS Custom Properties for Cascading Variables Module Level 1</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="css-variables-1"/>
+</reference>

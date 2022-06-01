@@ -1,0 +1,6 @@
+<reference anchor="W3C.wsdl20-adjuncts" target="https://www.w3.org/TR/wsdl20-adjuncts/">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0 Part 2: Adjuncts</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wsdl20-adjuncts"/>
+</reference>

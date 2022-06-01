@@ -1,0 +1,6 @@
+<reference anchor="W3C.epr" target="https://www.w3.org/TR/epr/">
+  <front>
+    <title>Entry Point Regulation</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="epr"/>
+</reference>

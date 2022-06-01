@@ -1,0 +1,6 @@
+<reference anchor="W3C.NOTE-xlink-principles" target="https://www.w3.org/TR/NOTE-xlink-principles">
+  <front>
+    <title>XML Linking Language (XLink) Design Principles</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="NOTE-xlink-principles"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.exi-evaluation" target="https://www.w3.org/TR/exi-evaluation/">
+  <front>
+    <title>Efficient XML Interchange Evaluation</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="exi-evaluation"/>
+</reference>

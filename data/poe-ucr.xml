@@ -1,0 +1,6 @@
+<reference anchor="W3C.poe-ucr" target="https://www.w3.org/TR/poe-ucr/">
+  <front>
+    <title>POE Use Cases and Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="poe-ucr"/>
+</reference>

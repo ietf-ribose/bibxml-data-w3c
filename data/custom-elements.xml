@@ -1,0 +1,6 @@
+<reference anchor="W3C.custom-elements" target="https://www.w3.org/TR/custom-elements/">
+  <front>
+    <title>Custom Elements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="custom-elements"/>
+</reference>

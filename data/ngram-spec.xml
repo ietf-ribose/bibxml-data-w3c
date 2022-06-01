@@ -1,0 +1,6 @@
+<reference anchor="W3C.ngram-spec" target="https://www.w3.org/TR/ngram-spec/">
+  <front>
+    <title>Stochastic Language Models (N-Gram) Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="ngram-spec"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.wsdl20-rdf" target="https://www.w3.org/TR/wsdl20-rdf/">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0: RDF Mapping</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="wsdl20-rdf"/>
+</reference>

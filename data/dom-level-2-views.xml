@@ -1,0 +1,6 @@
+<reference anchor="W3C.DOM-Level-2-Views" target="https://www.w3.org/TR/DOM-Level-2-Views/">
+  <front>
+    <title>Document Object Model (DOM) Level 2 Views Specification</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="DOM-Level-2-Views"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.scxml-xpath-dm" target="https://www.w3.org/TR/scxml-xpath-dm/">
+  <front>
+    <title>XPath Data Model for SCXML</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="scxml-xpath-dm"/>
+</reference>

@@ -1,0 +1,6 @@
+<reference anchor="W3C.dap-privacy-reqs" target="https://www.w3.org/TR/dap-privacy-reqs/">
+  <front>
+    <title>Device API Privacy Requirements</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="dap-privacy-reqs"/>
+</reference>

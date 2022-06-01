@@ -1,0 +1,6 @@
+<reference anchor="W3C.nfc" target="https://www.w3.org/TR/nfc/">
+  <front>
+    <title>Web NFC API</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="nfc"/>
+</reference>

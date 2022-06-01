@@ -1,0 +1,6 @@
+<reference anchor="W3C.hcls-kb" target="https://www.w3.org/TR/hcls-kb/">
+  <front>
+    <title>A Prototype Knowledge Base for the Life Sciences</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="hcls-kb"/>
+</reference>

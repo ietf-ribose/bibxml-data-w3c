@@ -1,0 +1,6 @@
+<reference anchor="W3C.xhtml-rdfa" target="https://www.w3.org/TR/xhtml-rdfa/">
+  <front>
+    <title>XHTML+RDFa 1.1 - Third Edition</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="xhtml-rdfa"/>
+</reference>
