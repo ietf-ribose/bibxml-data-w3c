@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-push-api-20220323" target="https://www.w3.org/TR/2022/WD-push-api-20220323/">
+<reference anchor="W3C.WD-push-api-20220602" target="https://www.w3.org/TR/2022/WD-push-api-20220602/">
   <front>
     <title>Push API</title>
     <author role="editor" fullname="Martin Thomson">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Peter Beverloo">
       <organization/>
     </author>
-    <date year="2022" month="March" day="23"/>
+    <date year="2022" month="June" day="2"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-push-api-20220323"/>
+  <seriesInfo name="W3C WD" value="WD-push-api-20220602"/>
 </reference>
