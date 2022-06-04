@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webxr-lighting-estimation-1-20220603" target="https://www.w3.org/TR/2022/WD-webxr-lighting-estimation-1-20220603/">
+  <front>
+    <title>WebXR Lighting Estimation API Level 1</title>
+    <author role="editor" fullname="Brandon Jones">
+      <organization/>
+    </author>
+    <date year="2022" month="June" day="3"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxr-lighting-estimation-1-20220603"/>
+</reference>
