@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-baggage-20220524" target="https://www.w3.org/TR/2022/WD-baggage-20220524/">
+<reference anchor="W3C.WD-baggage-20220608" target="https://www.w3.org/TR/2022/WD-baggage-20220608/">
   <front>
     <title>Propagation format for distributed context: Baggage</title>
     <author role="editor" fullname="Sergey Kanzhelev">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Yuri Shkuro">
       <organization/>
     </author>
-    <date year="2022" month="May" day="24"/>
+    <date year="2022" month="June" day="8"/>
     <workgroup>Distributed Tracing Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-baggage-20220524"/>
+  <seriesInfo name="W3C WD" value="WD-baggage-20220608"/>
 </reference>
