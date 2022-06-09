@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-remote-playback-20220422" target="https://www.w3.org/TR/2022/CRD-remote-playback-20220422/">
+<reference anchor="W3C.CRD-remote-playback-20220608" target="https://www.w3.org/TR/2022/CRD-remote-playback-20220608/">
   <front>
     <title>Remote Playback API</title>
     <author role="editor" fullname="Mark Foltz">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Mounir Lamouri">
       <organization/>
     </author>
-    <date year="2022" month="April" day="22"/>
+    <date year="2022" month="June" day="8"/>
     <workgroup>Second Screen Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-remote-playback-20220422"/>
+  <seriesInfo name="W3C CR" value="CRD-remote-playback-20220608"/>
 </reference>

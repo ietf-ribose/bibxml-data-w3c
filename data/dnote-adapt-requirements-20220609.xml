@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-personalization-semantics-help-1.0-20190711" target="https://www.w3.org/TR/2019/WD-personalization-semantics-help-1.0-20190711/">
+<reference anchor="W3C.DNOTE-adapt-requirements-20220609" target="https://www.w3.org/TR/2022/DNOTE-adapt-requirements-20220609/">
   <front>
-    <title>Personalization Help and Support 1.0</title>
+    <title>Requirements for WAI-Adapt specification</title>
     <author role="editor" fullname="Charles LaPierre">
       <organization/>
     </author>
@@ -10,14 +10,11 @@
     <author role="editor" fullname="Michael Cooper">
       <organization/>
     </author>
-    <author role="editor" fullname="Richard Schwerdtfeger">
-      <organization/>
-    </author>
     <author role="editor" fullname="Ruoxi Ran">
       <organization/>
     </author>
-    <date year="2019" month="July" day="11"/>
+    <date year="2022" month="June" day="9"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-personalization-semantics-help-1.0-20190711"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-adapt-requirements-20220609"/>
 </reference>

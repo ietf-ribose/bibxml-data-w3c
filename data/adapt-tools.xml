@@ -1,0 +1,6 @@
+<reference anchor="W3C.adapt-tools" target="https://www.w3.org/TR/adapt-tools/">
+  <front>
+    <title>WAI-Adapt: Tools Module</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="adapt-tools"/>
+</reference>

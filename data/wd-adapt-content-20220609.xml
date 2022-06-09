@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-personalization-semantics-1.0-20210812" target="https://www.w3.org/TR/2021/WD-personalization-semantics-1.0-20210812/">
+<reference anchor="W3C.WD-adapt-content-20220609" target="https://www.w3.org/TR/2022/WD-adapt-content-20220609/">
   <front>
-    <title>Personalization Semantics Explainer 1.0</title>
+    <title>WAI-Adapt: Content Module</title>
     <author role="editor" fullname="Charles LaPierre">
       <organization/>
     </author>
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Ruoxi Ran">
       <organization/>
     </author>
-    <date year="2021" month="August" day="12"/>
+    <date year="2022" month="June" day="9"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-personalization-semantics-1.0-20210812"/>
+  <seriesInfo name="W3C WD" value="WD-adapt-content-20220609"/>
 </reference>

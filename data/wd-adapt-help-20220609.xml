@@ -1,7 +1,10 @@
-<reference anchor="W3C.WD-personalization-semantics-tools-1.0-20190711" target="https://www.w3.org/TR/2019/WD-personalization-semantics-tools-1.0-20190711/">
+<reference anchor="W3C.WD-adapt-help-20220609" target="https://www.w3.org/TR/2022/WD-adapt-help-20220609/">
   <front>
-    <title>Personalization Tools 1.0</title>
+    <title>WAI-Adapt: Help and Support Module</title>
     <author role="editor" fullname="Charles LaPierre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Foliot">
       <organization/>
     </author>
     <author role="editor" fullname="Lisa Seeman-Horwitz">
@@ -16,8 +19,8 @@
     <author role="editor" fullname="Ruoxi Ran">
       <organization/>
     </author>
-    <date year="2019" month="July" day="11"/>
+    <date year="2022" month="June" day="9"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-personalization-semantics-tools-1.0-20190711"/>
+  <seriesInfo name="W3C WD" value="WD-adapt-help-20220609"/>
 </reference>
