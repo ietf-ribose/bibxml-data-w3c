@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-mini-app-white-paper-20220528" target="https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220528/">
+<reference anchor="W3C.DNOTE-mini-app-white-paper-20220611" target="https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220611/">
   <front>
     <title>MiniApp Standardization White Paper version 2</title>
     <author role="editor" fullname="An Qi (Angel) Li">
@@ -31,8 +31,8 @@
     <author role="editor" fullname="Zitao Wang">
       <organization/>
     </author>
-    <date year="2022" month="May" day="28"/>
+    <date year="2022" month="June" day="11"/>
     <workgroup>MiniApps Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-mini-app-white-paper-20220528"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-mini-app-white-paper-20220611"/>
 </reference>
