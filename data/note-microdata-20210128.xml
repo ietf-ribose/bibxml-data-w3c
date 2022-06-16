@@ -1,7 +1,7 @@
 <reference anchor="W3C.NOTE-microdata-20210128" target="https://www.w3.org/TR/2021/NOTE-microdata-20210128/">
   <front>
     <title>HTML Microdata</title>
-    <author role="editor" fullname="Charles 'chaals' (McCathie) Nevile">
+    <author role="editor" fullname="Chaals Nevile">
       <organization/>
     </author>
     <author role="editor" fullname="Dan Brickley">
