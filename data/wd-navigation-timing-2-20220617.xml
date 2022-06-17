@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-navigation-timing-2-20220310" target="https://www.w3.org/TR/2022/WD-navigation-timing-2-20220310/">
+<reference anchor="W3C.WD-navigation-timing-2-20220617" target="https://www.w3.org/TR/2022/WD-navigation-timing-2-20220617/">
   <front>
     <title>Navigation Timing Level 2</title>
     <author role="editor" fullname="Noam Rosenthal">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2022" month="March" day="10"/>
+    <date year="2022" month="June" day="17"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20220310"/>
+  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20220617"/>
 </reference>
