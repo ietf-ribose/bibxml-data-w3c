@@ -1,0 +1,6 @@
+<reference anchor="W3C.webmachinelearning-ethics" target="https://www.w3.org/TR/webmachinelearning-ethics/">
+  <front>
+    <title>Ethical Principles for Web Machine Learning</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webmachinelearning-ethics"/>
+</reference>

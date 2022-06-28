@@ -1,6 +1,6 @@
 <reference anchor="W3C.requestidlecallback" target="https://www.w3.org/TR/requestidlecallback/">
   <front>
-    <title>Cooperative Scheduling of Background Tasks</title>
+    <title>requestIdleCallback() Cooperative Scheduling of Background Tasks</title>
   </front>
   <seriesInfo name="W3C technicalReport" value="requestidlecallback"/>
 </reference>

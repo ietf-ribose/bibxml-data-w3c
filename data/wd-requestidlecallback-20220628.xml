@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-requestidlecallback-20220628" target="https://www.w3.org/TR/2022/WD-requestidlecallback-20220628/">
+  <front>
+    <title>requestIdleCallback() Cooperative Scheduling of Background Tasks</title>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ross McIlroy">
+      <organization/>
+    </author>
+    <date year="2022" month="June" day="28"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-requestidlecallback-20220628"/>
+</reference>
