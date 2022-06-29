@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-uievents-20220601" target="https://www.w3.org/TR/2022/WD-uievents-20220601/">
+<reference anchor="W3C.WD-uievents-20220629" target="https://www.w3.org/TR/2022/WD-uievents-20220629/">
   <front>
     <title>UI Events</title>
     <author role="editor" fullname="Gary Kacmarcik">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Travis Leithead">
       <organization/>
     </author>
-    <date year="2022" month="June" day="1"/>
+    <date year="2022" month="June" day="29"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-uievents-20220601"/>
+  <seriesInfo name="W3C WD" value="WD-uievents-20220629"/>
 </reference>
