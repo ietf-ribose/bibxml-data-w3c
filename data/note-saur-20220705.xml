@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-saur-20220413" target="https://www.w3.org/TR/2022/DNOTE-saur-20220413/">
+<reference anchor="W3C.NOTE-saur-20220705" target="https://www.w3.org/TR/2022/NOTE-saur-20220705/">
   <front>
     <title>Synchronization Accessibility User Requirements</title>
     <author role="editor" fullname="Janina Sajka">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Steve Noble">
       <organization/>
     </author>
-    <date year="2022" month="April" day="13"/>
+    <date year="2022" month="July" day="5"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-saur-20220413"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-saur-20220705"/>
 </reference>
