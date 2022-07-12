@@ -1,6 +1,6 @@
 <reference anchor="W3C.act-rules-aspects" target="https://www.w3.org/TR/act-rules-aspects/">
   <front>
-    <title>Accessibility Conformance Testing (ACT) Rules: Common Input Aspects</title>
+    <title>Accessibility Conformance Testing Rules: Common Input Aspects</title>
   </front>
   <seriesInfo name="W3C technicalReport" value="act-rules-aspects"/>
 </reference>

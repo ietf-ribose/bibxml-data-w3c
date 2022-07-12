@@ -1,6 +1,0 @@
-<reference anchor="W3C.service-workers-1" target="https://www.w3.org/TR/service-workers-1/">
-  <front>
-    <title>Service Workers 1</title>
-  </front>
-  <seriesInfo name="W3C technicalReport" value="service-workers-1"/>
-</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.CRD-service-workers-20220712" target="https://www.w3.org/TR/2022/CRD-service-workers-20220712/">
+  <front>
+    <title>Service Workers</title>
+    <author role="editor" fullname="Jake Archibald">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marijn Kruisselbrink">
+      <organization/>
+    </author>
+    <date year="2022" month="July" day="12"/>
+    <workgroup>Service Workers Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-service-workers-20220712"/>
+</reference>
