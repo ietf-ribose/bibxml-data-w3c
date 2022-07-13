@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-alreq-gap-20211125" target="https://www.w3.org/TR/2021/DNOTE-alreq-gap-20211125/">
+<reference anchor="W3C.DNOTE-alreq-gap-20220713" target="https://www.w3.org/TR/2022/DNOTE-alreq-gap-20220713/">
   <front>
     <title>Arabic and Persian Gap Analysis</title>
     <author role="editor" fullname="Richard Ishida">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Shervin Afshar">
       <organization/>
     </author>
-    <date year="2021" month="November" day="25"/>
+    <date year="2022" month="July" day="13"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-alreq-gap-20211125"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-alreq-gap-20220713"/>
 </reference>
