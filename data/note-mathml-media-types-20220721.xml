@@ -1,0 +1,11 @@
+<reference anchor="W3C.NOTE-mathml-media-types-20220721" target="https://www.w3.org/TR/2022/NOTE-mathml-media-types-20220721/">
+  <front>
+    <title>MathML Media-type Declarations</title>
+    <author role="editor" fullname="Paul Libbrecht">
+      <organization/>
+    </author>
+    <date year="2022" month="July" day="21"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mathml-media-types-20220721"/>
+</reference>
