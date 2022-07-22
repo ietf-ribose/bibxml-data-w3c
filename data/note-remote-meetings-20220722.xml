@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-remote-meetings-20220517" target="https://www.w3.org/TR/2022/DNOTE-remote-meetings-20220517/">
+<reference anchor="W3C.NOTE-remote-meetings-20220722" target="https://www.w3.org/TR/2022/NOTE-remote-meetings-20220722/">
   <front>
     <title>Accessibility of Remote Meetings</title>
     <author role="editor" fullname="Janina Sajka">
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Steve Noble">
       <organization/>
     </author>
-    <date year="2022" month="May" day="17"/>
+    <date year="2022" month="July" day="22"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-remote-meetings-20220517"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-remote-meetings-20220722"/>
 </reference>
