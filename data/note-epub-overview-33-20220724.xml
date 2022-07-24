@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-epub-overview-33-20220519" target="https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220519/">
+<reference anchor="W3C.NOTE-epub-overview-33-20220724" target="https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220724/">
   <front>
     <title>EPUB 3 Overview</title>
     <author role="editor" fullname="Ivan Herman">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Matt Garrish">
       <organization/>
     </author>
-    <date year="2022" month="May" day="19"/>
+    <date year="2022" month="July" day="24"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-epub-overview-33-20220519"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-overview-33-20220724"/>
 </reference>
