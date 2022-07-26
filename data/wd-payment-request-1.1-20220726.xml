@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-payment-request-1.1-20220726" target="https://www.w3.org/TR/2022/WD-payment-request-1.1-20220726/">
+  <front>
+    <title>Payment Request API 1.1</title>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rouslan Solomakhin">
+      <organization/>
+    </author>
+    <date year="2022" month="July" day="26"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-payment-request-1.1-20220726"/>
+</reference>
