@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-wot-thing-description11-20220311" target="https://www.w3.org/TR/2022/WD-wot-thing-description11-20220311/">
+<reference anchor="W3C.WD-wot-thing-description11-20220803" target="https://www.w3.org/TR/2022/WD-wot-thing-description11-20220803/">
   <front>
     <title>Web of Things (WoT) Thing Description 1.1</title>
     <author role="editor" fullname="Michael McCool">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Victor Charpenay">
       <organization/>
     </author>
-    <date year="2022" month="March" day="11"/>
+    <date year="2022" month="August" day="3"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wot-thing-description11-20220311"/>
+  <seriesInfo name="W3C WD" value="WD-wot-thing-description11-20220803"/>
 </reference>
