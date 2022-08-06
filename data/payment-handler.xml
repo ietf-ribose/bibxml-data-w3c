@@ -2,5 +2,5 @@
   <front>
     <title>Payment Handler API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="payment-handler"/>
+  <seriesInfo name="W3C WD" value="payment-handler"/>
 </reference>

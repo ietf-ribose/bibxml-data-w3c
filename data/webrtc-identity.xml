@@ -2,5 +2,5 @@
   <front>
     <title>Identity for WebRTC 1.0</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webrtc-identity"/>
+  <seriesInfo name="W3C CR" value="webrtc-identity"/>
 </reference>

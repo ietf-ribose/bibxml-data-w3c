@@ -2,5 +2,5 @@
   <front>
     <title>A Direct Mapping of Relational Data to RDF</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdb-direct-mapping"/>
+  <seriesInfo name="W3C REC" value="rdb-direct-mapping"/>
 </reference>

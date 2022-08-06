@@ -2,5 +2,5 @@
   <front>
     <title>Test cases for Canonical XML 2.0</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xml-c14n2-testcases"/>
+  <seriesInfo name="W3C NOTE" value="xml-c14n2-testcases"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>ISO Common Encryption ('cenc') Protection Scheme for ISO Base Media File Format Stream Format</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="eme-stream-mp4"/>
+  <seriesInfo name="W3C NOTE" value="eme-stream-mp4"/>
 </reference>

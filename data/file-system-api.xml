@@ -2,5 +2,5 @@
   <front>
     <title>File API: Directories and System</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="file-system-api"/>
+  <seriesInfo name="W3C NOTE" value="file-system-api"/>
 </reference>

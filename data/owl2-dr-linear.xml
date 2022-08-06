@@ -2,5 +2,5 @@
   <front>
     <title>OWL 2 Web Ontology Language Data Range Extension: Linear Equations (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="owl2-dr-linear"/>
+  <seriesInfo name="W3C NOTE" value="owl2-dr-linear"/>
 </reference>

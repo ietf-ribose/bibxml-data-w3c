@@ -2,5 +2,5 @@
   <front>
     <title>Dublin Core to PROV Mapping</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="prov-dc"/>
+  <seriesInfo name="W3C NOTE" value="prov-dc"/>
 </reference>

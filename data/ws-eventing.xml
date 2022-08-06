@@ -2,5 +2,5 @@
   <front>
     <title>Web Services Eventing (WS-Eventing)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="ws-eventing"/>
+  <seriesInfo name="W3C REC" value="ws-eventing"/>
 </reference>

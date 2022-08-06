@@ -2,5 +2,5 @@
   <front>
     <title>Use Cases and Requirements for Decentralized Identifiers</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="did-use-cases"/>
+  <seriesInfo name="W3C NOTE" value="did-use-cases"/>
 </reference>

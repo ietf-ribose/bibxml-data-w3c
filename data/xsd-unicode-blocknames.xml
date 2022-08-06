@@ -2,5 +2,5 @@
   <front>
     <title>Unicode block names for use in XSD regular expressions</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xsd-unicode-blocknames"/>
+  <seriesInfo name="W3C NOTE" value="xsd-unicode-blocknames"/>
 </reference>

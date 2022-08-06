@@ -2,5 +2,5 @@
   <front>
     <title>Verifiable Credentials Data Model v1.1</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="vc-data-model"/>
+  <seriesInfo name="W3C REC" value="vc-data-model"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Document Templating Steps for XProc</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xproc-template"/>
+  <seriesInfo name="W3C NOTE" value="xproc-template"/>
 </reference>

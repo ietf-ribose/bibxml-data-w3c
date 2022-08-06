@@ -2,5 +2,5 @@
   <front>
     <title>SPARQL 1.1 Query Language</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="sparql11-query"/>
+  <seriesInfo name="W3C REC" value="sparql11-query"/>
 </reference>

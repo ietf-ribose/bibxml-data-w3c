@@ -2,5 +2,5 @@
   <front>
     <title>TTML Media Type Definition and Profile Registry</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="ttml-profile-registry"/>
+  <seriesInfo name="W3C NOTE" value="ttml-profile-registry"/>
 </reference>

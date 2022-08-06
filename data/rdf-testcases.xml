@@ -2,5 +2,5 @@
   <front>
     <title>RDF Test Cases</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdf-testcases"/>
+  <seriesInfo name="W3C REC" value="rdf-testcases"/>
 </reference>

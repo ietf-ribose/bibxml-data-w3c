@@ -2,5 +2,5 @@
   <front>
     <title>RIF In RDF (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rif-in-rdf"/>
+  <seriesInfo name="W3C NOTE" value="rif-in-rdf"/>
 </reference>

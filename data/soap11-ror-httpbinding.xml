@@ -2,5 +2,5 @@
   <front>
     <title>SOAP 1.1 Request Optional Response HTTP Binding</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="soap11-ror-httpbinding"/>
+  <seriesInfo name="W3C NOTE" value="soap11-ror-httpbinding"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>A transcript extension for HTML</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="html-transcript-src"/>
+  <seriesInfo name="W3C NOTE" value="html-transcript-src"/>
 </reference>

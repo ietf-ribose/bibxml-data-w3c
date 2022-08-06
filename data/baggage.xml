@@ -2,5 +2,5 @@
   <front>
     <title>Propagation format for distributed context: Baggage</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="baggage"/>
+  <seriesInfo name="W3C WD" value="baggage"/>
 </reference>

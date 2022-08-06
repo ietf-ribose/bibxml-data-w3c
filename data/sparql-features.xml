@@ -2,5 +2,5 @@
   <front>
     <title>SPARQL New Features and Rationale</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="sparql-features"/>
+  <seriesInfo name="W3C WD" value="sparql-features"/>
 </reference>

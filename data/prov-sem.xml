@@ -2,5 +2,5 @@
   <front>
     <title>Semantics of the PROV Data Model</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="prov-sem"/>
+  <seriesInfo name="W3C NOTE" value="prov-sem"/>
 </reference>

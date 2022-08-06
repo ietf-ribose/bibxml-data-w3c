@@ -2,5 +2,5 @@
   <front>
     <title>Extensions to the OWL-Time Ontology - temporal aggregates</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="vocab-owl-time-agg"/>
+  <seriesInfo name="W3C NOTE" value="vocab-owl-time-agg"/>
 </reference>

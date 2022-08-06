@@ -2,5 +2,5 @@
   <front>
     <title>Serializing SPARQL Query Results in JSON</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdf-sparql-json-res"/>
+  <seriesInfo name="W3C NOTE" value="rdf-sparql-json-res"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>XHTML 1.0 in XML Schema</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xhtml1-schema"/>
+  <seriesInfo name="W3C NOTE" value="xhtml1-schema"/>
 </reference>

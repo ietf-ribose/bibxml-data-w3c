@@ -2,5 +2,5 @@
   <front>
     <title>SPARQL Protocol for RDF Using WSDL 1.1</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="sprot11"/>
+  <seriesInfo name="W3C WD" value="sprot11"/>
 </reference>

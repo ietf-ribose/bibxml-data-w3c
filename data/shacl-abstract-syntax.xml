@@ -2,5 +2,5 @@
   <front>
     <title>SHACL Abstract Syntax -- Note on Status of Obsolete Proposal</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="shacl-abstract-syntax"/>
+  <seriesInfo name="W3C NOTE" value="shacl-abstract-syntax"/>
 </reference>

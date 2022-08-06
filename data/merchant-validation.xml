@@ -2,5 +2,5 @@
   <front>
     <title>The MerchantValidationEvent interface</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="merchant-validation"/>
+  <seriesInfo name="W3C NOTE" value="merchant-validation"/>
 </reference>

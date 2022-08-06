@@ -2,5 +2,5 @@
   <front>
     <title>Web of Things (WoT) Security and Privacy Guidelines</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wot-security"/>
+  <seriesInfo name="W3C NOTE" value="wot-security"/>
 </reference>

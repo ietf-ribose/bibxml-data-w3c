@@ -2,5 +2,5 @@
   <front>
     <title>SPARQL Protocol for RDF</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdf-sparql-protocol"/>
+  <seriesInfo name="W3C REC" value="rdf-sparql-protocol"/>
 </reference>

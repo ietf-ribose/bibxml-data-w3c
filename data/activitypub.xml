@@ -2,5 +2,5 @@
   <front>
     <title>ActivityPub</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="activitypub"/>
+  <seriesInfo name="W3C REC" value="activitypub"/>
 </reference>

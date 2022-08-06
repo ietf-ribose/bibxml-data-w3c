@@ -2,5 +2,5 @@
   <front>
     <title>Pick Contacts Intent</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="contacts-api"/>
+  <seriesInfo name="W3C NOTE" value="contacts-api"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>WebAssembly Core Specification</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wasm-core-2"/>
+  <seriesInfo name="W3C WD" value="wasm-core-2"/>
 </reference>

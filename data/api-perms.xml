@@ -2,5 +2,5 @@
   <front>
     <title>Permissions for Device API Access</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="api-perms"/>
+  <seriesInfo name="W3C NOTE" value="api-perms"/>
 </reference>

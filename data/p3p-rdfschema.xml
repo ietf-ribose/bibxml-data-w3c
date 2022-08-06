@@ -2,5 +2,5 @@
   <front>
     <title>An RDF Schema for P3P</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="p3p-rdfschema"/>
+  <seriesInfo name="W3C NOTE" value="p3p-rdfschema"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Gleaning Resource Descriptions from Dialects of Languages (GRDDL)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="grddl"/>
+  <seriesInfo name="W3C REC" value="grddl"/>
 </reference>

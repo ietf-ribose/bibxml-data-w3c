@@ -2,5 +2,5 @@
   <front>
     <title>MediaStream Processing API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="streamproc"/>
+  <seriesInfo name="W3C NOTE" value="streamproc"/>
 </reference>

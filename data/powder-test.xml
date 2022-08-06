@@ -2,5 +2,5 @@
   <front>
     <title>Protocol for Web Description Resources (POWDER): Test Suite</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="powder-test"/>
+  <seriesInfo name="W3C NOTE" value="powder-test"/>
 </reference>

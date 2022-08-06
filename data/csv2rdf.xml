@@ -2,5 +2,5 @@
   <front>
     <title>Generating RDF from Tabular Data on the Web</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="csv2rdf"/>
+  <seriesInfo name="W3C REC" value="csv2rdf"/>
 </reference>

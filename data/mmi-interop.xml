@@ -2,5 +2,5 @@
   <front>
     <title>MMI interoperability test report</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="mmi-interop"/>
+  <seriesInfo name="W3C NOTE" value="mmi-interop"/>
 </reference>

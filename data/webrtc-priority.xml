@@ -2,5 +2,5 @@
   <front>
     <title>WebRTC Priority Control API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webrtc-priority"/>
+  <seriesInfo name="W3C CR" value="webrtc-priority"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Geolocation Sensor</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="geolocation-sensor"/>
+  <seriesInfo name="W3C WD" value="geolocation-sensor"/>
 </reference>

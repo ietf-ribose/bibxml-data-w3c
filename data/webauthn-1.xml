@@ -2,5 +2,5 @@
   <front>
     <title>Web Authentication:An API for accessing Public Key Credentials Level 1</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webauthn-1"/>
+  <seriesInfo name="W3C REC" value="webauthn-1"/>
 </reference>

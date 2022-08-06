@@ -2,5 +2,5 @@
   <front>
     <title>MediaStreamTrack Insertable Media Processing using Streams</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="mediacapture-transform"/>
+  <seriesInfo name="W3C WD" value="mediacapture-transform"/>
 </reference>

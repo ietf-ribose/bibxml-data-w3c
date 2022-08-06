@@ -2,5 +2,5 @@
   <front>
     <title>WebGPU Shading Language</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="WGSL"/>
+  <seriesInfo name="W3C WD" value="WGSL"/>
 </reference>

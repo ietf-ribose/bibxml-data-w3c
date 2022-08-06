@@ -2,5 +2,5 @@
   <front>
     <title>Web Cryptography API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="WebCryptoAPI"/>
+  <seriesInfo name="W3C REC" value="WebCryptoAPI"/>
 </reference>

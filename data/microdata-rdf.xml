@@ -2,5 +2,5 @@
   <front>
     <title>Microdata to RDF – Second Edition</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="microdata-rdf"/>
+  <seriesInfo name="W3C NOTE" value="microdata-rdf"/>
 </reference>

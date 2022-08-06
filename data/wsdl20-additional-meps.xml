@@ -2,5 +2,5 @@
   <front>
     <title>Web Services Description Language (WSDL) Version 2.0: Additional MEPs</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wsdl20-additional-meps"/>
+  <seriesInfo name="W3C NOTE" value="wsdl20-additional-meps"/>
 </reference>

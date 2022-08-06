@@ -2,5 +2,5 @@
   <front>
     <title>Encrypted Media Extensions Initialization Data Format Registry</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="eme-initdata-registry"/>
+  <seriesInfo name="W3C NOTE" value="eme-initdata-registry"/>
 </reference>

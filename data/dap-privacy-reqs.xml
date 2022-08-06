@@ -2,5 +2,5 @@
   <front>
     <title>Device API Privacy Requirements</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="dap-privacy-reqs"/>
+  <seriesInfo name="W3C NOTE" value="dap-privacy-reqs"/>
 </reference>

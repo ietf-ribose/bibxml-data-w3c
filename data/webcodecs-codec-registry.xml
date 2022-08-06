@@ -2,5 +2,5 @@
   <front>
     <title>WebCodecs Codec Registry</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webcodecs-codec-registry"/>
+  <seriesInfo name="W3C NOTE" value="webcodecs-codec-registry"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Web Services Description Language (WSDL) Version 2.0 SOAP 1.1 Binding</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wsdl20-soap11-binding"/>
+  <seriesInfo name="W3C NOTE" value="wsdl20-soap11-binding"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>A-law PCM WebCodecs Registration</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webcodecs-alaw-codec-registration"/>
+  <seriesInfo name="W3C NOTE" value="webcodecs-alaw-codec-registration"/>
 </reference>

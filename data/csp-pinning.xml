@@ -2,5 +2,5 @@
   <front>
     <title>Content Security Policy Pinning</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="csp-pinning"/>
+  <seriesInfo name="W3C NOTE" value="csp-pinning"/>
 </reference>

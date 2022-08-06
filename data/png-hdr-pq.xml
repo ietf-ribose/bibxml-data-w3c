@@ -2,5 +2,5 @@
   <front>
     <title>Using the ITU BT.2100 PQ EOTF with the PNG Format</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="png-hdr-pq"/>
+  <seriesInfo name="W3C NOTE" value="png-hdr-pq"/>
 </reference>

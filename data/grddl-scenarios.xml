@@ -2,5 +2,5 @@
   <front>
     <title>GRDDL Use Cases: Scenarios of extracting RDF data from XML documents</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="grddl-scenarios"/>
+  <seriesInfo name="W3C NOTE" value="grddl-scenarios"/>
 </reference>

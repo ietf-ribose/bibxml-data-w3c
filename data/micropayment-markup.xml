@@ -2,5 +2,5 @@
   <front>
     <title>Common Markup for micropayment per-fee-links</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="Micropayment-Markup"/>
+  <seriesInfo name="W3C WD" value="Micropayment-Markup"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Using XML Digital Signatures in the 2006 XML Environment</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="DSig-usage"/>
+  <seriesInfo name="W3C NOTE" value="DSig-usage"/>
 </reference>

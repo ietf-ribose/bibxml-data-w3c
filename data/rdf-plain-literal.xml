@@ -2,5 +2,5 @@
   <front>
     <title>rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdf-plain-literal"/>
+  <seriesInfo name="W3C REC" value="rdf-plain-literal"/>
 </reference>

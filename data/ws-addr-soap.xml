@@ -2,5 +2,5 @@
   <front>
     <title>Web Services Addressing 1.0 - SOAP Binding</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="ws-addr-soap"/>
+  <seriesInfo name="W3C REC" value="ws-addr-soap"/>
 </reference>

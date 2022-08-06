@@ -2,5 +2,5 @@
   <front>
     <title>EPUB 3 Text-to-Speech Enhancements 1.0</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="epub-tts-10"/>
+  <seriesInfo name="W3C NOTE" value="epub-tts-10"/>
 </reference>

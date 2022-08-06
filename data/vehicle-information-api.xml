@@ -2,5 +2,5 @@
   <front>
     <title>Vehicle Information API Specification</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="vehicle-information-api"/>
+  <seriesInfo name="W3C NOTE" value="vehicle-information-api"/>
 </reference>

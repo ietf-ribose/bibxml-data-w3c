@@ -2,5 +2,5 @@
   <front>
     <title>Ambient Light Sensor</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="ambient-light"/>
+  <seriesInfo name="W3C WD" value="ambient-light"/>
 </reference>

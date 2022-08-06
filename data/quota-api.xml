@@ -2,5 +2,5 @@
   <front>
     <title>Quota Management API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="quota-api"/>
+  <seriesInfo name="W3C NOTE" value="quota-api"/>
 </reference>

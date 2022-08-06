@@ -2,5 +2,5 @@
   <front>
     <title>Contacts Manager API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="contacts-manager-api"/>
+  <seriesInfo name="W3C NOTE" value="contacts-manager-api"/>
 </reference>

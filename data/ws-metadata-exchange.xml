@@ -2,5 +2,5 @@
   <front>
     <title>Web Services Metadata Exchange (WS-MetadataExchange)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="ws-metadata-exchange"/>
+  <seriesInfo name="W3C REC" value="ws-metadata-exchange"/>
 </reference>

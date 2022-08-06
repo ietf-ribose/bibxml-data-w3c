@@ -2,5 +2,5 @@
   <front>
     <title>Programmable HTTP Caching and Serving</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="DataCache"/>
+  <seriesInfo name="W3C NOTE" value="DataCache"/>
 </reference>

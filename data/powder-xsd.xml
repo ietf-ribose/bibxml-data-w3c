@@ -2,5 +2,5 @@
   <front>
     <title>Protocol for Web Description Resources (POWDER): Web Description Resources Datatypes (WDRD)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="powder-xsd"/>
+  <seriesInfo name="W3C WD" value="powder-xsd"/>
 </reference>

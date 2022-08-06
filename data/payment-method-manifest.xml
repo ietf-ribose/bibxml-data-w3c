@@ -2,5 +2,5 @@
   <front>
     <title>Payment Method Manifest</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="payment-method-manifest"/>
+  <seriesInfo name="W3C WD" value="payment-method-manifest"/>
 </reference>

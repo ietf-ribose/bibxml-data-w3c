@@ -2,5 +2,5 @@
   <front>
     <title>Evaluation and Report Language (EARL) 1.0 Schema</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="EARL10-Schema"/>
+  <seriesInfo name="W3C NOTE" value="EARL10-Schema"/>
 </reference>

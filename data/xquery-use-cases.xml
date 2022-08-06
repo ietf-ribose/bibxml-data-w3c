@@ -2,5 +2,5 @@
   <front>
     <title>XML Query Use Cases</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xquery-use-cases"/>
+  <seriesInfo name="W3C NOTE" value="xquery-use-cases"/>
 </reference>

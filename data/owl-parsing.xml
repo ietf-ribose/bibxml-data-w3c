@@ -2,5 +2,5 @@
   <front>
     <title>OWL Web Ontology Language Parsing OWL in RDF/XML</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="owl-parsing"/>
+  <seriesInfo name="W3C NOTE" value="owl-parsing"/>
 </reference>

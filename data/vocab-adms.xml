@@ -2,5 +2,5 @@
   <front>
     <title>Asset Description Metadata Schema (ADMS)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="vocab-adms"/>
+  <seriesInfo name="W3C NOTE" value="vocab-adms"/>
 </reference>

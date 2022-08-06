@@ -2,5 +2,5 @@
   <front>
     <title>Building a Tokenizer for XPath or XQuery</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xquery-xpath-parsing"/>
+  <seriesInfo name="W3C WD" value="xquery-xpath-parsing"/>
 </reference>

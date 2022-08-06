@@ -2,5 +2,5 @@
   <front>
     <title>ISO BMFF Byte Stream Format</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="mse-byte-stream-format-isobmff"/>
+  <seriesInfo name="W3C NOTE" value="mse-byte-stream-format-isobmff"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Web Audio Processing: Use Cases and Requirements</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webaudio-usecases"/>
+  <seriesInfo name="W3C NOTE" value="webaudio-usecases"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Cross-Origin Resource Sharing</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="cors"/>
+  <seriesInfo name="W3C REC" value="cors"/>
 </reference>

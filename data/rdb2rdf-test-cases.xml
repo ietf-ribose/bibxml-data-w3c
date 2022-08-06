@@ -2,5 +2,5 @@
   <front>
     <title>R2RML and Direct Mapping Test Cases</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdb2rdf-test-cases"/>
+  <seriesInfo name="W3C NOTE" value="rdb2rdf-test-cases"/>
 </reference>

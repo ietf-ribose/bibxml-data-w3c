@@ -2,5 +2,5 @@
   <front>
     <title>SSML 1.0 say-as attribute values</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="ssml-sayas"/>
+  <seriesInfo name="W3C NOTE" value="ssml-sayas"/>
 </reference>

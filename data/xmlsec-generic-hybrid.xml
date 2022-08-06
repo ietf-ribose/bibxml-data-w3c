@@ -2,5 +2,5 @@
   <front>
     <title>XML Security Generic Hybrid Ciphers</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xmlsec-generic-hybrid"/>
+  <seriesInfo name="W3C NOTE" value="xmlsec-generic-hybrid"/>
 </reference>

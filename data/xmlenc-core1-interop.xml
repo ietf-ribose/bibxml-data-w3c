@@ -2,5 +2,5 @@
   <front>
     <title>XML Encryption 1.1 Interop Test Report</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xmlenc-core1-interop"/>
+  <seriesInfo name="W3C NOTE" value="xmlenc-core1-interop"/>
 </reference>

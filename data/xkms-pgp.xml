@@ -2,5 +2,5 @@
   <front>
     <title>Using XKMS with PGP</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xkms-pgp"/>
+  <seriesInfo name="W3C NOTE" value="xkms-pgp"/>
 </reference>

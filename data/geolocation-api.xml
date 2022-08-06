@@ -2,5 +2,5 @@
   <front>
     <title>Geolocation API Specification 2nd Edition</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="geolocation-API"/>
+  <seriesInfo name="W3C REC" value="geolocation-API"/>
 </reference>

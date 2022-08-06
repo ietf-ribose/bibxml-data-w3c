@@ -2,5 +2,5 @@
   <front>
     <title>JSON-LD 1.1 Processing Algorithms and API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="json-ld11-api"/>
+  <seriesInfo name="W3C REC" value="json-ld11-api"/>
 </reference>

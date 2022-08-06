@@ -2,5 +2,5 @@
   <front>
     <title>XML Signature Streaming Profile of XPath 1.0</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xmldsig-xpath"/>
+  <seriesInfo name="W3C NOTE" value="xmldsig-xpath"/>
 </reference>

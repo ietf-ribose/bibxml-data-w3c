@@ -2,5 +2,5 @@
   <front>
     <title>XML Key Management (XKMS 2.0) Requirements</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xkms2-req"/>
+  <seriesInfo name="W3C NOTE" value="xkms2-req"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>OWL 2 RL in RIF (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rif-owl-rl"/>
+  <seriesInfo name="W3C NOTE" value="rif-owl-rl"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>SPARQL 1.1 Graph Store HTTP Protocol</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="sparql11-http-rdf-update"/>
+  <seriesInfo name="W3C REC" value="sparql11-http-rdf-update"/>
 </reference>

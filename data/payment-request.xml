@@ -2,5 +2,5 @@
   <front>
     <title>Payment Request API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="payment-request"/>
+  <seriesInfo name="W3C PR" value="payment-request"/>
 </reference>

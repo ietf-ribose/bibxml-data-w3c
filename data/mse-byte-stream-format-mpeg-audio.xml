@@ -2,5 +2,5 @@
   <front>
     <title>MPEG Audio Byte Stream Format</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="mse-byte-stream-format-mpeg-audio"/>
+  <seriesInfo name="W3C NOTE" value="mse-byte-stream-format-mpeg-audio"/>
 </reference>

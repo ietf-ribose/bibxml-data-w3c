@@ -2,5 +2,5 @@
   <front>
     <title>SPARQL 1.1 Property Paths</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="sparql11-property-paths"/>
+  <seriesInfo name="W3C WD" value="sparql11-property-paths"/>
 </reference>

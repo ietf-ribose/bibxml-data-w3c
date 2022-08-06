@@ -2,5 +2,5 @@
   <front>
     <title>RDFa API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdfa-api"/>
+  <seriesInfo name="W3C NOTE" value="rdfa-api"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Web Services Event Descriptions (WS-EventDescriptions)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="ws-event-descriptions"/>
+  <seriesInfo name="W3C REC" value="ws-event-descriptions"/>
 </reference>

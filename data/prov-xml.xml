@@ -2,5 +2,5 @@
   <front>
     <title>PROV-XML: The PROV XML Schema</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="prov-xml"/>
+  <seriesInfo name="W3C NOTE" value="prov-xml"/>
 </reference>

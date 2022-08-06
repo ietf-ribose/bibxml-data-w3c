@@ -2,5 +2,5 @@
   <front>
     <title>The WebSocket API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="websockets"/>
+  <seriesInfo name="W3C NOTE" value="websockets"/>
 </reference>

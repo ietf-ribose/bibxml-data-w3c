@@ -2,5 +2,5 @@
   <front>
     <title>Task Scheduler API Specification</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="task-scheduler"/>
+  <seriesInfo name="W3C NOTE" value="task-scheduler"/>
 </reference>

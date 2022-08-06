@@ -2,5 +2,5 @@
   <front>
     <title>SPARQL 1.1 Protocol</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="sparql11-protocol"/>
+  <seriesInfo name="W3C REC" value="sparql11-protocol"/>
 </reference>

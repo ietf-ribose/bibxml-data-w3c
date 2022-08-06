@@ -2,5 +2,5 @@
   <front>
     <title>What’s New in RDF 1.1</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="rdf11-new"/>
+  <seriesInfo name="W3C NOTE" value="rdf11-new"/>
 </reference>

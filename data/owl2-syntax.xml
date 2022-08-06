@@ -2,5 +2,5 @@
   <front>
     <title>OWL 2 Web Ontology Language Structural Specification and Functional-Style Syntax (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="owl2-syntax"/>
+  <seriesInfo name="W3C REC" value="owl2-syntax"/>
 </reference>

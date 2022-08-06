@@ -2,5 +2,5 @@
   <front>
     <title>Speech Synthesis Markup Requirements for Voice Markup Languages</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="voice-tts-reqs"/>
+  <seriesInfo name="W3C WD" value="voice-tts-reqs"/>
 </reference>

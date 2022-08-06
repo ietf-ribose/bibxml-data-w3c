@@ -2,5 +2,5 @@
   <front>
     <title>PROV-Dictionary: Modeling Provenance for Dictionary Data Structures</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="prov-dictionary"/>
+  <seriesInfo name="W3C NOTE" value="prov-dictionary"/>
 </reference>

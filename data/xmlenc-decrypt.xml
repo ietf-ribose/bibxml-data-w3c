@@ -2,5 +2,5 @@
   <front>
     <title>Decryption Transform for XML Signature</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xmlenc-decrypt"/>
+  <seriesInfo name="W3C REC" value="xmlenc-decrypt"/>
 </reference>

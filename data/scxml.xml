@@ -2,5 +2,5 @@
   <front>
     <title>State Chart XML (SCXML): State Machine Notation for Control Abstraction</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="scxml"/>
+  <seriesInfo name="W3C REC" value="scxml"/>
 </reference>

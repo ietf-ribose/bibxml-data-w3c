@@ -2,5 +2,5 @@
   <front>
     <title>Referrer Policy</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="referrer-policy"/>
+  <seriesInfo name="W3C CR" value="referrer-policy"/>
 </reference>

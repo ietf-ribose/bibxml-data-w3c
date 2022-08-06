@@ -2,5 +2,5 @@
   <front>
     <title>SOAP Version 1.2 Part 1: Messaging Framework (Second Edition)</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="soap12-part1"/>
+  <seriesInfo name="W3C REC" value="soap12-part1"/>
 </reference>

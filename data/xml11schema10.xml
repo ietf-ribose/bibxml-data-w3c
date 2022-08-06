@@ -2,5 +2,5 @@
   <front>
     <title>Processing XML 1.1 documents with XML Schema 1.0 processors</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xml11schema10"/>
+  <seriesInfo name="W3C NOTE" value="xml11schema10"/>
 </reference>

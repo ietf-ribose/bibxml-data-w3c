@@ -2,5 +2,5 @@
   <front>
     <title>WebGPU</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webgpu"/>
+  <seriesInfo name="W3C WD" value="webgpu"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>RDF 1.1 N-Triples</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="n-triples"/>
+  <seriesInfo name="W3C REC" value="n-triples"/>
 </reference>

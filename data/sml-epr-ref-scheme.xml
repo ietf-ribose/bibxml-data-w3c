@@ -2,5 +2,5 @@
   <front>
     <title>Framework for SML EPR-Based Reference Schemes</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="sml-epr-ref-scheme"/>
+  <seriesInfo name="W3C NOTE" value="sml-epr-ref-scheme"/>
 </reference>

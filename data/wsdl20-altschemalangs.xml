@@ -2,5 +2,5 @@
   <front>
     <title>Discussion of Alternative Schema Languages and Type System Support in WSDL 2.0</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wsdl20-altschemalangs"/>
+  <seriesInfo name="W3C NOTE" value="wsdl20-altschemalangs"/>
 </reference>

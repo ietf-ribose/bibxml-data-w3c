@@ -2,5 +2,5 @@
   <front>
     <title>Introduction to Web Components</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="components-intro"/>
+  <seriesInfo name="W3C NOTE" value="components-intro"/>
 </reference>

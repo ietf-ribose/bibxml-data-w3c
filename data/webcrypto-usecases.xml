@@ -2,5 +2,5 @@
   <front>
     <title>Web Cryptography API Use Cases</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webcrypto-usecases"/>
+  <seriesInfo name="W3C NOTE" value="webcrypto-usecases"/>
 </reference>

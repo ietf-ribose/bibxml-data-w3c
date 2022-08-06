@@ -2,5 +2,5 @@
   <front>
     <title>XML Digital Signatures for Widgets</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="widgets-digsig"/>
+  <seriesInfo name="W3C REC" value="widgets-digsig"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>An XSD datatype for IEEE floating-point decimal</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xsd-precisionDecimal"/>
+  <seriesInfo name="W3C NOTE" value="xsd-precisionDecimal"/>
 </reference>

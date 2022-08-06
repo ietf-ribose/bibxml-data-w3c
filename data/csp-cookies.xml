@@ -2,5 +2,5 @@
   <front>
     <title>Content Security Policy: Cookie Controls</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="csp-cookies"/>
+  <seriesInfo name="W3C NOTE" value="csp-cookies"/>
 </reference>

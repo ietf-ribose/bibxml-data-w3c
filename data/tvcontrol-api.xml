@@ -2,5 +2,5 @@
   <front>
     <title>TV Control API Specification</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="tvcontrol-api"/>
+  <seriesInfo name="W3C NOTE" value="tvcontrol-api"/>
 </reference>

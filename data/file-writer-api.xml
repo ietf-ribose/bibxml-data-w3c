@@ -2,5 +2,5 @@
   <front>
     <title>File API: Writer</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="file-writer-api"/>
+  <seriesInfo name="W3C NOTE" value="file-writer-api"/>
 </reference>

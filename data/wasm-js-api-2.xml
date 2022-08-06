@@ -2,5 +2,5 @@
   <front>
     <title>WebAssembly JavaScript Interface</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wasm-js-api-2"/>
+  <seriesInfo name="W3C WD" value="wasm-js-api-2"/>
 </reference>

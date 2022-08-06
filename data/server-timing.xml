@@ -2,5 +2,5 @@
   <front>
     <title>Server Timing</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="server-timing"/>
+  <seriesInfo name="W3C WD" value="server-timing"/>
 </reference>

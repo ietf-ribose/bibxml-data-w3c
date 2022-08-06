@@ -2,5 +2,5 @@
   <front>
     <title>Linear PCM WebCodecs Registration</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="webcodecs-pcm-codec-registration"/>
+  <seriesInfo name="W3C NOTE" value="webcodecs-pcm-codec-registration"/>
 </reference>

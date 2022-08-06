@@ -2,5 +2,5 @@
   <front>
     <title>SOAP 1.2 Part 3: One-Way MEP</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="soap12-part3"/>
+  <seriesInfo name="W3C NOTE" value="soap12-part3"/>
 </reference>

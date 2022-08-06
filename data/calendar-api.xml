@@ -2,5 +2,5 @@
   <front>
     <title>Calendar API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="calendar-api"/>
+  <seriesInfo name="W3C NOTE" value="calendar-api"/>
 </reference>

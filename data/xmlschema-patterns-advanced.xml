@@ -2,5 +2,5 @@
   <front>
     <title>Advanced XML Schema Patterns for Databinding Version 1.0</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xmlschema-patterns-advanced"/>
+  <seriesInfo name="W3C NOTE" value="xmlschema-patterns-advanced"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>XML Signature Syntax and Processing Version 1.1</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xmldsig-core1"/>
+  <seriesInfo name="W3C REC" value="xmldsig-core1"/>
 </reference>

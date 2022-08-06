@@ -2,5 +2,5 @@
   <front>
     <title>The Messaging API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="messaging-api"/>
+  <seriesInfo name="W3C NOTE" value="messaging-api"/>
 </reference>

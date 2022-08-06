@@ -2,5 +2,5 @@
   <front>
     <title>WSDL 1.1 Element Identifiers</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wsdl11elementidentifiers"/>
+  <seriesInfo name="W3C NOTE" value="wsdl11elementidentifiers"/>
 </reference>

@@ -2,5 +2,5 @@
   <front>
     <title>Web Publications</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wpub"/>
+  <seriesInfo name="W3C NOTE" value="wpub"/>
 </reference>

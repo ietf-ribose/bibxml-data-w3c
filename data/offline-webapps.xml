@@ -2,5 +2,5 @@
   <front>
     <title>Offline Web Applications</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="offline-webapps"/>
+  <seriesInfo name="W3C NOTE" value="offline-webapps"/>
 </reference>

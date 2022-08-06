@@ -2,5 +2,5 @@
   <front>
     <title>MTOM Serialization Policy Assertion 1.1</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="soap12-mtom-policy"/>
+  <seriesInfo name="W3C WD" value="soap12-mtom-policy"/>
 </reference>

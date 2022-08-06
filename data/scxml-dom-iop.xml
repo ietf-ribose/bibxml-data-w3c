@@ -2,5 +2,5 @@
   <front>
     <title>DOM Event I/O Processor for SCXML</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="scxml-dom-iop"/>
+  <seriesInfo name="W3C NOTE" value="scxml-dom-iop"/>
 </reference>

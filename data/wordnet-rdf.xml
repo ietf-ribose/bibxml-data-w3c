@@ -2,5 +2,5 @@
   <front>
     <title>RDF/OWL Representation of WordNet</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="wordnet-rdf"/>
+  <seriesInfo name="W3C WD" value="wordnet-rdf"/>
 </reference>

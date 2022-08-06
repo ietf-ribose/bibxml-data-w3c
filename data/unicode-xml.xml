@@ -2,5 +2,5 @@
   <front>
     <title>Unicode in XML and other Markup Languages</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="unicode-xml"/>
+  <seriesInfo name="W3C NOTE" value="unicode-xml"/>
 </reference>

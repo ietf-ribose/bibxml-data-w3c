@@ -2,5 +2,5 @@
   <front>
     <title>SOAP Version 1.2 Message Normalization</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="soap12-n11n"/>
+  <seriesInfo name="W3C NOTE" value="soap12-n11n"/>
 </reference>

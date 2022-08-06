@@ -2,5 +2,5 @@
   <front>
     <title>XML Encryption 1.1 CipherReference Processing using 2.0 Transforms</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="xmlenc-transform20"/>
+  <seriesInfo name="W3C NOTE" value="xmlenc-transform20"/>
 </reference>

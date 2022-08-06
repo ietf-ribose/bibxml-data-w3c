@@ -2,5 +2,5 @@
   <front>
     <title>Screen Wake Lock API</title>
   </front>
-  <seriesInfo name="W3C technicalReport" value="screen-wake-lock"/>
+  <seriesInfo name="W3C WD" value="screen-wake-lock"/>
 </reference>
