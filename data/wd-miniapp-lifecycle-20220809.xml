@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-miniapp-lifecycle-20220719" target="https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20220719/">
+<reference anchor="W3C.WD-miniapp-lifecycle-20220809" target="https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20220809/">
   <front>
     <title>MiniApp Lifecycle</title>
     <author role="editor" fullname="Haoyang Xu">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Qing An">
       <organization/>
     </author>
-    <date year="2022" month="July" day="19"/>
+    <date year="2022" month="August" day="9"/>
     <workgroup>MiniApps Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-miniapp-lifecycle-20220719"/>
+  <seriesInfo name="W3C WD" value="WD-miniapp-lifecycle-20220809"/>
 </reference>
