@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-webcodecs-flac-codec-registration-20220817" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-flac-codec-registration-20220817/">
+<reference anchor="W3C.DNOTE-webcodecs-mp3-codec-registration-20220819" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-mp3-codec-registration-20220819/">
   <front>
-    <title>FLAC WebCodecs Registration</title>
+    <title>MP3 WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="August" day="17"/>
+    <date year="2022" month="August" day="19"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-flac-codec-registration-20220817"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-mp3-codec-registration-20220819"/>
 </reference>
