@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-naur-20220722" target="https://www.w3.org/TR/2022/DNOTE-naur-20220722/">
+<reference anchor="W3C.DNOTE-naur-20220903" target="https://www.w3.org/TR/2022/DNOTE-naur-20220903/">
   <front>
     <title>Natural Language Interface Accessibility User Requirements</title>
     <author role="editor" fullname="Jason White">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Joshue O'Connor">
       <organization/>
     </author>
-    <date year="2022" month="July" day="22"/>
+    <date year="2022" month="September" day="3"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-naur-20220722"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-naur-20220903"/>
 </reference>
