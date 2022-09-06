@@ -1,0 +1,11 @@
+<reference anchor="W3C.CRD-remote-playback-20220905" target="https://www.w3.org/TR/2022/CRD-remote-playback-20220905/">
+  <front>
+    <title>Remote Playback API</title>
+    <author role="editor" fullname="Mark Foltz">
+      <organization/>
+    </author>
+    <date year="2022" month="September" day="5"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-remote-playback-20220905"/>
+</reference>
