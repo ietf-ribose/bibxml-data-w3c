@@ -1,4 +1,4 @@
-<reference anchor="W3C.PR-payment-request-20210930" target="https://www.w3.org/TR/2021/PR-payment-request-20210930/">
+<reference anchor="W3C.REC-payment-request-20220908" target="https://www.w3.org/TR/2022/REC-payment-request-20220908/">
   <front>
     <title>Payment Request API</title>
     <author role="editor" fullname="Ian Jacobs">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Rouslan Solomakhin">
       <organization/>
     </author>
-    <date year="2021" month="September" day="30"/>
+    <date year="2022" month="September" day="8"/>
     <workgroup>Web Payments Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C PR" value="PR-payment-request-20210930"/>
+  <seriesInfo name="W3C REC" value="REC-payment-request-20220908"/>
 </reference>

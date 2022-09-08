@@ -1,0 +1,6 @@
+<reference anchor="W3C.mathml4" target="https://www.w3.org/TR/mathml4/">
+  <front>
+    <title>Mathematical Markup Language (MathML) Version 4.0</title>
+  </front>
+  <seriesInfo name="W3C WD" value="mathml4"/>
+</reference>
