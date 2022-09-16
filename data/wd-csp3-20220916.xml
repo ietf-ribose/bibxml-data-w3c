@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-CSP3-20220916" target="https://www.w3.org/TR/2022/WD-CSP3-20220916/">
+  <front>
+    <title>Content Security Policy Level 3</title>
+    <author role="editor" fullname="Antonio Sartori">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2022" month="September" day="16"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CSP3-20220916"/>
+</reference>
