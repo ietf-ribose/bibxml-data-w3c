@@ -1,0 +1,8 @@
+<reference anchor="W3C.WD-orientation-event-20220919" target="https://www.w3.org/TR/2022/WD-orientation-event-20220919/">
+  <front>
+    <title>DeviceOrientation Event Specification</title>
+    <date year="2022" month="September" day="19"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-orientation-event-20220919"/>
+</reference>
