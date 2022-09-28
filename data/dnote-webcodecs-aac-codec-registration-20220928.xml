@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-webcodecs-20220919" target="https://www.w3.org/TR/2022/WD-webcodecs-20220919/">
+<reference anchor="W3C.DNOTE-webcodecs-aac-codec-registration-20220928" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-aac-codec-registration-20220928/">
   <front>
-    <title>WebCodecs</title>
+    <title>AAC WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="September" day="19"/>
+    <date year="2022" month="September" day="28"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webcodecs-20220919"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-aac-codec-registration-20220928"/>
 </reference>
