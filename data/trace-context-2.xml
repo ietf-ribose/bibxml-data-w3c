@@ -1,0 +1,6 @@
+<reference anchor="W3C.trace-context-2" target="https://www.w3.org/TR/trace-context-2/">
+  <front>
+    <title>Trace Context Level 2</title>
+  </front>
+  <seriesInfo name="W3C WD" value="trace-context-2"/>
+</reference>
