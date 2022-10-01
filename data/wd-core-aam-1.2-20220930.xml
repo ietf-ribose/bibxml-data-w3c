@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-core-aam-1.2-20220915" target="https://www.w3.org/TR/2022/WD-core-aam-1.2-20220915/">
+<reference anchor="W3C.WD-core-aam-1.2-20220930" target="https://www.w3.org/TR/2022/WD-core-aam-1.2-20220930/">
   <front>
     <title>Core Accessibility API Mappings 1.2</title>
     <author role="editor" fullname="Alexander Surkov">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Michael Cooper">
       <organization/>
     </author>
-    <date year="2022" month="September" day="15"/>
+    <date year="2022" month="September" day="30"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-core-aam-1.2-20220915"/>
+  <seriesInfo name="W3C WD" value="WD-core-aam-1.2-20220930"/>
 </reference>
