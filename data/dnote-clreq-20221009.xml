@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-clreq-20220901" target="https://www.w3.org/TR/2022/DNOTE-clreq-20220901/">
+<reference anchor="W3C.DNOTE-clreq-20221009" target="https://www.w3.org/TR/2022/DNOTE-clreq-20221009/">
   <front>
     <title>Requirements for Chinese Text Layout - 中文排版需求</title>
     <author role="editor" fullname="Bobby Tung">
@@ -22,8 +22,8 @@
     <author role="editor" fullname="Zhengyu Qian">
       <organization/>
     </author>
-    <date year="2022" month="September" day="1"/>
+    <date year="2022" month="October" day="9"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-clreq-20220901"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-clreq-20221009"/>
 </reference>
