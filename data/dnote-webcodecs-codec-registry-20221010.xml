@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-webcodecs-vp8-codec-registration-20221006" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-vp8-codec-registration-20221006/">
+<reference anchor="W3C.DNOTE-webcodecs-codec-registry-20221010" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-codec-registry-20221010/">
   <front>
-    <title>VP8 WebCodecs Registration</title>
+    <title>WebCodecs Codec Registry</title>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="October" day="6"/>
+    <date year="2022" month="October" day="10"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-vp8-codec-registration-20221006"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-codec-registry-20221010"/>
 </reference>
