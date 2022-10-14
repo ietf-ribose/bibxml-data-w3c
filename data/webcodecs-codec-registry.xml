@@ -1,0 +1,6 @@
+<reference anchor="W3C.webcodecs-codec-registry" target="https://www.w3.org/TR/webcodecs-codec-registry/">
+  <front>
+    <title>WebCodecs Codec Registry</title>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcodecs-codec-registry"/>
+</reference>
