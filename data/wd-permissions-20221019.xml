@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-permissions-20220907" target="https://www.w3.org/TR/2022/WD-permissions-20220907/">
+<reference anchor="W3C.WD-permissions-20221019" target="https://www.w3.org/TR/2022/WD-permissions-20221019/">
   <front>
     <title>Permissions</title>
     <author role="editor" fullname="Marcos Caceres">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Mike Taylor">
       <organization/>
     </author>
-    <date year="2022" month="September" day="7"/>
+    <date year="2022" month="October" day="19"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-permissions-20220907"/>
+  <seriesInfo name="W3C WD" value="WD-permissions-20221019"/>
 </reference>

@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-webcodecs-aac-codec-registration-20221017" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-aac-codec-registration-20221017/">
+<reference anchor="W3C.DNOTE-webcodecs-vp9-codec-registration-20221018" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-vp9-codec-registration-20221018/">
   <front>
-    <title>AAC WebCodecs Registration</title>
+    <title>VP9 WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="October" day="17"/>
+    <date year="2022" month="October" day="18"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-aac-codec-registration-20221017"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-vp9-codec-registration-20221018"/>
 </reference>
