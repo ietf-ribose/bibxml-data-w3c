@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-webcodecs-opus-codec-registration-20221019" target="https://www.w3.org/TR/2022/DNOTE-webcodecs-opus-codec-registration-20221019/">
+<reference anchor="W3C.WD-webcodecs-20221020" target="https://www.w3.org/TR/2022/WD-webcodecs-20221020/">
   <front>
-    <title>Opus WebCodecs Registration</title>
+    <title>WebCodecs</title>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="October" day="19"/>
+    <date year="2022" month="October" day="20"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-opus-codec-registration-20221019"/>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-20221020"/>
 </reference>
