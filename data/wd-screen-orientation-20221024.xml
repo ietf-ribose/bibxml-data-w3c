@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-screen-orientation-20221024" target="https://www.w3.org/TR/2022/WD-screen-orientation-20221024/">
+  <front>
+    <title>The Screen Orientation API</title>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2022" month="October" day="24"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-screen-orientation-20221024"/>
+</reference>
