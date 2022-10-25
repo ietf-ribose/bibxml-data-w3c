@@ -1,0 +1,22 @@
+<reference anchor="W3C.WD-png-3-20221025" target="https://www.w3.org/TR/2022/WD-png-3-20221025/">
+  <front>
+    <title>Portable Network Graphics (PNG) Specification (Third Edition)</title>
+    <author role="editor" fullname="Chris Blume">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jen Williams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Leonard Rosenthol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pierre-Anthony Lemieux">
+      <organization/>
+    </author>
+    <date year="2022" month="October" day="25"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-png-3-20221025"/>
+</reference>
