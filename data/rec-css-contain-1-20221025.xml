@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-css-contain-1-20221025" target="https://www.w3.org/TR/2022/REC-css-contain-1-20221025/">
+  <front>
+    <title>CSS Containment Module Level 1</title>
+    <author role="editor" fullname="Florian Rivoal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2022" month="October" day="25"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C REC" value="REC-css-contain-1-20221025"/>
+</reference>
