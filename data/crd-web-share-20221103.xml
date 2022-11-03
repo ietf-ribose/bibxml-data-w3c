@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-web-share-20220921" target="https://www.w3.org/TR/2022/CRD-web-share-20220921/">
+<reference anchor="W3C.CRD-web-share-20221103" target="https://www.w3.org/TR/2022/CRD-web-share-20221103/">
   <front>
     <title>Web Share API</title>
     <author role="editor" fullname="Eric Willigers">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Matt Giuca">
       <organization/>
     </author>
-    <date year="2022" month="September" day="21"/>
+    <date year="2022" month="November" day="3"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-web-share-20220921"/>
+  <seriesInfo name="W3C CR" value="CRD-web-share-20221103"/>
 </reference>
