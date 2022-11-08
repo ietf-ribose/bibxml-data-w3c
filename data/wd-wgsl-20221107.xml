@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-WGSL-20221102" target="https://www.w3.org/TR/2022/WD-WGSL-20221102/">
+<reference anchor="W3C.WD-WGSL-20221107" target="https://www.w3.org/TR/2022/WD-WGSL-20221107/">
   <front>
     <title>WebGPU Shading Language</title>
     <author role="editor" fullname="Alan Baker">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Mehmet Oguz Derin">
       <organization/>
     </author>
-    <date year="2022" month="November" day="2"/>
+    <date year="2022" month="November" day="7"/>
     <workgroup>GPU for the Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-WGSL-20221102"/>
+  <seriesInfo name="W3C WD" value="WD-WGSL-20221107"/>
 </reference>
