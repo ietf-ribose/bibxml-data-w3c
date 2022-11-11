@@ -1,4 +1,4 @@
-<reference anchor="W3C.CR-resource-timing-20221004" target="https://www.w3.org/TR/2022/CR-resource-timing-20221004/">
+<reference anchor="W3C.CRD-resource-timing-20221110" target="https://www.w3.org/TR/2022/CRD-resource-timing-20221110/">
   <front>
     <title>Resource Timing</title>
     <author role="editor" fullname="Noam Rosenthal">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2022" month="October" day="4"/>
+    <date year="2022" month="November" day="10"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-resource-timing-20221004"/>
+  <seriesInfo name="W3C CR" value="CRD-resource-timing-20221110"/>
 </reference>
