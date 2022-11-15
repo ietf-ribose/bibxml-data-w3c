@@ -1,4 +1,4 @@
-<reference anchor="W3C.CR-owl-time-20200326" target="https://www.w3.org/TR/2020/CR-owl-time-20200326/">
+<reference anchor="W3C.CRD-owl-time-20221115" target="https://www.w3.org/TR/2022/CRD-owl-time-20221115/">
   <front>
     <title>Time Ontology in OWL</title>
     <author role="editor" fullname="Chris Little">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Simon Cox">
       <organization/>
     </author>
-    <date year="2020" month="March" day="26"/>
+    <date year="2022" month="November" day="15"/>
     <workgroup>Spatial Data on the Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-owl-time-20200326"/>
+  <seriesInfo name="W3C CR" value="CRD-owl-time-20221115"/>
 </reference>
