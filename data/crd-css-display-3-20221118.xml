@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-css-display-3-20210903" target="https://www.w3.org/TR/2021/CRD-css-display-3-20210903/">
+<reference anchor="W3C.CRD-css-display-3-20221118" target="https://www.w3.org/TR/2022/CRD-css-display-3-20221118/">
   <front>
     <title>CSS Display Module Level 3</title>
     <author role="editor" fullname="Elika Etemad">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Tab Atkins Jr.">
       <organization/>
     </author>
-    <date year="2021" month="September" day="3"/>
+    <date year="2022" month="November" day="18"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-css-display-3-20210903"/>
+  <seriesInfo name="W3C CR" value="CRD-css-display-3-20221118"/>
 </reference>
