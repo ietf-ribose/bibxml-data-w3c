@@ -1,0 +1,17 @@
+<reference anchor="W3C.DNOTE-css-2022-20221122" target="https://www.w3.org/TR/2022/DNOTE-css-2022-20221122/">
+  <front>
+    <title>CSS Snapshot 2022</title>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florian Rivoal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2022" month="November" day="22"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-css-2022-20221122"/>
+</reference>
