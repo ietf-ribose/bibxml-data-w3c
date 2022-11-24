@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdf-canon" target="https://www.w3.org/TR/rdf-canon/">
+  <front>
+    <title>RDF Dataset Canonicalization</title>
+  </front>
+  <seriesInfo name="W3C WD" value="rdf-canon"/>
+</reference>

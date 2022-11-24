@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-rdf-canon-20221124" target="https://www.w3.org/TR/2022/WD-rdf-canon-20221124/">
+  <front>
+    <title>RDF Dataset Canonicalization</title>
+    <author role="editor" fullname="Dan Yamamoto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Longley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <date year="2022" month="November" day="24"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-canon-20221124"/>
+</reference>
