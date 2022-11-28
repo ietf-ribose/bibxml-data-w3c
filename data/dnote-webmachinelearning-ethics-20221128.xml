@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webmachinelearning-ethics-20221125" target="https://www.w3.org/TR/2022/DNOTE-webmachinelearning-ethics-20221125/">
+<reference anchor="W3C.DNOTE-webmachinelearning-ethics-20221128" target="https://www.w3.org/TR/2022/DNOTE-webmachinelearning-ethics-20221128/">
   <front>
     <title>Ethical Principles for Web Machine Learning</title>
     <author role="editor" fullname="Anssi Kostiainen">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="James Fletcher">
       <organization/>
     </author>
-    <date year="2022" month="November" day="25"/>
+    <date year="2022" month="November" day="28"/>
     <workgroup>Web Machine Learning Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webmachinelearning-ethics-20221125"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webmachinelearning-ethics-20221128"/>
 </reference>
