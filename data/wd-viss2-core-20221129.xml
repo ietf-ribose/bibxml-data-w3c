@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-viss2-core-20220928" target="https://www.w3.org/TR/2022/WD-viss2-core-20220928/">
+<reference anchor="W3C.WD-viss2-core-20221129" target="https://www.w3.org/TR/2022/WD-viss2-core-20221129/">
   <front>
     <title>VISS version 2 - Core</title>
     <author role="editor" fullname="Isaac Agudo">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Wonsuk Lee">
       <organization/>
     </author>
-    <date year="2022" month="September" day="28"/>
+    <date year="2022" month="November" day="29"/>
     <workgroup>Automotive Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-viss2-core-20220928"/>
+  <seriesInfo name="W3C WD" value="WD-viss2-core-20221129"/>
 </reference>
