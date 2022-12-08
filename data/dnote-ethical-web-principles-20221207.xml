@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-ethical-web-principles-20220512" target="https://www.w3.org/TR/2022/DNOTE-ethical-web-principles-20220512/">
+<reference anchor="W3C.DNOTE-ethical-web-principles-20221207" target="https://www.w3.org/TR/2022/DNOTE-ethical-web-principles-20221207/">
   <front>
     <title>W3C TAG Ethical Web Principles</title>
     <author role="editor" fullname="Amy Guy">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Hadley Beeman">
       <organization/>
     </author>
-    <date year="2022" month="May" day="12"/>
+    <date year="2022" month="December" day="7"/>
     <workgroup>Technical Architecture Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-ethical-web-principles-20220512"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-ethical-web-principles-20221207"/>
 </reference>
