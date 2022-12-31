@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-epub-33-20221214" target="https://www.w3.org/TR/2022/CRD-epub-33-20221214/">
+<reference anchor="W3C.CRD-epub-33-20221230" target="https://www.w3.org/TR/2022/CRD-epub-33-20221230/">
   <front>
     <title>EPUB 3.3</title>
     <author role="editor" fullname="Dave Cramer">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Matt Garrish">
       <organization/>
     </author>
-    <date year="2022" month="December" day="14"/>
+    <date year="2022" month="December" day="30"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-epub-33-20221214"/>
+  <seriesInfo name="W3C CR" value="CRD-epub-33-20221230"/>
 </reference>
