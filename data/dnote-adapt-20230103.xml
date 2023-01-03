@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-adapt-20220609" target="https://www.w3.org/TR/2022/DNOTE-adapt-20220609/">
+<reference anchor="W3C.DNOTE-adapt-20230103" target="https://www.w3.org/TR/2023/DNOTE-adapt-20230103/">
   <front>
     <title>WAI-Adapt Explainer</title>
     <author role="editor" fullname="Charles LaPierre">
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Ruoxi Ran">
       <organization/>
     </author>
-    <date year="2022" month="June" day="9"/>
+    <date year="2023" month="January" day="3"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-adapt-20220609"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-adapt-20230103"/>
 </reference>
