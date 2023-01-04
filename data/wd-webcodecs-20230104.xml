@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webcodecs-20221212" target="https://www.w3.org/TR/2022/WD-webcodecs-20221212/">
+<reference anchor="W3C.WD-webcodecs-20230104" target="https://www.w3.org/TR/2023/WD-webcodecs-20230104/">
   <front>
     <title>WebCodecs</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2022" month="December" day="12"/>
+    <date year="2023" month="January" day="4"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webcodecs-20221212"/>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-20230104"/>
 </reference>
