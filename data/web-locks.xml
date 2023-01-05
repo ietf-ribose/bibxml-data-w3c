@@ -1,0 +1,6 @@
+<reference anchor="W3C.web-locks" target="https://www.w3.org/TR/web-locks/">
+  <front>
+    <title>Web Locks API</title>
+  </front>
+  <seriesInfo name="W3C WD" value="web-locks"/>
+</reference>

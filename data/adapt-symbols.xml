@@ -1,0 +1,6 @@
+<reference anchor="W3C.adapt-symbols" target="https://www.w3.org/TR/adapt-symbols/">
+  <front>
+    <title>WAI-Adapt: Symbols Module</title>
+  </front>
+  <seriesInfo name="W3C CR" value="adapt-symbols"/>
+</reference>

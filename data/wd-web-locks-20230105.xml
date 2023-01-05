@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-web-locks-20230105" target="https://www.w3.org/TR/2023/WD-web-locks-20230105/">
+  <front>
+    <title>Web Locks API</title>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kagami Rosylight">
+      <organization/>
+    </author>
+    <date year="2023" month="January" day="5"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-locks-20230105"/>
+</reference>
