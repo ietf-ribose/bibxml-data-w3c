@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-jws-2020-20221208" target="https://www.w3.org/TR/2022/WD-vc-jws-2020-20221208/">
+<reference anchor="W3C.WD-vc-jws-2020-20230111" target="https://www.w3.org/TR/2023/WD-vc-jws-2020-20230111/">
   <front>
     <title>JSON Web Signature 2020</title>
     <author role="editor" fullname="Michael Jones">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Orie Steele">
       <organization/>
     </author>
-    <date year="2022" month="December" day="8"/>
+    <date year="2023" month="January" day="11"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-jws-2020-20221208"/>
+  <seriesInfo name="W3C WD" value="WD-vc-jws-2020-20230111"/>
 </reference>
