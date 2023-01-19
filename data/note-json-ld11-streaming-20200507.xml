@@ -5,7 +5,6 @@
       <organization/>
     </author>
     <date year="2020" month="May" day="7"/>
-    <workgroup>JSON-LD Working Group</workgroup>
   </front>
   <seriesInfo name="W3C NOTE" value="NOTE-json-ld11-streaming-20200507"/>
 </reference>

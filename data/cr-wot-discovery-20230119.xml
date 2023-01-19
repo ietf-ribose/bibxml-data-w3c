@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-wot-discovery-20220810" target="https://www.w3.org/TR/2022/WD-wot-discovery-20220810/">
+<reference anchor="W3C.CR-wot-discovery-20230119" target="https://www.w3.org/TR/2023/CR-wot-discovery-20230119/">
   <front>
     <title>Web of Things (WoT) Discovery</title>
     <author role="editor" fullname="Andrea Cimmino">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Michael McCool">
       <organization/>
     </author>
-    <date year="2022" month="August" day="10"/>
+    <date year="2023" month="January" day="19"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wot-discovery-20220810"/>
+  <seriesInfo name="W3C CR" value="CR-wot-discovery-20230119"/>
 </reference>

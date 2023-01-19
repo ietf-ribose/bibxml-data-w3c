@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webgpu-20230105" target="https://www.w3.org/TR/2023/WD-webgpu-20230105/">
+<reference anchor="W3C.WD-webgpu-20230118" target="https://www.w3.org/TR/2023/WD-webgpu-20230118/">
   <front>
     <title>WebGPU</title>
     <author role="editor" fullname="Brandon Jones">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Myles Maxfield">
       <organization/>
     </author>
-    <date year="2023" month="January" day="5"/>
+    <date year="2023" month="January" day="18"/>
     <workgroup>GPU for the Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webgpu-20230105"/>
+  <seriesInfo name="W3C WD" value="WD-webgpu-20230118"/>
 </reference>
