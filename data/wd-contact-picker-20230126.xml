@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-contact-picker-1-20230120" target="https://www.w3.org/TR/2023/WD-contact-picker-1-20230120/">
+<reference anchor="W3C.WD-contact-picker-20230126" target="https://www.w3.org/TR/2023/WD-contact-picker-20230126/">
   <front>
     <title>Contact Picker API</title>
     <author role="editor" fullname="Peter Beverloo">
@@ -7,9 +7,9 @@
     <author role="editor" fullname="Rayan Kanso">
       <organization/>
     </author>
-    <date year="2023" month="January" day="20"/>
+    <date year="2023" month="January" day="26"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-contact-picker-1-20230120"/>
+  <seriesInfo name="W3C WD" value="WD-contact-picker-20230126"/>
 </reference>

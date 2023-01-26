@@ -1,0 +1,6 @@
+<reference anchor="W3C.contact-picker" target="https://www.w3.org/TR/contact-picker/">
+  <front>
+    <title>Contact Picker API</title>
+  </front>
+  <seriesInfo name="W3C WD" value="contact-picker"/>
+</reference>
