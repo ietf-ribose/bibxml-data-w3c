@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-css-text-3-20220505" target="https://www.w3.org/TR/2022/CRD-css-text-3-20220505/">
+<reference anchor="W3C.CRD-css-text-3-20230127" target="https://www.w3.org/TR/2023/CRD-css-text-3-20230127/">
   <front>
     <title>CSS Text Module Level 3</title>
     <author role="editor" fullname="Elika Etemad">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Koji Ishii">
       <organization/>
     </author>
-    <date year="2022" month="May" day="5"/>
+    <date year="2023" month="January" day="27"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-css-text-3-20220505"/>
+  <seriesInfo name="W3C CR" value="CRD-css-text-3-20230127"/>
 </reference>
