@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-vc-jws-2020-20230127" target="https://www.w3.org/TR/2023/WD-vc-jws-2020-20230127/">
+  <front>
+    <title>JSON Web Signatures for Data Integrity Proofs</title>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Orie Steele">
+      <organization/>
+    </author>
+    <date year="2023" month="January" day="27"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vc-jws-2020-20230127"/>
+</reference>
