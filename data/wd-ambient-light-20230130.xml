@@ -1,14 +1,14 @@
-<reference anchor="W3C.WD-proximity-20210903" target="https://www.w3.org/TR/2021/WD-proximity-20210903/">
+<reference anchor="W3C.WD-ambient-light-20230130" target="https://www.w3.org/TR/2023/WD-ambient-light-20230130/">
   <front>
-    <title>Proximity Sensor</title>
+    <title>Ambient Light Sensor</title>
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>
     <author role="editor" fullname="Rijubrata Bhaumik">
       <organization/>
     </author>
-    <date year="2021" month="September" day="3"/>
+    <date year="2023" month="January" day="30"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-proximity-20210903"/>
+  <seriesInfo name="W3C WD" value="WD-ambient-light-20230130"/>
 </reference>

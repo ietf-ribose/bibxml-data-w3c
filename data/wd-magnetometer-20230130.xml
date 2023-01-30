@@ -1,14 +1,14 @@
-<reference anchor="W3C.WD-ambient-light-20221018" target="https://www.w3.org/TR/2022/WD-ambient-light-20221018/">
+<reference anchor="W3C.WD-magnetometer-20230130" target="https://www.w3.org/TR/2023/WD-magnetometer-20230130/">
   <front>
-    <title>Ambient Light Sensor</title>
+    <title>Magnetometer</title>
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>
     <author role="editor" fullname="Rijubrata Bhaumik">
       <organization/>
     </author>
-    <date year="2022" month="October" day="18"/>
+    <date year="2023" month="January" day="30"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-ambient-light-20221018"/>
+  <seriesInfo name="W3C WD" value="WD-magnetometer-20230130"/>
 </reference>
