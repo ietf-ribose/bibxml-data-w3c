@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-secure-payment-confirmation-20230111" target="https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230111/">
+<reference anchor="W3C.WD-secure-payment-confirmation-20230130" target="https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230130/">
   <front>
     <title>Secure Payment Confirmation</title>
     <author role="editor" fullname="Rouslan Solomakhin">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Stephen McGruer">
       <organization/>
     </author>
-    <date year="2023" month="January" day="11"/>
+    <date year="2023" month="January" day="30"/>
     <workgroup>Web Payments Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-secure-payment-confirmation-20230111"/>
+  <seriesInfo name="W3C WD" value="WD-secure-payment-confirmation-20230130"/>
 </reference>
