@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-epub-a11y-tech-11-20230113" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230113/">
+<reference anchor="W3C.NOTE-epub-a11y-tech-11-20230201" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230201/">
   <front>
     <title>EPUB Accessibility Techniques 1.1</title>
     <author role="editor" fullname="Avneesh Singh">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Matt Garrish">
       <organization/>
     </author>
-    <date year="2023" month="January" day="13"/>
+    <date year="2023" month="February" day="1"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-tech-11-20230113"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-tech-11-20230201"/>
 </reference>
