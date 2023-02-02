@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-alaw-codec-registration-20230130" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-alaw-codec-registration-20230130/">
+<reference anchor="W3C.DNOTE-webcodecs-alaw-codec-registration-20230201" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-alaw-codec-registration-20230201/">
   <front>
     <title>A-law PCM WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2023" month="January" day="30"/>
+    <date year="2023" month="February" day="1"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-alaw-codec-registration-20230130"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-alaw-codec-registration-20230201"/>
 </reference>
