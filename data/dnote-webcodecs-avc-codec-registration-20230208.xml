@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-avc-codec-registration-20230202" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230202/">
+<reference anchor="W3C.DNOTE-webcodecs-avc-codec-registration-20230208" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230208/">
   <front>
     <title>AVC (H.264) WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2023" month="February" day="2"/>
+    <date year="2023" month="February" day="8"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-avc-codec-registration-20230202"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-avc-codec-registration-20230208"/>
 </reference>
