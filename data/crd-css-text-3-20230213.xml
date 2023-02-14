@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-css-text-3-20230127" target="https://www.w3.org/TR/2023/CRD-css-text-3-20230127/">
+<reference anchor="W3C.CRD-css-text-3-20230213" target="https://www.w3.org/TR/2023/CRD-css-text-3-20230213/">
   <front>
     <title>CSS Text Module Level 3</title>
     <author role="editor" fullname="Elika Etemad">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Koji Ishii">
       <organization/>
     </author>
-    <date year="2023" month="January" day="27"/>
+    <date year="2023" month="February" day="13"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-css-text-3-20230127"/>
+  <seriesInfo name="W3C CR" value="CRD-css-text-3-20230213"/>
 </reference>

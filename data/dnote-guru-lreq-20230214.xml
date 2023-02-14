@@ -1,0 +1,11 @@
+<reference anchor="W3C.DNOTE-guru-lreq-20230214" target="https://www.w3.org/TR/2023/DNOTE-guru-lreq-20230214/">
+  <front>
+    <title>Gurmukhi Layout Requirements</title>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2023" month="February" day="14"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-guru-lreq-20230214"/>
+</reference>

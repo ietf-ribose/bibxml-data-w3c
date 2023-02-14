@@ -1,6 +1,6 @@
 <reference anchor="W3C.css-speech-1" target="https://www.w3.org/TR/css-speech-1/">
   <front>
-    <title>CSS Speech Module</title>
+    <title>CSS Speech Module Level 1</title>
   </front>
   <seriesInfo name="W3C CR" value="css-speech-1"/>
 </reference>
