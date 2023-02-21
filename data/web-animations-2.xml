@@ -1,0 +1,6 @@
+<reference anchor="W3C.web-animations-2" target="https://www.w3.org/TR/web-animations-2/">
+  <front>
+    <title>Web Animations Level 2</title>
+  </front>
+  <seriesInfo name="W3C WD" value="web-animations-2"/>
+</reference>

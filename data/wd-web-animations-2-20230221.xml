@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-web-animations-2-20230221" target="https://www.w3.org/TR/2023/WD-web-animations-2-20230221/">
+  <front>
+    <title>Web Animations Level 2</title>
+    <author role="editor" fullname="Brian Birtles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Flack">
+      <organization/>
+    </author>
+    <date year="2023" month="February" day="21"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-animations-2-20230221"/>
+</reference>
