@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-privacy-principles-20221214" target="https://www.w3.org/TR/2022/DNOTE-privacy-principles-20221214/">
+<reference anchor="W3C.DNOTE-privacy-principles-20230223" target="https://www.w3.org/TR/2023/DNOTE-privacy-principles-20230223/">
   <front>
     <title>Privacy Principles</title>
     <author role="editor" fullname="Robin Berjon">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Tonya Lee Tonya Dickard">
       <organization/>
     </author>
-    <date year="2022" month="December" day="14"/>
+    <date year="2023" month="February" day="23"/>
     <workgroup>Technical Architecture Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-privacy-principles-20221214"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-privacy-principles-20230223"/>
 </reference>

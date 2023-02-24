@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-mixed-content-20211004" target="https://www.w3.org/TR/2021/CRD-mixed-content-20211004/">
+<reference anchor="W3C.CRD-mixed-content-20230223" target="https://www.w3.org/TR/2023/CRD-mixed-content-20230223/">
   <front>
     <title>Mixed Content</title>
     <author role="editor" fullname="Carlos IbarraLopez">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>
-    <date year="2021" month="October" day="4"/>
+    <date year="2023" month="February" day="23"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-mixed-content-20211004"/>
+  <seriesInfo name="W3C CR" value="CRD-mixed-content-20230223"/>
 </reference>
