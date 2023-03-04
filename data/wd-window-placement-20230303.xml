@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-window-placement-20230206" target="https://www.w3.org/TR/2023/WD-window-placement-20230206/">
+<reference anchor="W3C.WD-window-placement-20230303" target="https://www.w3.org/TR/2023/WD-window-placement-20230303/">
   <front>
     <title>Multi-Screen Window Placement</title>
     <author role="editor" fullname="Joshua Bell">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Mike Wasserman">
       <organization/>
     </author>
-    <date year="2023" month="February" day="6"/>
+    <date year="2023" month="March" day="3"/>
     <workgroup>Second Screen Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-window-placement-20230206"/>
+  <seriesInfo name="W3C WD" value="WD-window-placement-20230303"/>
 </reference>
