@@ -1,0 +1,20 @@
+<reference anchor="W3C.REC-webrtc-20230306" target="https://www.w3.org/TR/2023/REC-webrtc-20230306/">
+  <front>
+    <title>WebRTC: Real-Time Communication in Browsers</title>
+    <author role="editor" fullname="Cullen Jennings">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florent Castelli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Boström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan-Ivar Bruaroey">
+      <organization/>
+    </author>
+    <date year="2023" month="March" day="6"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C REC" value="REC-webrtc-20230306"/>
+</reference>

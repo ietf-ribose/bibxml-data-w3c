@@ -1,0 +1,14 @@
+<reference anchor="W3C.REC-xml-entity-names-20230307" target="https://www.w3.org/TR/2023/REC-xml-entity-names-20230307/">
+  <front>
+    <title>XML Entity Definitions for Characters (3rd Edition)</title>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick D F Ion">
+      <organization/>
+    </author>
+    <date year="2023" month="March" day="7"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C REC" value="REC-xml-entity-names-20230307"/>
+</reference>

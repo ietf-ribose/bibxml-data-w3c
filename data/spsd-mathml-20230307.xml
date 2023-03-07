@@ -1,0 +1,14 @@
+<reference anchor="W3C.SPSD-MathML-20230307" target="https://www.w3.org/TR/2023/SPSD-MathML-20230307/">
+  <front>
+    <title>Mathematical Markup Language (MathML™) 1.01 Specification</title>
+    <author role="editor" fullname="Patrick D F Ion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert R Miner">
+      <organization/>
+    </author>
+    <date year="2023" month="March" day="7"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C REC" value="SPSD-MathML-20230307"/>
+</reference>
