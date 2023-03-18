@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-server-timing-20230303" target="https://www.w3.org/TR/2023/WD-server-timing-20230303/">
+<reference anchor="W3C.WD-server-timing-20230317" target="https://www.w3.org/TR/2023/WD-server-timing-20230317/">
   <front>
     <title>Server Timing</title>
     <author role="editor" fullname="Charles Vazac">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Ilya Grigorik">
       <organization/>
     </author>
-    <date year="2023" month="March" day="3"/>
+    <date year="2023" month="March" day="17"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-server-timing-20230303"/>
+  <seriesInfo name="W3C WD" value="WD-server-timing-20230317"/>
 </reference>
