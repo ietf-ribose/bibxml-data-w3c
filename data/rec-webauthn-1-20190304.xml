@@ -29,7 +29,6 @@
       <organization/>
     </author>
     <date year="2019" month="March" day="4"/>
-    <workgroup>Web Authentication Working Group</workgroup>
   </front>
   <seriesInfo name="W3C REC" value="REC-webauthn-1-20190304"/>
 </reference>
