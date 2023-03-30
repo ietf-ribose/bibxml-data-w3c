@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-window-management-20230330" target="https://www.w3.org/TR/2023/WD-window-management-20230330/">
+  <front>
+    <title>Multi-Screen Window Management</title>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Wasserman">
+      <organization/>
+    </author>
+    <date year="2023" month="March" day="30"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-window-management-20230330"/>
+</reference>

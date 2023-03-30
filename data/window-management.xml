@@ -1,0 +1,6 @@
+<reference anchor="W3C.window-management" target="https://www.w3.org/TR/window-management/">
+  <front>
+    <title>Multi-Screen Window Management</title>
+  </front>
+  <seriesInfo name="W3C WD" value="window-management"/>
+</reference>
