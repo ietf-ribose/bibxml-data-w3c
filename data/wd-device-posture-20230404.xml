@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-device-posture-20230403" target="https://www.w3.org/TR/2023/WD-device-posture-20230403/">
+<reference anchor="W3C.WD-device-posture-20230404" target="https://www.w3.org/TR/2023/WD-device-posture-20230404/">
   <front>
     <title>Device Posture API</title>
     <author role="editor" fullname="Diego Gonzalez-Zuniga">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Kenneth Christiansen">
       <organization/>
     </author>
-    <date year="2023" month="April" day="3"/>
+    <date year="2023" month="April" day="4"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-device-posture-20230403"/>
+  <seriesInfo name="W3C WD" value="WD-device-posture-20230404"/>
 </reference>
