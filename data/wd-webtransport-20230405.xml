@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webtransport-20230405" target="https://www.w3.org/TR/2023/WD-webtransport-20230405/">
+  <front>
+    <title>WebTransport</title>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nidhi Jaju">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Victor Vasiliev">
+      <organization/>
+    </author>
+    <date year="2023" month="April" day="5"/>
+    <workgroup>WebTransport Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webtransport-20230405"/>
+</reference>
