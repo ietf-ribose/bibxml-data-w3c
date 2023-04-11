@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-badging-20230406" target="https://www.w3.org/TR/2023/WD-badging-20230406/">
+<reference anchor="W3C.WD-badging-20230411" target="https://www.w3.org/TR/2023/WD-badging-20230411/">
   <front>
     <title>Badging API</title>
     <author role="editor" fullname="Diego Gonzalez-Zuniga">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>
-    <date year="2023" month="April" day="6"/>
+    <date year="2023" month="April" day="11"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-badging-20230406"/>
+  <seriesInfo name="W3C WD" value="WD-badging-20230411"/>
 </reference>
