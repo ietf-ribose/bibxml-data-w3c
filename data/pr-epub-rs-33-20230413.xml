@@ -1,6 +1,6 @@
-<reference anchor="W3C.CR-epub-33-20230221" target="https://www.w3.org/TR/2023/CR-epub-33-20230221/">
+<reference anchor="W3C.PR-epub-rs-33-20230413" target="https://www.w3.org/TR/2023/PR-epub-rs-33-20230413/">
   <front>
-    <title>EPUB 3.3</title>
+    <title>EPUB Reading Systems 3.3</title>
     <author role="editor" fullname="Dave Cramer">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Matt Garrish">
       <organization/>
     </author>
-    <date year="2023" month="February" day="21"/>
+    <date year="2023" month="April" day="13"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-epub-33-20230221"/>
+  <seriesInfo name="W3C PR" value="PR-epub-rs-33-20230413"/>
 </reference>
