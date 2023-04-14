@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-IndexedDB-3-20230303" target="https://www.w3.org/TR/2023/WD-IndexedDB-3-20230303/">
+<reference anchor="W3C.WD-IndexedDB-3-20230413" target="https://www.w3.org/TR/2023/WD-IndexedDB-3-20230413/">
   <front>
     <title>Indexed Database API 3.0</title>
     <author role="editor" fullname="Ali Alabbas">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Joshua Bell">
       <organization/>
     </author>
-    <date year="2023" month="March" day="3"/>
+    <date year="2023" month="April" day="13"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-IndexedDB-3-20230303"/>
+  <seriesInfo name="W3C WD" value="WD-IndexedDB-3-20230413"/>
 </reference>
