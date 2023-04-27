@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-appmanifest-20230329" target="https://www.w3.org/TR/2023/WD-appmanifest-20230329/">
+<reference anchor="W3C.WD-appmanifest-20230426" target="https://www.w3.org/TR/2023/WD-appmanifest-20230426/">
   <front>
     <title>Web Application Manifest</title>
     <author role="editor" fullname="Aaron Gustafson">
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Matt Giuca">
       <organization/>
     </author>
-    <date year="2023" month="March" day="29"/>
+    <date year="2023" month="April" day="26"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-appmanifest-20230329"/>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20230426"/>
 </reference>
