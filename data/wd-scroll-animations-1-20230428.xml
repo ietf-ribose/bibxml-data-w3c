@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-scroll-animations-1-20230406" target="https://www.w3.org/TR/2023/WD-scroll-animations-1-20230406/">
+<reference anchor="W3C.WD-scroll-animations-1-20230428" target="https://www.w3.org/TR/2023/WD-scroll-animations-1-20230428/">
   <front>
     <title>Scroll-driven Animations</title>
     <author role="editor" fullname="Antoine Quint">
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Robert Flack">
       <organization/>
     </author>
-    <date year="2023" month="April" day="6"/>
+    <date year="2023" month="April" day="28"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-scroll-animations-1-20230406"/>
+  <seriesInfo name="W3C WD" value="WD-scroll-animations-1-20230428"/>
 </reference>
