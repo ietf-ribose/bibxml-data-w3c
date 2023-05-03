@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webxrlayers-1-20230502" target="https://www.w3.org/TR/2023/WD-webxrlayers-1-20230502/">
+  <front>
+    <title>WebXR Layers API Level 1</title>
+    <author role="editor" fullname="Rik Cabanier">
+      <organization/>
+    </author>
+    <date year="2023" month="May" day="2"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxrlayers-1-20230502"/>
+</reference>
