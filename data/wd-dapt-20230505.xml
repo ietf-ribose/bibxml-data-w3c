@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-dapt-20230504" target="https://www.w3.org/TR/2023/WD-dapt-20230504/">
+<reference anchor="W3C.WD-dapt-20230505" target="https://www.w3.org/TR/2023/WD-dapt-20230505/">
   <front>
     <title>Dubbing and Audio description Profiles of TTML2</title>
     <author role="editor" fullname="Cyril Concolato">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Nigel Megitt">
       <organization/>
     </author>
-    <date year="2023" month="May" day="4"/>
+    <date year="2023" month="May" day="5"/>
     <workgroup>Timed Text Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-dapt-20230504"/>
+  <seriesInfo name="W3C WD" value="WD-dapt-20230505"/>
 </reference>
