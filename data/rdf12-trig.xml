@@ -1,0 +1,6 @@
+<reference anchor="W3C.rdf12-trig" target="https://www.w3.org/TR/rdf12-trig/">
+  <front>
+    <title>RDF 1.2 TriG</title>
+  </front>
+  <seriesInfo name="W3C WD" value="rdf12-trig"/>
+</reference>

@@ -1,0 +1,10 @@
+<reference anchor="W3C.WD-rdf12-xml-20230516" target="https://www.w3.org/TR/2023/WD-rdf12-xml-20230516/">
+  <front>
+    <title>RDF 1.2 XML Syntax</title>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <date year="2023" month="May" day="16"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf12-xml-20230516"/>
+</reference>

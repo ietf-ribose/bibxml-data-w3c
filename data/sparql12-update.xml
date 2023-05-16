@@ -1,0 +1,6 @@
+<reference anchor="W3C.sparql12-update" target="https://www.w3.org/TR/sparql12-update/">
+  <front>
+    <title>SPARQL 1.2 Update</title>
+  </front>
+  <seriesInfo name="W3C WD" value="sparql12-update"/>
+</reference>
