@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-input-events-2-20230516" target="https://www.w3.org/TR/2023/WD-input-events-2-20230516/">
+  <front>
+    <title>Input Events Level 2</title>
+    <author role="editor" fullname="Johannes Wilm">
+      <organization/>
+    </author>
+    <date year="2023" month="May" day="16"/>
+    <workgroup>Web Editing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-input-events-2-20230516"/>
+</reference>

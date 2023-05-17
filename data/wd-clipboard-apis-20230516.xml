@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-clipboard-apis-20230516" target="https://www.w3.org/TR/2023/WD-clipboard-apis-20230516/">
+  <front>
+    <title>Clipboard API and events</title>
+    <author role="editor" fullname="Anupam Snigdha">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gary Kacmarcik">
+      <organization/>
+    </author>
+    <date year="2023" month="May" day="16"/>
+    <workgroup>Web Editing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-clipboard-apis-20230516"/>
+</reference>
