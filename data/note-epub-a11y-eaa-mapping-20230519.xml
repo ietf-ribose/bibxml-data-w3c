@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-epub-a11y-eaa-mapping-20230510" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230510/">
+<reference anchor="W3C.NOTE-epub-a11y-eaa-mapping-20230519" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230519/">
   <front>
     <title>EPUB Accessibility - EU Accessibility Act Mapping</title>
     <author role="editor" fullname="Cristina Mussinelli">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Luc Audrain">
       <organization/>
     </author>
-    <date year="2023" month="May" day="10"/>
+    <date year="2023" month="May" day="19"/>
     <workgroup>EPUB 3 Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-eaa-mapping-20230510"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-eaa-mapping-20230519"/>
 </reference>
