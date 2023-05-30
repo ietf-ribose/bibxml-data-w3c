@@ -1,6 +1,6 @@
 <reference anchor="W3C.RangeRequest" target="https://www.w3.org/TR/RangeRequest/">
   <front>
-    <title>Incremental Font Transfer via Range Request</title>
+    <title>Range Request Incremental Font Transfer</title>
   </front>
   <seriesInfo name="W3C WD" value="RangeRequest"/>
 </reference>

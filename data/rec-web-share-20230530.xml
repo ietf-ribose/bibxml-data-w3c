@@ -1,4 +1,4 @@
-<reference anchor="W3C.PR-web-share-20221215" target="https://www.w3.org/TR/2022/PR-web-share-20221215/">
+<reference anchor="W3C.REC-web-share-20230530" target="https://www.w3.org/TR/2023/REC-web-share-20230530/">
   <front>
     <title>Web Share API</title>
     <author role="editor" fullname="Eric Willigers">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Matt Giuca">
       <organization/>
     </author>
-    <date year="2022" month="December" day="15"/>
+    <date year="2023" month="May" day="30"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C PR" value="PR-web-share-20221215"/>
+  <seriesInfo name="W3C REC" value="REC-web-share-20230530"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-miniapp-manifest-20230228" target="https://www.w3.org/TR/2023/WD-miniapp-manifest-20230228/">
+<reference anchor="W3C.WD-miniapp-manifest-20230530" target="https://www.w3.org/TR/2023/WD-miniapp-manifest-20230530/">
   <front>
     <title>MiniApp Manifest</title>
     <author role="editor" fullname="Martin Alvarez-Espinar">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Yongjing ZHANG">
       <organization/>
     </author>
-    <date year="2023" month="February" day="28"/>
+    <date year="2023" month="May" day="30"/>
     <workgroup>MiniApps Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-miniapp-manifest-20230228"/>
+  <seriesInfo name="W3C WD" value="WD-miniapp-manifest-20230530"/>
 </reference>

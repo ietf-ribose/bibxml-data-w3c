@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-RangeRequest-20220125" target="https://www.w3.org/TR/2022/WD-RangeRequest-20220125/">
+<reference anchor="W3C.WD-IFT-20230530" target="https://www.w3.org/TR/2023/WD-IFT-20230530/">
   <front>
-    <title>Incremental Font Transfer via Range Request</title>
+    <title>Incremental Font Transfer</title>
     <author role="editor" fullname="Chris Lilley">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Myles Maxfield">
       <organization/>
     </author>
-    <date year="2022" month="January" day="25"/>
+    <date year="2023" month="May" day="30"/>
     <workgroup>Web Fonts Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-RangeRequest-20220125"/>
+  <seriesInfo name="W3C WD" value="WD-IFT-20230530"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-miniapp-packaging-20230220" target="https://www.w3.org/TR/2023/WD-miniapp-packaging-20230220/">
+<reference anchor="W3C.WD-miniapp-packaging-20230530" target="https://www.w3.org/TR/2023/WD-miniapp-packaging-20230530/">
   <front>
     <title>MiniApp Packaging</title>
     <author role="editor" fullname="Dan Zhou">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Yongjing ZHANG">
       <organization/>
     </author>
-    <date year="2023" month="February" day="20"/>
+    <date year="2023" month="May" day="30"/>
     <workgroup>MiniApps Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-miniapp-packaging-20230220"/>
+  <seriesInfo name="W3C WD" value="WD-miniapp-packaging-20230530"/>
 </reference>
