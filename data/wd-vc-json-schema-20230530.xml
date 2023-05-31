@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-json-schema-20230524" target="https://www.w3.org/TR/2023/WD-vc-json-schema-20230524/">
+<reference anchor="W3C.WD-vc-json-schema-20230530" target="https://www.w3.org/TR/2023/WD-vc-json-schema-20230530/">
   <front>
     <title>Verifiable Credentials JSON Schema Specification 2023</title>
     <author role="editor" fullname="Andres Uribe">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Orie Steele">
       <organization/>
     </author>
-    <date year="2023" month="May" day="24"/>
+    <date year="2023" month="May" day="30"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-json-schema-20230524"/>
+  <seriesInfo name="W3C WD" value="WD-vc-json-schema-20230530"/>
 </reference>
