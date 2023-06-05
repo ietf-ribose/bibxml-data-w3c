@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-web-animations-1-20220908" target="https://www.w3.org/TR/2022/WD-web-animations-1-20220908/">
+<reference anchor="W3C.WD-web-animations-1-20230605" target="https://www.w3.org/TR/2023/WD-web-animations-1-20230605/">
   <front>
     <title>Web Animations</title>
     <author role="editor" fullname="Antoine Quint">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Stephen McGruer">
       <organization/>
     </author>
-    <date year="2022" month="September" day="8"/>
+    <date year="2023" month="June" day="5"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-web-animations-1-20220908"/>
+  <seriesInfo name="W3C WD" value="WD-web-animations-1-20230605"/>
 </reference>
