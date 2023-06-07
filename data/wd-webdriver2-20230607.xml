@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webdriver2-20230321" target="https://www.w3.org/TR/2023/WD-webdriver2-20230321/">
+<reference anchor="W3C.WD-webdriver2-20230607" target="https://www.w3.org/TR/2023/WD-webdriver2-20230607/">
   <front>
     <title>WebDriver</title>
     <author role="editor" fullname="David Burns">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Simon Stewart">
       <organization/>
     </author>
-    <date year="2023" month="March" day="21"/>
+    <date year="2023" month="June" day="7"/>
     <workgroup>Browser Testing and Tools Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webdriver2-20230321"/>
+  <seriesInfo name="W3C WD" value="WD-webdriver2-20230607"/>
 </reference>
