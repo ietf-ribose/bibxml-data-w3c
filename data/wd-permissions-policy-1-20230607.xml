@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-permissions-policy-1-20230607" target="https://www.w3.org/TR/2023/WD-permissions-policy-1-20230607/">
+  <front>
+    <title>Permissions Policy</title>
+    <author role="editor" fullname="Ian Clelland">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="7"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-permissions-policy-1-20230607"/>
+</reference>
