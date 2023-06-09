@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf-canon-20230607" target="https://www.w3.org/TR/2023/WD-rdf-canon-20230607/">
+<reference anchor="W3C.WD-rdf-canon-20230609" target="https://www.w3.org/TR/2023/WD-rdf-canon-20230609/">
   <front>
     <title>RDF Dataset Canonicalization</title>
     <author role="editor" fullname="Dan Yamamoto">
@@ -10,7 +10,7 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2023" month="June" day="7"/>
+    <date year="2023" month="June" day="9"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf-canon-20230607"/>
+  <seriesInfo name="W3C WD" value="WD-rdf-canon-20230609"/>
 </reference>
