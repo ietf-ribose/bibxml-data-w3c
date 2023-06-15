@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-clreq-gap-20220923" target="https://www.w3.org/TR/2022/DNOTE-clreq-gap-20220923/">
+<reference anchor="W3C.DNOTE-clreq-gap-20230615" target="https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230615/">
   <front>
     <title>Chinese Layout Gap Analysis</title>
     <author role="editor" fullname="Fuqiao Xue">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2022" month="September" day="23"/>
+    <date year="2023" month="June" day="15"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-clreq-gap-20220923"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-clreq-gap-20230615"/>
 </reference>

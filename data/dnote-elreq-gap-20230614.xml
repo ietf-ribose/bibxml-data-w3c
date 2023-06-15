@@ -1,11 +1,11 @@
-<reference anchor="W3C.WD-elreq-gap-20210524" target="https://www.w3.org/TR/2021/WD-elreq-gap-20210524/">
+<reference anchor="W3C.DNOTE-elreq-gap-20230614" target="https://www.w3.org/TR/2023/DNOTE-elreq-gap-20230614/">
   <front>
     <title>Ethiopic Layout Gap Analysis</title>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2021" month="May" day="24"/>
+    <date year="2023" month="June" day="14"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-elreq-gap-20210524"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-elreq-gap-20230614"/>
 </reference>

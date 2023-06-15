@@ -1,11 +1,11 @@
-<reference anchor="W3C.DNOTE-nkoo-gap-20230608" target="https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230608/">
+<reference anchor="W3C.DNOTE-nkoo-gap-20230615" target="https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230615/">
   <front>
     <title>N’Ko Gap Analysis</title>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="June" day="8"/>
+    <date year="2023" month="June" day="15"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-nkoo-gap-20230608"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-nkoo-gap-20230615"/>
 </reference>

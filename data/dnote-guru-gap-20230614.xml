@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-guru-gap-20210525" target="https://www.w3.org/TR/2021/WD-guru-gap-20210525/">
+<reference anchor="W3C.DNOTE-guru-gap-20230614" target="https://www.w3.org/TR/2023/DNOTE-guru-gap-20230614/">
   <front>
     <title>Gurmukhi Gap Analysis</title>
     <author role="editor" fullname="Akshat Joshi">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2021" month="May" day="25"/>
+    <date year="2023" month="June" day="14"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-guru-gap-20210525"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-guru-gap-20230614"/>
 </reference>

@@ -1,11 +1,11 @@
-<reference anchor="W3C.DNOTE-mong-gap-20220125" target="https://www.w3.org/TR/2022/DNOTE-mong-gap-20220125/">
+<reference anchor="W3C.DNOTE-mong-gap-20230614" target="https://www.w3.org/TR/2023/DNOTE-mong-gap-20230614/">
   <front>
     <title>Mongolian Gap Analysis</title>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2022" month="January" day="25"/>
+    <date year="2023" month="June" day="14"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-mong-gap-20220125"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-mong-gap-20230614"/>
 </reference>
