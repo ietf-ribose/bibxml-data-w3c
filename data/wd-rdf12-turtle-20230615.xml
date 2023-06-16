@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-turtle-20230516" target="https://www.w3.org/TR/2023/WD-rdf12-turtle-20230516/">
+<reference anchor="W3C.WD-rdf12-turtle-20230615" target="https://www.w3.org/TR/2023/WD-rdf12-turtle-20230615/">
   <front>
     <title>RDF 1.2 Turtle</title>
     <author role="editor" fullname="Dominik Tomaszuk">
@@ -7,7 +7,7 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2023" month="May" day="16"/>
+    <date year="2023" month="June" day="15"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-turtle-20230516"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-turtle-20230615"/>
 </reference>
