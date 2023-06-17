@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-di-ecdsa-20230603" target="https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230603/">
+<reference anchor="W3C.WD-vc-di-ecdsa-20230616" target="https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230616/">
   <front>
     <title>ECDSA Cryptosuite v2019</title>
     <author role="editor" fullname="Manu Sporny">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Martin Reed">
       <organization/>
     </author>
-    <date year="2023" month="June" day="3"/>
+    <date year="2023" month="June" day="16"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-di-ecdsa-20230603"/>
+  <seriesInfo name="W3C WD" value="WD-vc-di-ecdsa-20230616"/>
 </reference>

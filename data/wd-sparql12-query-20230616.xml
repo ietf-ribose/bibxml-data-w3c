@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-sparql12-query-20230516" target="https://www.w3.org/TR/2023/WD-sparql12-query-20230516/">
+<reference anchor="W3C.WD-sparql12-query-20230616" target="https://www.w3.org/TR/2023/WD-sparql12-query-20230616/">
   <front>
     <title>SPARQL 1.2 Query Language</title>
     <author role="editor" fullname="Andy Seaborne">
@@ -13,7 +13,10 @@
     <author role="editor" fullname="Ruben Taelman">
       <organization/>
     </author>
-    <date year="2023" month="May" day="16"/>
+    <author role="editor" fullname="Thomas Pellissier Tanon">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="16"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-sparql12-query-20230516"/>
+  <seriesInfo name="W3C WD" value="WD-sparql12-query-20230616"/>
 </reference>
