@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-mediacapture-streams-20230504" target="https://www.w3.org/TR/2023/CRD-mediacapture-streams-20230504/">
+<reference anchor="W3C.CRD-mediacapture-streams-20230619" target="https://www.w3.org/TR/2023/CRD-mediacapture-streams-20230619/">
   <front>
     <title>Media Capture and Streams</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="youenn fablet">
       <organization/>
     </author>
-    <date year="2023" month="May" day="4"/>
+    <date year="2023" month="June" day="19"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-mediacapture-streams-20230504"/>
+  <seriesInfo name="W3C CR" value="CRD-mediacapture-streams-20230619"/>
 </reference>
