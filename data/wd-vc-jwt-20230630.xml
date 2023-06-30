@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-vc-jwt-20230615" target="https://www.w3.org/TR/2023/WD-vc-jwt-20230615/">
+<reference anchor="W3C.WD-vc-jwt-20230630" target="https://www.w3.org/TR/2023/WD-vc-jwt-20230630/">
   <front>
-    <title>Securing Verifiable Credentials using JSON Web Tokens</title>
+    <title>Securing Verifiable Credentials using JOSE and COSE</title>
     <author role="editor" fullname="Michael Jones">
       <organization/>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Orie Steele">
       <organization/>
     </author>
-    <date year="2023" month="June" day="15"/>
+    <date year="2023" month="June" day="30"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-jwt-20230615"/>
+  <seriesInfo name="W3C WD" value="WD-vc-jwt-20230630"/>
 </reference>
