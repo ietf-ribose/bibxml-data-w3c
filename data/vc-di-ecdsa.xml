@@ -1,6 +1,6 @@
 <reference anchor="W3C.vc-di-ecdsa" target="https://www.w3.org/TR/vc-di-ecdsa/">
   <front>
-    <title>ECDSA Cryptosuite v2019</title>
+    <title>Data Integrity ECDSA Cryptosuites v1.0</title>
   </front>
   <seriesInfo name="W3C WD" value="vc-di-ecdsa"/>
 </reference>
