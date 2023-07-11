@@ -1,0 +1,6 @@
+<reference anchor="W3C.kore-gap" target="https://www.w3.org/TR/kore-gap/">
+  <front>
+    <title>Korean Layout Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C NOTE" value="kore-gap"/>
+</reference>

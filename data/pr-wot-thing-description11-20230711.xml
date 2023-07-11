@@ -1,4 +1,4 @@
-<reference anchor="W3C.CR-wot-thing-description11-20230119" target="https://www.w3.org/TR/2023/CR-wot-thing-description11-20230119/">
+<reference anchor="W3C.PR-wot-thing-description11-20230711" target="https://www.w3.org/TR/2023/PR-wot-thing-description11-20230711/">
   <front>
     <title>Web of Things (WoT) Thing Description 1.1</title>
     <author role="editor" fullname="Ege Korkan">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Sebastian Käbisch">
       <organization/>
     </author>
-    <date year="2023" month="January" day="19"/>
+    <date year="2023" month="July" day="11"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-wot-thing-description11-20230119"/>
+  <seriesInfo name="W3C PR" value="PR-wot-thing-description11-20230711"/>
 </reference>
