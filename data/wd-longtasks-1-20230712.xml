@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-longtasks-1-20230712" target="https://www.w3.org/TR/2023/WD-longtasks-1-20230712/">
+  <front>
+    <title>Long Tasks API</title>
+    <author role="editor" fullname="Noam Rosenthal">
+      <organization/>
+    </author>
+    <date year="2023" month="July" day="12"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-longtasks-1-20230712"/>
+</reference>
