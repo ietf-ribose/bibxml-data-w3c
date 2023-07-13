@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-WGSL-20230710" target="https://www.w3.org/TR/2023/WD-WGSL-20230710/">
+<reference anchor="W3C.WD-WGSL-20230712" target="https://www.w3.org/TR/2023/WD-WGSL-20230712/">
   <front>
     <title>WebGPU Shading Language</title>
     <author role="editor" fullname="Alan Baker">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Mehmet Oguz Derin">
       <organization/>
     </author>
-    <date year="2023" month="July" day="10"/>
+    <date year="2023" month="July" day="12"/>
     <workgroup>GPU for the Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-WGSL-20230710"/>
+  <seriesInfo name="W3C WD" value="WD-WGSL-20230712"/>
 </reference>
