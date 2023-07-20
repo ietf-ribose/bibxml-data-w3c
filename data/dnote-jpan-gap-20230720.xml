@@ -1,11 +1,11 @@
-<reference anchor="W3C.DNOTE-jpan-gap-20230617" target="https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230617/">
+<reference anchor="W3C.DNOTE-jpan-gap-20230720" target="https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230720/">
   <front>
     <title>Japanese Gap Analysis</title>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="June" day="17"/>
+    <date year="2023" month="July" day="20"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-jpan-gap-20230617"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-jpan-gap-20230720"/>
 </reference>

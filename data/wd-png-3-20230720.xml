@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-png-3-20221025" target="https://www.w3.org/TR/2022/WD-png-3-20221025/">
+<reference anchor="W3C.WD-png-3-20230720" target="https://www.w3.org/TR/2023/WD-png-3-20230720/">
   <front>
     <title>Portable Network Graphics (PNG) Specification (Third Edition)</title>
     <author role="editor" fullname="Chris Blume">
@@ -16,7 +16,7 @@
     <author role="editor" fullname="Pierre-Anthony Lemieux">
       <organization/>
     </author>
-    <date year="2022" month="October" day="25"/>
+    <date year="2023" month="July" day="20"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-png-3-20221025"/>
+  <seriesInfo name="W3C WD" value="WD-png-3-20230720"/>
 </reference>
