@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-string-meta-20220804" target="https://www.w3.org/TR/2022/DNOTE-string-meta-20220804/">
+<reference anchor="W3C.DNOTE-string-meta-20230720" target="https://www.w3.org/TR/2023/DNOTE-string-meta-20230720/">
   <front>
     <title>Strings on the Web: Language and Direction Metadata</title>
     <author role="editor" fullname="Addison Phillips">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2022" month="August" day="4"/>
+    <date year="2023" month="July" day="20"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-string-meta-20220804"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-string-meta-20230720"/>
 </reference>

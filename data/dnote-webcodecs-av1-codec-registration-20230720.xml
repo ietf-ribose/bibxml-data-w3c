@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-av1-codec-registration-20230719" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-av1-codec-registration-20230719/">
+<reference anchor="W3C.DNOTE-webcodecs-av1-codec-registration-20230720" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-av1-codec-registration-20230720/">
   <front>
     <title>AV1 WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2023" month="July" day="19"/>
+    <date year="2023" month="July" day="20"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-av1-codec-registration-20230719"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-av1-codec-registration-20230720"/>
 </reference>
