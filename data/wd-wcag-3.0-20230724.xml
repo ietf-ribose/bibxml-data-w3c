@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-wcag-3.0-20211207" target="https://www.w3.org/TR/2021/WD-wcag-3.0-20211207/">
+<reference anchor="W3C.WD-wcag-3.0-20230724" target="https://www.w3.org/TR/2023/WD-wcag-3.0-20230724/">
   <front>
     <title>W3C Accessibility Guidelines (WCAG) 3.0</title>
     <author role="editor" fullname="Jeanne F Spellman">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Shawn Lauriat">
       <organization/>
     </author>
-    <date year="2021" month="December" day="7"/>
+    <date year="2023" month="July" day="24"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wcag-3.0-20211207"/>
+  <seriesInfo name="W3C WD" value="WD-wcag-3.0-20230724"/>
 </reference>
