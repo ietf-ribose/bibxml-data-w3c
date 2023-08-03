@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-screen-orientation-20230803" target="https://www.w3.org/TR/2023/WD-screen-orientation-20230803/">
+  <front>
+    <title>Screen Orientation</title>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2023" month="August" day="3"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-screen-orientation-20230803"/>
+</reference>
