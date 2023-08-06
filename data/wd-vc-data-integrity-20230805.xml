@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-data-integrity-20230731" target="https://www.w3.org/TR/2023/WD-vc-data-integrity-20230731/">
+<reference anchor="W3C.WD-vc-data-integrity-20230805" target="https://www.w3.org/TR/2023/WD-vc-data-integrity-20230805/">
   <front>
     <title>Verifiable Credential Data Integrity 1.0</title>
     <author role="editor" fullname="Dave Longley">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Sebastian Crane">
       <organization/>
     </author>
-    <date year="2023" month="July" day="31"/>
+    <date year="2023" month="August" day="5"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-data-integrity-20230731"/>
+  <seriesInfo name="W3C WD" value="WD-vc-data-integrity-20230805"/>
 </reference>
