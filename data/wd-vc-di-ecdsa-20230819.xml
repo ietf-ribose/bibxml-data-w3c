@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-di-ecdsa-20230817" target="https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230817/">
+<reference anchor="W3C.WD-vc-di-ecdsa-20230819" target="https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230819/">
   <front>
     <title>Data Integrity ECDSA Cryptosuites v1.0</title>
     <author role="editor" fullname="Greg Bernstein">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Sebastian Crane">
       <organization/>
     </author>
-    <date year="2023" month="August" day="17"/>
+    <date year="2023" month="August" day="19"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-di-ecdsa-20230817"/>
+  <seriesInfo name="W3C WD" value="WD-vc-di-ecdsa-20230819"/>
 </reference>
