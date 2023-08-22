@@ -1,0 +1,6 @@
+<reference anchor="W3C.latn-ca-gap" target="https://www.w3.org/TR/latn-ca-gap/">
+  <front>
+    <title>Catalan Gap Analysis</title>
+  </front>
+  <seriesInfo name="W3C NOTE" value="latn-ca-gap"/>
+</reference>
