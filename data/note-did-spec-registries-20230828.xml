@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-did-spec-registries-20230514" target="https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230514/">
+<reference anchor="W3C.NOTE-did-spec-registries-20230828" target="https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230828/">
   <front>
     <title>DID Specification Registries</title>
     <author role="editor" fullname="Manu Sporny">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Orie Steele">
       <organization/>
     </author>
-    <date year="2023" month="May" day="14"/>
+    <date year="2023" month="August" day="28"/>
     <workgroup>Decentralized Identifier Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-did-spec-registries-20230514"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-did-spec-registries-20230828"/>
 </reference>
