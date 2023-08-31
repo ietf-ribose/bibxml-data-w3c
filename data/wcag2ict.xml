@@ -1,6 +1,6 @@
 <reference anchor="W3C.wcag2ict" target="https://www.w3.org/TR/wcag2ict/">
   <front>
-    <title>Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)</title>
+    <title>Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)</title>
   </front>
   <seriesInfo name="W3C NOTE" value="wcag2ict"/>
 </reference>
