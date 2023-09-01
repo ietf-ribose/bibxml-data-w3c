@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-audio-output-20230504" target="https://www.w3.org/TR/2023/CRD-audio-output-20230504/">
+<reference anchor="W3C.CRD-audio-output-20230831" target="https://www.w3.org/TR/2023/CRD-audio-output-20230831/">
   <front>
     <title>Audio Output Devices API</title>
     <author role="editor" fullname="Guido Urdaneta">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="youenn fablet">
       <organization/>
     </author>
-    <date year="2023" month="May" day="4"/>
+    <date year="2023" month="August" day="31"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-audio-output-20230504"/>
+  <seriesInfo name="W3C CR" value="CRD-audio-output-20230831"/>
 </reference>
