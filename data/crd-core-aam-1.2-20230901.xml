@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-core-aam-1.2-20230825" target="https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230825/">
+<reference anchor="W3C.CRD-core-aam-1.2-20230901" target="https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230901/">
   <front>
     <title>Core Accessibility API Mappings 1.2</title>
     <author role="editor" fullname="Alexander Surkov">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Valerie Young">
       <organization/>
     </author>
-    <date year="2023" month="August" day="25"/>
+    <date year="2023" month="September" day="1"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-core-aam-1.2-20230825"/>
+  <seriesInfo name="W3C CR" value="CRD-core-aam-1.2-20230901"/>
 </reference>
