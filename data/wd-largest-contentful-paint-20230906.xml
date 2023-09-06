@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-largest-contentful-paint-20230901" target="https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230901/">
+<reference anchor="W3C.WD-largest-contentful-paint-20230906" target="https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230906/">
   <front>
     <title>Largest Contentful Paint</title>
     <author role="editor" fullname="Nicolas Pena Moreno">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2023" month="September" day="1"/>
+    <date year="2023" month="September" day="6"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-largest-contentful-paint-20230901"/>
+  <seriesInfo name="W3C WD" value="WD-largest-contentful-paint-20230906"/>
 </reference>
