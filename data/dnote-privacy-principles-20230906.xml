@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-privacy-principles-20230906" target="https://www.w3.org/TR/2023/DNOTE-privacy-principles-20230906/">
+  <front>
+    <title>Privacy Principles</title>
+    <author role="editor" fullname="Jeffrey Yasskin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2023" month="September" day="6"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-privacy-principles-20230906"/>
+</reference>
