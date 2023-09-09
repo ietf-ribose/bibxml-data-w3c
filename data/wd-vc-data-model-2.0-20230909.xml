@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-data-model-2.0-20230905" target="https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20230905/">
+<reference anchor="W3C.WD-vc-data-model-2.0-20230909" target="https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20230909/">
   <front>
     <title>Verifiable Credentials Data Model v2.0</title>
     <author role="editor" fullname="Gabe Cohen">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Orie Steele">
       <organization/>
     </author>
-    <date year="2023" month="September" day="5"/>
+    <date year="2023" month="September" day="9"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-data-model-2.0-20230905"/>
+  <seriesInfo name="W3C WD" value="WD-vc-data-model-2.0-20230909"/>
 </reference>
