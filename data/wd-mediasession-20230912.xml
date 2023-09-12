@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mediasession-20230912" target="https://www.w3.org/TR/2023/WD-mediasession-20230912/">
+  <front>
+    <title>Media Session</title>
+    <author role="editor" fullname="Thomas Steimel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="youenn fablet">
+      <organization/>
+    </author>
+    <date year="2023" month="September" day="12"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediasession-20230912"/>
+</reference>
