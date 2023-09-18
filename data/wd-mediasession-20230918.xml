@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-mediasession-20230915" target="https://www.w3.org/TR/2023/WD-mediasession-20230915/">
+<reference anchor="W3C.WD-mediasession-20230918" target="https://www.w3.org/TR/2023/WD-mediasession-20230918/">
   <front>
     <title>Media Session</title>
     <author role="editor" fullname="Thomas Steimel">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="youenn fablet">
       <organization/>
     </author>
-    <date year="2023" month="September" day="15"/>
+    <date year="2023" month="September" day="18"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-mediasession-20230915"/>
+  <seriesInfo name="W3C WD" value="WD-mediasession-20230918"/>
 </reference>
