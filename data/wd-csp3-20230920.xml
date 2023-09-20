@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-CSP3-20230904" target="https://www.w3.org/TR/2023/WD-CSP3-20230904/">
+<reference anchor="W3C.WD-CSP3-20230920" target="https://www.w3.org/TR/2023/WD-CSP3-20230920/">
   <front>
     <title>Content Security Policy Level 3</title>
     <author role="editor" fullname="Antonio Sartori">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>
-    <date year="2023" month="September" day="4"/>
+    <date year="2023" month="September" day="20"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-CSP3-20230904"/>
+  <seriesInfo name="W3C WD" value="WD-CSP3-20230920"/>
 </reference>
