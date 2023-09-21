@@ -1,6 +1,9 @@
-<reference anchor="W3C.NOTE-UNDERSTANDING-WCAG20-20161007" target="https://www.w3.org/TR/2016/NOTE-UNDERSTANDING-WCAG20-20161007/">
+<reference anchor="W3C.REC-WCAG21-20230921" target="https://www.w3.org/TR/2023/REC-WCAG21-20230921/">
   <front>
-    <title>Understanding WCAG 2.0</title>
+    <title>Web Content Accessibility Guidelines (WCAG) 2.1</title>
+    <author role="editor" fullname="Alastair Campbell">
+      <organization/>
+    </author>
     <author role="editor" fullname="Andrew Kirkpatrick">
       <organization/>
     </author>
@@ -10,8 +13,8 @@
     <author role="editor" fullname="Michael Cooper">
       <organization/>
     </author>
-    <date year="2016" month="October" day="7"/>
+    <date year="2023" month="September" day="21"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-UNDERSTANDING-WCAG20-20161007"/>
+  <seriesInfo name="W3C REC" value="REC-WCAG21-20230921"/>
 </reference>
