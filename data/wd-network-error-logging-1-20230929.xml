@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-network-error-logging-1-20230929" target="https://www.w3.org/TR/2023/WD-network-error-logging-1-20230929/">
+  <front>
+    <title>Network Error Logging</title>
+    <author role="editor" fullname="Douglas Creager">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Clelland">
+      <organization/>
+    </author>
+    <date year="2023" month="September" day="29"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-network-error-logging-1-20230929"/>
+</reference>

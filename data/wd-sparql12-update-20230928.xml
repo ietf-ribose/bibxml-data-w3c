@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-sparql12-update-20230922" target="https://www.w3.org/TR/2023/WD-sparql12-update-20230922/">
+<reference anchor="W3C.WD-sparql12-update-20230928" target="https://www.w3.org/TR/2023/WD-sparql12-update-20230928/">
   <front>
     <title>SPARQL 1.2 Update</title>
     <author role="editor" fullname="Andy Seaborne">
@@ -10,7 +10,7 @@
     <author role="editor" fullname="Thomas Pellissier Tanon">
       <organization/>
     </author>
-    <date year="2023" month="September" day="22"/>
+    <date year="2023" month="September" day="28"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-sparql12-update-20230922"/>
+  <seriesInfo name="W3C WD" value="WD-sparql12-update-20230928"/>
 </reference>
