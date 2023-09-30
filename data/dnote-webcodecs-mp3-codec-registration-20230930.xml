@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-mp3-codec-registration-20230928" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-mp3-codec-registration-20230928/">
+<reference anchor="W3C.DNOTE-webcodecs-mp3-codec-registration-20230930" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-mp3-codec-registration-20230930/">
   <front>
     <title>MP3 WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2023" month="September" day="28"/>
+    <date year="2023" month="September" day="30"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-mp3-codec-registration-20230928"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-mp3-codec-registration-20230930"/>
 </reference>
