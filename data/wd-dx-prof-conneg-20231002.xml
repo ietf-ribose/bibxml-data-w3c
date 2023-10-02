@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-dx-prof-conneg-20191126" target="https://www.w3.org/TR/2019/WD-dx-prof-conneg-20191126/">
+<reference anchor="W3C.WD-dx-prof-conneg-20231002" target="https://www.w3.org/TR/2023/WD-dx-prof-conneg-20231002/">
   <front>
     <title>Content Negotiation by Profile</title>
     <author role="editor" fullname="Lars G. Svensson">
@@ -7,8 +7,11 @@
     <author role="editor" fullname="Nicholas Car">
       <organization/>
     </author>
-    <date year="2019" month="November" day="26"/>
+    <author role="editor" fullname="Rob Atkinson">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="2"/>
     <workgroup>Dataset Exchange Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-dx-prof-conneg-20191126"/>
+  <seriesInfo name="W3C WD" value="WD-dx-prof-conneg-20231002"/>
 </reference>
