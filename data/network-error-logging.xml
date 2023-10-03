@@ -1,0 +1,6 @@
+<reference anchor="W3C.network-error-logging" target="https://www.w3.org/TR/network-error-logging/">
+  <front>
+    <title>Network Error Logging</title>
+  </front>
+  <seriesInfo name="W3C WD" value="network-error-logging"/>
+</reference>

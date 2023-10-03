@@ -1,0 +1,6 @@
+<reference anchor="W3C.epub-a11y-exemption" target="https://www.w3.org/TR/epub-a11y-exemption/">
+  <front>
+    <title>The EPUB Accessibility exemption property</title>
+  </front>
+  <seriesInfo name="W3C NOTE" value="epub-a11y-exemption"/>
+</reference>
