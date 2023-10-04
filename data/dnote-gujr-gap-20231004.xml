@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-gujr-gap-20230614" target="https://www.w3.org/TR/2023/DNOTE-gujr-gap-20230614/">
+<reference anchor="W3C.DNOTE-gujr-gap-20231004" target="https://www.w3.org/TR/2023/DNOTE-gujr-gap-20231004/">
   <front>
     <title>Gujarati Gap Analysis</title>
     <author role="editor" fullname="Neha Gupta">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="June" day="14"/>
+    <date year="2023" month="October" day="4"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-gujr-gap-20230614"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-gujr-gap-20231004"/>
 </reference>

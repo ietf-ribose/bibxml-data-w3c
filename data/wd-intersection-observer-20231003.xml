@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-intersection-observer-20230929" target="https://www.w3.org/TR/2023/WD-intersection-observer-20230929/">
+<reference anchor="W3C.WD-intersection-observer-20231003" target="https://www.w3.org/TR/2023/WD-intersection-observer-20231003/">
   <front>
     <title>Intersection Observer</title>
     <author role="editor" fullname="Emilio Cobos Álvarez">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Traian Captan">
       <organization/>
     </author>
-    <date year="2023" month="September" day="29"/>
+    <date year="2023" month="October" day="3"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-intersection-observer-20230929"/>
+  <seriesInfo name="W3C WD" value="WD-intersection-observer-20231003"/>
 </reference>

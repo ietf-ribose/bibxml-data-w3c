@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-wot-scripting-api-20201124" target="https://www.w3.org/TR/2020/NOTE-wot-scripting-api-20201124/">
+<reference anchor="W3C.NOTE-wot-scripting-api-20231003" target="https://www.w3.org/TR/2023/NOTE-wot-scripting-api-20231003/">
   <front>
     <title>Web of Things (WoT) Scripting API</title>
     <author role="editor" fullname="Cristiano Aguzzi">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Zoltan Kis">
       <organization/>
     </author>
-    <date year="2020" month="November" day="24"/>
+    <date year="2023" month="October" day="3"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-wot-scripting-api-20201124"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-wot-scripting-api-20231003"/>
 </reference>
