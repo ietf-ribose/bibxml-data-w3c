@@ -1,4 +1,4 @@
-<reference anchor="W3C.PR-WCAG22-20230720" target="https://www.w3.org/TR/2023/PR-WCAG22-20230720/">
+<reference anchor="W3C.REC-WCAG22-20231005" target="https://www.w3.org/TR/2023/REC-WCAG22-20231005/">
   <front>
     <title>Web Content Accessibility Guidelines (WCAG) 2.2</title>
     <author role="editor" fullname="Alastair Campbell">
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Rachael Bradley Montgomery">
       <organization/>
     </author>
-    <date year="2023" month="July" day="20"/>
+    <date year="2023" month="October" day="5"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C PR" value="PR-WCAG22-20230720"/>
+  <seriesInfo name="W3C REC" value="REC-WCAG22-20231005"/>
 </reference>

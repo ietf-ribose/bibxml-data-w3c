@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-network-error-logging-20231003" target="https://www.w3.org/TR/2023/WD-network-error-logging-20231003/">
+<reference anchor="W3C.WD-network-error-logging-20231005" target="https://www.w3.org/TR/2023/WD-network-error-logging-20231005/">
   <front>
     <title>Network Error Logging</title>
     <author role="editor" fullname="Douglas Creager">
@@ -7,7 +7,7 @@
     <author role="editor" fullname="Ian Clelland">
       <organization/>
     </author>
-    <date year="2023" month="October" day="3"/>
+    <date year="2023" month="October" day="5"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-network-error-logging-20231003"/>
+  <seriesInfo name="W3C WD" value="WD-network-error-logging-20231005"/>
 </reference>
