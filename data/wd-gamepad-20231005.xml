@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-gamepad-20230413" target="https://www.w3.org/TR/2023/WD-gamepad-20230413/">
+<reference anchor="W3C.WD-gamepad-20231005" target="https://www.w3.org/TR/2023/WD-gamepad-20231005/">
   <front>
     <title>Gamepad</title>
     <author role="editor" fullname="Matthew Reynolds">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Steve Agoston">
       <organization/>
     </author>
-    <date year="2023" month="April" day="13"/>
+    <date year="2023" month="October" day="5"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-gamepad-20230413"/>
+  <seriesInfo name="W3C WD" value="WD-gamepad-20231005"/>
 </reference>
