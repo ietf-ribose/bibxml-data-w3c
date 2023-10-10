@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-image-capture-20230316" target="https://www.w3.org/TR/2023/WD-image-capture-20230316/">
+<reference anchor="W3C.WD-image-capture-20231010" target="https://www.w3.org/TR/2023/WD-image-capture-20231010/">
   <front>
     <title>MediaStream Image Capture</title>
     <author role="editor" fullname="Miguel Casas-sanchez">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Rijubrata Bhaumik">
       <organization/>
     </author>
-    <date year="2023" month="March" day="16"/>
+    <date year="2023" month="October" day="10"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-image-capture-20230316"/>
+  <seriesInfo name="W3C WD" value="WD-image-capture-20231010"/>
 </reference>
