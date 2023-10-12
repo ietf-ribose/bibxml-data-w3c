@@ -1,0 +1,10 @@
+<reference anchor="W3C.CRD-performance-timeline-20231011" target="https://www.w3.org/TR/2023/CRD-performance-timeline-20231011/">
+  <front>
+    <title>Performance Timeline</title>
+    <author role="editor" fullname="Nicolas Pena Moreno">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="11"/>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-performance-timeline-20231011"/>
+</reference>
