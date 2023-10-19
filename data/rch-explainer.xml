@@ -1,0 +1,6 @@
+<reference anchor="W3C.rch-explainer" target="https://www.w3.org/TR/rch-explainer/">
+  <front>
+    <title>RDF Dataset Canonicalization and Hash Working Group — Explainer and Use Cases</title>
+  </front>
+  <seriesInfo name="W3C NOTE" value="rch-explainer"/>
+</reference>
