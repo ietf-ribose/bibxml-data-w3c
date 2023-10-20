@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-ambient-light-20230721" target="https://www.w3.org/TR/2023/WD-ambient-light-20230721/">
+<reference anchor="W3C.WD-ambient-light-20231020" target="https://www.w3.org/TR/2023/WD-ambient-light-20231020/">
   <front>
     <title>Ambient Light Sensor</title>
     <author role="editor" fullname="Anssi Kostiainen">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Rijubrata Bhaumik">
       <organization/>
     </author>
-    <date year="2023" month="July" day="21"/>
+    <date year="2023" month="October" day="20"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-ambient-light-20230721"/>
+  <seriesInfo name="W3C WD" value="WD-ambient-light-20231020"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-international-specs-20230928" target="https://www.w3.org/TR/2023/DNOTE-international-specs-20230928/">
+<reference anchor="W3C.DNOTE-international-specs-20231019" target="https://www.w3.org/TR/2023/DNOTE-international-specs-20231019/">
   <front>
     <title>Internationalization Best Practices for Spec Developers</title>
     <author role="editor" fullname="Addison Phillips">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="September" day="28"/>
+    <date year="2023" month="October" day="19"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-international-specs-20230928"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-international-specs-20231019"/>
 </reference>

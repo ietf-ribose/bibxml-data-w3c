@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-n-quads-20231013" target="https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231013/">
+<reference anchor="W3C.WD-rdf12-n-quads-20231019" target="https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231019/">
   <front>
     <title>RDF 1.2 N-Quads</title>
     <author role="editor" fullname="Dominik Tomaszuk">
@@ -7,7 +7,7 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2023" month="October" day="13"/>
+    <date year="2023" month="October" day="19"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-n-quads-20231013"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-n-quads-20231019"/>
 </reference>
