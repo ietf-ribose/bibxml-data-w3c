@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-navigation-timing-2-20230607" target="https://www.w3.org/TR/2023/WD-navigation-timing-2-20230607/">
+<reference anchor="W3C.WD-navigation-timing-2-20231024" target="https://www.w3.org/TR/2023/WD-navigation-timing-2-20231024/">
   <front>
     <title>Navigation Timing Level 2</title>
     <author role="editor" fullname="Noam Rosenthal">
@@ -7,7 +7,7 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2023" month="June" day="7"/>
+    <date year="2023" month="October" day="24"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20230607"/>
+  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20231024"/>
 </reference>
