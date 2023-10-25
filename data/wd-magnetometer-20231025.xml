@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-magnetometer-20231024" target="https://www.w3.org/TR/2023/WD-magnetometer-20231024/">
+<reference anchor="W3C.WD-magnetometer-20231025" target="https://www.w3.org/TR/2023/WD-magnetometer-20231025/">
   <front>
     <title>Magnetometer</title>
     <author role="editor" fullname="Anssi Kostiainen">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Rijubrata Bhaumik">
       <organization/>
     </author>
-    <date year="2023" month="October" day="24"/>
+    <date year="2023" month="October" day="25"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-magnetometer-20231024"/>
+  <seriesInfo name="W3C WD" value="WD-magnetometer-20231025"/>
 </reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.CRD-gyroscope-20231025" target="https://www.w3.org/TR/2023/CRD-gyroscope-20231025/">
+  <front>
+    <title>Gyroscope</title>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="25"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-gyroscope-20231025"/>
+</reference>
