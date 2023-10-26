@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-geolocation-sensor-20220316" target="https://www.w3.org/TR/2022/WD-geolocation-sensor-20220316/">
+<reference anchor="W3C.WD-geolocation-sensor-20231026" target="https://www.w3.org/TR/2023/WD-geolocation-sensor-20231026/">
   <front>
     <title>Geolocation Sensor</title>
     <author role="editor" fullname="Anssi Kostiainen">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Thomas Steiner">
       <organization/>
     </author>
-    <date year="2022" month="March" day="16"/>
+    <date year="2023" month="October" day="26"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-geolocation-sensor-20220316"/>
+  <seriesInfo name="W3C WD" value="WD-geolocation-sensor-20231026"/>
 </reference>

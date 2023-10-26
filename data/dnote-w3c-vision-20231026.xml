@@ -1,0 +1,10 @@
+<reference anchor="W3C.DNOTE-w3c-vision-20231026" target="https://www.w3.org/TR/2023/DNOTE-w3c-vision-20231026/">
+  <front>
+    <title>Vision for W3C</title>
+    <author role="editor" fullname="Chris Wilson">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="26"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-w3c-vision-20231026"/>
+</reference>
