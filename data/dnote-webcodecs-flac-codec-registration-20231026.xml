@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-flac-codec-registration-20231012" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-flac-codec-registration-20231012/">
+<reference anchor="W3C.DNOTE-webcodecs-flac-codec-registration-20231026" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-flac-codec-registration-20231026/">
   <front>
     <title>FLAC WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2023" month="October" day="12"/>
+    <date year="2023" month="October" day="26"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-flac-codec-registration-20231012"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-flac-codec-registration-20231026"/>
 </reference>
