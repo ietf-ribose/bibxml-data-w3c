@@ -1,11 +1,11 @@
-<reference anchor="W3C.WD-fetch-metadata-20210720" target="https://www.w3.org/TR/2021/WD-fetch-metadata-20210720/">
+<reference anchor="W3C.WD-fetch-metadata-20231031" target="https://www.w3.org/TR/2023/WD-fetch-metadata-20231031/">
   <front>
     <title>Fetch Metadata Request Headers</title>
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>
-    <date year="2021" month="July" day="20"/>
+    <date year="2023" month="October" day="31"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-fetch-metadata-20210720"/>
+  <seriesInfo name="W3C WD" value="WD-fetch-metadata-20231031"/>
 </reference>
