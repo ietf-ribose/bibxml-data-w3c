@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-vp9-codec-registration-20231028" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-vp9-codec-registration-20231028/">
+<reference anchor="W3C.DNOTE-webcodecs-vp9-codec-registration-20231101" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-vp9-codec-registration-20231101/">
   <front>
     <title>VP9 WebCodecs Registration</title>
     <author role="editor" fullname="Bernard Aboba">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2023" month="October" day="28"/>
+    <date year="2023" month="November" day="1"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-vp9-codec-registration-20231028"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-vp9-codec-registration-20231101"/>
 </reference>
