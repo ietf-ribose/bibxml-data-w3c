@@ -1,11 +1,11 @@
-<reference anchor="W3C.WD-html-aam-1.0-20231016" target="https://www.w3.org/TR/2023/WD-html-aam-1.0-20231016/">
+<reference anchor="W3C.WD-html-aam-1.0-20231102" target="https://www.w3.org/TR/2023/WD-html-aam-1.0-20231102/">
   <front>
     <title>HTML Accessibility API Mappings 1.0</title>
     <author role="editor" fullname="Scott O'Hara">
       <organization/>
     </author>
-    <date year="2023" month="October" day="16"/>
+    <date year="2023" month="November" day="2"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-html-aam-1.0-20231016"/>
+  <seriesInfo name="W3C WD" value="WD-html-aam-1.0-20231102"/>
 </reference>
