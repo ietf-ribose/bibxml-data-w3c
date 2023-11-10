@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-reporting-1-20230512" target="https://www.w3.org/TR/2023/WD-reporting-1-20230512/">
+<reference anchor="W3C.WD-reporting-1-20231110" target="https://www.w3.org/TR/2023/WD-reporting-1-20231110/">
   <front>
     <title>Reporting API</title>
     <author role="editor" fullname="Douglas Creager">
@@ -10,7 +10,7 @@
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>
-    <date year="2023" month="May" day="12"/>
+    <date year="2023" month="November" day="10"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-reporting-1-20230512"/>
+  <seriesInfo name="W3C WD" value="WD-reporting-1-20231110"/>
 </reference>

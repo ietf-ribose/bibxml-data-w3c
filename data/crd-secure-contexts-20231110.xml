@@ -1,0 +1,11 @@
+<reference anchor="W3C.CRD-secure-contexts-20231110" target="https://www.w3.org/TR/2023/CRD-secure-contexts-20231110/">
+  <front>
+    <title>Secure Contexts</title>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2023" month="November" day="10"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-secure-contexts-20231110"/>
+</reference>
