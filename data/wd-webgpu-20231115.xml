@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webgpu-20231115" target="https://www.w3.org/TR/2023/WD-webgpu-20231115/">
+  <front>
+    <title>WebGPU</title>
+    <author role="editor" fullname="Brandon Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Blandy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kai Ninomiya">
+      <organization/>
+    </author>
+    <date year="2023" month="November" day="15"/>
+    <workgroup>GPU for the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webgpu-20231115"/>
+</reference>
