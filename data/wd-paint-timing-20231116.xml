@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-paint-timing-20230703" target="https://www.w3.org/TR/2023/WD-paint-timing-20230703/">
+<reference anchor="W3C.WD-paint-timing-20231116" target="https://www.w3.org/TR/2023/WD-paint-timing-20231116/">
   <front>
     <title>Paint Timing</title>
     <author role="editor" fullname="Nicolas Pena Moreno">
@@ -7,7 +7,7 @@
     <author role="editor" fullname="Noam Rosenthal">
       <organization/>
     </author>
-    <date year="2023" month="July" day="3"/>
+    <date year="2023" month="November" day="16"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-paint-timing-20230703"/>
+  <seriesInfo name="W3C WD" value="WD-paint-timing-20231116"/>
 </reference>
