@@ -2,5 +2,5 @@
   <front>
     <title>Data Integrity EdDSA Cryptosuites v1.0</title>
   </front>
-  <seriesInfo name="W3C WD" value="vc-di-eddsa"/>
+  <seriesInfo name="W3C CR" value="vc-di-eddsa"/>
 </reference>
