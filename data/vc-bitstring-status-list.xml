@@ -1,0 +1,6 @@
+<reference anchor="W3C.vc-bitstring-status-list" target="https://www.w3.org/TR/vc-bitstring-status-list/">
+  <front>
+    <title>Bitstring Status List v1.0</title>
+  </front>
+  <seriesInfo name="W3C WD" value="vc-bitstring-status-list"/>
+</reference>
