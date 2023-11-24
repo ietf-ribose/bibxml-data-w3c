@@ -1,11 +1,11 @@
-<reference anchor="W3C.CR-imsc-hrm-20230622" target="https://www.w3.org/TR/2023/CR-imsc-hrm-20230622/">
+<reference anchor="W3C.CRD-imsc-hrm-20231123" target="https://www.w3.org/TR/2023/CRD-imsc-hrm-20231123/">
   <front>
     <title>IMSC Hypothetical Render Model</title>
     <author role="editor" fullname="Pierre-Anthony Lemieux">
       <organization/>
     </author>
-    <date year="2023" month="June" day="22"/>
+    <date year="2023" month="November" day="23"/>
     <workgroup>Timed Text Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-imsc-hrm-20230622"/>
+  <seriesInfo name="W3C CR" value="CRD-imsc-hrm-20231123"/>
 </reference>

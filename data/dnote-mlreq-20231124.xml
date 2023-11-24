@@ -1,11 +1,11 @@
-<reference anchor="W3C.WD-mlreq-20200616" target="https://www.w3.org/TR/2020/WD-mlreq-20200616/">
+<reference anchor="W3C.DNOTE-mlreq-20231124" target="https://www.w3.org/TR/2023/DNOTE-mlreq-20231124/">
   <front>
     <title>Mongolian Layout Requirements</title>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2020" month="June" day="16"/>
+    <date year="2023" month="November" day="24"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-mlreq-20200616"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-mlreq-20231124"/>
 </reference>
