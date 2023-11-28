@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-orientation-sensor-20231103" target="https://www.w3.org/TR/2023/WD-orientation-sensor-20231103/">
+<reference anchor="W3C.WD-orientation-sensor-20231128" target="https://www.w3.org/TR/2023/WD-orientation-sensor-20231128/">
   <front>
     <title>Orientation Sensor</title>
     <author role="editor" fullname="Anssi Kostiainen">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Kenneth Christiansen">
       <organization/>
     </author>
-    <date year="2023" month="November" day="3"/>
+    <date year="2023" month="November" day="28"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-orientation-sensor-20231103"/>
+  <seriesInfo name="W3C WD" value="WD-orientation-sensor-20231128"/>
 </reference>
