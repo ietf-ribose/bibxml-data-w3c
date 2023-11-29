@@ -1,0 +1,11 @@
+<reference anchor="W3C.CRD-accelerometer-20231128" target="https://www.w3.org/TR/2023/CRD-accelerometer-20231128/">
+  <front>
+    <title>Accelerometer</title>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2023" month="November" day="28"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-accelerometer-20231128"/>
+</reference>
