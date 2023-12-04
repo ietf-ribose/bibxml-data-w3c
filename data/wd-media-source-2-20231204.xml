@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-media-source-2-20231114" target="https://www.w3.org/TR/2023/WD-media-source-2-20231114/">
+<reference anchor="W3C.WD-media-source-2-20231204" target="https://www.w3.org/TR/2023/WD-media-source-2-20231204/">
   <front>
     <title>Media Source Extensions™</title>
     <author role="editor" fullname="Jean-Yves Avenard">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Matthew Wolenetz">
       <organization/>
     </author>
-    <date year="2023" month="November" day="14"/>
+    <date year="2023" month="December" day="4"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-media-source-2-20231114"/>
+  <seriesInfo name="W3C WD" value="WD-media-source-2-20231204"/>
 </reference>
