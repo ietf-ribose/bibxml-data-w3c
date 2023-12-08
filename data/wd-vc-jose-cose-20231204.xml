@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-jose-cose-20231201" target="https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/">
+<reference anchor="W3C.WD-vc-jose-cose-20231204" target="https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/">
   <front>
     <title>Securing Verifiable Credentials using JOSE and COSE</title>
     <author role="editor" fullname="Gabe Cohen">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Orie Steele">
       <organization/>
     </author>
-    <date year="2023" month="December" day="1"/>
+    <date year="2023" month="December" day="4"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-jose-cose-20231201"/>
+  <seriesInfo name="W3C WD" value="WD-vc-jose-cose-20231204"/>
 </reference>

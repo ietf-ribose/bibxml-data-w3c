@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-css-2023-20230214" target="https://www.w3.org/TR/2023/DNOTE-css-2023-20230214/">
+<reference anchor="W3C.NOTE-css-2023-20231207" target="https://www.w3.org/TR/2023/NOTE-css-2023-20231207/">
   <front>
     <title>CSS Snapshot 2023</title>
     <author role="editor" fullname="Chris Lilley">
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Tab Atkins Jr.">
       <organization/>
     </author>
-    <date year="2023" month="February" day="14"/>
+    <date year="2023" month="December" day="7"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-css-2023-20230214"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-css-2023-20231207"/>
 </reference>
