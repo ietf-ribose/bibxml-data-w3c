@@ -11,6 +11,7 @@
       <organization/>
     </author>
     <date year="2023" month="November" day="10"/>
+    <workgroup>RDF-star Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-sparql12-results-csv-tsv-20231110"/>
 </reference>

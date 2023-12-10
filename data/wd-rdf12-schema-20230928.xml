@@ -8,6 +8,7 @@
       <organization/>
     </author>
     <date year="2023" month="September" day="28"/>
+    <workgroup>RDF-star Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-rdf12-schema-20230928"/>
 </reference>

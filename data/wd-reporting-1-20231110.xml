@@ -11,6 +11,7 @@
       <organization/>
     </author>
     <date year="2023" month="November" day="10"/>
+    <workgroup>Web Performance Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-reporting-1-20231110"/>
 </reference>

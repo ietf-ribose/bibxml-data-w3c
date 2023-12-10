@@ -8,6 +8,7 @@
       <organization/>
     </author>
     <date year="2023" month="May" day="11"/>
+    <workgroup>Web Performance Working Group</workgroup>
   </front>
   <seriesInfo name="W3C CR" value="CRD-resource-timing-20230511"/>
 </reference>

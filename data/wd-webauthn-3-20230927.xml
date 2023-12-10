@@ -11,6 +11,7 @@
       <organization/>
     </author>
     <date year="2023" month="September" day="27"/>
+    <workgroup>Web Authentication Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-webauthn-3-20230927"/>
 </reference>

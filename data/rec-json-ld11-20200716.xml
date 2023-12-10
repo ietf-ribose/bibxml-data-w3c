@@ -11,6 +11,7 @@
       <organization/>
     </author>
     <date year="2020" month="July" day="16"/>
+    <workgroup>JSON-LD Working Group</workgroup>
   </front>
   <seriesInfo name="W3C REC" value="REC-json-ld11-20200716"/>
 </reference>

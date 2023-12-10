@@ -5,6 +5,7 @@
       <organization/>
     </author>
     <date year="2012" month="December" day="17"/>
+    <workgroup>Web Performance Working Group</workgroup>
   </front>
   <seriesInfo name="W3C REC" value="REC-navigation-timing-20121217"/>
 </reference>

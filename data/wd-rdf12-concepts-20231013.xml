@@ -11,6 +11,7 @@
       <organization/>
     </author>
     <date year="2023" month="October" day="13"/>
+    <workgroup>RDF-star Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-rdf12-concepts-20231013"/>
 </reference>

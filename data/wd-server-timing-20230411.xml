@@ -8,6 +8,7 @@
       <organization/>
     </author>
     <date year="2023" month="April" day="11"/>
+    <workgroup>Web Performance Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-server-timing-20230411"/>
 </reference>
