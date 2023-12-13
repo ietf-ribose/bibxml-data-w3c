@@ -1,6 +1,6 @@
 <reference anchor="W3C.alreq" target="https://www.w3.org/TR/alreq/">
   <front>
-    <title>Text Layout Requirements for the Arabic Script</title>
+    <title>Arabic &amp; Persian Layout Requirements</title>
   </front>
-  <seriesInfo name="W3C WD" value="alreq"/>
+  <seriesInfo name="W3C NOTE" value="alreq"/>
 </reference>
