@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-sparql12-service-description-20230616" target="https://www.w3.org/TR/2023/WD-sparql12-service-description-20230616/">
+<reference anchor="W3C.WD-sparql12-service-description-20231214" target="https://www.w3.org/TR/2023/WD-sparql12-service-description-20231214/">
   <front>
     <title>SPARQL 1.2 Service Description</title>
     <author role="editor" fullname="Gregory Williams">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Ruben Taelman">
       <organization/>
     </author>
-    <date year="2023" month="June" day="16"/>
+    <date year="2023" month="December" day="14"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-sparql12-service-description-20230616"/>
+  <seriesInfo name="W3C WD" value="WD-sparql12-service-description-20231214"/>
 </reference>

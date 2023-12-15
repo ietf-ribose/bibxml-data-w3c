@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-webrtc-stats-20230804" target="https://www.w3.org/TR/2023/CRD-webrtc-stats-20230804/">
+<reference anchor="W3C.CRD-webrtc-stats-20231214" target="https://www.w3.org/TR/2023/CRD-webrtc-stats-20231214/">
   <front>
     <title>Identifiers for WebRTC's Statistics API</title>
     <author role="editor" fullname="Harald Alvestrand">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Varun Singh">
       <organization/>
     </author>
-    <date year="2023" month="August" day="4"/>
+    <date year="2023" month="December" day="14"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-webrtc-stats-20230804"/>
+  <seriesInfo name="W3C CR" value="CRD-webrtc-stats-20231214"/>
 </reference>

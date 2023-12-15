@@ -1,6 +1,6 @@
 <reference anchor="W3C.maturity-model" target="https://www.w3.org/TR/maturity-model/">
   <front>
-    <title>W3C Accessibility Maturity Model</title>
+    <title>Accessibility Maturity Model</title>
   </front>
   <seriesInfo name="W3C NOTE" value="maturity-model"/>
 </reference>
