@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-css-images-3-20201217" target="https://www.w3.org/TR/2020/CRD-css-images-3-20201217/">
+<reference anchor="W3C.CRD-css-images-3-20231218" target="https://www.w3.org/TR/2023/CRD-css-images-3-20231218/">
   <front>
     <title>CSS Images Module Level 3</title>
     <author role="editor" fullname="Elika Etemad">
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Tab Atkins Jr.">
       <organization/>
     </author>
-    <date year="2020" month="December" day="17"/>
+    <date year="2023" month="December" day="18"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-css-images-3-20201217"/>
+  <seriesInfo name="W3C CR" value="CRD-css-images-3-20231218"/>
 </reference>
