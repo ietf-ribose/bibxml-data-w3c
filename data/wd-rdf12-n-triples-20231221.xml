@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-n-triples-20231104" target="https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231104/">
+<reference anchor="W3C.WD-rdf12-n-triples-20231221" target="https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231221/">
   <front>
     <title>RDF 1.2 N-Triples</title>
     <author role="editor" fullname="Dominik Tomaszuk">
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2023" month="November" day="4"/>
+    <date year="2023" month="December" day="21"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-n-triples-20231104"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-n-triples-20231221"/>
 </reference>
