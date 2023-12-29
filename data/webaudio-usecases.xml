@@ -1,6 +1,9 @@
 <reference anchor="W3C.webaudio-usecases" target="https://www.w3.org/TR/webaudio-usecases/">
   <front>
     <title>Web Audio Processing: Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="webaudio-usecases"/>
 </reference>

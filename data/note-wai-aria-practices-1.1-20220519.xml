@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wai-aria-practices-1.1-20220519" target="https://www.w3.org/TR/2022/NOTE-wai-aria-practices-1.1-20220519/">
   <front>
     <title>WAI-ARIA Authoring Practices 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="JaEun Jemma Ku">
       <organization/>
     </author>

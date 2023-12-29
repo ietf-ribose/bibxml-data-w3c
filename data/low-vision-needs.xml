@@ -1,6 +1,9 @@
 <reference anchor="W3C.low-vision-needs" target="https://www.w3.org/TR/low-vision-needs/">
   <front>
     <title>Accessibility Requirements for People with Low Vision</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="low-vision-needs"/>
 </reference>

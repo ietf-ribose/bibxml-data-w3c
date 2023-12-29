@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rif-in-rdf-20130205" target="https://www.w3.org/TR/2013/NOTE-rif-in-rdf-20130205/">
   <front>
     <title>RIF In RDF (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Axel Polleres">
       <organization/>
     </author>

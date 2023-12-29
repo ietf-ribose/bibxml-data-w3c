@@ -1,6 +1,9 @@
 <reference anchor="W3C.scxml-dom-iop" target="https://www.w3.org/TR/scxml-dom-iop/">
   <front>
     <title>DOM Event I/O Processor for SCXML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="scxml-dom-iop"/>
 </reference>

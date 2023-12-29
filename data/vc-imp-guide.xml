@@ -1,6 +1,9 @@
 <reference anchor="W3C.vc-imp-guide" target="https://www.w3.org/TR/vc-imp-guide/">
   <front>
     <title>Verifiable Credentials Implementation Guidelines 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="vc-imp-guide"/>
 </reference>

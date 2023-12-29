@@ -1,6 +1,9 @@
 <reference anchor="W3C.xproc" target="https://www.w3.org/TR/xproc/">
   <front>
     <title>XProc: An XML Pipeline Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xproc"/>
 </reference>

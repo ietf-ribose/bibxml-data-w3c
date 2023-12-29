@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-capture-api" target="https://www.w3.org/TR/media-capture-api/">
   <front>
     <title>The Media Capture API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="media-capture-api"/>
 </reference>

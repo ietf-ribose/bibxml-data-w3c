@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-capture-scenarios-20120306" target="https://www.w3.org/TR/2012/WD-capture-scenarios-20120306/">
   <front>
     <title>MediaStream Capture Scenarios</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Travis Leithead">
       <organization/>
     </author>

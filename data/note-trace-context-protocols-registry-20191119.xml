@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-trace-context-protocols-registry-20191119" target="https://www.w3.org/TR/2019/NOTE-trace-context-protocols-registry-20191119/">
   <front>
     <title>Trace Context Protocols Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Philippe Le Hegaret">
       <organization/>
     </author>

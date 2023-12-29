@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wake-lock-use-cases-20140814" target="https://www.w3.org/TR/2014/NOTE-wake-lock-use-cases-20140814/">
   <front>
     <title>Wake Lock: Use cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dominique Hazaël-Massieux">
       <organization/>
     </author>

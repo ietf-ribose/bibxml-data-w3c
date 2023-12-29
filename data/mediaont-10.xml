@@ -1,6 +1,9 @@
 <reference anchor="W3C.mediaont-10" target="https://www.w3.org/TR/mediaont-10/">
   <front>
     <title>Ontology for Media Resources 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="mediaont-10"/>
 </reference>

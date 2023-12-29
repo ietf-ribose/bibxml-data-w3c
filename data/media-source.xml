@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-source" target="https://www.w3.org/TR/media-source/">
   <front>
     <title>Media Source Extensions™</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="media-source"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-requestidlecallback-20220628" target="https://www.w3.org/TR/2022/WD-requestidlecallback-20220628/">
   <front>
     <title>requestIdleCallback() Cooperative Scheduling of Background Tasks</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ilya Grigorik">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.mediaqueries-5" target="https://www.w3.org/TR/mediaqueries-5/">
   <front>
     <title>Media Queries Level 5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="mediaqueries-5"/>
 </reference>

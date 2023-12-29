@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xmldsig2ed-tests-20080610" target="https://www.w3.org/TR/2008/NOTE-xmldsig2ed-tests-20080610/">
   <front>
     <title>Test Cases for C14N 1.1 and XMLDSig Interoperability</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Juan Carlos Cruellas">
       <organization/>
     </author>

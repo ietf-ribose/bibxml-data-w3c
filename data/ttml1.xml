@@ -1,6 +1,9 @@
 <reference anchor="W3C.ttml1" target="https://www.w3.org/TR/ttml1/">
   <front>
     <title>Timed Text Markup Language 1 (TTML1) (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="ttml1"/>
 </reference>

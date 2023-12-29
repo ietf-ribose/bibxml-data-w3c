@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-ws-policy-20070904" target="https://www.w3.org/TR/2007/REC-ws-policy-20070904/">
   <front>
     <title>Web Services Policy 1.5 - Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Asir Vedamuthu">
       <organization/>
     </author>

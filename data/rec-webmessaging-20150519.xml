@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-webmessaging-20150519" target="https://www.w3.org/TR/2015/REC-webmessaging-20150519/">
   <front>
     <title>HTML5 Web Messaging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Hickson">
       <organization/>
     </author>

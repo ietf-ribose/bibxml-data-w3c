@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xhtml-access-20101216" target="https://www.w3.org/TR/2010/NOTE-xhtml-access-20101216/">
   <front>
     <title>XHTML Access Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mark Birbeck">
       <organization/>
     </author>

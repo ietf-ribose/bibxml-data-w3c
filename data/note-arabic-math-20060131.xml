@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-arabic-math-20060131" target="https://www.w3.org/TR/2006/NOTE-arabic-math-20060131/">
   <front>
     <title>Arabic mathematical notation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Azzeddine Lazrek">
       <organization/>
     </author>

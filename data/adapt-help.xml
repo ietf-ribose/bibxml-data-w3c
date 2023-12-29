@@ -1,6 +1,9 @@
 <reference anchor="W3C.adapt-help" target="https://www.w3.org/TR/adapt-help/">
   <front>
     <title>WAI-Adapt: Help and Support Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="adapt-help"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-sml-epr-ref-scheme-20090630" target="https://www.w3.org/TR/2009/NOTE-sml-epr-ref-scheme-20090630/">
   <front>
     <title>Framework for SML EPR-Based Reference Schemes</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Len Charest">
       <organization/>
     </author>

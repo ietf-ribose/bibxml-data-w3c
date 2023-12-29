@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ssml-sayas-20050526" target="https://www.w3.org/TR/2005/NOTE-ssml-sayas-20050526/">
   <front>
     <title>SSML 1.0 say-as attribute values</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="An Buyle">
       <organization/>
     </author>

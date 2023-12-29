@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-jlreq-20200811" target="https://www.w3.org/TR/2020/NOTE-jlreq-20200811/">
   <front>
     <title>Requirements for Japanese Text Layout 日本語組版処理の要件(日本語版)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Atsushi Shimono">
       <organization/>
     </author>

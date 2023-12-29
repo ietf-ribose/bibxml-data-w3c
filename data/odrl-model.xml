@@ -1,6 +1,9 @@
 <reference anchor="W3C.odrl-model" target="https://www.w3.org/TR/odrl-model/">
   <front>
     <title>ODRL Information Model 2.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="odrl-model"/>
 </reference>

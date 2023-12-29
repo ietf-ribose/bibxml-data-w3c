@@ -1,6 +1,9 @@
 <reference anchor="W3C.tabular-data-model" target="https://www.w3.org/TR/tabular-data-model/">
   <front>
     <title>Model for Tabular Data and Metadata on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="tabular-data-model"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-localizable-manifests-20231206" target="https://www.w3.org/TR/2023/DNOTE-localizable-manifests-20231206/">
   <front>
     <title>Developing Localizable Manifests</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Addison Phillips">
       <organization/>
     </author>

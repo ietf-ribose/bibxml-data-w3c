@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-UWA-personalization-roadmap-20090409" target="https://www.w3.org/TR/2009/NOTE-UWA-personalization-roadmap-20090409/">
   <front>
     <title>W3C Personalization Roadmap: Ubiquitous Web Integration of AccessForAll 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andy Heath">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-webpayments-http-messages-20200721" target="https://www.w3.org/TR/2020/NOTE-webpayments-http-messages-20200721/">
   <front>
     <title>Web Payments HTTP Messages 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Manu Sporny">
       <organization/>
     </author>

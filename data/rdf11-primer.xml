@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdf11-primer" target="https://www.w3.org/TR/rdf11-primer/">
   <front>
     <title>RDF 1.1 Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="rdf11-primer"/>
 </reference>

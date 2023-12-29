@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-PICS-services-961031" target="https://www.w3.org/TR/REC-PICS-services-961031">
   <front>
     <title>PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Singer">
       <organization/>
     </author>

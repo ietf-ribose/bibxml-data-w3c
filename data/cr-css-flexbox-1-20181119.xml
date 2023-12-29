@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-css-flexbox-1-20181119" target="https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/">
   <front>
     <title>CSS Flexible Box Layout Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Baron">
       <organization/>
     </author>

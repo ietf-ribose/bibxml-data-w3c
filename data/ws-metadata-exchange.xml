@@ -1,6 +1,9 @@
 <reference anchor="W3C.ws-metadata-exchange" target="https://www.w3.org/TR/ws-metadata-exchange/">
   <front>
     <title>Web Services Metadata Exchange (WS-MetadataExchange)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="ws-metadata-exchange"/>
 </reference>

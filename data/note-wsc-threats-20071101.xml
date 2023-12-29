@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wsc-threats-20071101" target="https://www.w3.org/TR/2007/NOTE-wsc-threats-20071101/">
   <front>
     <title>Web User Interaction: Threat Trees</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Thomas Roessler">
       <organization/>
     </author>

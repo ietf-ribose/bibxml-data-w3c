@@ -1,6 +1,9 @@
 <reference anchor="W3C.exi-measurements" target="https://www.w3.org/TR/exi-measurements/">
   <front>
     <title>Efficient XML Interchange Measurements Note</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="exi-measurements"/>
 </reference>

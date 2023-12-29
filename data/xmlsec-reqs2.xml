@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmlsec-reqs2" target="https://www.w3.org/TR/xmlsec-reqs2/">
   <front>
     <title>XML Security 2.0 Requirements and Design Considerations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xmlsec-reqs2"/>
 </reference>

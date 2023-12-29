@@ -1,6 +1,9 @@
 <reference anchor="W3C.vehicle-information-api" target="https://www.w3.org/TR/vehicle-information-api/">
   <front>
     <title>Vehicle Information API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="vehicle-information-api"/>
 </reference>

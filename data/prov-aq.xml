@@ -1,6 +1,9 @@
 <reference anchor="W3C.prov-aq" target="https://www.w3.org/TR/prov-aq/">
   <front>
     <title>PROV-AQ: Provenance Access and Query</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="prov-aq"/>
 </reference>

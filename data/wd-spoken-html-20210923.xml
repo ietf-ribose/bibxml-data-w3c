@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-spoken-html-20210923" target="https://www.w3.org/TR/2021/WD-spoken-html-20210923/">
   <front>
     <title>Specification for Spoken Presentation in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Irfan Ali">
       <organization/>
     </author>

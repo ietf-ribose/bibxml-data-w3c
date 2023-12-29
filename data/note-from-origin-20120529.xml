@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-from-origin-20120529" target="https://www.w3.org/TR/2012/NOTE-from-origin-20120529/">
   <front>
     <title>The From-Origin Header</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anne van Kesteren">
       <organization/>
     </author>

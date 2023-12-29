@@ -1,6 +1,9 @@
 <reference anchor="W3C.secure-payment-confirmation" target="https://www.w3.org/TR/secure-payment-confirmation/">
   <front>
     <title>Secure Payment Confirmation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="secure-payment-confirmation"/>
 </reference>

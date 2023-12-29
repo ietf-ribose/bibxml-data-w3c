@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-annotation-html-20170223" target="https://www.w3.org/TR/2017/NOTE-annotation-html-20170223/">
   <front>
     <title>Embedding Web Annotations in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Benjamin Young">
       <organization/>
     </author>

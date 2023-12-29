@@ -1,6 +1,9 @@
 <reference anchor="W3C.xml-infoset-rdfs" target="https://www.w3.org/TR/xml-infoset-rdfs/">
   <front>
     <title>An RDF Schema for the XML Information Set</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xml-infoset-rdfs"/>
 </reference>

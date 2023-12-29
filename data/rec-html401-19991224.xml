@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-html401-19991224" target="https://www.w3.org/TR/1999/REC-html401-19991224/">
   <front>
     <title>HTML 4.01 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arnaud Le Hors">
       <organization/>
     </author>

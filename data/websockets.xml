@@ -1,6 +1,9 @@
 <reference anchor="W3C.websockets" target="https://www.w3.org/TR/websockets/">
   <front>
     <title>The WebSocket API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="websockets"/>
 </reference>

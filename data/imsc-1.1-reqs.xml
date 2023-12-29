@@ -1,6 +1,9 @@
 <reference anchor="W3C.imsc-1.1-reqs" target="https://www.w3.org/TR/imsc-1.1-reqs/">
   <front>
     <title>IMSC1.1 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="imsc-1.1-reqs"/>
 </reference>

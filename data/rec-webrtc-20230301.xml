@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-webrtc-20230301" target="https://www.w3.org/TR/2023/REC-webrtc-20230301/">
   <front>
     <title>WebRTC: Real-Time Communication in Browsers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cullen Jennings">
       <organization/>
     </author>

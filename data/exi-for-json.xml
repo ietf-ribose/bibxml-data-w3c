@@ -1,6 +1,9 @@
 <reference anchor="W3C.exi-for-json" target="https://www.w3.org/TR/exi-for-json/">
   <front>
     <title>EXI for JSON (EXI4JSON)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="exi-for-json"/>
 </reference>

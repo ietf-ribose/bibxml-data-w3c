@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-post-spectre-webdev-20210316" target="https://www.w3.org/TR/2021/WD-post-spectre-webdev-20210316/">
   <front>
     <title>Post-Spectre Web Development</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>

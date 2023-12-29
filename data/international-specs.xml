@@ -1,6 +1,9 @@
 <reference anchor="W3C.international-specs" target="https://www.w3.org/TR/international-specs/">
   <front>
     <title>Internationalization Best Practices for Spec Developers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="international-specs"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.thai-gap" target="https://www.w3.org/TR/thai-gap/">
   <front>
     <title>Thai Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="thai-gap"/>
 </reference>

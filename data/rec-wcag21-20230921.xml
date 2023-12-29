@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-WCAG21-20230921" target="https://www.w3.org/TR/2023/REC-WCAG21-20230921/">
   <front>
     <title>Web Content Accessibility Guidelines (WCAG) 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alastair Campbell">
       <organization/>
     </author>

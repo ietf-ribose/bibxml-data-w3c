@@ -1,6 +1,9 @@
 <reference anchor="W3C.compositing-1" target="https://www.w3.org/TR/compositing-1/">
   <front>
     <title>Compositing and Blending Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="compositing-1"/>
 </reference>

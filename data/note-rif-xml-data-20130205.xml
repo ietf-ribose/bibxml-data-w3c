@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rif-xml-data-20130205" target="https://www.w3.org/TR/2013/NOTE-rif-xml-data-20130205/">
   <front>
     <title>RIF Combination with XML data (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Christian de Sainte Marie">
       <organization/>
     </author>

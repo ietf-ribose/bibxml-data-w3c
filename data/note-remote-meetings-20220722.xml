@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-remote-meetings-20220722" target="https://www.w3.org/TR/2022/NOTE-remote-meetings-20220722/">
   <front>
     <title>Accessibility of Remote Meetings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Janina Sajka">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.EMMAreqs" target="https://www.w3.org/TR/EMMAreqs/">
   <front>
     <title>Requirements for EMMA</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="EMMAreqs"/>
 </reference>

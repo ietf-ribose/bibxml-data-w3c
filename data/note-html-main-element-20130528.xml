@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html-main-element-20130528" target="https://www.w3.org/TR/2013/NOTE-html-main-element-20130528/">
   <front>
     <title>main element - an HTML5 extension specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Steve Faulkner">
       <organization/>
     </author>

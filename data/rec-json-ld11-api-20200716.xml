@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-json-ld11-api-20200716" target="https://www.w3.org/TR/2020/REC-json-ld11-api-20200716/">
   <front>
     <title>JSON-LD 1.1 Processing Algorithms and API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Longley">
       <organization/>
     </author>

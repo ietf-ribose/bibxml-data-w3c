@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-SVGReq-19981029" target="https://www.w3.org/TR/1998/WD-SVGReq-19981029">
   <front>
     <title>Scalable Vector Graphics (SVG) Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jon Ferraiolo">
       <organization/>
     </author>

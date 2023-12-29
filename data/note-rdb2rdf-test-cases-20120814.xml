@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rdb2rdf-test-cases-20120814" target="https://www.w3.org/TR/2012/NOTE-rdb2rdf-test-cases-20120814/">
   <front>
     <title>R2RML and Direct Mapping Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Boris Villazón-Terrazas">
       <organization/>
     </author>

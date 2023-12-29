@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-hcls-dataset-20150514" target="https://www.w3.org/TR/2015/NOTE-hcls-dataset-20150514/">
   <front>
     <title>Dataset Descriptions: HCLS Community Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alasdair Gray">
       <organization/>
     </author>

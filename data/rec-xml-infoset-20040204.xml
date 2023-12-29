@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xml-infoset-20040204" target="https://www.w3.org/TR/2004/REC-xml-infoset-20040204/">
   <front>
     <title>XML Information Set (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="John Cowan">
       <organization/>
     </author>

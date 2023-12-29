@@ -1,6 +1,9 @@
 <reference anchor="W3C.discovery-api" target="https://www.w3.org/TR/discovery-api/">
   <front>
     <title>Network Service Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="discovery-api"/>
 </reference>

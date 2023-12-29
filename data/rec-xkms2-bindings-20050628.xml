@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xkms2-bindings-20050628" target="https://www.w3.org/TR/2005/REC-xkms2-bindings-20050628/">
   <front>
     <title>XML Key Management Specification (XKMS 2.0) Bindings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Phillip Hallam-Baker">
       <organization/>
     </author>

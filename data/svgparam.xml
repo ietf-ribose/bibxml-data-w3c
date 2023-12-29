@@ -1,6 +1,9 @@
 <reference anchor="W3C.SVGParam" target="https://www.w3.org/TR/SVGParam/">
   <front>
     <title>SVG Parameters 1.0, Part 2: Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="SVGParam"/>
 </reference>

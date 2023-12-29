@@ -1,6 +1,9 @@
 <reference anchor="W3C.ldp-bp" target="https://www.w3.org/TR/ldp-bp/">
   <front>
     <title>Linked Data Platform Best Practices and Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="ldp-bp"/>
 </reference>

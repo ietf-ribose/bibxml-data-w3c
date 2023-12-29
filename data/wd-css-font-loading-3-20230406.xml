@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-font-loading-3-20230406" target="https://www.w3.org/TR/2023/WD-css-font-loading-3-20230406/">
   <front>
     <title>CSS Font Loading Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Tab Atkins Jr.">
       <organization/>
     </author>

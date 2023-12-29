@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-eo-qb-20170928" target="https://www.w3.org/TR/2017/NOTE-eo-qb-20170928/">
   <front>
     <title>Publishing and Using Earth Observation Data with the RDF Data Cube and the Discrete Global Grid System</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dmitry Brizhinev">
       <organization/>
     </author>

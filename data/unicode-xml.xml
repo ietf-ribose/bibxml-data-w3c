@@ -1,6 +1,9 @@
 <reference anchor="W3C.unicode-xml" target="https://www.w3.org/TR/unicode-xml/">
   <front>
     <title>Unicode in XML and other Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="unicode-xml"/>
 </reference>

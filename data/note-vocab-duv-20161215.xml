@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-vocab-duv-20161215" target="https://www.w3.org/TR/2016/NOTE-vocab-duv-20161215/">
   <front>
     <title>Data on the Web Best Practices: Dataset Usage Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bernadette Farias Loscio">
       <organization/>
     </author>

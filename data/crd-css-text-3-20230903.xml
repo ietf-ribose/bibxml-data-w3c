@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-css-text-3-20230903" target="https://www.w3.org/TR/2023/CRD-css-text-3-20230903/">
   <front>
     <title>CSS Text Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

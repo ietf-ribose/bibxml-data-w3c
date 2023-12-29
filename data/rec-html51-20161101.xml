@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-html51-20161101" target="https://www.w3.org/TR/2016/REC-html51-20161101/">
   <front>
     <title>HTML 5.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alex Danilo">
       <organization/>
     </author>

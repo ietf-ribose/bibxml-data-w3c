@@ -1,6 +1,9 @@
 <reference anchor="W3C.di-gloss" target="https://www.w3.org/TR/di-gloss/">
   <front>
     <title>Glossary of Terms for Device Independence</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="di-gloss"/>
 </reference>

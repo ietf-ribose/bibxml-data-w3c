@@ -1,6 +1,9 @@
 <reference anchor="W3C.html-srcset" target="https://www.w3.org/TR/html-srcset/">
   <front>
     <title>The srcset attribute</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html-srcset"/>
 </reference>

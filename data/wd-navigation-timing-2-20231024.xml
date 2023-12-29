@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-navigation-timing-2-20231024" target="https://www.w3.org/TR/2023/WD-navigation-timing-2-20231024/">
   <front>
     <title>Navigation Timing Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Noam Rosenthal">
       <organization/>
     </author>

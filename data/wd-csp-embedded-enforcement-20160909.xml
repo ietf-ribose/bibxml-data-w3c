@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-csp-embedded-enforcement-20160909" target="https://www.w3.org/TR/2016/WD-csp-embedded-enforcement-20160909/">
   <front>
     <title>Content Security Policy: Embedded Enforcement</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="2016" month="September" day="9"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>

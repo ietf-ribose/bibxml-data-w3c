@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-cascade-3" target="https://www.w3.org/TR/css-cascade-3/">
   <front>
     <title>CSS Cascading and Inheritance Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="css-cascade-3"/>
 </reference>

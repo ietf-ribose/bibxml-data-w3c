@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-swbp-vocab-pub-20080828" target="https://www.w3.org/TR/2008/NOTE-swbp-vocab-pub-20080828/">
   <front>
     <title>Best Practice Recipes for Publishing RDF Vocabularies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Diego Berrueta">
       <organization/>
     </author>

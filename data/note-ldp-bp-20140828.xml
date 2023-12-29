@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ldp-bp-20140828" target="https://www.w3.org/TR/2014/NOTE-ldp-bp-20140828/">
   <front>
     <title>Linked Data Platform Best Practices and Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cody Burleson">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-discovery-api-20170112" target="https://www.w3.org/TR/2017/NOTE-discovery-api-20170112/">
   <front>
     <title>Network Service Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Rich Tibbett">
       <organization/>
     </author>

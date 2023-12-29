@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-latn-ca-gap-20230822" target="https://www.w3.org/TR/2023/DNOTE-latn-ca-gap-20230822/">
   <front>
     <title>Catalan Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>

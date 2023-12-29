@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mmi-interop-20120124" target="https://www.w3.org/TR/2012/NOTE-mmi-interop-20120124/">
   <front>
     <title>MMI interoperability test report</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ingmar Kliche">
       <organization/>
     </author>

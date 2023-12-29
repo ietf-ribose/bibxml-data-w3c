@@ -1,6 +1,9 @@
 <reference anchor="W3C.p3pdeployment" target="https://www.w3.org/TR/p3pdeployment/">
   <front>
     <title>The Platform for Privacy Preferences 1.0 Deployment Guide</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="p3pdeployment"/>
 </reference>

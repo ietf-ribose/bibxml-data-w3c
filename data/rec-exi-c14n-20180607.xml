@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-exi-c14n-20180607" target="https://www.w3.org/TR/2018/REC-exi-c14n-20180607/">
   <front>
     <title>Canonical EXI</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Peintner">
       <organization/>
     </author>

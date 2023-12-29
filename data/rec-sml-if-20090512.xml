@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-sml-if-20090512" target="https://www.w3.org/TR/2009/REC-sml-if-20090512/">
   <front>
     <title>Service Modeling Language Interchange Format Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Valentina Popescu">
       <organization/>
     </author>

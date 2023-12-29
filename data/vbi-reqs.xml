@@ -1,6 +1,9 @@
 <reference anchor="W3C.vbi-reqs" target="https://www.w3.org/TR/vbi-reqs/">
   <front>
     <title>Voice Browser Interoperation: Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="vbi-reqs"/>
 </reference>

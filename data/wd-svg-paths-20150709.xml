@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-svg-paths-20150709" target="https://www.w3.org/TR/2015/WD-svg-paths-20150709/">
   <front>
     <title>SVG Paths</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cameron McCormack">
       <organization/>
     </author>

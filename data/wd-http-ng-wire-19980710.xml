@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-HTTP-NG-wire-19980710" target="https://www.w3.org/TR/1998/WD-HTTP-NG-wire-19980710/">
   <front>
     <title>HTTP-ng Binary Wire Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="1998" month="July" day="10"/>
   </front>
   <seriesInfo name="W3C WD" value="WD-HTTP-NG-wire-19980710"/>

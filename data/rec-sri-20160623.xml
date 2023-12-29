@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-SRI-20160623" target="https://www.w3.org/TR/2016/REC-SRI-20160623/">
   <front>
     <title>Subresource Integrity</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Devdatta Akhawe">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.gov-data" target="https://www.w3.org/TR/gov-data/">
   <front>
     <title>Publishing Open Government Data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="gov-data"/>
 </reference>

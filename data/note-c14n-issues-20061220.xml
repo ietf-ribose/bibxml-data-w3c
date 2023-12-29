@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-C14N-issues-20061220" target="https://www.w3.org/TR/2006/NOTE-C14N-issues-20061220/">
   <front>
     <title>Known Issues with Canonical XML 1.0 (C14N/1.0)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="José Kahan">
       <organization/>
     </author>

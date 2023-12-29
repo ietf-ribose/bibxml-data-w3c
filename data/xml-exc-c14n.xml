@@ -1,6 +1,9 @@
 <reference anchor="W3C.xml-exc-c14n" target="https://www.w3.org/TR/xml-exc-c14n/">
   <front>
     <title>Exclusive XML Canonicalization Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xml-exc-c14n"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-kore-gap-20230720" target="https://www.w3.org/TR/2023/DNOTE-kore-gap-20230720/">
   <front>
     <title>Korean Layout Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Fuqiao Xue">
       <organization/>
     </author>

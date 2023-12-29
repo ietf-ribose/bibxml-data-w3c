@@ -1,6 +1,9 @@
 <reference anchor="W3C.xhtml1-schema" target="https://www.w3.org/TR/xhtml1-schema/">
   <front>
     <title>XHTML 1.0 in XML Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xhtml1-schema"/>
 </reference>

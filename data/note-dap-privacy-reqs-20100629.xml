@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-dap-privacy-reqs-20100629" target="https://www.w3.org/TR/2010/NOTE-dap-privacy-reqs-20100629/">
   <front>
     <title>Device API Privacy Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alissa Cooper">
       <organization/>
     </author>

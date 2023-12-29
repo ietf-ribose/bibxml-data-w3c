@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-uievents-20231204" target="https://www.w3.org/TR/2023/WD-uievents-20231204/">
   <front>
     <title>UI Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gary Kacmarcik">
       <organization/>
     </author>

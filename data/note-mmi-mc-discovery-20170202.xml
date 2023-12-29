@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mmi-mc-discovery-20170202" target="https://www.w3.org/TR/2017/NOTE-mmi-mc-discovery-20170202/">
   <front>
     <title>Discovery &amp; Registration of Multimodal Modality Components</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="B Helena RODRIGUEZ">
       <organization/>
     </author>

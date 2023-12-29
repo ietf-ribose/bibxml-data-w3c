@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-runtime-20150806" target="https://www.w3.org/TR/2015/NOTE-runtime-20150806/">
   <front>
     <title>Runtime and Security Model for Web Applications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="MING JIN">
       <organization/>
     </author>

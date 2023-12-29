@@ -1,6 +1,9 @@
 <reference anchor="W3C.egov-improving" target="https://www.w3.org/TR/egov-improving/">
   <front>
     <title>Improving Access to Government through Better Use of the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="egov-improving"/>
 </reference>

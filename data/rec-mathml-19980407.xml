@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-MathML-19980407" target="https://www.w3.org/TR/1998/REC-MathML-19980407/">
   <front>
     <title>Mathematical Markup Language (MathML) 1.0 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Patrick D F Ion">
       <organization/>
     </author>

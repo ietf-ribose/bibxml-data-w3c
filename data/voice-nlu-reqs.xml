@@ -1,6 +1,9 @@
 <reference anchor="W3C.voice-nlu-reqs" target="https://www.w3.org/TR/voice-nlu-reqs/">
   <front>
     <title>Natural Language Processing Requirements for Voice Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="voice-nlu-reqs"/>
 </reference>

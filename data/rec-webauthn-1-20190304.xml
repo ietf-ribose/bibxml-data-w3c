@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-webauthn-1-20190304" target="https://www.w3.org/TR/2019/REC-webauthn-1-20190304/">
   <front>
     <title>Web Authentication:An API for accessing Public Key Credentials Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Akshay Kumar">
       <organization/>
     </author>

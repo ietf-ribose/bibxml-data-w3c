@@ -1,6 +1,9 @@
 <reference anchor="W3C.pronunciation-user-scenarios" target="https://www.w3.org/TR/pronunciation-user-scenarios/">
   <front>
     <title>Pronunciation User Scenarios</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="pronunciation-user-scenarios"/>
 </reference>

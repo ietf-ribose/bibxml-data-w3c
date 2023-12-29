@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-font" target="https://www.w3.org/TR/WD-font/">
   <front>
     <title>Web Fonts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="WD-font"/>
 </reference>

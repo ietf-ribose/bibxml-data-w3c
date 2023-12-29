@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-XML-FRAG-REQ" target="https://www.w3.org/TR/NOTE-XML-FRAG-REQ">
   <front>
     <title>XML Fragment Interchange Requirements, Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="NOTE-XML-FRAG-REQ"/>
 </reference>

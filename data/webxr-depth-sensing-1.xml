@@ -1,6 +1,9 @@
 <reference anchor="W3C.webxr-depth-sensing-1" target="https://www.w3.org/TR/webxr-depth-sensing-1/">
   <front>
     <title>WebXR Depth Sensing Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="webxr-depth-sensing-1"/>
 </reference>

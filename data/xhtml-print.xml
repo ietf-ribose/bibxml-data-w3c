@@ -1,6 +1,9 @@
 <reference anchor="W3C.xhtml-print" target="https://www.w3.org/TR/xhtml-print/">
   <front>
     <title>XHTML-Print - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xhtml-print"/>
 </reference>

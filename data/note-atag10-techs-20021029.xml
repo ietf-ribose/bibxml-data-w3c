@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ATAG10-TECHS-20021029" target="https://www.w3.org/TR/2002/NOTE-ATAG10-TECHS-20021029/">
   <front>
     <title>Techniques for Authoring Tool Accessibility Guidelines 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Charles McCathieNevile">
       <organization/>
     </author>

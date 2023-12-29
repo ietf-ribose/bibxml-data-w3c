@@ -1,6 +1,9 @@
 <reference anchor="W3C.CSS2" target="https://www.w3.org/TR/CSS2/">
   <front>
     <title>Cascading Style Sheets, level 2 (CSS2) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="CSS2"/>
 </reference>

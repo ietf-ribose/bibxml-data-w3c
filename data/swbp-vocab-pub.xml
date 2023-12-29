@@ -1,6 +1,9 @@
 <reference anchor="W3C.swbp-vocab-pub" target="https://www.w3.org/TR/swbp-vocab-pub/">
   <front>
     <title>Best Practice Recipes for Publishing RDF Vocabularies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="swbp-vocab-pub"/>
 </reference>

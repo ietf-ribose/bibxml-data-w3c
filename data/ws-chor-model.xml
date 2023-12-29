@@ -1,6 +1,9 @@
 <reference anchor="W3C.ws-chor-model" target="https://www.w3.org/TR/ws-chor-model/">
   <front>
     <title>WS Choreography Model Overview</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="ws-chor-model"/>
 </reference>

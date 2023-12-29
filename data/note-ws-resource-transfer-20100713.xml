@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ws-resource-transfer-20100713" target="https://www.w3.org/TR/2010/NOTE-ws-resource-transfer-20100713/">
   <front>
     <title>Web Services Resource Transfer (WS-RT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ashok Malhotra">
       <organization/>
     </author>

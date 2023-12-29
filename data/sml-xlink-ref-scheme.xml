@@ -1,6 +1,9 @@
 <reference anchor="W3C.sml-xlink-ref-scheme" target="https://www.w3.org/TR/sml-xlink-ref-scheme/">
   <front>
     <title>The SML XLink Reference Scheme</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="sml-xlink-ref-scheme"/>
 </reference>

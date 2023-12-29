@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ruby-use-cases-20131008" target="https://www.w3.org/TR/2013/NOTE-ruby-use-cases-20131008/">
   <front>
     <title>Use Cases &amp; Exploratory Approaches for Ruby Markup</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CDFReqs" target="https://www.w3.org/TR/CDFReqs/">
   <front>
     <title>Compound Document Use Cases and Requirements Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="CDFReqs"/>
 </reference>

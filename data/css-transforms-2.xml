@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-transforms-2" target="https://www.w3.org/TR/css-transforms-2/">
   <front>
     <title>CSS Transforms Module Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="css-transforms-2"/>
 </reference>

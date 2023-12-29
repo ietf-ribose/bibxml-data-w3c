@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-CCPP-ta-20000721" target="https://www.w3.org/TR/2000/WD-CCPP-ta-20000721/">
   <front>
     <title>Composite Capabilities/Preference Profiles: Terminology and Abbreviations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mikael Nilsson">
       <organization/>
     </author>

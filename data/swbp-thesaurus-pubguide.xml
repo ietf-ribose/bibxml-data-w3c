@@ -1,6 +1,9 @@
 <reference anchor="W3C.swbp-thesaurus-pubguide" target="https://www.w3.org/TR/swbp-thesaurus-pubguide/">
   <front>
     <title>Quick Guide to Publishing a Thesaurus on the Semantic Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="swbp-thesaurus-pubguide"/>
 </reference>

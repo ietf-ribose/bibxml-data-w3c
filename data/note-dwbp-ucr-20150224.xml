@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-dwbp-ucr-20150224" target="https://www.w3.org/TR/2015/NOTE-dwbp-ucr-20150224/">
   <front>
     <title>Data on the Web Best Practices Use Cases &amp; Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bernadette Farias Loscio">
       <organization/>
     </author>

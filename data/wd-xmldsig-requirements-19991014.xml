@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-xmldsig-requirements-19991014" target="https://www.w3.org/TR/1999/WD-xmldsig-requirements-19991014">
   <front>
     <title>XML-Signature Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="1999" month="October" day="14"/>
     <workgroup>XML Security Working Group</workgroup>
   </front>

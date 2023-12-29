@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-coga-user-research-20150115" target="https://www.w3.org/TR/2015/WD-coga-user-research-20150115/">
   <front>
     <title>Cognitive Accessibility User Research</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Lisa Seeman-Horwitz">
       <organization/>
     </author>

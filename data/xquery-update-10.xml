@@ -1,6 +1,9 @@
 <reference anchor="W3C.xquery-update-10" target="https://www.w3.org/TR/xquery-update-10/">
   <front>
     <title>XQuery Update Facility 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xquery-update-10"/>
 </reference>

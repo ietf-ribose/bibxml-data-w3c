@@ -1,6 +1,9 @@
 <reference anchor="W3C.TVWeb-URI-Requirements" target="https://www.w3.org/TR/TVWeb-URI-Requirements/">
   <front>
     <title>TV Broadcast URI Schemes Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="TVWeb-URI-Requirements"/>
 </reference>

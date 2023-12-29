@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-mux-19980710" target="https://www.w3.org/TR/1998/WD-mux-19980710">
   <front>
     <title>SMUX Protocol Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Henrik Frystyk Nielsen">
       <organization/>
     </author>

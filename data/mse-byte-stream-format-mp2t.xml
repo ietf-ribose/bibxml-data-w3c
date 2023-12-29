@@ -1,6 +1,9 @@
 <reference anchor="W3C.mse-byte-stream-format-mp2t" target="https://www.w3.org/TR/mse-byte-stream-format-mp2t/">
   <front>
     <title>MPEG-2 TS Byte Stream Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mse-byte-stream-format-mp2t"/>
 </reference>

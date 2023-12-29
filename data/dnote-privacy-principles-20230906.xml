@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-privacy-principles-20230906" target="https://www.w3.org/TR/2023/DNOTE-privacy-principles-20230906/">
   <front>
     <title>Privacy Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeffrey Yasskin">
       <organization/>
     </author>

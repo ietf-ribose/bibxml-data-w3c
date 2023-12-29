@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-cssom-view-1-20160317" target="https://www.w3.org/TR/2016/WD-cssom-view-1-20160317/">
   <front>
     <title>CSSOM View Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Simon Pieters">
       <organization/>
     </author>

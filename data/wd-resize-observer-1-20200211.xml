@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-resize-observer-1-20200211" target="https://www.w3.org/TR/2020/WD-resize-observer-1-20200211/">
   <front>
     <title>Resize Observer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Aleks Totic">
       <organization/>
     </author>

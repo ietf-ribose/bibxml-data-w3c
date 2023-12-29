@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xmlsec-reqs-20130411" target="https://www.w3.org/TR/2013/NOTE-xmlsec-reqs-20130411/">
   <front>
     <title>XML Security 1.1 Requirements and Design Considerations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Frederick Hirsch">
       <organization/>
     </author>

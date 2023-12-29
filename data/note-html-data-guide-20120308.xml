@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html-data-guide-20120308" target="https://www.w3.org/TR/2012/NOTE-html-data-guide-20120308/">
   <front>
     <title>HTML Data Guide</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeni Tennison">
       <organization/>
     </author>

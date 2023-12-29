@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-SVGTiny12-20081222" target="https://www.w3.org/TR/2008/REC-SVGTiny12-20081222/">
   <front>
     <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andreas Neumann">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-manifest-app-info-20230821" target="https://www.w3.org/TR/2023/NOTE-manifest-app-info-20230821/">
   <front>
     <title>Web App Manifest - Application Information</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Aaron Gustafson">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-encrypted-media-20170918" target="https://www.w3.org/TR/2017/REC-encrypted-media-20170918/">
   <front>
     <title>Encrypted Media Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Adrian Bateman">
       <organization/>
     </author>

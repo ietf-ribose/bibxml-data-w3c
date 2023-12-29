@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-ttml-imsc1-20160421" target="https://www.w3.org/TR/2016/REC-ttml-imsc1-20160421/">
   <front>
     <title>TTML Profiles for Internet Media Subtitles and Captions 1.0 (IMSC1)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Pierre-Anthony Lemieux">
       <organization/>
     </author>

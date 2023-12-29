@@ -1,6 +1,9 @@
 <reference anchor="W3C.viss2-core" target="https://www.w3.org/TR/viss2-core/">
   <front>
     <title>VISS version 2 - Core</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="viss2-core"/>
 </reference>

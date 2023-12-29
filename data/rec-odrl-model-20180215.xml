@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-odrl-model-20180215" target="https://www.w3.org/TR/2018/REC-odrl-model-20180215/">
   <front>
     <title>ODRL Information Model 2.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Renato Iannella">
       <organization/>
     </author>

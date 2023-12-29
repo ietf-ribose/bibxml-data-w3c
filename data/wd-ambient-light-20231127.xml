@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-ambient-light-20231127" target="https://www.w3.org/TR/2023/WD-ambient-light-20231127/">
   <front>
     <title>Ambient Light Sensor</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.grek-gap" target="https://www.w3.org/TR/grek-gap/">
   <front>
     <title>Modern Greek Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="grek-gap"/>
 </reference>

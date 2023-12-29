@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-DOM-Level-1" target="https://www.w3.org/TR/REC-DOM-Level-1/">
   <front>
     <title>Document Object Model (DOM) Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-DOM-Level-1"/>
 </reference>

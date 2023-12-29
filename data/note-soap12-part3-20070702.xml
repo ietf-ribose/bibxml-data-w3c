@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-soap12-part3-20070702" target="https://www.w3.org/TR/2007/NOTE-soap12-part3-20070702/">
   <front>
     <title>SOAP 1.2 Part 3: One-Way MEP</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Orchard">
       <organization/>
     </author>

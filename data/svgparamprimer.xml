@@ -1,6 +1,9 @@
 <reference anchor="W3C.SVGParamPrimer" target="https://www.w3.org/TR/SVGParamPrimer/">
   <front>
     <title>SVG Parameters 1.0, Part 1: Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="SVGParamPrimer"/>
 </reference>

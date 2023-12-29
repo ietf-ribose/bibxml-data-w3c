@@ -1,6 +1,9 @@
 <reference anchor="W3C.shacl" target="https://www.w3.org/TR/shacl/">
   <front>
     <title>Shapes Constraint Language (SHACL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="shacl"/>
 </reference>

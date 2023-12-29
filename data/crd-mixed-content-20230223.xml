@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-mixed-content-20230223" target="https://www.w3.org/TR/2023/CRD-mixed-content-20230223/">
   <front>
     <title>Mixed Content</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Carlos IbarraLopez">
       <organization/>
     </author>

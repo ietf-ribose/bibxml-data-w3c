@@ -1,6 +1,9 @@
 <reference anchor="W3C.ambient-light" target="https://www.w3.org/TR/ambient-light/">
   <front>
     <title>Ambient Light Sensor</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="ambient-light"/>
 </reference>

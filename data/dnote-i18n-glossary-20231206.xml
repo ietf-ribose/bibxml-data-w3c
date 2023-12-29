@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-i18n-glossary-20231206" target="https://www.w3.org/TR/2023/DNOTE-i18n-glossary-20231206/">
   <front>
     <title>Internationalization Glossary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Addison Phillips">
       <organization/>
     </author>

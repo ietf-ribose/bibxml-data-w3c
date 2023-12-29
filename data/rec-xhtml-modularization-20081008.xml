@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xhtml-modularization-20081008" target="https://www.w3.org/TR/2008/REC-xhtml-modularization-20081008/">
   <front>
     <title>XHTML™ Modularization 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Austin">
       <organization/>
     </author>

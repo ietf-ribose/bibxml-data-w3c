@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-logical-1" target="https://www.w3.org/TR/css-logical-1/">
   <front>
     <title>CSS Logical Properties and Values Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="css-logical-1"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.quota-api" target="https://www.w3.org/TR/quota-api/">
   <front>
     <title>Quota Management API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="quota-api"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-workers-20210128" target="https://www.w3.org/TR/2021/NOTE-workers-20210128/">
   <front>
     <title>Web Workers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Hickson">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-css-shapes-1-20221115" target="https://www.w3.org/TR/2022/CRD-css-shapes-1-20221115/">
   <front>
     <title>CSS Shapes Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alan Stearns">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-payment-method-id-20220908" target="https://www.w3.org/TR/2022/REC-payment-method-id-20220908/">
   <front>
     <title>Payment Method Identifiers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

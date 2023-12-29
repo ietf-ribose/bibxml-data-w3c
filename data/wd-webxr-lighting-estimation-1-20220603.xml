@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-webxr-lighting-estimation-1-20220603" target="https://www.w3.org/TR/2022/WD-webxr-lighting-estimation-1-20220603/">
   <front>
     <title>WebXR Lighting Estimation API Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brandon Jones">
       <organization/>
     </author>

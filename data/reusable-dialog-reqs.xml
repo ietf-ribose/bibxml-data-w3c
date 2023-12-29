@@ -1,6 +1,9 @@
 <reference anchor="W3C.reusable-dialog-reqs" target="https://www.w3.org/TR/reusable-dialog-reqs/">
   <front>
     <title>Reusable Dialog Requirements for Voice Markup Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="reusable-dialog-reqs"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.vc-data-model-2.0" target="https://www.w3.org/TR/vc-data-model-2.0/">
   <front>
     <title>Verifiable Credentials Data Model v2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="vc-data-model-2.0"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.owl-test" target="https://www.w3.org/TR/owl-test/">
   <front>
     <title>OWL Web Ontology Language Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="owl-test"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-xbl-primer-20070718" target="https://www.w3.org/TR/2007/WD-xbl-primer-20070718/">
   <front>
     <title>XBL 2.0 Primer: An Introduction for Developers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Lachlan Hunt">
       <organization/>
     </author>

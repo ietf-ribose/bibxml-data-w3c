@@ -1,6 +1,9 @@
 <reference anchor="W3C.CDR" target="https://www.w3.org/TR/CDR/">
   <front>
     <title>Compound Document by Reference Framework 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="CDR"/>
 </reference>

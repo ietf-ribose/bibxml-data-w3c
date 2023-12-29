@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-soap12-rep-20050125" target="https://www.w3.org/TR/2005/REC-soap12-rep-20050125/">
   <front>
     <title>Resource Representation SOAP Header Block</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anish Karmarkar">
       <organization/>
     </author>

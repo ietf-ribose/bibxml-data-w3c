@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xhtml-modularization-20010410" target="https://www.w3.org/TR/2001/REC-xhtml-modularization-20010410/">
   <front>
     <title>Modularization of XHTML™</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Frank Boumphrey">
       <organization/>
     </author>

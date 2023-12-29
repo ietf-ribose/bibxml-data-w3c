@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-frags-reqs" target="https://www.w3.org/TR/media-frags-reqs/">
   <front>
     <title>Use cases and requirements for Media Fragments</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="media-frags-reqs"/>
 </reference>

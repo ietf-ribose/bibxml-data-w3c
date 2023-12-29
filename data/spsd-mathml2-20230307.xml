@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-MathML2-20230307" target="https://www.w3.org/TR/2023/SPSD-MathML2-20230307/">
   <front>
     <title>Mathematical Markup Language (MathML) Version 2.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Carlisle">
       <organization/>
     </author>

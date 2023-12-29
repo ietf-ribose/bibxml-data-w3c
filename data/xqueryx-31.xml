@@ -1,6 +1,9 @@
 <reference anchor="W3C.xqueryx-31" target="https://www.w3.org/TR/xqueryx-31/">
   <front>
     <title>XQueryX 3.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xqueryx-31"/>
 </reference>

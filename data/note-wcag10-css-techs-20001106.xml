@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-WCAG10-CSS-TECHS-20001106" target="https://www.w3.org/TR/2000/NOTE-WCAG10-CSS-TECHS-20001106/">
   <front>
     <title>CSS Techniques for Web Content Accessibility Guidelines 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gregg Vanderheiden">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-WebCGM" target="https://www.w3.org/TR/REC-WebCGM/">
   <front>
     <title>WebCGM 1.0 Second Release</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-WebCGM"/>
 </reference>

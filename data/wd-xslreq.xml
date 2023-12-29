@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-XSLReq" target="https://www.w3.org/TR/WD-XSLReq">
   <front>
     <title>XSL Requirements Summary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="WD-XSLReq"/>
 </reference>

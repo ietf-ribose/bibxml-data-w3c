@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-shacl-ucr-20170720" target="https://www.w3.org/TR/2017/NOTE-shacl-ucr-20170720/">
   <front>
     <title>SHACL Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Karen Coyle">
       <organization/>
     </author>

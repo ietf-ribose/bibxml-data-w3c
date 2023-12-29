@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ldp-primer-20150423" target="https://www.w3.org/TR/2015/NOTE-ldp-primer-20150423/">
   <front>
     <title>Linked Data Platform 1.0 Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Nandana Mihindukulasooriya">
       <organization/>
     </author>

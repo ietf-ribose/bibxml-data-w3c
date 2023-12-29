@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-vc-di-ecdsa-20231227" target="https://www.w3.org/TR/2023/CRD-vc-di-ecdsa-20231227/">
   <front>
     <title>Data Integrity ECDSA Cryptosuites v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Greg Bernstein">
       <organization/>
     </author>

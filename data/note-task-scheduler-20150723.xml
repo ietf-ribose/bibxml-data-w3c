@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-task-scheduler-20150723" target="https://www.w3.org/TR/2015/NOTE-task-scheduler-20150723/">
   <front>
     <title>Task Scheduler API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mahesh Kulkarni">
       <organization/>
     </author>

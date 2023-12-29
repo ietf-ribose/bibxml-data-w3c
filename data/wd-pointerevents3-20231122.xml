@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-pointerevents3-20231122" target="https://www.w3.org/TR/2023/WD-pointerevents3-20231122/">
   <front>
     <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Patrick Lauke">
       <organization/>
     </author>

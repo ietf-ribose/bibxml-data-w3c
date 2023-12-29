@@ -1,6 +1,9 @@
 <reference anchor="W3C.trusted-types" target="https://www.w3.org/TR/trusted-types/">
   <front>
     <title>Trusted Types</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="trusted-types"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-webxr-ar-module-1-20221102" target="https://www.w3.org/TR/2022/CRD-webxr-ar-module-1-20221102/">
   <front>
     <title>WebXR Augmented Reality Module - Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brandon Jones">
       <organization/>
     </author>

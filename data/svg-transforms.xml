@@ -1,6 +1,9 @@
 <reference anchor="W3C.SVG-Transforms" target="https://www.w3.org/TR/SVG-Transforms/">
   <front>
     <title>SVG Transforms 1.0, Part 2: Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="SVG-Transforms"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-soapjms-20120216" target="https://www.w3.org/TR/2012/REC-soapjms-20120216/">
   <front>
     <title>SOAP over Java Message Service 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Eric Johnson">
       <organization/>
     </author>

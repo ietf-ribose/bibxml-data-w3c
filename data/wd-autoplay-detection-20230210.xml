@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-autoplay-detection-20230210" target="https://www.w3.org/TR/2023/WD-autoplay-detection-20230210/">
   <front>
     <title>Autoplay Policy Detection</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alastor Wu">
       <organization/>
     </author>

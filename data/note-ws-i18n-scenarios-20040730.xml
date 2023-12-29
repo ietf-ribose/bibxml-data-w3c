@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ws-i18n-scenarios-20040730" target="https://www.w3.org/TR/2004/NOTE-ws-i18n-scenarios-20040730/">
   <front>
     <title>Web Services Internationalization Usage Scenarios</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Addison Phillips">
       <organization/>
     </author>

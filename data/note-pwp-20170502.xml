@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-pwp-20170502" target="https://www.w3.org/TR/2017/NOTE-pwp-20170502/">
   <front>
     <title>Web Publications for the Open Web Platform: Vision And Technical Challenges</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ben De Meester">
       <organization/>
     </author>

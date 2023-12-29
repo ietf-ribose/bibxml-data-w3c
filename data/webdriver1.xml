@@ -1,6 +1,9 @@
 <reference anchor="W3C.webdriver1" target="https://www.w3.org/TR/webdriver1/">
   <front>
     <title>WebDriver</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="webdriver1"/>
 </reference>

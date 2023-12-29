@@ -1,6 +1,9 @@
 <reference anchor="W3C.xhtml-basic" target="https://www.w3.org/TR/xhtml-basic/">
   <front>
     <title>XHTML™ Basic 1.1 - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xhtml-basic"/>
 </reference>

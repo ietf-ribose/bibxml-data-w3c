@@ -1,6 +1,9 @@
 <reference anchor="W3C.referrer-policy" target="https://www.w3.org/TR/referrer-policy/">
   <front>
     <title>Referrer Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="referrer-policy"/>
 </reference>

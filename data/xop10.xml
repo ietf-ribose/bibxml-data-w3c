@@ -1,6 +1,9 @@
 <reference anchor="W3C.xop10" target="https://www.w3.org/TR/xop10/">
   <front>
     <title>XML-binary Optimized Packaging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xop10"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-push-api-20231211" target="https://www.w3.org/TR/2023/WD-push-api-20231211/">
   <front>
     <title>Push API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.xquery-xpath-parsing" target="https://www.w3.org/TR/xquery-xpath-parsing/">
   <front>
     <title>Building a Tokenizer for XPath or XQuery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xquery-xpath-parsing"/>
 </reference>

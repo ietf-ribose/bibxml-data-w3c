@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-XSLReq-19980511" target="https://www.w3.org/TR/1998/WD-XSLReq-19980511">
   <front>
     <title>XSL Requirements Summary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Norman Walsh">
       <organization/>
     </author>

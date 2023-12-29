@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-wcag2ict-20230815" target="https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/">
   <front>
     <title>Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Loiselle">
       <organization/>
     </author>

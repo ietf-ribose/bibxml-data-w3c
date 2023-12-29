@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-hcls-swansioc-20091020" target="https://www.w3.org/TR/2009/NOTE-hcls-swansioc-20091020/">
   <front>
     <title>SWAN/SIOC: Alignment Between the SWAN and SIOC Ontologies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alexandre Passant">
       <organization/>
     </author>

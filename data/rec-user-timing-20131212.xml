@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-user-timing-20131212" target="https://www.w3.org/TR/2013/REC-user-timing-20131212/">
   <front>
     <title>User Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anderson Quach">
       <organization/>
     </author>

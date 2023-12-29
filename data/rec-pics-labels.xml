@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-PICS-labels" target="https://www.w3.org/TR/REC-PICS-labels/">
   <front>
     <title>PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-PICS-labels"/>
 </reference>

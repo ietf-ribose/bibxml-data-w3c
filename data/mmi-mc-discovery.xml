@@ -1,6 +1,9 @@
 <reference anchor="W3C.mmi-mc-discovery" target="https://www.w3.org/TR/mmi-mc-discovery/">
   <front>
     <title>Discovery &amp; Registration of Multimodal Modality Components</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mmi-mc-discovery"/>
 </reference>

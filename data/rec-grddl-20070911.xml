@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-grddl-20070911" target="https://www.w3.org/TR/2007/REC-grddl-20070911/">
   <front>
     <title>Gleaning Resource Descriptions from Dialects of Languages (GRDDL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dan Connolly">
       <organization/>
     </author>

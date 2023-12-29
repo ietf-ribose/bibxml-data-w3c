@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-sizing-4" target="https://www.w3.org/TR/css-sizing-4/">
   <front>
     <title>CSS Box Sizing Module Level 4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="css-sizing-4"/>
 </reference>

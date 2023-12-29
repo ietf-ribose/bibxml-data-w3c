@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xml-stylesheet-19990629" target="https://www.w3.org/1999/06/REC-xml-stylesheet-19990629/">
   <front>
     <title>Associating Style Sheets with XML documents</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="James Clark">
       <organization/>
     </author>

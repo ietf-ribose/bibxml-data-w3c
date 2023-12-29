@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-nav-1" target="https://www.w3.org/TR/css-nav-1/">
   <front>
     <title>CSS Spatial Navigation Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="css-nav-1"/>
 </reference>

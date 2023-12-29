@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-di-testing-20090512" target="https://www.w3.org/TR/2009/NOTE-di-testing-20090512/">
   <front>
     <title>Guidelines for writing device independent tests</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Carmelo Montanez">
       <organization/>
     </author>

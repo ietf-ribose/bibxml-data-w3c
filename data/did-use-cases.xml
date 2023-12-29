@@ -1,6 +1,9 @@
 <reference anchor="W3C.did-use-cases" target="https://www.w3.org/TR/did-use-cases/">
   <front>
     <title>Use Cases and Requirements for Decentralized Identifiers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="did-use-cases"/>
 </reference>

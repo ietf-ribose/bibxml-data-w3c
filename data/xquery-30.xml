@@ -1,6 +1,9 @@
 <reference anchor="W3C.xquery-30" target="https://www.w3.org/TR/xquery-30/">
   <front>
     <title>XQuery 3.0: An XML Query Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xquery-30"/>
 </reference>

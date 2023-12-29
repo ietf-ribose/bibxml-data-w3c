@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wsdl20-altschemalangs-20050817" target="https://www.w3.org/TR/2005/NOTE-wsdl20-altschemalangs-20050817/">
   <front>
     <title>Discussion of Alternative Schema Languages and Type System Support in WSDL 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Amelia Lewis">
       <organization/>
     </author>

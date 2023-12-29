@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-PFE-evaluation-20201015" target="https://www.w3.org/TR/2020/NOTE-PFE-evaluation-20201015/">
   <front>
     <title>Progressive Font Enrichment: Evaluation Report</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Lilley">
       <organization/>
     </author>

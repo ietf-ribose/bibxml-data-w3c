@@ -1,6 +1,9 @@
 <reference anchor="W3C.9605-Indexing-Workshop/ReportOutcomes" target="https://www.w3.org/Search/9605-Indexing-Workshop/ReportOutcomes/S6Group2">
   <front>
     <title>A Proposed Convention for Embedding Metadata in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Stu Weibel">
       <organization/>
     </author>

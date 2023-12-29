@@ -1,6 +1,9 @@
 <reference anchor="W3C.xptr" target="https://www.w3.org/TR/xptr/">
   <front>
     <title>XML Pointer Language (XPointer)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xptr"/>
 </reference>

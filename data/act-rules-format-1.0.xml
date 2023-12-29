@@ -1,6 +1,9 @@
 <reference anchor="W3C.act-rules-format-1.0" target="https://www.w3.org/TR/act-rules-format-1.0/">
   <front>
     <title>Accessibility Conformance Testing (ACT) Rules Format 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="act-rules-format-1.0"/>
 </reference>

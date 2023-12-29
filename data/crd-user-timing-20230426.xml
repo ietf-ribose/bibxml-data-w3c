@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-user-timing-20230426" target="https://www.w3.org/TR/2023/CRD-user-timing-20230426/">
   <front>
     <title>User Timing Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Nicolas Pena Moreno">
       <organization/>
     </author>

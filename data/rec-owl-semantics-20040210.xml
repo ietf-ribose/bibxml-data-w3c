@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-owl-semantics-20040210" target="https://www.w3.org/TR/2004/REC-owl-semantics-20040210/">
   <front>
     <title>OWL Web Ontology Language Semantics and Abstract Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Horrocks">
       <organization/>
     </author>

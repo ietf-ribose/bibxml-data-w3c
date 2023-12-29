@@ -1,6 +1,9 @@
 <reference anchor="W3C.widgets-digsig" target="https://www.w3.org/TR/widgets-digsig/">
   <front>
     <title>XML Digital Signatures for Widgets</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="widgets-digsig"/>
 </reference>

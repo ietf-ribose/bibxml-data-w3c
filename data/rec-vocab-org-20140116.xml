@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-vocab-org-20140116" target="https://www.w3.org/TR/2014/REC-vocab-org-20140116/">
   <front>
     <title>The Organization Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Reynolds">
       <organization/>
     </author>

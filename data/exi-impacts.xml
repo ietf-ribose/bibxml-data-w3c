@@ -1,6 +1,9 @@
 <reference anchor="W3C.exi-impacts" target="https://www.w3.org/TR/exi-impacts/">
   <front>
     <title>Efficient XML Interchange (EXI) Impacts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="exi-impacts"/>
 </reference>

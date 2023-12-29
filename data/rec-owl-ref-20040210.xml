@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-owl-ref-20040210" target="https://www.w3.org/TR/2004/REC-owl-ref-20040210/">
   <front>
     <title>OWL Web Ontology Language Reference</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Guus Schreiber">
       <organization/>
     </author>

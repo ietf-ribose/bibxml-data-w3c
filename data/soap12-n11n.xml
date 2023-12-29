@@ -1,6 +1,9 @@
 <reference anchor="W3C.soap12-n11n" target="https://www.w3.org/TR/soap12-n11n/">
   <front>
     <title>SOAP Version 1.2 Message Normalization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="soap12-n11n"/>
 </reference>

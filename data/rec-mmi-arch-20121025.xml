@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-mmi-arch-20121025" target="https://www.w3.org/TR/2012/REC-mmi-arch-20121025/">
   <front>
     <title>Multimodal Architecture and Interfaces</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="2012" month="October" day="25"/>
     <workgroup>Multimodal Interaction Working Group</workgroup>
   </front>

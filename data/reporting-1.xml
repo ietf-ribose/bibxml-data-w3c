@@ -1,6 +1,9 @@
 <reference anchor="W3C.reporting-1" target="https://www.w3.org/TR/reporting-1/">
   <front>
     <title>Reporting API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="reporting-1"/>
 </reference>

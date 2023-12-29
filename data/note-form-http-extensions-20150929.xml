@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-form-http-extensions-20150929" target="https://www.w3.org/TR/2015/NOTE-form-http-extensions-20150929/">
   <front>
     <title>W3C HTML Form HTTP Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cameron Jones">
       <organization/>
     </author>

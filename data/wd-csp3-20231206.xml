@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-CSP3-20231206" target="https://www.w3.org/TR/2023/WD-CSP3-20231206/">
   <front>
     <title>Content Security Policy Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Antonio Sartori">
       <organization/>
     </author>

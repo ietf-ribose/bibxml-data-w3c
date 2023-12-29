@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-guru-gap-20230830" target="https://www.w3.org/TR/2023/DNOTE-guru-gap-20230830/">
   <front>
     <title>Gurmukhi Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Akshat Joshi">
       <organization/>
     </author>

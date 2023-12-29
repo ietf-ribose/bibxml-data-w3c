@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-swbp-n-aryRelations-20060412" target="https://www.w3.org/TR/2006/NOTE-swbp-n-aryRelations-20060412/">
   <front>
     <title>Defining N-ary Relations on the Semantic Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alan Rector">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ddr-core-vocabulary-20080414" target="https://www.w3.org/TR/2008/NOTE-ddr-core-vocabulary-20080414/">
   <front>
     <title>Device Description Repository Core Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrea Trasatti">
       <organization/>
     </author>

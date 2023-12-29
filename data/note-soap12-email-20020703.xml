@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-soap12-email-20020703" target="https://www.w3.org/TR/2002/NOTE-soap12-email-20020703">
   <front>
     <title>SOAP Version 1.2 Email Binding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Glen Daniels">
       <organization/>
     </author>

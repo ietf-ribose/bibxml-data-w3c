@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-nav-1-20191126" target="https://www.w3.org/TR/2019/WD-css-nav-1-20191126/">
   <front>
     <title>CSS Spatial Navigation Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Florian Rivoal">
       <organization/>
     </author>

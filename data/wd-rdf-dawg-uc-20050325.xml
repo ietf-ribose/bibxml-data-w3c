@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-rdf-dawg-uc-20050325" target="https://www.w3.org/TR/2005/WD-rdf-dawg-uc-20050325/">
   <front>
     <title>RDF Data Access Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Kendall Clark">
       <organization/>
     </author>

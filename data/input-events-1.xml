@@ -1,6 +1,9 @@
 <reference anchor="W3C.input-events-1" target="https://www.w3.org/TR/input-events-1/">
   <front>
     <title>Input Events Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C technicalReport" value="input-events-1"/>
 </reference>

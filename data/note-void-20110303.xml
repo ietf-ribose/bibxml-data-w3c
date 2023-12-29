@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-void-20110303" target="https://www.w3.org/TR/2011/NOTE-void-20110303/">
   <front>
     <title>Describing Linked Datasets with the VoID Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jun Zhao">
       <organization/>
     </author>

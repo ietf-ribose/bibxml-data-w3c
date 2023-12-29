@@ -1,6 +1,9 @@
 <reference anchor="W3C.xhtml-modularization" target="https://www.w3.org/TR/xhtml-modularization/">
   <front>
     <title>XHTML™ Modularization 1.1 - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xhtml-modularization"/>
 </reference>

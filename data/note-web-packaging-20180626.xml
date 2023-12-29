@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-web-packaging-20180626" target="https://www.w3.org/TR/2018/NOTE-web-packaging-20180626/">
   <front>
     <title>Packaging on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeni Tennison">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.trig" target="https://www.w3.org/TR/trig/">
   <front>
     <title>RDF 1.1 TriG</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="trig"/>
 </reference>

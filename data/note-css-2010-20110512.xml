@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-css-2010-20110512" target="https://www.w3.org/TR/2011/NOTE-css-2010-20110512/">
   <front>
     <title>Cascading Style Sheets (CSS) Snapshot 2010</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

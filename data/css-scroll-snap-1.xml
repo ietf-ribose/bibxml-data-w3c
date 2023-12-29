@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-scroll-snap-1" target="https://www.w3.org/TR/css-scroll-snap-1/">
   <front>
     <title>CSS Scroll Snap Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="css-scroll-snap-1"/>
 </reference>

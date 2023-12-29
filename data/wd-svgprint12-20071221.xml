@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-SVGPrint12-20071221" target="https://www.w3.org/TR/2007/WD-SVGPrint12-20071221/">
   <front>
     <title>SVG Print 1.2, Part 2: Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alex Danilo">
       <organization/>
     </author>

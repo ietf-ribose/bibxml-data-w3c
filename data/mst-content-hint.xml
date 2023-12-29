@@ -1,6 +1,9 @@
 <reference anchor="W3C.mst-content-hint" target="https://www.w3.org/TR/mst-content-hint/">
   <front>
     <title>MediaStreamTrack Content Hints</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="mst-content-hint"/>
 </reference>

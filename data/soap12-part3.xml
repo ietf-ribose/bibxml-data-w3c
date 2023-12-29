@@ -1,6 +1,9 @@
 <reference anchor="W3C.soap12-part3" target="https://www.w3.org/TR/soap12-part3/">
   <front>
     <title>SOAP 1.2 Part 3: One-Way MEP</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="soap12-part3"/>
 </reference>

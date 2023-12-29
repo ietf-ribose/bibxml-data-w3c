@@ -1,6 +1,9 @@
 <reference anchor="W3C.webcodecs-ulaw-codec-registration" target="https://www.w3.org/TR/webcodecs-ulaw-codec-registration/">
   <front>
     <title>u-law PCM WebCodecs Registration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="webcodecs-ulaw-codec-registration"/>
 </reference>

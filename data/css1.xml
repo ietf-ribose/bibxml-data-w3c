@@ -1,6 +1,9 @@
 <reference anchor="W3C.CSS1" target="https://www.w3.org/TR/CSS1/">
   <front>
     <title>Cascading Style Sheets, level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="CSS1"/>
 </reference>

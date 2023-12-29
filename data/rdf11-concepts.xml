@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdf11-concepts" target="https://www.w3.org/TR/rdf11-concepts/">
   <front>
     <title>RDF 1.1 Concepts and Abstract Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="rdf11-concepts"/>
 </reference>

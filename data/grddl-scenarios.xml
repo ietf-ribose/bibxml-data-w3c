@@ -1,6 +1,9 @@
 <reference anchor="W3C.grddl-scenarios" target="https://www.w3.org/TR/grddl-scenarios/">
   <front>
     <title>GRDDL Use Cases: Scenarios of extracting RDF data from XML documents</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="grddl-scenarios"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.xbc-properties" target="https://www.w3.org/TR/xbc-properties/">
   <front>
     <title>XML Binary Characterization Properties</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xbc-properties"/>
 </reference>

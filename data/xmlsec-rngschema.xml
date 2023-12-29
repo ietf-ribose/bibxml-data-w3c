@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmlsec-rngschema" target="https://www.w3.org/TR/xmlsec-rngschema/">
   <front>
     <title>XML Security RELAX NG Schemas</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xmlsec-rngschema"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-web-share-20220830" target="https://www.w3.org/TR/2022/CR-web-share-20220830/">
   <front>
     <title>Web Share API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Eric Willigers">
       <organization/>
     </author>

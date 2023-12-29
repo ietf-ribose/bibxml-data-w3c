@@ -1,6 +1,9 @@
 <reference anchor="W3C.dfaui" target="https://www.w3.org/TR/dfaui/">
   <front>
     <title>Declarative Formats for Applications and User Interfaces</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="dfaui"/>
 </reference>

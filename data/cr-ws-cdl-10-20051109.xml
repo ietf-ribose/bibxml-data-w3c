@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-ws-cdl-10-20051109" target="https://www.w3.org/TR/2005/CR-ws-cdl-10-20051109/">
   <front>
     <title>Web Services Choreography Description Language Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Charlton Barreto">
       <organization/>
     </author>

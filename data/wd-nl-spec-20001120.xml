@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-nl-spec-20001120" target="https://www.w3.org/TR/2000/WD-nl-spec-20001120/">
   <front>
     <title>Natural Language Semantics Markup Language for the Speech Interface Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Deborah Dahl">
       <organization/>
     </author>

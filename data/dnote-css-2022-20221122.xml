@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-css-2022-20221122" target="https://www.w3.org/TR/2022/DNOTE-css-2022-20221122/">
   <front>
     <title>CSS Snapshot 2022</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xbl-20120524" target="https://www.w3.org/TR/2012/NOTE-xbl-20120524/">
   <front>
     <title>XBL 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Hickson">
       <organization/>
     </author>

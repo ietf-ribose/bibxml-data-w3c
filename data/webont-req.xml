@@ -1,6 +1,9 @@
 <reference anchor="W3C.webont-req" target="https://www.w3.org/TR/webont-req/">
   <front>
     <title>OWL Web Ontology Language Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="webont-req"/>
 </reference>

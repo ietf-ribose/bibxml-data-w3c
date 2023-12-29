@@ -1,6 +1,9 @@
 <reference anchor="W3C.widgets-access" target="https://www.w3.org/TR/widgets-access/">
   <front>
     <title>Widget Access Request Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="widgets-access"/>
 </reference>

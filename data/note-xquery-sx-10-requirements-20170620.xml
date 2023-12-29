@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xquery-sx-10-requirements-20170620" target="https://www.w3.org/TR/2017/NOTE-xquery-sx-10-requirements-20170620/">
   <front>
     <title>XQuery Scripting Extension 1.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Engovatov">
       <organization/>
     </author>

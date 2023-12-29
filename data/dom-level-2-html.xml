@@ -1,6 +1,9 @@
 <reference anchor="W3C.DOM-Level-2-HTML" target="https://www.w3.org/TR/DOM-Level-2-HTML/">
   <front>
     <title>Document Object Model (DOM) Level 2 HTML Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="DOM-Level-2-HTML"/>
 </reference>

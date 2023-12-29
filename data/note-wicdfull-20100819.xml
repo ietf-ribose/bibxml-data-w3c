@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-WICDFull-20100819" target="https://www.w3.org/TR/2010/NOTE-WICDFull-20100819/">
   <front>
     <title>WICD Full 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Appelquist">
       <organization/>
     </author>

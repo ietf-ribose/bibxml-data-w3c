@@ -1,6 +1,9 @@
 <reference anchor="W3C.P3P" target="https://www.w3.org/TR/P3P/">
   <front>
     <title>The Platform for Privacy Preferences 1.0 (P3P1.0) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="P3P"/>
 </reference>

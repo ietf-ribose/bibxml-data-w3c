@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-backplane-20061116" target="https://www.w3.org/TR/2006/NOTE-backplane-20061116/">
   <front>
     <title>Rich Web Application Backplane</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alfred S. Gilman">
       <organization/>
     </author>

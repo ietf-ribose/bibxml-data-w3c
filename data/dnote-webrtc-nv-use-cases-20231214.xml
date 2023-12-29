@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-webrtc-nv-use-cases-20231214" target="https://www.w3.org/TR/2023/DNOTE-webrtc-nv-use-cases-20231214/">
   <front>
     <title>WebRTC Extended Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>

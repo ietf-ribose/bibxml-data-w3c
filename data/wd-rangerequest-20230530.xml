@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-RangeRequest-20230530" target="https://www.w3.org/TR/2023/WD-RangeRequest-20230530/">
   <front>
     <title>Range Request Incremental Font Transfer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Lilley">
       <organization/>
     </author>

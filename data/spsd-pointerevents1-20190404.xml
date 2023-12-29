@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-pointerevents1-20190404" target="https://www.w3.org/TR/2019/SPSD-pointerevents1-20190404/">
   <front>
     <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jacob Rossi">
       <organization/>
     </author>

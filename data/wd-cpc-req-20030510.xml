@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-cpc-req-20030510" target="https://www.w3.org/TR/2003/WD-cpc-req-20030510/">
   <front>
     <title>Core Presentation Characteristics: Requirements and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Amy Yu">
       <organization/>
     </author>

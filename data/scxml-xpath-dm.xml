@@ -1,6 +1,9 @@
 <reference anchor="W3C.scxml-xpath-dm" target="https://www.w3.org/TR/scxml-xpath-dm/">
   <front>
     <title>XPath Data Model for SCXML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="scxml-xpath-dm"/>
 </reference>

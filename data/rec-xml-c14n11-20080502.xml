@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xml-c14n11-20080502" target="https://www.w3.org/TR/2008/REC-xml-c14n11-20080502/">
   <front>
     <title>Canonical XML Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Glenn Marcy">
       <organization/>
     </author>

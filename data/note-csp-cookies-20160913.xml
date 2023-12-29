@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-csp-cookies-20160913" target="https://www.w3.org/TR/2016/NOTE-csp-cookies-20160913/">
   <front>
     <title>Content Security Policy: Cookie Controls</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>

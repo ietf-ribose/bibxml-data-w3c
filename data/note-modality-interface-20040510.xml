@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-modality-interface-20040510" target="https://www.w3.org/TR/2004/NOTE-modality-interface-20040510/">
   <front>
     <title>Modality Component to Host Environment DOM Requirements and Capabilities Assessment</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brandon Porter">
       <organization/>
     </author>

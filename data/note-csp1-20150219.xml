@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-CSP1-20150219" target="https://www.w3.org/TR/2015/NOTE-CSP1-20150219/">
   <front>
     <title>Content Security Policy 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Adam Barth">
       <organization/>
     </author>

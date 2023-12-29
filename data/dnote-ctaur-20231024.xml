@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-ctaur-20231024" target="https://www.w3.org/TR/2023/DNOTE-ctaur-20231024/">
   <front>
     <title>Collaboration Tools Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Janina Sajka">
       <organization/>
     </author>

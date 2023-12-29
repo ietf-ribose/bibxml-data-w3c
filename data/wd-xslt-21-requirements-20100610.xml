@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-xslt-21-requirements-20100610" target="https://www.w3.org/TR/2010/WD-xslt-21-requirements-20100610/">
   <front>
     <title>Requirements and Use Cases for XSLT 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Petr Cimprich">
       <organization/>
     </author>

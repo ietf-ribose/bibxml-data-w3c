@@ -1,6 +1,9 @@
 <reference anchor="W3C.rif-fld" target="https://www.w3.org/TR/rif-fld/">
   <front>
     <title>RIF Framework for Logic Dialects (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="rif-fld"/>
 </reference>

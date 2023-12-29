@@ -1,6 +1,9 @@
 <reference anchor="W3C.widgets-apis" target="https://www.w3.org/TR/widgets-apis/">
   <front>
     <title>Widget Interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="widgets-apis"/>
 </reference>

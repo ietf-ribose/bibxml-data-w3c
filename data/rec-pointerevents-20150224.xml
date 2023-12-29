@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-pointerevents-20150224" target="https://www.w3.org/TR/2015/REC-pointerevents-20150224/">
   <front>
     <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jacob Rossi">
       <organization/>
     </author>

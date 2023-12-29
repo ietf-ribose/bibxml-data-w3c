@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-HTTP-NG-testbed" target="https://www.w3.org/TR/NOTE-HTTP-NG-testbed/">
   <front>
     <title>Design of HTTP-ng Testbed</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="NOTE-HTTP-NG-testbed"/>
 </reference>

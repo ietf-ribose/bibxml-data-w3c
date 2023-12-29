@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-web-share-20230530" target="https://www.w3.org/TR/2023/REC-web-share-20230530/">
   <front>
     <title>Web Share API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Eric Willigers">
       <organization/>
     </author>

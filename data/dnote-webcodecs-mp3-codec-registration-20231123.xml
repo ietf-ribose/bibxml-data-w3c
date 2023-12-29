@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-webcodecs-mp3-codec-registration-20231123" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-mp3-codec-registration-20231123/">
   <front>
     <title>MP3 WebCodecs Registration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>

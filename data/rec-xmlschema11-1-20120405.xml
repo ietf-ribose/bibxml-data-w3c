@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xmlschema11-1-20120405" target="https://www.w3.org/TR/2012/REC-xmlschema11-1-20120405/">
   <front>
     <title>W3C XML Schema Definition Language (XSD) 1.1 Part 1: Structures</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Beech">
       <organization/>
     </author>

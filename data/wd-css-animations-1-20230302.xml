@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-animations-1-20230302" target="https://www.w3.org/TR/2023/WD-css-animations-1-20230302/">
   <front>
     <title>CSS Animations Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brian Birtles">
       <organization/>
     </author>

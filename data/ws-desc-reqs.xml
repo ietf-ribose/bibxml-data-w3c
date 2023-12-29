@@ -1,6 +1,9 @@
 <reference anchor="W3C.ws-desc-reqs" target="https://www.w3.org/TR/ws-desc-reqs/">
   <front>
     <title>Web Services Description Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="ws-desc-reqs"/>
 </reference>

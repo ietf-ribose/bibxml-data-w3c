@@ -1,6 +1,9 @@
 <reference anchor="W3C.vc-data-model" target="https://www.w3.org/TR/vc-data-model/">
   <front>
     <title>Verifiable Credentials Data Model v1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="vc-data-model"/>
 </reference>

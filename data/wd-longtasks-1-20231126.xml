@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-longtasks-1-20231126" target="https://www.w3.org/TR/2023/WD-longtasks-1-20231126/">
   <front>
     <title>Long Tasks API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Noam Rosenthal">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-skos-primer-20090818" target="https://www.w3.org/TR/2009/NOTE-skos-primer-20090818/">
   <front>
     <title>SKOS Simple Knowledge Organization System Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Antoine Isaac">
       <organization/>
     </author>

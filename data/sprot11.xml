@@ -1,6 +1,9 @@
 <reference anchor="W3C.sprot11" target="https://www.w3.org/TR/sprot11/">
   <front>
     <title>SPARQL Protocol for RDF Using WSDL 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="sprot11"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.sparql12-entailment" target="https://www.w3.org/TR/sparql12-entailment/">
   <front>
     <title>SPARQL 1.2 Entailment Regimes</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="sparql12-entailment"/>
 </reference>

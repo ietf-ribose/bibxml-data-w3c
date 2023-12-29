@@ -1,6 +1,9 @@
 <reference anchor="W3C.mini-app-white-paper" target="https://www.w3.org/TR/mini-app-white-paper/">
   <front>
     <title>MiniApp Standardization White Paper version 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mini-app-white-paper"/>
 </reference>

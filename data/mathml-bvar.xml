@@ -1,6 +1,9 @@
 <reference anchor="W3C.mathml-bvar" target="https://www.w3.org/TR/mathml-bvar/">
   <front>
     <title>Bound Variables in MathML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mathml-bvar"/>
 </reference>

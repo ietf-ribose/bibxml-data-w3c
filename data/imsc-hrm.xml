@@ -1,6 +1,9 @@
 <reference anchor="W3C.imsc-hrm" target="https://www.w3.org/TR/imsc-hrm/">
   <front>
     <title>IMSC Hypothetical Render Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="imsc-hrm"/>
 </reference>

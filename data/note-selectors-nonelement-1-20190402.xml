@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-selectors-nonelement-1-20190402" target="https://www.w3.org/TR/2019/NOTE-selectors-nonelement-1-20190402/">
   <front>
     <title>Non-element Selectors Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jirka Kosek">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.ttml-imsc1" target="https://www.w3.org/TR/ttml-imsc1/">
   <front>
     <title>TTML Profiles for Internet Media Subtitles and Captions 1.0 (IMSC1)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="ttml-imsc1"/>
 </reference>

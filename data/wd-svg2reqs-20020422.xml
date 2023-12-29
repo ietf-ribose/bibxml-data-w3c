@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-SVG2Reqs-20020422" target="https://www.w3.org/TR/2002/WD-SVG2Reqs-20020422/">
   <front>
     <title>SVG 1.1/1.2/2.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dean Jackson">
       <organization/>
     </author>

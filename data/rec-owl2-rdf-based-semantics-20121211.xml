@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-owl2-rdf-based-semantics-20121211" target="https://www.w3.org/TR/2012/REC-owl2-rdf-based-semantics-20121211/">
   <front>
     <title>OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael Schneider">
       <organization/>
     </author>

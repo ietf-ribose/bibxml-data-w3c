@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ttml-profile-registry-20201119" target="https://www.w3.org/TR/2020/NOTE-ttml-profile-registry-20201119/">
   <front>
     <title>TTML Media Type Definition and Profile Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Glenn Adams">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-will-change-1" target="https://www.w3.org/TR/css-will-change-1/">
   <front>
     <title>CSS Will Change Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="css-will-change-1"/>
 </reference>

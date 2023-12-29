@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-soap12-mtom-policy-20070918" target="https://www.w3.org/TR/2007/WD-soap12-mtom-policy-20070918/">
   <front>
     <title>MTOM Serialization Policy Assertion 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Christopher Ferris">
       <organization/>
     </author>

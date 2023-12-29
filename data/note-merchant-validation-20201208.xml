@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-merchant-validation-20201208" target="https://www.w3.org/TR/2020/NOTE-merchant-validation-20201208/">
   <front>
     <title>The MerchantValidationEvent interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

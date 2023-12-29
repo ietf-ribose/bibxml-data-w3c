@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-file-system-api-20140424" target="https://www.w3.org/TR/2014/NOTE-file-system-api-20140424/">
   <front>
     <title>File API: Directories and System</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Eric Uhrhane">
       <organization/>
     </author>

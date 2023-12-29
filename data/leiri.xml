@@ -1,6 +1,9 @@
 <reference anchor="W3C.leiri" target="https://www.w3.org/TR/leiri/">
   <front>
     <title>Legacy extended IRIs for XML resource identification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="leiri"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-dpub-aam-1.0-20171214" target="https://www.w3.org/TR/2017/REC-dpub-aam-1.0-20171214/">
   <front>
     <title>Digital Publishing Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Joanmarie Diggs">
       <organization/>
     </author>

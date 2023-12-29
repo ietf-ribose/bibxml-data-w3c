@@ -1,6 +1,9 @@
 <reference anchor="W3C.annotation-html" target="https://www.w3.org/TR/annotation-html/">
   <front>
     <title>Embedding Web Annotations in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="annotation-html"/>
 </reference>

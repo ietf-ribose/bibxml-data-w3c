@@ -1,6 +1,9 @@
 <reference anchor="W3C.nl-spec" target="https://www.w3.org/TR/nl-spec/">
   <front>
     <title>Natural Language Semantics Markup Language for the Speech Interface Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="nl-spec"/>
 </reference>

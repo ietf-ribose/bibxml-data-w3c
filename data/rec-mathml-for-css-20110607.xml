@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-mathml-for-css-20110607" target="https://www.w3.org/TR/2011/REC-mathml-for-css-20110607/">
   <front>
     <title>A MathML for CSS Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bert Bos">
       <organization/>
     </author>

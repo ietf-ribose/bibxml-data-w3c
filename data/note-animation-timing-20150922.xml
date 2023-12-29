@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-animation-timing-20150922" target="https://www.w3.org/TR/2015/NOTE-animation-timing-20150922/">
   <front>
     <title>Timing control for script-based animations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cameron McCormack">
       <organization/>
     </author>

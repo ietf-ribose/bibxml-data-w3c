@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-adapt-20230103" target="https://www.w3.org/TR/2023/DNOTE-adapt-20230103/">
   <front>
     <title>WAI-Adapt Explainer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Charles LaPierre">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.webrtc-svc" target="https://www.w3.org/TR/webrtc-svc/">
   <front>
     <title>Scalable Video Coding (SVC) Extension for WebRTC</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="webrtc-svc"/>
 </reference>

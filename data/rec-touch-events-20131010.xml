@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-touch-events-20131010" target="https://www.w3.org/TR/2013/REC-touch-events-20131010/">
   <front>
     <title>Touch Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arthur Barstow">
       <organization/>
     </author>

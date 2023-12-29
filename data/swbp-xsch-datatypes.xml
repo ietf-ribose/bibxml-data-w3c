@@ -1,6 +1,9 @@
 <reference anchor="W3C.swbp-xsch-datatypes" target="https://www.w3.org/TR/swbp-xsch-datatypes/">
   <front>
     <title>XML Schema Datatypes in RDF and OWL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="swbp-xsch-datatypes"/>
 </reference>

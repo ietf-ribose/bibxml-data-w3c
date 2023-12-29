@@ -1,6 +1,9 @@
 <reference anchor="W3C.file-writer-api" target="https://www.w3.org/TR/file-writer-api/">
   <front>
     <title>File API: Writer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="file-writer-api"/>
 </reference>

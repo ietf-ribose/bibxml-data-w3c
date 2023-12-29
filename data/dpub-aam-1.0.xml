@@ -1,6 +1,9 @@
 <reference anchor="W3C.dpub-aam-1.0" target="https://www.w3.org/TR/dpub-aam-1.0/">
   <front>
     <title>Digital Publishing Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="dpub-aam-1.0"/>
 </reference>

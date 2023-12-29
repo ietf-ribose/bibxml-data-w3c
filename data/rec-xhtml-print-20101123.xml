@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xhtml-print-20101123" target="https://www.w3.org/TR/2010/REC-xhtml-print-20101123/">
   <front>
     <title>XHTML-Print - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Shane McCarron">
       <organization/>
     </author>

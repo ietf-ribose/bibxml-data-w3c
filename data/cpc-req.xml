@@ -1,6 +1,9 @@
 <reference anchor="W3C.cpc-req" target="https://www.w3.org/TR/cpc-req/">
   <front>
     <title>Core Presentation Characteristics: Requirements and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="cpc-req"/>
 </reference>

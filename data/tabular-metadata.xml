@@ -1,6 +1,9 @@
 <reference anchor="W3C.tabular-metadata" target="https://www.w3.org/TR/tabular-metadata/">
   <front>
     <title>Metadata Vocabulary for Tabular Data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="tabular-metadata"/>
 </reference>

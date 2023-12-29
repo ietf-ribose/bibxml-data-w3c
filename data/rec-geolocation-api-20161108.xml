@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-geolocation-API-20161108" target="https://www.w3.org/TR/2016/REC-geolocation-API-20161108/">
   <front>
     <title>Geolocation API Specification 2nd Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrei Popescu">
       <organization/>
     </author>

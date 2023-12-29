@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-annotation-model-20170223" target="https://www.w3.org/TR/2017/REC-annotation-model-20170223/">
   <front>
     <title>Web Annotation Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Benjamin Young">
       <organization/>
     </author>

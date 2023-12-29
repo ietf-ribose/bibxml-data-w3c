@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-turtle-20140225" target="https://www.w3.org/TR/2014/REC-turtle-20140225/">
   <front>
     <title>RDF 1.1 Turtle</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Eric Prud'hommeaux">
       <organization/>
     </author>

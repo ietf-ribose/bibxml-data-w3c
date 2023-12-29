@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-api-perms-20150714" target="https://www.w3.org/TR/2015/NOTE-api-perms-20150714/">
   <front>
     <title>Permissions for Device API Access</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dominique Hazaël-Massieux">
       <organization/>
     </author>

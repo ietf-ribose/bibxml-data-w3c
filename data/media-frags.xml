@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-frags" target="https://www.w3.org/TR/media-frags/">
   <front>
     <title>Media Fragments URI 1.0 (basic)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="media-frags"/>
 </reference>

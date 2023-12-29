@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-test-methodology-20100128" target="https://www.w3.org/TR/2010/NOTE-test-methodology-20100128/">
   <front>
     <title>A Method for Writing Testable Conformance Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dominique Hazaël-Massieux">
       <organization/>
     </author>

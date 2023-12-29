@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-miniapp-addressing-20220627" target="https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220627/">
   <front>
     <title>MiniApp Addressing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dan Zhou">
       <organization/>
     </author>

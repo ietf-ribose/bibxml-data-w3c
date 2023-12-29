@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-r2rml-20120927" target="https://www.w3.org/TR/2012/REC-r2rml-20120927/">
   <front>
     <title>R2RML: RDB to RDF Mapping Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Richard Cyganiak">
       <organization/>
     </author>

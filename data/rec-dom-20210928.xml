@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-DOM-20210928" target="https://www.w3.org/TR/2021/REC-DOM-20210928/">
   <front>
     <title>DOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="2021" month="September" day="28"/>
     <workgroup>HTML Working Group</workgroup>
   </front>

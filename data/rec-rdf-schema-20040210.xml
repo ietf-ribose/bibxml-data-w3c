@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdf-schema-20040210" target="https://www.w3.org/TR/2004/REC-rdf-schema-20040210/">
   <front>
     <title>RDF Vocabulary Description Language 1.0: RDF Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dan Brickley">
       <organization/>
     </author>

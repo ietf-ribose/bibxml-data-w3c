@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wcag2ict-20130905" target="https://www.w3.org/TR/2013/NOTE-wcag2ict-20130905/">
   <front>
     <title>Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andi Snow-Weaver">
       <organization/>
     </author>

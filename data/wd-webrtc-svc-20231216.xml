@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-webrtc-svc-20231216" target="https://www.w3.org/TR/2023/WD-webrtc-svc-20231216/">
   <front>
     <title>Scalable Video Coding (SVC) Extension for WebRTC</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>

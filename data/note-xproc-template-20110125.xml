@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xproc-template-20110125" target="https://www.w3.org/TR/2011/NOTE-xproc-template-20110125/">
   <front>
     <title>Document Templating Steps for XProc</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Norman Walsh">
       <organization/>
     </author>

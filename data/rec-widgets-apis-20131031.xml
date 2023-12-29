@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-widgets-apis-20131031" target="https://www.w3.org/TR/2013/REC-widgets-apis-20131031/">
   <front>
     <title>Widget Interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

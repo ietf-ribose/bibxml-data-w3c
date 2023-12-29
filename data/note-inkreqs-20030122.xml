@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-inkreqs-20030122" target="https://www.w3.org/TR/2003/NOTE-inkreqs-20030122/">
   <front>
     <title>Requirements for the Ink Markup Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Sai Prasad">
       <organization/>
     </author>

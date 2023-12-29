@@ -1,6 +1,9 @@
 <reference anchor="W3C.mathml-media-types" target="https://www.w3.org/TR/mathml-media-types/">
   <front>
     <title>MathML Media-type Declarations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mathml-media-types"/>
 </reference>

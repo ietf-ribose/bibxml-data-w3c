@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-exi-profile-20140909" target="https://www.w3.org/TR/2014/REC-exi-profile-20140909/">
   <front>
     <title>Efficient XML Interchange (EXI) Profile for limiting usage of dynamic memory</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Peintner">
       <organization/>
     </author>

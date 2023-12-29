@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-dpub-metadata-20150108" target="https://www.w3.org/TR/2015/NOTE-dpub-metadata-20150108/">
   <front>
     <title>DPUB IG Metadata Task Force Report</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bill Kasdorf">
       <organization/>
     </author>

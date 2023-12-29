@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-voice-tts-reqs-19991223" target="https://www.w3.org/TR/1999/WD-voice-tts-reqs-19991223/">
   <front>
     <title>Speech Synthesis Markup Requirements for Voice Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrew Hunt">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.vocab-org" target="https://www.w3.org/TR/vocab-org/">
   <front>
     <title>The Organization Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="vocab-org"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ldp-paging-20150630" target="https://www.w3.org/TR/2015/NOTE-ldp-paging-20150630/">
   <front>
     <title>Linked Data Platform Paging 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ashok Malhotra">
       <organization/>
     </author>

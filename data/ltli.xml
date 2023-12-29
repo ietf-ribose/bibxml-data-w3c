@@ -1,6 +1,9 @@
 <reference anchor="W3C.ltli" target="https://www.w3.org/TR/ltli/">
   <front>
     <title>Language Tags and Locale Identifiers for the World Wide Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="ltli"/>
 </reference>

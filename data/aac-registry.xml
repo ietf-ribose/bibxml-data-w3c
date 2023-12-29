@@ -1,6 +1,9 @@
 <reference anchor="W3C.aac-registry" target="https://www.w3.org/TR/aac-registry/">
   <front>
     <title>W3C Alternative and Augmented Communication (AAC) Symbol Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C technicalReport" value="aac-registry"/>
 </reference>

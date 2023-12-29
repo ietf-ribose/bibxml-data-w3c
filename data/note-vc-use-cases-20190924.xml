@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-vc-use-cases-20190924" target="https://www.w3.org/TR/2019/NOTE-vc-use-cases-20190924/">
   <front>
     <title>Verifiable Credentials Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>

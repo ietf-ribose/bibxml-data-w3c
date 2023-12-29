@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-string-meta-20230720" target="https://www.w3.org/TR/2023/DNOTE-string-meta-20230720/">
   <front>
     <title>Strings on the Web: Language and Direction Metadata</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Addison Phillips">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdf-dawg-uc" target="https://www.w3.org/TR/rdf-dawg-uc/">
   <front>
     <title>RDF Data Access Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="rdf-dawg-uc"/>
 </reference>

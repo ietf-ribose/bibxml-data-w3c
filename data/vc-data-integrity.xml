@@ -1,6 +1,9 @@
 <reference anchor="W3C.vc-data-integrity" target="https://www.w3.org/TR/vc-data-integrity/">
   <front>
     <title>Verifiable Credential Data Integrity 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="vc-data-integrity"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-wcag-3.0-explainer-20211207" target="https://www.w3.org/TR/2021/DNOTE-wcag-3.0-explainer-20211207/">
   <front>
     <title>Explainer for W3C Accessibility Guidelines (WCAG) 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeanne F Spellman">
       <organization/>
     </author>

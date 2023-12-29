@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wot-usecases-20220307" target="https://www.w3.org/TR/2022/NOTE-wot-usecases-20220307/">
   <front>
     <title>Web of Things (WoT): Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael Lagally">
       <organization/>
     </author>

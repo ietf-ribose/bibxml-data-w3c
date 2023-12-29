@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xpath-19991116" target="https://www.w3.org/TR/1999/REC-xpath-19991116/">
   <front>
     <title>XML Path Language (XPath) Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="James Clark">
       <organization/>
     </author>

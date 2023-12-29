@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdf-syntax" target="https://www.w3.org/TR/REC-rdf-syntax/">
   <front>
     <title>Resource Description Framework (RDF) Model and Syntax Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-rdf-syntax"/>
 </reference>

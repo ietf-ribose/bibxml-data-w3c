@@ -1,6 +1,9 @@
 <reference anchor="W3C.owl2-quick-reference" target="https://www.w3.org/TR/owl2-quick-reference/">
   <front>
     <title>OWL 2 Web Ontology Language Quick Reference Guide (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="owl2-quick-reference"/>
 </reference>

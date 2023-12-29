@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-css-2023-20231207" target="https://www.w3.org/TR/2023/NOTE-css-2023-20231207/">
   <front>
     <title>CSS Snapshot 2023</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Lilley">
       <organization/>
     </author>

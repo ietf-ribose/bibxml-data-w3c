@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-sparql12-protocol-20231214" target="https://www.w3.org/TR/2023/WD-sparql12-protocol-20231214/">
   <front>
     <title>SPARQL 1.2 Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andy Seaborne">
       <organization/>
     </author>

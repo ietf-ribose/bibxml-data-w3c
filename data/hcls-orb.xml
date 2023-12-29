@@ -1,6 +1,9 @@
 <reference anchor="W3C.hcls-orb" target="https://www.w3.org/TR/hcls-orb/">
   <front>
     <title>Ontology of Rhetorical Blocks (ORB)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="hcls-orb"/>
 </reference>

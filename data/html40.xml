@@ -1,6 +1,9 @@
 <reference anchor="W3C.html40" target="https://www.w3.org/TR/html40/">
   <front>
     <title>HTML 4.0 Recommendation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="html40"/>
 </reference>

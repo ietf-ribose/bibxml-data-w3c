@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-frame-timing-20160720" target="https://www.w3.org/TR/2016/NOTE-frame-timing-20160720/">
   <front>
     <title>Frame Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="2016" month="July" day="20"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>

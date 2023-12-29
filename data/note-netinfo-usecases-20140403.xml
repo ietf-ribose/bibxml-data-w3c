@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-netinfo-usecases-20140403" target="https://www.w3.org/TR/2014/NOTE-netinfo-usecases-20140403/">
   <front>
     <title>Review of apps that use network information</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ernesto Jimenez">
       <organization/>
     </author>

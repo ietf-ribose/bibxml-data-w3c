@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-rdf12-concepts-20231013" target="https://www.w3.org/TR/2023/WD-rdf12-concepts-20231013/">
   <front>
     <title>RDF 1.2 Concepts and Abstract Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rdf-sparql-json-res-20070618" target="https://www.w3.org/TR/2007/NOTE-rdf-sparql-json-res-20070618/">
   <front>
     <title>Serializing SPARQL Query Results in JSON</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elias Torres">
       <organization/>
     </author>

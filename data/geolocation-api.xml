@@ -1,6 +1,9 @@
 <reference anchor="W3C.geolocation-API" target="https://www.w3.org/TR/geolocation-API/">
   <front>
     <title>Geolocation API Specification 2nd Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="geolocation-API"/>
 </reference>

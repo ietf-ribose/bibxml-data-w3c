@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdfa-core" target="https://www.w3.org/TR/rdfa-core/">
   <front>
     <title>RDFa Core 1.1 - Third Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="rdfa-core"/>
 </reference>

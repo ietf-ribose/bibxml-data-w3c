@@ -1,6 +1,9 @@
 <reference anchor="W3C.abstract-ui" target="https://www.w3.org/TR/abstract-ui/">
   <front>
     <title>MBUI - Abstract User Interface Models</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="abstract-ui"/>
 </reference>

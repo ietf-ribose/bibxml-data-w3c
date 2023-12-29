@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-PICS-services" target="https://www.w3.org/TR/REC-PICS-services/">
   <front>
     <title>PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-PICS-services"/>
 </reference>

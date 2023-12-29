@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-html-aria-20230515" target="https://www.w3.org/TR/2023/REC-html-aria-20230515/">
   <front>
     <title>ARIA in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Patrick Lauke">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-act-rules-aspects-20220712" target="https://www.w3.org/TR/2022/NOTE-act-rules-aspects-20220712/">
   <front>
     <title>Accessibility Conformance Testing Rules: Common Input Aspects</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mary Jo Mueller">
       <organization/>
     </author>

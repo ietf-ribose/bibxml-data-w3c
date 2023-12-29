@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xinclude-11-20160721" target="https://www.w3.org/TR/2016/NOTE-xinclude-11-20160721/">
   <front>
     <title>XML Inclusions (XInclude) Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Veillard">
       <organization/>
     </author>

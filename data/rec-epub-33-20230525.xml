@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-epub-33-20230525" target="https://www.w3.org/TR/2023/REC-epub-33-20230525/">
   <front>
     <title>EPUB 3.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Cramer">
       <organization/>
     </author>

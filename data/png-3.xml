@@ -1,6 +1,9 @@
 <reference anchor="W3C.png-3" target="https://www.w3.org/TR/png-3/">
   <front>
     <title>Portable Network Graphics (PNG) Specification (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="png-3"/>
 </reference>

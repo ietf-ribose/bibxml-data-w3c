@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-writing-modes-3" target="https://www.w3.org/TR/css-writing-modes-3/">
   <front>
     <title>CSS Writing Modes Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="css-writing-modes-3"/>
 </reference>

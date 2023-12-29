@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-swbp-specified-values-20050517" target="https://www.w3.org/TR/2005/NOTE-swbp-specified-values-20050517/">
   <front>
     <title>Representing Specified Values in OWL: "value partitions" and "value sets"</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alan Rector">
       <organization/>
     </author>

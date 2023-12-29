@@ -1,6 +1,9 @@
 <reference anchor="W3C.xpath-full-text-30-requirements-use-cases" target="https://www.w3.org/TR/xpath-full-text-30-requirements-use-cases/">
   <front>
     <title>XQuery and XPath Full Text 3.0 Requirements and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xpath-full-text-30-requirements-use-cases"/>
 </reference>

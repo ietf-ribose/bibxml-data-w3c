@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-qaframe-ops-extech-20021202" target="https://www.w3.org/TR/2002/NOTE-qaframe-ops-extech-20021202/">
   <front>
     <title>QA Framework: Operational Examples &amp; Techniques</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dimitris Dimitriadis">
       <organization/>
     </author>

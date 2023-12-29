@@ -1,6 +1,9 @@
 <reference anchor="W3C.DOM-Level-3-LS" target="https://www.w3.org/TR/DOM-Level-3-LS/">
   <front>
     <title>Document Object Model (DOM) Level 3 Load and Save Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="DOM-Level-3-LS"/>
 </reference>

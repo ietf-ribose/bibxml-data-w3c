@@ -1,6 +1,9 @@
 <reference anchor="W3C.P3P-preferences" target="https://www.w3.org/TR/P3P-preferences/">
   <front>
     <title>A P3P Preference Exchange Language 1.0 (APPEL1.0)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="P3P-preferences"/>
 </reference>

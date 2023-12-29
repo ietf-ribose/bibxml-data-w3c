@@ -1,6 +1,9 @@
 <reference anchor="W3C.saur" target="https://www.w3.org/TR/saur/">
   <front>
     <title>Synchronization Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="saur"/>
 </reference>

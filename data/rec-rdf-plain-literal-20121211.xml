@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdf-plain-literal-20121211" target="https://www.w3.org/TR/2012/REC-rdf-plain-literal-20121211/">
   <front>
     <title>rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Axel Polleres">
       <organization/>
     </author>

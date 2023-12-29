@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-DOM-Level-3-Val-20040127" target="https://www.w3.org/TR/2004/REC-DOM-Level-3-Val-20040127/">
   <front>
     <title>Document Object Model (DOM) Level 3 Validation Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ben Chang">
       <organization/>
     </author>

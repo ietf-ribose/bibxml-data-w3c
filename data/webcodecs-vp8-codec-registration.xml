@@ -1,6 +1,9 @@
 <reference anchor="W3C.webcodecs-vp8-codec-registration" target="https://www.w3.org/TR/webcodecs-vp8-codec-registration/">
   <front>
     <title>VP8 WebCodecs Registration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="webcodecs-vp8-codec-registration"/>
 </reference>

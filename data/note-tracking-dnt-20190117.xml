@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-tracking-dnt-20190117" target="https://www.w3.org/TR/2019/NOTE-tracking-dnt-20190117/">
   <front>
     <title>Tracking Preference Expression (DNT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Singer">
       <organization/>
     </author>

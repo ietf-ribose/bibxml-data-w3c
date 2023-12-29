@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-rdf12-n-triples-20231221" target="https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231221/">
   <front>
     <title>RDF 1.2 N-Triples</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dominik Tomaszuk">
       <organization/>
     </author>

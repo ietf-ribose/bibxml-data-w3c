@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-tvcontrol-api-20170518" target="https://www.w3.org/TR/2017/NOTE-tvcontrol-api-20170518/">
   <front>
     <title>TV Control API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alexander Futász">
       <organization/>
     </author>

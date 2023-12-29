@@ -1,6 +1,9 @@
 <reference anchor="W3C.vxml30reqs" target="https://www.w3.org/TR/vxml30reqs/">
   <front>
     <title>Voice Extensible Markup Language (VoiceXML) 3.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="vxml30reqs"/>
 </reference>

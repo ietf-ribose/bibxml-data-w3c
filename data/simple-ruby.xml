@@ -1,6 +1,9 @@
 <reference anchor="W3C.simple-ruby" target="https://www.w3.org/TR/simple-ruby/">
   <front>
     <title>Rules for Simple Placement of Japanese Ruby</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="simple-ruby"/>
 </reference>

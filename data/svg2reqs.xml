@@ -1,6 +1,9 @@
 <reference anchor="W3C.SVG2Reqs" target="https://www.w3.org/TR/SVG2Reqs/">
   <front>
     <title>SVG 1.1/1.2/2.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="SVG2Reqs"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-epub-a11y-exemption-20231215" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231215/">
   <front>
     <title>The EPUB Accessibility exemption property</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gregorio Pellegrino">
       <organization/>
     </author>

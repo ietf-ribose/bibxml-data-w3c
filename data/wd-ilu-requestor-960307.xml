@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-ilu-requestor-960307" target="https://www.w3.org/TR/WD-ilu-requestor-960307">
   <front>
     <title>The ILU Requester: Object Services in HTTP Servers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="1996" month="March" day="7"/>
   </front>
   <seriesInfo name="W3C NOTE" value="WD-ilu-requestor-960307"/>

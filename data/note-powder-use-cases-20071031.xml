@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-powder-use-cases-20071031" target="https://www.w3.org/TR/2007/NOTE-powder-use-cases-20071031/">
   <front>
     <title>POWDER: Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Phil Archer">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rdfa-primer-20150317" target="https://www.w3.org/TR/2015/NOTE-rdfa-primer-20150317/">
   <front>
     <title>RDFa 1.1 Primer - Third Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ben Adida">
       <organization/>
     </author>

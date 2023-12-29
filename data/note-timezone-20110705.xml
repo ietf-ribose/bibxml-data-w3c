@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-timezone-20110705" target="https://www.w3.org/TR/2011/NOTE-timezone-20110705/">
   <front>
     <title>Working with Time Zones</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Addison Phillips">
       <organization/>
     </author>

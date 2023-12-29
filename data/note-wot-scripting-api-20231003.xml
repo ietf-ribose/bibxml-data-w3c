@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wot-scripting-api-20231003" target="https://www.w3.org/TR/2023/NOTE-wot-scripting-api-20231003/">
   <front>
     <title>Web of Things (WoT) Scripting API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cristiano Aguzzi">
       <organization/>
     </author>

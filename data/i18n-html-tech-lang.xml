@@ -1,6 +1,9 @@
 <reference anchor="W3C.i18n-html-tech-lang" target="https://www.w3.org/TR/i18n-html-tech-lang/">
   <front>
     <title>Authoring HTML: Language declarations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="i18n-html-tech-lang"/>
 </reference>

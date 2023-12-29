@@ -1,6 +1,9 @@
 <reference anchor="W3C.xkms2-xbulk" target="https://www.w3.org/TR/xkms2-xbulk/">
   <front>
     <title>XML Key Management Specification Bulk Operation (X-BULK)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xkms2-xbulk"/>
 </reference>

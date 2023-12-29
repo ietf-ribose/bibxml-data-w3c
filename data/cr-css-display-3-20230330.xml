@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-css-display-3-20230330" target="https://www.w3.org/TR/2023/CR-css-display-3-20230330/">
   <front>
     <title>CSS Display Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

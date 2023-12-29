@@ -1,6 +1,9 @@
 <reference anchor="W3C.owl2-syntax" target="https://www.w3.org/TR/owl2-syntax/">
   <front>
     <title>OWL 2 Web Ontology Language Structural Specification and Functional-Style Syntax (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="owl2-syntax"/>
 </reference>

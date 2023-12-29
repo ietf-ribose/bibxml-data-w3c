@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-css-conditional-3-20220113" target="https://www.w3.org/TR/2022/CR-css-conditional-3-20220113/">
   <front>
     <title>CSS Conditional Rules Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Lilley">
       <organization/>
     </author>

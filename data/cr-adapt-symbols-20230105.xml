@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-adapt-symbols-20230105" target="https://www.w3.org/TR/2023/CR-adapt-symbols-20230105/">
   <front>
     <title>WAI-Adapt: Symbols Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Charles LaPierre">
       <organization/>
     </author>

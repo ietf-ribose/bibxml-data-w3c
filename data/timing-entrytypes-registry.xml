@@ -1,6 +1,9 @@
 <reference anchor="W3C.timing-entrytypes-registry" target="https://www.w3.org/TR/timing-entrytypes-registry/">
   <front>
     <title>Timing Entry Names Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="timing-entrytypes-registry"/>
 </reference>

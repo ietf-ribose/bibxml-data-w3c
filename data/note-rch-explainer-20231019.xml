@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rch-explainer-20231019" target="https://www.w3.org/TR/2023/NOTE-rch-explainer-20231019/">
   <front>
     <title>RDF Dataset Canonicalization and Hash Working Group — Explainer and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Phil Archer">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.multimodal-reqs" target="https://www.w3.org/TR/multimodal-reqs/">
   <front>
     <title>Multimodal Requirements for Voice Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="multimodal-reqs"/>
 </reference>

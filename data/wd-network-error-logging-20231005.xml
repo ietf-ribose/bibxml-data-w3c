@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-network-error-logging-20231005" target="https://www.w3.org/TR/2023/WD-network-error-logging-20231005/">
   <front>
     <title>Network Error Logging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Douglas Creager">
       <organization/>
     </author>

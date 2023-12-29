@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-TVWeb-URI-Requirements-19991021" target="https://www.w3.org/TR/1999/NOTE-TVWeb-URI-Requirements-19991021">
   <front>
     <title>TV Broadcast URI Schemes Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Warner ten Kate">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-skos-ucr-20090818" target="https://www.w3.org/TR/2009/NOTE-skos-ucr-20090818/">
   <front>
     <title>SKOS Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Antoine Isaac">
       <organization/>
     </author>

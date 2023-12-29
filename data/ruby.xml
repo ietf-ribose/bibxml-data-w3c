@@ -1,6 +1,9 @@
 <reference anchor="W3C.ruby" target="https://www.w3.org/TR/ruby/">
   <front>
     <title>Ruby Annotation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="ruby"/>
 </reference>

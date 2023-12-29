@@ -1,6 +1,9 @@
 <reference anchor="W3C.mse-byte-stream-format-registry" target="https://www.w3.org/TR/mse-byte-stream-format-registry/">
   <front>
     <title>Media Source Extensions Byte Stream Format Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mse-byte-stream-format-registry"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-cooluris-20081203" target="https://www.w3.org/TR/2008/NOTE-cooluris-20081203/">
   <front>
     <title>Cool URIs for the Semantic Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Leo Sauermann">
       <organization/>
     </author>

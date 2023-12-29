@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-webstorage-20160419" target="https://www.w3.org/TR/2016/REC-webstorage-20160419/">
   <front>
     <title>Web Storage (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Hickson">
       <organization/>
     </author>

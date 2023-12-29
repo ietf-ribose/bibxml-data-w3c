@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-viss2-transport-20231114" target="https://www.w3.org/TR/2023/WD-viss2-transport-20231114/">
   <front>
     <title>VISS version 2-Transport</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ulf Bjorkengren">
       <organization/>
     </author>

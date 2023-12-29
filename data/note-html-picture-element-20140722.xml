@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html-picture-element-20140722" target="https://www.w3.org/TR/2014/NOTE-html-picture-element-20140722/">
   <front>
     <title>The picture Element</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

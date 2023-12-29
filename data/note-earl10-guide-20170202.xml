@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-EARL10-Guide-20170202" target="https://www.w3.org/TR/2017/NOTE-EARL10-Guide-20170202/">
   <front>
     <title>Developer Guide for Evaluation and Report Language (EARL) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Carlos A. Velasco">
       <organization/>
     </author>

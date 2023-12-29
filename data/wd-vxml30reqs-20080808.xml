@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-vxml30reqs-20080808" target="https://www.w3.org/TR/2008/WD-vxml30reqs-20080808/">
   <front>
     <title>Voice Extensible Markup Language (VoiceXML) 3.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeff Hoepfinger">
       <organization/>
     </author>

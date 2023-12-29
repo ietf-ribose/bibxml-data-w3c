@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-activitypub-20180123" target="https://www.w3.org/TR/2018/REC-activitypub-20180123/">
   <front>
     <title>ActivityPub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Christopher Webber">
       <organization/>
     </author>

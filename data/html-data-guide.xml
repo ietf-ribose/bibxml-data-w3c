@@ -1,6 +1,9 @@
 <reference anchor="W3C.html-data-guide" target="https://www.w3.org/TR/html-data-guide/">
   <front>
     <title>HTML Data Guide</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html-data-guide"/>
 </reference>

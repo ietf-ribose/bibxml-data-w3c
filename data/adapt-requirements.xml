@@ -1,6 +1,9 @@
 <reference anchor="W3C.adapt-requirements" target="https://www.w3.org/TR/adapt-requirements/">
   <front>
     <title>Requirements for WAI-Adapt specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="adapt-requirements"/>
 </reference>

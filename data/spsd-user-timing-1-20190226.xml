@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-user-timing-1-20190226" target="https://www.w3.org/TR/2019/SPSD-user-timing-1-20190226/">
   <front>
     <title>User Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anderson Quach">
       <organization/>
     </author>

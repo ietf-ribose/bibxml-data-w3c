@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-tcp-udp-sockets-20150723" target="https://www.w3.org/TR/2015/NOTE-tcp-udp-sockets-20150723/">
   <front>
     <title>TCP and UDP Socket API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Claes Nilsson">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-did-use-cases-20210317" target="https://www.w3.org/TR/2021/NOTE-did-use-cases-20210317/">
   <front>
     <title>Use Cases and Requirements for Decentralized Identifiers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Adrian Gropper">
       <organization/>
     </author>

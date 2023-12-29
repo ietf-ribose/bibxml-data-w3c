@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-css-images-3-20231218" target="https://www.w3.org/TR/2023/CRD-css-images-3-20231218/">
   <front>
     <title>CSS Images Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

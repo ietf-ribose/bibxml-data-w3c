@@ -1,6 +1,9 @@
 <reference anchor="W3C.css3-3d-transforms" target="https://www.w3.org/TR/css3-3d-transforms/">
   <front>
     <title>CSS 3D Transforms Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="css3-3d-transforms"/>
 </reference>

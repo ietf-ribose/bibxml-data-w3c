@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-media-capabilities-20221117" target="https://www.w3.org/TR/2022/WD-media-capabilities-20221117/">
   <front>
     <title>Media Capabilities</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jean-Yves Avenard">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-dom-20201103" target="https://www.w3.org/TR/2020/REC-dom-20201103/">
   <front>
     <title>DOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="2020" month="November" day="3"/>
     <workgroup>HTML Working Group</workgroup>
   </front>

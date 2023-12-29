@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-clear-site-data-20171130" target="https://www.w3.org/TR/2017/WD-clear-site-data-20171130/">
   <front>
     <title>Clear Site Data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>

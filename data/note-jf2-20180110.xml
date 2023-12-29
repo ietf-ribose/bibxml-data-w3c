@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-jf2-20180110" target="https://www.w3.org/TR/2018/NOTE-jf2-20180110/">
   <front>
     <title>JF2 Post Serialization Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Benjamin Roberts">
       <organization/>
     </author>

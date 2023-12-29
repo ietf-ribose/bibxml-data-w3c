@@ -1,6 +1,9 @@
 <reference anchor="W3C.vocab-people" target="https://www.w3.org/TR/vocab-people/">
   <front>
     <title>Terms for describing people</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="vocab-people"/>
 </reference>

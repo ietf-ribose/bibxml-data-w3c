@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-soap12-part0-20030624" target="https://www.w3.org/TR/2003/REC-soap12-part0-20030624/">
   <front>
     <title>SOAP Version 1.2 Part 0: Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Nilo Mitra">
       <organization/>
     </author>

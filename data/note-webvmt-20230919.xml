@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-webvmt-20230919" target="https://www.w3.org/TR/2023/NOTE-webvmt-20230919/">
   <front>
     <title>WebVMT: The Web Video Map Tracks Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Rob Smith">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-pointerlock-20161027" target="https://www.w3.org/TR/2016/REC-pointerlock-20161027/">
   <front>
     <title>Pointer Lock</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Vincent Scheib">
       <organization/>
     </author>

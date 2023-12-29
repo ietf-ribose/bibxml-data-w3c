@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-web-forms-2-20090226" target="https://www.w3.org/TR/2009/WD-web-forms-2-20090226/">
   <front>
     <title>Web Forms 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Hickson">
       <organization/>
     </author>

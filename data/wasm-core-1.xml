@@ -1,6 +1,9 @@
 <reference anchor="W3C.wasm-core-1" target="https://www.w3.org/TR/wasm-core-1/">
   <front>
     <title>WebAssembly Core Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="wasm-core-1"/>
 </reference>

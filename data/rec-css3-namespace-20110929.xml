@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-css3-namespace-20110929" target="https://www.w3.org/TR/2011/REC-css3-namespace-20110929/">
   <front>
     <title>CSS Namespaces Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anne van Kesteren">
       <organization/>
     </author>

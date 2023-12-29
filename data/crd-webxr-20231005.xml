@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-webxr-20231005" target="https://www.w3.org/TR/2023/CRD-webxr-20231005/">
   <front>
     <title>WebXR Device API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brandon Jones">
       <organization/>
     </author>

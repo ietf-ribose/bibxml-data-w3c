@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xkms-wsdl-20051118" target="https://www.w3.org/TR/2005/NOTE-xkms-wsdl-20051118/">
   <front>
     <title>A WSDL 1.1 description for XKMS</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Rich Salz">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.widgets" target="https://www.w3.org/TR/widgets/">
   <front>
     <title>Packaged Web Apps (Widgets) - Packaging and XML Configuration (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="widgets"/>
 </reference>

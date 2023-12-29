@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdfa-lite" target="https://www.w3.org/TR/rdfa-lite/">
   <front>
     <title>RDFa Lite 1.1 - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="rdfa-lite"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.test-methodology" target="https://www.w3.org/TR/test-methodology/">
   <front>
     <title>A Method for Writing Testable Conformance Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="test-methodology"/>
 </reference>

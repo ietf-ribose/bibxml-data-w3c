@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-audio-output-20230831" target="https://www.w3.org/TR/2023/CRD-audio-output-20230831/">
   <front>
     <title>Audio Output Devices API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Guido Urdaneta">
       <organization/>
     </author>

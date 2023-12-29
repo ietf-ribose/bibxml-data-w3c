@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-P3P-grammar-971014" target="https://www.w3.org/TR/WD-P3P-grammar-971014">
   <front>
     <title>P3P Vocabulary Working Group: Grammatical Model and Data Design Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Joseph Reagle">
       <organization/>
     </author>

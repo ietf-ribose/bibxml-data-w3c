@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xquery-31-requirements-20161213" target="https://www.w3.org/TR/2016/NOTE-xquery-31-requirements-20161213/">
   <front>
     <title>XQuery 3.1 Requirements and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jonathan Robie">
       <organization/>
     </author>

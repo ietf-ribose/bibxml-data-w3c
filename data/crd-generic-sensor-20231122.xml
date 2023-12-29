@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-generic-sensor-20231122" target="https://www.w3.org/TR/2023/CRD-generic-sensor-20231122/">
   <front>
     <title>Generic Sensor API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Rick Waldron">
       <organization/>
     </author>

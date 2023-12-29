@@ -1,6 +1,9 @@
 <reference anchor="W3C.webintents-local-services" target="https://www.w3.org/TR/webintents-local-services/">
   <front>
     <title>Web Intents Addendum - Local Services</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="webintents-local-services"/>
 </reference>

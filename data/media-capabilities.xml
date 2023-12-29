@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-capabilities" target="https://www.w3.org/TR/media-capabilities/">
   <front>
     <title>Media Capabilities</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="media-capabilities"/>
 </reference>

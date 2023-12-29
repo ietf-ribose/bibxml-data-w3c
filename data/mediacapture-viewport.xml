@@ -1,6 +1,9 @@
 <reference anchor="W3C.mediacapture-viewport" target="https://www.w3.org/TR/mediacapture-viewport/">
   <front>
     <title>Viewport Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="mediacapture-viewport"/>
 </reference>

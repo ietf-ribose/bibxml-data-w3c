@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-app-uri-20150723" target="https://www.w3.org/TR/2015/NOTE-app-uri-20150723/">
   <front>
     <title>The app: URL Scheme</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-SVGCompositing-20110315" target="https://www.w3.org/TR/2011/WD-SVGCompositing-20110315/">
   <front>
     <title>SVG Compositing Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anthony Grasso">
       <organization/>
     </author>

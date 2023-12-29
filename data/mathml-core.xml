@@ -1,6 +1,9 @@
 <reference anchor="W3C.mathml-core" target="https://www.w3.org/TR/mathml-core/">
   <front>
     <title>MathML Core</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="mathml-core"/>
 </reference>

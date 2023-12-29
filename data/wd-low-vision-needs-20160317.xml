@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-low-vision-needs-20160317" target="https://www.w3.org/TR/2016/WD-low-vision-needs-20160317/">
   <front>
     <title>Accessibility Requirements for People with Low Vision</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrew Kirkpatrick">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xforms-20091020" target="https://www.w3.org/TR/2009/REC-xforms-20091020/">
   <front>
     <title>XForms 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="John Boyer">
       <organization/>
     </author>

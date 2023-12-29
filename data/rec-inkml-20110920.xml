@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-InkML-20110920" target="https://www.w3.org/TR/2011/REC-InkML-20110920/">
   <front>
     <title>Ink Markup Language (InkML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Stephen Watt">
       <organization/>
     </author>

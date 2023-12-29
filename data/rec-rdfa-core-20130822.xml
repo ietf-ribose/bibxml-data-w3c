@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdfa-core-20130822" target="https://www.w3.org/TR/2013/REC-rdfa-core-20130822/">
   <front>
     <title>RDFa Core 1.1 - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ben Adida">
       <organization/>
     </author>

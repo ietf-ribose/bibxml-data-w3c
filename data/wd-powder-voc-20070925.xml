@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-powder-voc-20070925" target="https://www.w3.org/TR/2007/WD-powder-voc-20070925/">
   <front>
     <title>Protocol for Web Description Resources (POWDER): Web Description Resources (WDR) Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrea Perego">
       <organization/>
     </author>

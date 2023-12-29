@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdf12-n-triples" target="https://www.w3.org/TR/rdf12-n-triples/">
   <front>
     <title>RDF 1.2 N-Triples</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="rdf12-n-triples"/>
 </reference>

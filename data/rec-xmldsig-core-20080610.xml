@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xmldsig-core-20080610" target="https://www.w3.org/TR/2008/REC-xmldsig-core-20080610/">
   <front>
     <title>XML Signature Syntax and Processing (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Solo">
       <organization/>
     </author>

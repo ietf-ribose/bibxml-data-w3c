@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-event-timing-20230703" target="https://www.w3.org/TR/2023/WD-event-timing-20230703/">
   <front>
     <title>Event Timing API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Nicolas Pena Moreno">
       <organization/>
     </author>

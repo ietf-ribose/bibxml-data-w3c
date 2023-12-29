@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-leiri-20081103" target="https://www.w3.org/TR/2008/NOTE-leiri-20081103/">
   <front>
     <title>Legacy extended IRIs for XML resource identification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Henry Thompson">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ttml10-sdp-us-20130205" target="https://www.w3.org/TR/2013/NOTE-ttml10-sdp-us-20130205/">
   <front>
     <title>TTML Simple Delivery Profile for Closed Captions (US)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Glenn Adams">
       <organization/>
     </author>

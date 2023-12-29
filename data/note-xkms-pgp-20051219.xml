@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xkms-pgp-20051219" target="https://www.w3.org/TR/2005/NOTE-xkms-pgp-20051219/">
   <front>
     <title>Using XKMS with PGP</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="José Kahan">
       <organization/>
     </author>

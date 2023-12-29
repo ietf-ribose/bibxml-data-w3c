@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-conditional-5-20211221" target="https://www.w3.org/TR/2021/WD-css-conditional-5-20211221/">
   <front>
     <title>CSS Conditional Rules Module Level 5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Lilley">
       <organization/>
     </author>

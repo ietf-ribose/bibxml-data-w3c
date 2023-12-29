@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-media-source-2-20231221" target="https://www.w3.org/TR/2023/WD-media-source-2-20231221/">
   <front>
     <title>Media Source Extensions™</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jean-Yves Avenard">
       <organization/>
     </author>

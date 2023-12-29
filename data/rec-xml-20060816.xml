@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xml-20060816" target="https://www.w3.org/TR/2006/REC-xml-20060816/">
   <front>
     <title>Extensible Markup Language (XML) 1.0 (Fourth Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Eve Maler">
       <organization/>
     </author>

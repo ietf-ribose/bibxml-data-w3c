@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-vocab-dcat-3-20230307" target="https://www.w3.org/TR/2023/WD-vocab-dcat-3-20230307/">
   <front>
     <title>Data Catalog Vocabulary (DCAT) - Version 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alejandra Gonzalez Beltran">
       <organization/>
     </author>

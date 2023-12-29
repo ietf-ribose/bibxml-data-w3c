@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-virtual-keyboard-20220505" target="https://www.w3.org/TR/2022/WD-virtual-keyboard-20220505/">
   <front>
     <title>VirtualKeyboard API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anupam Snigdha">
       <organization/>
     </author>

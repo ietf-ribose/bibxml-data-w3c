@@ -1,6 +1,9 @@
 <reference anchor="W3C.xproc-requirements" target="https://www.w3.org/TR/xproc-requirements/">
   <front>
     <title>XML Processing Model Requirements and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xproc-requirements"/>
 </reference>

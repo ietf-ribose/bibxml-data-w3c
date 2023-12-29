@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-xproc-v2-req-20131105" target="https://www.w3.org/TR/2013/WD-xproc-v2-req-20131105/">
   <front>
     <title>XProc V2.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alex Miłowski">
       <organization/>
     </author>

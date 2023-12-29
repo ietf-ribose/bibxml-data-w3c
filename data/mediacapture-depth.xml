@@ -1,6 +1,9 @@
 <reference anchor="W3C.mediacapture-depth" target="https://www.w3.org/TR/mediacapture-depth/">
   <front>
     <title>Media Capture Depth Stream Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C technicalReport" value="mediacapture-depth"/>
 </reference>

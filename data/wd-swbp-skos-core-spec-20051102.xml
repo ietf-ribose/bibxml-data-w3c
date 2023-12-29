@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-swbp-skos-core-spec-20051102" target="https://www.w3.org/TR/2005/WD-swbp-skos-core-spec-20051102/">
   <front>
     <title>SKOS Core Vocabulary Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alistair Miles">
       <organization/>
     </author>

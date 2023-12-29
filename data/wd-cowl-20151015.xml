@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-COWL-20151015" target="https://www.w3.org/TR/2015/WD-COWL-20151015/">
   <front>
     <title>Confinement with Origin Web Labels</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Deian Stefan">
       <organization/>
     </author>

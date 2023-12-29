@@ -1,6 +1,9 @@
 <reference anchor="W3C.xslfo20-req" target="https://www.w3.org/TR/xslfo20-req/">
   <front>
     <title>Extensible Stylesheet Language (XSL) Requirements Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xslfo20-req"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.UAAG20-Reference" target="https://www.w3.org/TR/UAAG20-Reference/">
   <front>
     <title>UAAG 2.0 Reference: Explanations, Examples, and Resources for User Agent Accessibility Guidelines 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="UAAG20-Reference"/>
 </reference>

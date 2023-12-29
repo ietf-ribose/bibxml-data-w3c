@@ -1,6 +1,9 @@
 <reference anchor="W3C.svg-paths" target="https://www.w3.org/TR/svg-paths/">
   <front>
     <title>SVG Paths</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="svg-paths"/>
 </reference>

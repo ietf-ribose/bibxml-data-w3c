@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-di-dco-20060320" target="https://www.w3.org/TR/2006/NOTE-di-dco-20060320/">
   <front>
     <title>Delivery Context Overview for Device Independence</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Rhys Lewis">
       <organization/>
     </author>

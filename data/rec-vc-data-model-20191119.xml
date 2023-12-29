@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-vc-data-model-20191119" target="https://www.w3.org/TR/2019/REC-vc-data-model-20191119/">
   <front>
     <title>Verifiable Credentials Data Model 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brent Zundel">
       <organization/>
     </author>

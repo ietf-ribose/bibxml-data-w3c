@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-namespaceState-20060329" target="https://www.w3.org/TR/2006/WD-namespaceState-20060329/">
   <front>
     <title>The Disposition of Names in an XML Namespace</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Norman Walsh">
       <organization/>
     </author>

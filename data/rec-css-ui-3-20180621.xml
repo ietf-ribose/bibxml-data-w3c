@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-css-ui-3-20180621" target="https://www.w3.org/TR/2018/REC-css-ui-3-20180621/">
   <front>
     <title>CSS Basic User Interface Module Level 3 (CSS3 UI)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Florian Rivoal">
       <organization/>
     </author>

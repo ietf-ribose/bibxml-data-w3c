@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-XHTMLplusMathMLplusSVG-20020809" target="https://www.w3.org/TR/2002/WD-XHTMLplusMathMLplusSVG-20020809/">
   <front>
     <title>An XHTML + MathML + SVG Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Masayasu Ishikawa">
       <organization/>
     </author>

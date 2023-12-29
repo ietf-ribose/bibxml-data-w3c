@@ -1,6 +1,9 @@
 <reference anchor="W3C.webcodecs-pcm-codec-registration" target="https://www.w3.org/TR/webcodecs-pcm-codec-registration/">
   <front>
     <title>Linear PCM WebCodecs Registration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="webcodecs-pcm-codec-registration"/>
 </reference>

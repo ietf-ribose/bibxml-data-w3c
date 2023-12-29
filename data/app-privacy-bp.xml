@@ -1,6 +1,9 @@
 <reference anchor="W3C.app-privacy-bp" target="https://www.w3.org/TR/app-privacy-bp/">
   <front>
     <title>Web Application Privacy Best Practices</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="app-privacy-bp"/>
 </reference>

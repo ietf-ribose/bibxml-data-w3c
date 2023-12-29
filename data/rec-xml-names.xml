@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xml-names" target="https://www.w3.org/TR/REC-xml-names/">
   <front>
     <title>Namespaces in XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-xml-names"/>
 </reference>

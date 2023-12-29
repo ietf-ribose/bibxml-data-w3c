@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdf-testcases-20040210" target="https://www.w3.org/TR/2004/REC-rdf-testcases-20040210/">
   <front>
     <title>RDF Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Beckett">
       <organization/>
     </author>

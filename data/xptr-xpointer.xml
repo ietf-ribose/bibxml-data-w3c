@@ -1,6 +1,9 @@
 <reference anchor="W3C.xptr-xpointer" target="https://www.w3.org/TR/xptr-xpointer/">
   <front>
     <title>XPointer xpointer() Scheme</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xptr-xpointer"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.html5-pubnotes" target="https://www.w3.org/TR/html5-pubnotes/">
   <front>
     <title>HTML 5 Publication Notes</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html5-pubnotes"/>
 </reference>

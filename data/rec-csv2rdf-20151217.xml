@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-csv2rdf-20151217" target="https://www.w3.org/TR/2015/REC-csv2rdf-20151217/">
   <front>
     <title>Generating RDF from Tabular Data on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>

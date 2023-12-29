@@ -1,6 +1,9 @@
 <reference anchor="W3C.SVGColorPrimer12" target="https://www.w3.org/TR/SVGColorPrimer12/">
   <front>
     <title>SVG Color 1.2, Part 1: Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="SVGColorPrimer12"/>
 </reference>

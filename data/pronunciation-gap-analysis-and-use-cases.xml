@@ -1,6 +1,9 @@
 <reference anchor="W3C.pronunciation-gap-analysis-and-use-cases" target="https://www.w3.org/TR/pronunciation-gap-analysis-and-use-cases/">
   <front>
     <title>Pronunciation Gap Analysis and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="pronunciation-gap-analysis-and-use-cases"/>
 </reference>

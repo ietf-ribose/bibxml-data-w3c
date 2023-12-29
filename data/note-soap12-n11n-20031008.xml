@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-soap12-n11n-20031008" target="https://www.w3.org/TR/2003/NOTE-soap12-n11n-20031008/">
   <front>
     <title>SOAP Version 1.2 Message Normalization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marc Hadley">
       <organization/>
     </author>

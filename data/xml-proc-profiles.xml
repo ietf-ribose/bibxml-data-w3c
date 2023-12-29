@@ -1,6 +1,9 @@
 <reference anchor="W3C.xml-proc-profiles" target="https://www.w3.org/TR/xml-proc-profiles/">
   <front>
     <title>XML processor profiles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xml-proc-profiles"/>
 </reference>

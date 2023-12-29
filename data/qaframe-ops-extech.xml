@@ -1,6 +1,9 @@
 <reference anchor="W3C.qaframe-ops-extech" target="https://www.w3.org/TR/qaframe-ops-extech/">
   <front>
     <title>QA Framework: Operational Examples &amp; Techniques</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="qaframe-ops-extech"/>
 </reference>

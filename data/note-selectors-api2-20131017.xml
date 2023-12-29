@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-selectors-api2-20131017" target="https://www.w3.org/TR/2013/NOTE-selectors-api2-20131017/">
   <front>
     <title>Selectors API Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Lachlan Hunt">
       <organization/>
     </author>

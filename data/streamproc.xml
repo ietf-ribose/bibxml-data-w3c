@@ -1,6 +1,9 @@
 <reference anchor="W3C.streamproc" target="https://www.w3.org/TR/streamproc/">
   <front>
     <title>MediaStream Processing API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="streamproc"/>
 </reference>

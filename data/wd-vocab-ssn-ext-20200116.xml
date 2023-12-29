@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-vocab-ssn-ext-20200116" target="https://www.w3.org/TR/2020/WD-vocab-ssn-ext-20200116/">
   <front>
     <title>Extensions to the Semantic Sensor Network Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Simon Cox">
       <organization/>
     </author>

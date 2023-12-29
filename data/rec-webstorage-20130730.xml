@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-webstorage-20130730" target="https://www.w3.org/TR/2013/REC-webstorage-20130730/">
   <front>
     <title>Web Storage</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Hickson">
       <organization/>
     </author>

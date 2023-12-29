@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-HTTP-NG-architecture" target="https://www.w3.org/TR/WD-HTTP-NG-architecture/">
   <front>
     <title>HTTP-ng Architectural Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="WD-HTTP-NG-architecture"/>
 </reference>

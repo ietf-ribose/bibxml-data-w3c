@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-P3P-grammar" target="https://www.w3.org/TR/WD-P3P-grammar">
   <front>
     <title>P3P Vocabulary Working Group: Grammatical Model and Data Design Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="WD-P3P-grammar"/>
 </reference>

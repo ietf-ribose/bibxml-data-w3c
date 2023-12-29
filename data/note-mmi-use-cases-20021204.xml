@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mmi-use-cases-20021204" target="https://www.w3.org/TR/2002/NOTE-mmi-use-cases-20021204/">
   <front>
     <title>Multimodal Interaction Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Raggett">
       <organization/>
     </author>

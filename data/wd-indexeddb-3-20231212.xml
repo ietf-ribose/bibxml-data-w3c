@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-IndexedDB-3-20231212" target="https://www.w3.org/TR/2023/WD-IndexedDB-3-20231212/">
   <front>
     <title>Indexed Database API 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Joshua Bell">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-its20-20131029" target="https://www.w3.org/TR/2013/REC-its20-20131029/">
   <front>
     <title>Internationalization Tag Set (ITS) Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arle Lommel">
       <organization/>
     </author>

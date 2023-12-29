@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-PICSRules-971229" target="https://www.w3.org/TR/REC-PICSRules-971229">
   <front>
     <title>PICSRules 1.1 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alex Hopmann">
       <organization/>
     </author>

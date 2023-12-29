@@ -1,6 +1,9 @@
 <reference anchor="W3C.audio-output" target="https://www.w3.org/TR/audio-output/">
   <front>
     <title>Audio Output Devices API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="audio-output"/>
 </reference>

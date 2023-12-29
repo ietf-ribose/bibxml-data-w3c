@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-wai-aria-roadmap-20080204" target="https://www.w3.org/TR/2008/WD-wai-aria-roadmap-20080204/">
   <front>
     <title>Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Richard Schwerdtfeger">
       <organization/>
     </author>

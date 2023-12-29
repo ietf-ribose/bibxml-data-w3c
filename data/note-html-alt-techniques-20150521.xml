@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html-alt-techniques-20150521" target="https://www.w3.org/TR/2015/NOTE-html-alt-techniques-20150521/">
   <front>
     <title>HTML5: Techniques for providing useful text alternatives</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Liam Quin">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-secure-payment-confirmation-20231213" target="https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20231213/">
   <front>
     <title>Secure Payment Confirmation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Rouslan Solomakhin">
       <organization/>
     </author>

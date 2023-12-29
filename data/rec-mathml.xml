@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-MathML" target="https://www.w3.org/TR/REC-MathML/">
   <front>
     <title>Mathematical Markup Language (MathML™) 1.01 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-MathML"/>
 </reference>

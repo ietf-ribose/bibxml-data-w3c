@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-permissions-policy-1-20231218" target="https://www.w3.org/TR/2023/WD-permissions-policy-1-20231218/">
   <front>
     <title>Permissions Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Clelland">
       <organization/>
     </author>

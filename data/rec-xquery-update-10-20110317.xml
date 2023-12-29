@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xquery-update-10-20110317" target="https://www.w3.org/TR/2011/REC-xquery-update-10-20110317/">
   <front>
     <title>XQuery Update Facility 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniela Florescu">
       <organization/>
     </author>

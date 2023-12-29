@@ -1,6 +1,9 @@
 <reference anchor="W3C.vocab-owl-time-agg" target="https://www.w3.org/TR/vocab-owl-time-agg/">
   <front>
     <title>Extensions to the OWL-Time Ontology - temporal aggregates</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="vocab-owl-time-agg"/>
 </reference>

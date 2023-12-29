@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html5-pubnotes-20080610" target="https://www.w3.org/TR/2008/NOTE-html5-pubnotes-20080610/">
   <front>
     <title>HTML 5 Publication Notes</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael[tm] Smith">
       <organization/>
     </author>

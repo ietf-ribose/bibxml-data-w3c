@@ -1,6 +1,9 @@
 <reference anchor="W3C.vc-jose-cose" target="https://www.w3.org/TR/vc-jose-cose/">
   <front>
     <title>Securing Verifiable Credentials using JOSE and COSE</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="vc-jose-cose"/>
 </reference>

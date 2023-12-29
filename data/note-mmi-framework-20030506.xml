@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mmi-framework-20030506" target="https://www.w3.org/TR/2003/NOTE-mmi-framework-20030506/">
   <front>
     <title>W3C Multimodal Interaction Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Raggett">
       <organization/>
     </author>

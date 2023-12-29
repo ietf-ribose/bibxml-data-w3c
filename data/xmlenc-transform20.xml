@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmlenc-transform20" target="https://www.w3.org/TR/xmlenc-transform20/">
   <front>
     <title>XML Encryption 1.1 CipherReference Processing using 2.0 Transforms</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xmlenc-transform20"/>
 </reference>

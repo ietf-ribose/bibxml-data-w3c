@@ -1,6 +1,9 @@
 <reference anchor="W3C.dom" target="https://www.w3.org/TR/dom/">
   <front>
     <title>DOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="dom"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xhtml11-20010531" target="https://www.w3.org/TR/2001/REC-xhtml11-20010531/">
   <front>
     <title>XHTML™ 1.1 - Module-based XHTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Murray Altheim">
       <organization/>
     </author>

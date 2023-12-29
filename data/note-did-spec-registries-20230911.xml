@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-did-spec-registries-20230911" target="https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230911/">
   <front>
     <title>DID Specification Registries</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Manu Sporny">
       <organization/>
     </author>

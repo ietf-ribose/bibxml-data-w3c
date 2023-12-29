@@ -1,6 +1,9 @@
 <reference anchor="W3C.mediacapture-fromelement" target="https://www.w3.org/TR/mediacapture-fromelement/">
   <front>
     <title>Media Capture from DOM Elements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="mediacapture-fromelement"/>
 </reference>

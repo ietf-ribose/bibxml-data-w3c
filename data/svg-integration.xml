@@ -1,6 +1,9 @@
 <reference anchor="W3C.svg-integration" target="https://www.w3.org/TR/svg-integration/">
   <front>
     <title>SVG Integration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="svg-integration"/>
 </reference>

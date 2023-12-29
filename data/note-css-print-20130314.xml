@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-css-print-20130314" target="https://www.w3.org/TR/2013/NOTE-css-print-20130314/">
   <front>
     <title>CSS Print Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

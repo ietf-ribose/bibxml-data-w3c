@@ -1,6 +1,9 @@
 <reference anchor="W3C.indieauth" target="https://www.w3.org/TR/indieauth/">
   <front>
     <title>IndieAuth</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="indieauth"/>
 </reference>

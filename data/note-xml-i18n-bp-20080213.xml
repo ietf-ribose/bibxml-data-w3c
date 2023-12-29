@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xml-i18n-bp-20080213" target="https://www.w3.org/TR/2008/NOTE-xml-i18n-bp-20080213/">
   <front>
     <title>Best Practices for XML Internationalization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jirka Kosek">
       <organization/>
     </author>

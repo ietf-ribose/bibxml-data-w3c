@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdf11-mt" target="https://www.w3.org/TR/rdf11-mt/">
   <front>
     <title>RDF 1.1 Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="rdf11-mt"/>
 </reference>

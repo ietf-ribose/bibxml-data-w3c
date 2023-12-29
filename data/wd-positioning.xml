@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-positioning" target="https://www.w3.org/TR/WD-positioning">
   <front>
     <title>Positioning HTML Elements with Cascading Style Sheets</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="WD-positioning"/>
 </reference>

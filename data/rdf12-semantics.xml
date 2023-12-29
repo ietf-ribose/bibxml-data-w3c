@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdf12-semantics" target="https://www.w3.org/TR/rdf12-semantics/">
   <front>
     <title>RDF 1.2 Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="rdf12-semantics"/>
 </reference>

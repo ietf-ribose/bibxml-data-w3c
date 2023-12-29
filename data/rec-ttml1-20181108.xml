@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-ttml1-20181108" target="https://www.w3.org/TR/2018/REC-ttml1-20181108/">
   <front>
     <title>Timed Text Markup Language 1 (TTML1) (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Glenn Adams">
       <organization/>
     </author>

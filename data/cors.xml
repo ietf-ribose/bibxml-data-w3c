@@ -1,6 +1,9 @@
 <reference anchor="W3C.cors" target="https://www.w3.org/TR/cors/">
   <front>
     <title>Cross-Origin Resource Sharing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="cors"/>
 </reference>

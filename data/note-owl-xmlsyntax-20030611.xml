@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-owl-xmlsyntax-20030611" target="https://www.w3.org/TR/2003/NOTE-owl-xmlsyntax-20030611/">
   <front>
     <title>OWL Web Ontology Language XML Presentation Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jérôme Euzenat">
       <organization/>
     </author>

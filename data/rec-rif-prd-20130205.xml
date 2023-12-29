@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rif-prd-20130205" target="https://www.w3.org/TR/2013/REC-rif-prd-20130205/">
   <front>
     <title>RIF Production Rule Dialect (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Adrian Paschke">
       <organization/>
     </author>

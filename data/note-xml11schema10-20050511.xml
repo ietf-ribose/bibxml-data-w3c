@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xml11schema10-20050511" target="https://www.w3.org/TR/2005/NOTE-xml11schema10-20050511/">
   <front>
     <title>Processing XML 1.1 documents with XML Schema 1.0 processors</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Henry Thompson">
       <organization/>
     </author>

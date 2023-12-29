@@ -1,6 +1,9 @@
 <reference anchor="W3C.resource-timing" target="https://www.w3.org/TR/resource-timing/">
   <front>
     <title>Resource Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="resource-timing"/>
 </reference>

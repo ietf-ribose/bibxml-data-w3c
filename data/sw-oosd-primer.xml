@@ -1,6 +1,9 @@
 <reference anchor="W3C.sw-oosd-primer" target="https://www.w3.org/TR/sw-oosd-primer/">
   <front>
     <title>A Semantic Web Primer for Object-Oriented Software Developers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="sw-oosd-primer"/>
 </reference>

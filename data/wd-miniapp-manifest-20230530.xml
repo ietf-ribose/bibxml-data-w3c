@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-miniapp-manifest-20230530" target="https://www.w3.org/TR/2023/WD-miniapp-manifest-20230530/">
   <front>
     <title>MiniApp Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Martin Alvarez-Espinar">
       <organization/>
     </author>

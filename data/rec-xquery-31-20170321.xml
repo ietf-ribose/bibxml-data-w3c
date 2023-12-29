@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xquery-31-20170321" target="https://www.w3.org/TR/2017/REC-xquery-31-20170321/">
   <front>
     <title>XQuery 3.1: An XML Query Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jonathan Robie">
       <organization/>
     </author>

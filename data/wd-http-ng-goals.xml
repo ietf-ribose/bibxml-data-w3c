@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-HTTP-NG-goals" target="https://www.w3.org/TR/1998/WD-HTTP-NG-goals">
   <front>
     <title>Short- and Long-Term Goals for the HTTP-NG Project</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="WD-HTTP-NG-goals"/>
 </reference>

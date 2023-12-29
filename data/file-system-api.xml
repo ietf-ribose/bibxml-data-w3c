@@ -1,6 +1,9 @@
 <reference anchor="W3C.file-system-api" target="https://www.w3.org/TR/file-system-api/">
   <front>
     <title>File API: Directories and System</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="file-system-api"/>
 </reference>

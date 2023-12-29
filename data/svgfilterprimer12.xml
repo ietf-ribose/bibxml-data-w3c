@@ -1,6 +1,9 @@
 <reference anchor="W3C.SVGFilterPrimer12" target="https://www.w3.org/TR/SVGFilterPrimer12/">
   <front>
     <title>SVG Filters 1.2, Part 1: Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="SVGFilterPrimer12"/>
 </reference>

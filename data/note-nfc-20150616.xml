@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-nfc-20150616" target="https://www.w3.org/TR/2015/NOTE-nfc-20150616/">
   <front>
     <title>Web NFC API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Don Coleman">
       <organization/>
     </author>

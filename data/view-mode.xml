@@ -1,6 +1,9 @@
 <reference anchor="W3C.view-mode" target="https://www.w3.org/TR/view-mode/">
   <front>
     <title>The 'view-mode' Media Feature</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="view-mode"/>
 </reference>

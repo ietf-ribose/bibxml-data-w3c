@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-scxml-dom-iop-20150811" target="https://www.w3.org/TR/2015/NOTE-scxml-dom-iop-20150811/">
   <front>
     <title>DOM Event I/O Processor for SCXML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Burnett">
       <organization/>
     </author>

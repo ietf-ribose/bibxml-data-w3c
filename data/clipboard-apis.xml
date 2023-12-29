@@ -1,6 +1,9 @@
 <reference anchor="W3C.clipboard-apis" target="https://www.w3.org/TR/clipboard-apis/">
   <front>
     <title>Clipboard API and events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="clipboard-apis"/>
 </reference>

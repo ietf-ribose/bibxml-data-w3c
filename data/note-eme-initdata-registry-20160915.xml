@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-eme-initdata-registry-20160915" target="https://www.w3.org/TR/2016/NOTE-eme-initdata-registry-20160915/">
   <front>
     <title>Encrypted Media Extensions Initialization Data Format Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="2016" month="September" day="15"/>
     <workgroup>HTML Working Group</workgroup>
   </front>

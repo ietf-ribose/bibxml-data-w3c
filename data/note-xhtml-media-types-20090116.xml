@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xhtml-media-types-20090116" target="https://www.w3.org/TR/2009/NOTE-xhtml-media-types-20090116/">
   <front>
     <title>XHTML Media Types - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Shane McCarron">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.pointerlock-2" target="https://www.w3.org/TR/pointerlock-2/">
   <front>
     <title>Pointer Lock 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="pointerlock-2"/>
 </reference>

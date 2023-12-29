@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html-markup-20130528" target="https://www.w3.org/TR/2013/NOTE-html-markup-20130528/">
   <front>
     <title>HTML: The Markup Language (an HTML language reference)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael[tm] Smith">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.AERT" target="https://www.w3.org/TR/AERT/">
   <front>
     <title>Techniques For Accessibility Evaluation And Repair Tools</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="AERT"/>
 </reference>

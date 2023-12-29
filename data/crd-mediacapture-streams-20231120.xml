@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-mediacapture-streams-20231120" target="https://www.w3.org/TR/2023/CRD-mediacapture-streams-20231120/">
   <front>
     <title>Media Capture and Streams</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bernard Aboba">
       <organization/>
     </author>

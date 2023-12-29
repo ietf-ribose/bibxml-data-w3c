@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-mediaont-api-1.0-20140313" target="https://www.w3.org/TR/2014/REC-mediaont-api-1.0-20140313/">
   <front>
     <title>Metadata API for Media Resources 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Poppe">
       <organization/>
     </author>

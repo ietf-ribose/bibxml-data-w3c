@@ -1,6 +1,9 @@
 <reference anchor="W3C.did-cbor-representation" target="https://www.w3.org/TR/did-cbor-representation/">
   <front>
     <title>The Plain CBOR Representation v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="did-cbor-representation"/>
 </reference>

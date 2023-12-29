@@ -1,6 +1,9 @@
 <reference anchor="W3C.largest-contentful-paint" target="https://www.w3.org/TR/largest-contentful-paint/">
   <front>
     <title>Largest Contentful Paint</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="largest-contentful-paint"/>
 </reference>

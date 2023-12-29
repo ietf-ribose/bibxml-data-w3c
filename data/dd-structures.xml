@@ -1,6 +1,9 @@
 <reference anchor="W3C.dd-structures" target="https://www.w3.org/TR/dd-structures/">
   <front>
     <title>Device Description Structures</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="dd-structures"/>
 </reference>

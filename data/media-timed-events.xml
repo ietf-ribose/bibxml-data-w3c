@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-timed-events" target="https://www.w3.org/TR/media-timed-events/">
   <front>
     <title>Requirements for Media Timed Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="media-timed-events"/>
 </reference>

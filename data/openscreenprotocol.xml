@@ -1,6 +1,9 @@
 <reference anchor="W3C.openscreenprotocol" target="https://www.w3.org/TR/openscreenprotocol/">
   <front>
     <title>Open Screen Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="openscreenprotocol"/>
 </reference>

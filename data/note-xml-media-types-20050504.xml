@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xml-media-types-20050504" target="https://www.w3.org/TR/2005/NOTE-xml-media-types-20050504/">
   <front>
     <title>Describing Media Content of Binary Data in XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anish Karmarkar">
       <organization/>
     </author>

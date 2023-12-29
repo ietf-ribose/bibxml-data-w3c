@@ -1,6 +1,9 @@
 <reference anchor="W3C.capture-handle-identity" target="https://www.w3.org/TR/capture-handle-identity/">
   <front>
     <title>Capture Handle - Bootstrapping Collaboration when Screensharing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="capture-handle-identity"/>
 </reference>

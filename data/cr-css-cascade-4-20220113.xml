@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-css-cascade-4-20220113" target="https://www.w3.org/TR/2022/CR-css-cascade-4-20220113/">
   <front>
     <title>CSS Cascading and Inheritance Level 4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

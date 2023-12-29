@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-P3P-preferences-20020415" target="https://www.w3.org/TR/2002/WD-P3P-preferences-20020415/">
   <front>
     <title>A P3P Preference Exchange Language 1.0 (APPEL1.0)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marc Langheinrich">
       <organization/>
     </author>

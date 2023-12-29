@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-charmod-20050215" target="https://www.w3.org/TR/2005/REC-charmod-20050215/">
   <front>
     <title>Character Model for the World Wide Web 1.0: Fundamentals</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="François Yergeau">
       <organization/>
     </author>

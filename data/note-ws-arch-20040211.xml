@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ws-arch-20040211" target="https://www.w3.org/TR/2004/NOTE-ws-arch-20040211/">
   <front>
     <title>Web Services Architecture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Christopher Ferris">
       <organization/>
     </author>

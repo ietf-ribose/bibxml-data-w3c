@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-jepi-uppflow-970106" target="https://www.w3.org/TR/WD-jepi-uppflow-970106">
   <front>
     <title>Selecting Payment Mechanisms Over HTTP</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Donald Eastlake">
       <organization/>
     </author>

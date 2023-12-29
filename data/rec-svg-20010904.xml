@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-SVG-20010904" target="https://www.w3.org/TR/2001/REC-SVG-20010904/">
   <front>
     <title>Scalable Vector Graphics (SVG) 1.0 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jon Ferraiolo">
       <organization/>
     </author>

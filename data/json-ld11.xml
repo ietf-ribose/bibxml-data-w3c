@@ -1,6 +1,9 @@
 <reference anchor="W3C.json-ld11" target="https://www.w3.org/TR/json-ld11/">
   <front>
     <title>JSON-LD 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="json-ld11"/>
 </reference>

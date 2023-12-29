@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-respimg-usecases-20131107" target="https://www.w3.org/TR/2013/NOTE-respimg-usecases-20131107/">
   <front>
     <title>Use Cases and Requirements for Standardizing Responsive Images</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Newton">
       <organization/>
     </author>

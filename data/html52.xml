@@ -1,6 +1,9 @@
 <reference anchor="W3C.html52" target="https://www.w3.org/TR/html52/">
   <front>
     <title>HTML 5.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="html52"/>
 </reference>

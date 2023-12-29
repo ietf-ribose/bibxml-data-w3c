@@ -1,6 +1,9 @@
 <reference anchor="W3C.CCPP-trust" target="https://www.w3.org/TR/CCPP-trust/">
   <front>
     <title>CC/PP Implementors Guide: Privacy and Protocols</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="CCPP-trust"/>
 </reference>

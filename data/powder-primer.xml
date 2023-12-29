@@ -1,6 +1,9 @@
 <reference anchor="W3C.powder-primer" target="https://www.w3.org/TR/powder-primer/">
   <front>
     <title>Protocol for Web Description Resources (POWDER): Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="powder-primer"/>
 </reference>

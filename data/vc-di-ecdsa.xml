@@ -1,6 +1,9 @@
 <reference anchor="W3C.vc-di-ecdsa" target="https://www.w3.org/TR/vc-di-ecdsa/">
   <front>
     <title>Data Integrity ECDSA Cryptosuites v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="vc-di-ecdsa"/>
 </reference>

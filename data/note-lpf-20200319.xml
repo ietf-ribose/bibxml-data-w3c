@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-lpf-20200319" target="https://www.w3.org/TR/2020/NOTE-lpf-20200319/">
   <front>
     <title>Lightweight Packaging Format (LPF)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Laurent Le Meur">
       <organization/>
     </author>

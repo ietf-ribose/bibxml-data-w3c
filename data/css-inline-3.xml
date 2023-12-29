@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-inline-3" target="https://www.w3.org/TR/css-inline-3/">
   <front>
     <title>CSS Inline Layout Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="css-inline-3"/>
 </reference>

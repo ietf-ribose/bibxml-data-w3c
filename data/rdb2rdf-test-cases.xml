@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdb2rdf-test-cases" target="https://www.w3.org/TR/rdb2rdf-test-cases/">
   <front>
     <title>R2RML and Direct Mapping Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="rdb2rdf-test-cases"/>
 </reference>

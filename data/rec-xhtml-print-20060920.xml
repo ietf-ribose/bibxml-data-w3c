@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xhtml-print-20060920" target="https://www.w3.org/TR/2006/REC-xhtml-print-20060920/">
   <front>
     <title>XHTML-Print</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jim Bigelow">
       <organization/>
     </author>

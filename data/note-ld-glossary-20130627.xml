@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ld-glossary-20130627" target="https://www.w3.org/TR/2013/NOTE-ld-glossary-20130627/">
   <front>
     <title>Linked Data Glossary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bernadette Hyland">
       <organization/>
     </author>

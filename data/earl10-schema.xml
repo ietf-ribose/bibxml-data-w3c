@@ -1,6 +1,9 @@
 <reference anchor="W3C.EARL10-Schema" target="https://www.w3.org/TR/EARL10-Schema/">
   <front>
     <title>Evaluation and Report Language (EARL) 1.0 Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="EARL10-Schema"/>
 </reference>

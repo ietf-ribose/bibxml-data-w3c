@@ -1,6 +1,9 @@
 <reference anchor="W3C.latn-de-gap" target="https://www.w3.org/TR/latn-de-gap/">
   <front>
     <title>German Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="latn-de-gap"/>
 </reference>

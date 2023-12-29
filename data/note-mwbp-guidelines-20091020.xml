@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mwbp-guidelines-20091020" target="https://www.w3.org/TR/2009/NOTE-mwbp-guidelines-20091020/">
   <front>
     <title>Extended Guidelines for Mobile Web Best Practices 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Kai Scheppe">
       <organization/>
     </author>

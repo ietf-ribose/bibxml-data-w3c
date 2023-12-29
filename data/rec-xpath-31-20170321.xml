@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xpath-31-20170321" target="https://www.w3.org/TR/2017/REC-xpath-31-20170321/">
   <front>
     <title>XML Path Language (XPath) 3.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jonathan Robie">
       <organization/>
     </author>

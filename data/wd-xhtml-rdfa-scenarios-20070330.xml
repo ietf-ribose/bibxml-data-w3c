@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-xhtml-rdfa-scenarios-20070330" target="https://www.w3.org/TR/2007/WD-xhtml-rdfa-scenarios-20070330/">
   <front>
     <title>RDFa Use Cases: Scenarios for Embedding RDF in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ben Adida">
       <organization/>
     </author>

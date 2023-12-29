@@ -1,6 +1,9 @@
 <reference anchor="W3C.epub-33" target="https://www.w3.org/TR/epub-33/">
   <front>
     <title>EPUB 3.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="epub-33"/>
 </reference>

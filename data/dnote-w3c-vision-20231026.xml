@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-w3c-vision-20231026" target="https://www.w3.org/TR/2023/DNOTE-w3c-vision-20231026/">
   <front>
     <title>Vision for W3C</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Wilson">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.r2rml" target="https://www.w3.org/TR/r2rml/">
   <front>
     <title>R2RML: RDB to RDF Mapping Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="r2rml"/>
 </reference>

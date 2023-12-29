@@ -1,6 +1,9 @@
 <reference anchor="W3C.html-main-element" target="https://www.w3.org/TR/html-main-element/">
   <front>
     <title>main element - an HTML5 extension specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html-main-element"/>
 </reference>

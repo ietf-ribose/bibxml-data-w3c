@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mwbp-wcag-20090709" target="https://www.w3.org/TR/2009/NOTE-mwbp-wcag-20090709/">
   <front>
     <title>Relationship between Mobile Web Best Practices (MWBP) and Web Content Accessibility Guidelines (WCAG)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alan Chuter">
       <organization/>
     </author>

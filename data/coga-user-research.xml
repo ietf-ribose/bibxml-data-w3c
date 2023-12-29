@@ -1,6 +1,9 @@
 <reference anchor="W3C.coga-user-research" target="https://www.w3.org/TR/coga-user-research/">
   <front>
     <title>Cognitive Accessibility User Research</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="coga-user-research"/>
 </reference>

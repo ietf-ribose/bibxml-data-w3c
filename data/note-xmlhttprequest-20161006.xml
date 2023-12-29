@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-XMLHttpRequest-20161006" target="https://www.w3.org/TR/2016/NOTE-XMLHttpRequest-20161006/">
   <front>
     <title>XMLHttpRequest Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anne van Kesteren">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.vocab-dcat-1" target="https://www.w3.org/TR/vocab-dcat-1/">
   <front>
     <title>Data Catalog Vocabulary (DCAT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="vocab-dcat-1"/>
 </reference>

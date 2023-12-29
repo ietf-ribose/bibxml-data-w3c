@@ -1,6 +1,9 @@
 <reference anchor="W3C.xforms-xpath" target="https://www.w3.org/TR/xforms-xpath/">
   <front>
     <title>XForms 2.0: XPath expression module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xforms-xpath"/>
 </reference>

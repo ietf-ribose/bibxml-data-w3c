@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html5-diff-20141209" target="https://www.w3.org/TR/2014/NOTE-html5-diff-20141209/">
   <front>
     <title>HTML5 Differences from HTML4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Simon Pieters">
       <organization/>
     </author>

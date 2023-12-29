@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xbc-characterization-20050331" target="https://www.w3.org/TR/2005/NOTE-xbc-characterization-20050331/">
   <front>
     <title>XML Binary Characterization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dmitry Lenkov">
       <organization/>
     </author>

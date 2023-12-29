@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xml" target="https://www.w3.org/TR/REC-xml/">
   <front>
     <title>Extensible Markup Language (XML) 1.0 (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-xml"/>
 </reference>

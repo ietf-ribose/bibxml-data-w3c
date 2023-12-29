@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmlschema-2" target="https://www.w3.org/TR/xmlschema-2/">
   <front>
     <title>XML Schema Part 2: Datatypes Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xmlschema-2"/>
 </reference>

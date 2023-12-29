@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-indie-ui-requirements-20140422" target="https://www.w3.org/TR/2014/WD-indie-ui-requirements-20140422/">
   <front>
     <title>Requirements for IndieUI: Events 1.0 and IndieUI: User Context 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael Cooper">
       <organization/>
     </author>

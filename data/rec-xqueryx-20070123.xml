@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xqueryx-20070123" target="https://www.w3.org/TR/2007/REC-xqueryx-20070123/">
   <front>
     <title>XML Syntax for XQuery 1.0 (XQueryX)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jim Melton">
       <organization/>
     </author>

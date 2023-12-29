@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-image-capture-20231026" target="https://www.w3.org/TR/2023/WD-image-capture-20231026/">
   <front>
     <title>MediaStream Image Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Miguel Casas-sanchez">
       <organization/>
     </author>

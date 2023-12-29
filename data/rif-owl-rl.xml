@@ -1,6 +1,9 @@
 <reference anchor="W3C.rif-owl-rl" target="https://www.w3.org/TR/rif-owl-rl/">
   <front>
     <title>OWL 2 RL in RIF (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="rif-owl-rl"/>
 </reference>

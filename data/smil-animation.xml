@@ -1,6 +1,9 @@
 <reference anchor="W3C.smil-animation" target="https://www.w3.org/TR/smil-animation/">
   <front>
     <title>SMIL Animation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="smil-animation"/>
 </reference>

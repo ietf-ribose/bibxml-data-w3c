@@ -1,6 +1,9 @@
 <reference anchor="W3C.mathml-types" target="https://www.w3.org/TR/mathml-types/">
   <front>
     <title>Structured Types in MathML 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mathml-types"/>
 </reference>

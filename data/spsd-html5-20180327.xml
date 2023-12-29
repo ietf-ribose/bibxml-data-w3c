@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-html5-20180327" target="https://www.w3.org/TR/2018/SPSD-html5-20180327/">
   <front>
     <title>HTML5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Erika Doyle Navara">
       <organization/>
     </author>

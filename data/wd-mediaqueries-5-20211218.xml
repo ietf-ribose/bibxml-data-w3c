@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-mediaqueries-5-20211218" target="https://www.w3.org/TR/2021/WD-mediaqueries-5-20211218/">
   <front>
     <title>Media Queries Level 5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Libby">
       <organization/>
     </author>

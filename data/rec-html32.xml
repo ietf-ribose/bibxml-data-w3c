@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-html32" target="https://www.w3.org/TR/REC-html32">
   <front>
     <title>HTML 3.2 Reference Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="REC-html32"/>
 </reference>

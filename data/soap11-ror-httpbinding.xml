@@ -1,6 +1,9 @@
 <reference anchor="W3C.soap11-ror-httpbinding" target="https://www.w3.org/TR/soap11-ror-httpbinding/">
   <front>
     <title>SOAP 1.1 Request Optional Response HTTP Binding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="soap11-ror-httpbinding"/>
 </reference>

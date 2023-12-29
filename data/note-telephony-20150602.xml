@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-telephony-20150602" target="https://www.w3.org/TR/2015/NOTE-telephony-20150602/">
   <front>
     <title>Web Telephony API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Eduardo Fullea">
       <organization/>
     </author>

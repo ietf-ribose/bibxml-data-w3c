@@ -1,6 +1,9 @@
 <reference anchor="W3C.performance-timeline" target="https://www.w3.org/TR/performance-timeline/">
   <front>
     <title>Performance Timeline</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="performance-timeline"/>
 </reference>

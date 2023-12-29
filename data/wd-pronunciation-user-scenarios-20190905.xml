@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-pronunciation-user-scenarios-20190905" target="https://www.w3.org/TR/2019/WD-pronunciation-user-scenarios-20190905/">
   <front>
     <title>Pronunciation User Scenarios</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Christine Loew">
       <organization/>
     </author>

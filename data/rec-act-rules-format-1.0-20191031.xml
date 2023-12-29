@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-act-rules-format-1.0-20191031" target="https://www.w3.org/TR/2019/REC-act-rules-format-1.0-20191031/">
   <front>
     <title>Accessibility Conformance Testing (ACT) Rules Format 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mary Jo Mueller">
       <organization/>
     </author>

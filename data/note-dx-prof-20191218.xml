@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-dx-prof-20191218" target="https://www.w3.org/TR/2019/NOTE-dx-prof-20191218/">
   <front>
     <title>The Profiles Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Nicholas Car">
       <organization/>
     </author>

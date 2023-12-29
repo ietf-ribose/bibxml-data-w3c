@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmldsig-core1-interop" target="https://www.w3.org/TR/xmldsig-core1-interop/">
   <front>
     <title>XML Signature 1.1 Interop Test Report</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xmldsig-core1-interop"/>
 </reference>

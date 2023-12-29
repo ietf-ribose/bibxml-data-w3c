@@ -1,6 +1,9 @@
 <reference anchor="W3C.screen-wake-lock" target="https://www.w3.org/TR/screen-wake-lock/">
   <front>
     <title>Screen Wake Lock API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="screen-wake-lock"/>
 </reference>

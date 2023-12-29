@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmldsig-simplify" target="https://www.w3.org/TR/xmldsig-simplify/">
   <front>
     <title>XML Signature Transform Simplification: Requirements and Design</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xmldsig-simplify"/>
 </reference>

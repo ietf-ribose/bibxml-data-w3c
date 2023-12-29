@@ -1,6 +1,9 @@
 <reference anchor="W3C.privacy-principles" target="https://www.w3.org/TR/privacy-principles/">
   <front>
     <title>Privacy Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="privacy-principles"/>
 </reference>

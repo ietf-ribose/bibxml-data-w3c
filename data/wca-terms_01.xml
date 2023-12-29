@@ -1,6 +1,9 @@
 <reference anchor="W3C.WCA-terms/01" target="https://www.w3.org/1999/05/WCA-terms/01">
   <front>
     <title>Web Characterization Terminology &amp; Definitions Sheet</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Henrik Frystyk Nielsen">
       <organization/>
     </author>

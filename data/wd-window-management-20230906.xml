@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-window-management-20230906" target="https://www.w3.org/TR/2023/WD-window-management-20230906/">
   <front>
     <title>Window Management</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Joshua Bell">
       <organization/>
     </author>

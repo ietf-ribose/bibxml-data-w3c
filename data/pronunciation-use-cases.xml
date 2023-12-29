@@ -1,6 +1,9 @@
 <reference anchor="W3C.pronunciation-use-cases" target="https://www.w3.org/TR/pronunciation-use-cases/">
   <front>
     <title>Pronunciation Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="pronunciation-use-cases"/>
 </reference>

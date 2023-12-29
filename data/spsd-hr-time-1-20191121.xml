@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-hr-time-1-20191121" target="https://www.w3.org/TR/2019/SPSD-hr-time-1-20191121/">
   <front>
     <title>High Resolution Time</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael McKeough">
       <organization/>
     </author>

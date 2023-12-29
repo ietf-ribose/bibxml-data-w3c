@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-voice-grammar-reqs-19991223" target="https://www.w3.org/TR/1999/WD-voice-grammar-reqs-19991223/">
   <front>
     <title>Grammar Representation Requirements for Voice Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="1999" month="December" day="23"/>
     <workgroup>Voice Browser Working Group</workgroup>
   </front>

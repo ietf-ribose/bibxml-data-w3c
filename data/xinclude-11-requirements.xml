@@ -1,6 +1,9 @@
 <reference anchor="W3C.xinclude-11-requirements" target="https://www.w3.org/TR/xinclude-11-requirements/">
   <front>
     <title>XInclude 1.1 Requirement and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xinclude-11-requirements"/>
 </reference>

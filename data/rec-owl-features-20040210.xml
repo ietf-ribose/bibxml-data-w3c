@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-owl-features-20040210" target="https://www.w3.org/TR/2004/REC-owl-features-20040210/">
   <front>
     <title>OWL Web Ontology Language Overview</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Deborah McGuinness">
       <organization/>
     </author>

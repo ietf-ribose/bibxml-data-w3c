@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-url-1-20161206" target="https://www.w3.org/TR/2016/NOTE-url-1-20161206/">
   <front>
     <title>URL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anne van Kesteren">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-accname-1.1-20181218" target="https://www.w3.org/TR/2018/REC-accname-1.1-20181218/">
   <front>
     <title>Accessible Name and Description Computation 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bryan Garaventa">
       <organization/>
     </author>

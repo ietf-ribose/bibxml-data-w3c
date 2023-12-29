@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-UMP-20141002" target="https://www.w3.org/TR/2014/NOTE-UMP-20141002/">
   <front>
     <title>Uniform Messaging Policy, Level One</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mark Miller">
       <organization/>
     </author>

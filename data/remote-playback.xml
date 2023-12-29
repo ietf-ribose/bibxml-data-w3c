@@ -1,6 +1,9 @@
 <reference anchor="W3C.remote-playback" target="https://www.w3.org/TR/remote-playback/">
   <front>
     <title>Remote Playback API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="remote-playback"/>
 </reference>

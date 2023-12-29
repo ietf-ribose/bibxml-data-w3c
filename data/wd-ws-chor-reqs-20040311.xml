@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-ws-chor-reqs-20040311" target="https://www.w3.org/TR/2004/WD-ws-chor-reqs-20040311/">
   <front>
     <title>Web Services Choreography Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Abbie Barbir">
       <organization/>
     </author>

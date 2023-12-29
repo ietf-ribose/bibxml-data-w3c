@@ -1,6 +1,9 @@
 <reference anchor="W3C.webauthn-1" target="https://www.w3.org/TR/webauthn-1/">
   <front>
     <title>Web Authentication:An API for accessing Public Key Credentials Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="webauthn-1"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-vc-jws-2020-20230629" target="https://www.w3.org/TR/2023/WD-vc-jws-2020-20230629/">
   <front>
     <title>JSON Web Signatures for Data Integrity Proofs</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael Jones">
       <organization/>
     </author>

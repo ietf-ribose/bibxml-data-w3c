@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-webdatabase-20101118" target="https://www.w3.org/TR/2010/NOTE-webdatabase-20101118/">
   <front>
     <title>Web SQL Database</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Hickson">
       <organization/>
     </author>

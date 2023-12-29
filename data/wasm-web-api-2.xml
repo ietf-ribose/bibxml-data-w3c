@@ -1,6 +1,9 @@
 <reference anchor="W3C.wasm-web-api-2" target="https://www.w3.org/TR/wasm-web-api-2/">
   <front>
     <title>WebAssembly Web API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="wasm-web-api-2"/>
 </reference>

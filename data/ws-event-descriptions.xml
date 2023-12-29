@@ -1,6 +1,9 @@
 <reference anchor="W3C.ws-event-descriptions" target="https://www.w3.org/TR/ws-event-descriptions/">
   <front>
     <title>Web Services Event Descriptions (WS-EventDescriptions)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="ws-event-descriptions"/>
 </reference>

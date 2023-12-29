@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xpath-functions-20070123" target="https://www.w3.org/TR/2007/REC-xpath-functions-20070123/">
   <front>
     <title>XQuery 1.0 and XPath 2.0 Functions and Operators</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ashok Malhotra">
       <organization/>
     </author>

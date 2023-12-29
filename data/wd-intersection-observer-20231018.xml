@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-intersection-observer-20231018" target="https://www.w3.org/TR/2023/WD-intersection-observer-20231018/">
   <front>
     <title>Intersection Observer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Emilio Cobos Álvarez">
       <organization/>
     </author>

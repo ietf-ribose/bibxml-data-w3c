@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-capture-handle-identity-20220706" target="https://www.w3.org/TR/2022/WD-capture-handle-identity-20220706/">
   <front>
     <title>Capture Handle - Bootstrapping Collaboration when Screensharing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elad Alon">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.trace-context-1" target="https://www.w3.org/TR/trace-context-1/">
   <front>
     <title>Trace Context</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="trace-context-1"/>
 </reference>

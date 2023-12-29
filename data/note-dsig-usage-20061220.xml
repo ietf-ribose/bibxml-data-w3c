@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-DSig-usage-20061220" target="https://www.w3.org/TR/2006/NOTE-DSig-usage-20061220/">
   <front>
     <title>Using XML Digital Signatures in the 2006 XML Environment</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Thomas Roessler">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.pointerevents3" target="https://www.w3.org/TR/pointerevents3/">
   <front>
     <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="pointerevents3"/>
 </reference>

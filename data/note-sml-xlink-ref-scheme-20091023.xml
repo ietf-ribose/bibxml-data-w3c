@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-sml-xlink-ref-scheme-20091023" target="https://www.w3.org/TR/2009/NOTE-sml-xlink-ref-scheme-20091023/">
   <front>
     <title>The SML XLink Reference Scheme</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Len Charest">
       <organization/>
     </author>

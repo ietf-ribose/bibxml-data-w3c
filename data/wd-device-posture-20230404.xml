@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-device-posture-20230404" target="https://www.w3.org/TR/2023/WD-device-posture-20230404/">
   <front>
     <title>Device Posture API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Diego Gonzalez-Zuniga">
       <organization/>
     </author>

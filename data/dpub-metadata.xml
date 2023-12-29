@@ -1,6 +1,9 @@
 <reference anchor="W3C.dpub-metadata" target="https://www.w3.org/TR/dpub-metadata/">
   <front>
     <title>DPUB IG Metadata Task Force Report</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="dpub-metadata"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-qaframe-test-20040820" target="https://www.w3.org/TR/2004/WD-qaframe-test-20040820/">
   <front>
     <title>QA Framework: Test Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dimitris Dimitriadis">
       <organization/>
     </author>

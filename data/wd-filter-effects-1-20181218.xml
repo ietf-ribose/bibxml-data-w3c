@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-filter-effects-1-20181218" target="https://www.w3.org/TR/2018/WD-filter-effects-1-20181218/">
   <front>
     <title>Filter Effects Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dean Jackson">
       <organization/>
     </author>

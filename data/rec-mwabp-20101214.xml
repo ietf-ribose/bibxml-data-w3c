@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-mwabp-20101214" target="https://www.w3.org/TR/2010/REC-mwabp-20101214/">
   <front>
     <title>Mobile Web Application Best Practices</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Adam Connors">
       <organization/>
     </author>

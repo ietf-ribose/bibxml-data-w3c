@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-did-imp-guide-20211012" target="https://www.w3.org/TR/2021/NOTE-did-imp-guide-20211012/">
   <front>
     <title>DID Implementation Guide v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Markus Sabadello">
       <organization/>
     </author>

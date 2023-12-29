@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-P3P-arch-971022" target="https://www.w3.org/TR/WD-P3P-arch-971022">
   <front>
     <title>P3P Architecture Working Group: General Overview of the P3P Architecture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Joseph Reagle">
       <organization/>
     </author>

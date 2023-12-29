@@ -1,6 +1,9 @@
 <reference anchor="W3C.mmi-discovery" target="https://www.w3.org/TR/mmi-discovery/">
   <front>
     <title>Registration &amp; Discovery of Multimodal Modality Components in Multimodal Systems: Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mmi-discovery"/>
 </reference>

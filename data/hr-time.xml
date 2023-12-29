@@ -1,6 +1,9 @@
 <reference anchor="W3C.hr-time" target="https://www.w3.org/TR/hr-time/">
   <front>
     <title>High Resolution Time</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="hr-time"/>
 </reference>

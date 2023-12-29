@@ -1,6 +1,9 @@
 <reference anchor="W3C.deva-gap" target="https://www.w3.org/TR/deva-gap/">
   <front>
     <title>Devanagari Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="deva-gap"/>
 </reference>

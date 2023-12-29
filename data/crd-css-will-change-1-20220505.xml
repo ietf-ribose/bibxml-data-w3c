@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-css-will-change-1-20220505" target="https://www.w3.org/TR/2022/CRD-css-will-change-1-20220505/">
   <front>
     <title>CSS Will Change Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Tab Atkins Jr.">
       <organization/>
     </author>

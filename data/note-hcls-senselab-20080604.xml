@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-hcls-senselab-20080604" target="https://www.w3.org/TR/2008/NOTE-hcls-senselab-20080604/">
   <front>
     <title>Experiences with the conversion of SenseLab databases to RDF/OWL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Kei-Hoi Cheung">
       <organization/>
     </author>

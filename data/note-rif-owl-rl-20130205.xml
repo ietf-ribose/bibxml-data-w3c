@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rif-owl-rl-20130205" target="https://www.w3.org/TR/2013/NOTE-rif-owl-rl-20130205/">
   <front>
     <title>OWL 2 RL in RIF (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Reynolds">
       <organization/>
     </author>

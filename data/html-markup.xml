@@ -1,6 +1,9 @@
 <reference anchor="W3C.html-markup" target="https://www.w3.org/TR/html-markup/">
   <front>
     <title>HTML: The Markup Language (an HTML language reference)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html-markup"/>
 </reference>

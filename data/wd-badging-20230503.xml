@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-badging-20230503" target="https://www.w3.org/TR/2023/WD-badging-20230503/">
   <front>
     <title>Badging API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Diego Gonzalez-Zuniga">
       <organization/>
     </author>

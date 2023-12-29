@@ -1,6 +1,9 @@
 <reference anchor="W3C.miniapp-widget-req" target="https://www.w3.org/TR/miniapp-widget-req/">
   <front>
     <title>MiniApp Widget Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="miniapp-widget-req"/>
 </reference>

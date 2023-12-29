@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-annot-reqs" target="https://www.w3.org/TR/media-annot-reqs/">
   <front>
     <title>Use Cases and Requirements for Ontology and API for Media Resource 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="media-annot-reqs"/>
 </reference>

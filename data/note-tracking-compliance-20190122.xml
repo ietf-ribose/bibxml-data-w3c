@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-tracking-compliance-20190122" target="https://www.w3.org/TR/2019/NOTE-tracking-compliance-20190122/">
   <front>
     <title>Tracking Compliance and Scope</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Erica Newland">
       <organization/>
     </author>

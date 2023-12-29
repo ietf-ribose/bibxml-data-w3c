@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-mediacapture-fromelement-20231212" target="https://www.w3.org/TR/2023/WD-mediacapture-fromelement-20231212/">
   <front>
     <title>Media Capture from DOM Elements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Emircan Uysaler">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.vocab-ssn-ext" target="https://www.w3.org/TR/vocab-ssn-ext/">
   <front>
     <title>Extensions to the Semantic Sensor Network Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="vocab-ssn-ext"/>
 </reference>

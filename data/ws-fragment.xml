@@ -1,6 +1,9 @@
 <reference anchor="W3C.ws-fragment" target="https://www.w3.org/TR/ws-fragment/">
   <front>
     <title>Web Services Fragment (WS-Fragment)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="ws-fragment"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-css-color-adjust-1-20220614" target="https://www.w3.org/TR/2022/CRD-css-color-adjust-1-20220614/">
   <front>
     <title>CSS Color Adjustment Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

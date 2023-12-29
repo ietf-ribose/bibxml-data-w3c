@@ -1,6 +1,9 @@
 <reference anchor="W3C.html-xml-tf-report" target="https://www.w3.org/TR/html-xml-tf-report/">
   <front>
     <title>HTML/XML Task Force Report</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html-xml-tf-report"/>
 </reference>

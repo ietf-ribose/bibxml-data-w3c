@@ -1,6 +1,9 @@
 <reference anchor="W3C.scroll-animations-1" target="https://www.w3.org/TR/scroll-animations-1/">
   <front>
     <title>Scroll-driven Animations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="scroll-animations-1"/>
 </reference>

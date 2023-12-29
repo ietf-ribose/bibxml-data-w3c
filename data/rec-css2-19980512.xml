@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-CSS2-19980512" target="https://www.w3.org/TR/1998/REC-CSS2-19980512/">
   <front>
     <title>Cascading Style Sheets, level 2 (CSS2) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Bert Bos">
       <organization/>
     </author>

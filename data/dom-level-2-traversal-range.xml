@@ -1,6 +1,9 @@
 <reference anchor="W3C.DOM-Level-2-Traversal-Range" target="https://www.w3.org/TR/DOM-Level-2-Traversal-Range/">
   <front>
     <title>Document Object Model (DOM) Level 2 Traversal and Range Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="DOM-Level-2-Traversal-Range"/>
 </reference>

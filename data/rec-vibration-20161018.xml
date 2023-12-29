@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-vibration-20161018" target="https://www.w3.org/TR/2016/REC-vibration-20161018/">
   <front>
     <title>Vibration API (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>

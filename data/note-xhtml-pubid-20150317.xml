@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xhtml-pubid-20150317" target="https://www.w3.org/TR/2015/NOTE-xhtml-pubid-20150317/">
   <front>
     <title>Public Identifiers for entity resolution in XHTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Carlisle">
       <organization/>
     </author>

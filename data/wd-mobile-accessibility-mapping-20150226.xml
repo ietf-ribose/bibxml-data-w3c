@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-mobile-accessibility-mapping-20150226" target="https://www.w3.org/TR/2015/WD-mobile-accessibility-mapping-20150226/">
   <front>
     <title>Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeanne F Spellman">
       <organization/>
     </author>

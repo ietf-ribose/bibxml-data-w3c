@@ -1,6 +1,9 @@
 <reference anchor="W3C.webxr-hit-test-1" target="https://www.w3.org/TR/webxr-hit-test-1/">
   <front>
     <title>WebXR Hit Test Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="webxr-hit-test-1"/>
 </reference>

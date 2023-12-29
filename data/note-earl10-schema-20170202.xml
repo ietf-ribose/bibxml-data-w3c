@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-EARL10-Schema-20170202" target="https://www.w3.org/TR/2017/NOTE-EARL10-Schema-20170202/">
   <front>
     <title>Evaluation and Report Language (EARL) 1.0 Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Shadi Abou-Zahra">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.xhtml-forms-req" target="https://www.w3.org/TR/xhtml-forms-req/">
   <front>
     <title>XForms Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xhtml-forms-req"/>
 </reference>

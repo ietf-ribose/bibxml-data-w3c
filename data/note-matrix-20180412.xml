@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-matrix-20180412" target="https://www.w3.org/TR/2018/NOTE-matrix-20180412/">
   <front>
     <title>DOMMatrix interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dirk Schulze">
       <organization/>
     </author>

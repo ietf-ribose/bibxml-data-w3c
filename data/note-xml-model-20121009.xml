@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xml-model-20121009" target="https://www.w3.org/TR/2012/NOTE-xml-model-20121009/">
   <front>
     <title>Associating Schemas with XML documents 1.0 (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jirka Kosek">
       <organization/>
     </author>

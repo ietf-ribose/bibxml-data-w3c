@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-mediacapture-viewport-20220621" target="https://www.w3.org/TR/2022/WD-mediacapture-viewport-20220621/">
   <front>
     <title>Viewport Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elad Alon">
       <organization/>
     </author>

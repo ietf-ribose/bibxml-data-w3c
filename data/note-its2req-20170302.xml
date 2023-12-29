@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-its2req-20170302" target="https://www.w3.org/TR/2017/NOTE-its2req-20170302/">
   <front>
     <title>Requirements for Internationalization Tag Set (ITS) 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arle Lommel">
       <organization/>
     </author>

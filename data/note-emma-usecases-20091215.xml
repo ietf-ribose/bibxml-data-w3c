@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-emma-usecases-20091215" target="https://www.w3.org/TR/2009/NOTE-emma-usecases-20091215/">
   <front>
     <title>Use Cases for Possible Future EMMA Features</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael Johnston">
       <organization/>
     </author>

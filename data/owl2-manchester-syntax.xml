@@ -1,6 +1,9 @@
 <reference anchor="W3C.owl2-manchester-syntax" target="https://www.w3.org/TR/owl2-manchester-syntax/">
   <front>
     <title>OWL 2 Web Ontology Language Manchester Syntax (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="owl2-manchester-syntax"/>
 </reference>

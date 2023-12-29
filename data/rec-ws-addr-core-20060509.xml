@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-ws-addr-core-20060509" target="https://www.w3.org/TR/2006/REC-ws-addr-core-20060509/">
   <front>
     <title>Web Services Addressing 1.0 - Core</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marc Hadley">
       <organization/>
     </author>

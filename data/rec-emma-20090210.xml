@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-emma-20090210" target="https://www.w3.org/TR/2009/REC-emma-20090210/">
   <front>
     <title>EMMA: Extensible MultiModal Annotation markup language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Michael Johnston">
       <organization/>
     </author>

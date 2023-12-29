@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-baggage-20230810" target="https://www.w3.org/TR/2023/WD-baggage-20230810/">
   <front>
     <title>Propagation format for distributed context: Baggage</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Dyla">
       <organization/>
     </author>

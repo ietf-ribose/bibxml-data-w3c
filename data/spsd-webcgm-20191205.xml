@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-WebCGM-20191205" target="https://www.w3.org/TR/2019/SPSD-WebCGM-20191205">
   <front>
     <title>WebCGM 1.0 Second Release</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="David Cruikshank">
       <organization/>
     </author>

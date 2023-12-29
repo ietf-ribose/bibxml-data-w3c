@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-mini-app-white-paper-20220701" target="https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220701/">
   <front>
     <title>MiniApp Standardization White Paper version 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="An Qi (Angel) Li">
       <organization/>
     </author>

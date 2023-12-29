@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-svg-aam-1.0-20180510" target="https://www.w3.org/TR/2018/WD-svg-aam-1.0-20180510/">
   <front>
     <title>SVG Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Amelia Bellamy-Royds">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.dx-prof-conneg" target="https://www.w3.org/TR/dx-prof-conneg/">
   <front>
     <title>Content Negotiation by Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="dx-prof-conneg"/>
 </reference>

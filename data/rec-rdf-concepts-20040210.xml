@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdf-concepts-20040210" target="https://www.w3.org/TR/2004/REC-rdf-concepts-20040210/">
   <front>
     <title>Resource Description Framework (RDF): Concepts and Abstract Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Graham Klyne">
       <organization/>
     </author>

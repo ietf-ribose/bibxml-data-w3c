@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-SVGTiny12Reqs-20060810" target="https://www.w3.org/TR/2006/WD-SVGTiny12Reqs-20060810/">
   <front>
     <title>SVGT 1.2 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrew Emmons">
       <organization/>
     </author>

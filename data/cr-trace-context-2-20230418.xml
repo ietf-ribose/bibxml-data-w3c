@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-trace-context-2-20230418" target="https://www.w3.org/TR/2023/CR-trace-context-2-20230418/">
   <front>
     <title>Trace Context Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Dyla">
       <organization/>
     </author>

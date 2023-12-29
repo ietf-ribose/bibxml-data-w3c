@@ -1,6 +1,9 @@
 <reference anchor="W3C.wot-discovery" target="https://www.w3.org/TR/wot-discovery/">
   <front>
     <title>Web of Things (WoT) Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="wot-discovery"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-css-grid-2-20201218" target="https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/">
   <front>
     <title>CSS Grid Layout Module Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

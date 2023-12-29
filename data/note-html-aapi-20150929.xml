@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html-aapi-20150929" target="https://www.w3.org/TR/2015/NOTE-html-aapi-20150929/">
   <front>
     <title>HTML to Platform Accessibility APIs Implementation Guide</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alexander Surkov">
       <organization/>
     </author>

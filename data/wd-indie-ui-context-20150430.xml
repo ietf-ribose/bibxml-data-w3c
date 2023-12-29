@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-indie-ui-context-20150430" target="https://www.w3.org/TR/2015/WD-indie-ui-context-20150430/">
   <front>
     <title>IndieUI: User Context 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="James Craig">
       <organization/>
     </author>

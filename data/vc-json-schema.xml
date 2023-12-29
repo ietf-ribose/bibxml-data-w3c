@@ -1,6 +1,9 @@
 <reference anchor="W3C.vc-json-schema" target="https://www.w3.org/TR/vc-json-schema/">
   <front>
     <title>Verifiable Credentials JSON Schema Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="vc-json-schema"/>
 </reference>

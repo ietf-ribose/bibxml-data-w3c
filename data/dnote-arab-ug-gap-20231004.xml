@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-arab-ug-gap-20231004" target="https://www.w3.org/TR/2023/DNOTE-arab-ug-gap-20231004/">
   <front>
     <title>Uighur Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>

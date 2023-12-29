@@ -1,6 +1,9 @@
 <reference anchor="W3C.webpayments-http-api" target="https://www.w3.org/TR/webpayments-http-api/">
   <front>
     <title>Web Payments HTTP API 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="webpayments-http-api"/>
 </reference>

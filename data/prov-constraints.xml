@@ -1,6 +1,9 @@
 <reference anchor="W3C.prov-constraints" target="https://www.w3.org/TR/prov-constraints/">
   <front>
     <title>Constraints of the PROV Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="prov-constraints"/>
 </reference>

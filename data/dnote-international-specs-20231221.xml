@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-international-specs-20231221" target="https://www.w3.org/TR/2023/DNOTE-international-specs-20231221/">
   <front>
     <title>Internationalization Best Practices for Spec Developers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Addison Phillips">
       <organization/>
     </author>

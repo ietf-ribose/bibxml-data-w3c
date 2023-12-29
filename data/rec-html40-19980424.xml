@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-html40-19980424" target="https://www.w3.org/TR/1998/REC-html40-19980424/">
   <front>
     <title>HTML 4.0 Recommendation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arnaud Le Hors">
       <organization/>
     </author>

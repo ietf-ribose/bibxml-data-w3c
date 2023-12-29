@@ -1,6 +1,9 @@
 <reference anchor="W3C.owl2-xml-serialization" target="https://www.w3.org/TR/owl2-xml-serialization/">
   <front>
     <title>OWL 2 Web Ontology Language XML Serialization (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="owl2-xml-serialization"/>
 </reference>

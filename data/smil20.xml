@@ -1,6 +1,9 @@
 <reference anchor="W3C.smil20" target="https://www.w3.org/TR/smil20/">
   <front>
     <title>Synchronized Multimedia Integration Language (SMIL 2.0) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="smil20"/>
 </reference>

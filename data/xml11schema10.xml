@@ -1,6 +1,9 @@
 <reference anchor="W3C.xml11schema10" target="https://www.w3.org/TR/xml11schema10/">
   <front>
     <title>Processing XML 1.1 documents with XML Schema 1.0 processors</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xml11schema10"/>
 </reference>

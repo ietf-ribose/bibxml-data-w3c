@@ -1,6 +1,9 @@
 <reference anchor="W3C.html5-diff" target="https://www.w3.org/TR/html5-diff/">
   <front>
     <title>HTML5 Differences from HTML4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html5-diff"/>
 </reference>

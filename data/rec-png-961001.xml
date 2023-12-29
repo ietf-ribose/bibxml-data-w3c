@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-png-961001" target="https://www.w3.org/TR/REC-png-961001">
   <front>
     <title>PNG (Portable Network Graphics) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Tom Lane">
       <organization/>
     </author>

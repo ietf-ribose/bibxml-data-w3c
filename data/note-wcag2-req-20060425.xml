@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wcag2-req-20060425" target="https://www.w3.org/TR/2006/NOTE-wcag2-req-20060425/">
   <front>
     <title>Requirements for WCAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gregg Vanderheiden">
       <organization/>
     </author>

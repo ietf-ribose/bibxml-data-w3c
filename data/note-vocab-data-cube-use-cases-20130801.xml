@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-vocab-data-cube-use-cases-20130801" target="https://www.w3.org/TR/2013/NOTE-vocab-data-cube-use-cases-20130801/">
   <front>
     <title>Use Cases and Lessons for the Data Cube Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Benedikt Kaempgen">
       <organization/>
     </author>

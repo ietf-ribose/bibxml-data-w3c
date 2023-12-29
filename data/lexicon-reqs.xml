@@ -1,6 +1,9 @@
 <reference anchor="W3C.lexicon-reqs" target="https://www.w3.org/TR/lexicon-reqs/">
   <front>
     <title>Pronunciation Lexicon Specification (PLS) Version 1.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="lexicon-reqs"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.xml-stylesheet" target="https://www.w3.org/TR/xml-stylesheet/">
   <front>
     <title>Associating Style Sheets with XML documents 1.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xml-stylesheet"/>
 </reference>

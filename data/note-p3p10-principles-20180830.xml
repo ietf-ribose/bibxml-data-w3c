@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-P3P10-principles-20180830" target="https://www.w3.org/TR/2018/NOTE-P3P10-principles-20180830/">
   <front>
     <title>P3P Guiding Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <date year="2018" month="August" day="30"/>
     <workgroup>P3P Specification Working Group</workgroup>
   </front>

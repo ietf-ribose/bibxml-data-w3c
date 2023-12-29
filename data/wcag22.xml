@@ -1,6 +1,9 @@
 <reference anchor="W3C.WCAG22" target="https://www.w3.org/TR/WCAG22/">
   <front>
     <title>Web Content Accessibility Guidelines (WCAG) 2.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="WCAG22"/>
 </reference>

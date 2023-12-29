@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xmlbase-20090128" target="https://www.w3.org/TR/2009/REC-xmlbase-20090128/">
   <front>
     <title>XML Base (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jonathan Marsh">
       <organization/>
     </author>

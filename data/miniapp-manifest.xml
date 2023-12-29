@@ -1,6 +1,9 @@
 <reference anchor="W3C.miniapp-manifest" target="https://www.w3.org/TR/miniapp-manifest/">
   <front>
     <title>MiniApp Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="miniapp-manifest"/>
 </reference>

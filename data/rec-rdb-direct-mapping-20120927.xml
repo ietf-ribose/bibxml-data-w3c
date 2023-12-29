@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdb-direct-mapping-20120927" target="https://www.w3.org/TR/2012/REC-rdb-direct-mapping-20120927/">
   <front>
     <title>A Direct Mapping of Relational Data to RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alexandre Bertails">
       <organization/>
     </author>

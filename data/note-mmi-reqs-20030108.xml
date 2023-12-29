@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mmi-reqs-20030108" target="https://www.w3.org/TR/2003/NOTE-mmi-reqs-20030108/">
   <front>
     <title>Multimodal Interaction Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Stéphane Maes">
       <organization/>
     </author>

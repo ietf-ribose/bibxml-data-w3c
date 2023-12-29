@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wpub-20190813" target="https://www.w3.org/TR/2019/NOTE-wpub-20190813/">
   <front>
     <title>Web Publications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ivan Herman">
       <organization/>
     </author>

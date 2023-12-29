@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-publishing-linking-20130430" target="https://www.w3.org/TR/2013/NOTE-publishing-linking-20130430/">
   <front>
     <title>Publishing and Linking on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ashok Malhotra">
       <organization/>
     </author>

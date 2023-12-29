@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-widgets-20121127" target="https://www.w3.org/TR/2012/REC-widgets-20121127/">
   <front>
     <title>Packaged Web Apps (Widgets) - Packaging and XML Configuration (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

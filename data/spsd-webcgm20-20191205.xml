@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-webcgm20-20191205" target="https://www.w3.org/TR/2019/SPSD-webcgm20-20191205/">
   <front>
     <title>WebCGM 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Benoit Bezaire">
       <organization/>
     </author>

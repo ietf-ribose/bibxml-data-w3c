@@ -1,6 +1,9 @@
 <reference anchor="W3C.css-ui-4" target="https://www.w3.org/TR/css-ui-4/">
   <front>
     <title>CSS Basic User Interface Module Level 4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="css-ui-4"/>
 </reference>

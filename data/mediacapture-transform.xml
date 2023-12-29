@@ -1,6 +1,9 @@
 <reference anchor="W3C.mediacapture-transform" target="https://www.w3.org/TR/mediacapture-transform/">
   <front>
     <title>MediaStreamTrack Insertable Media Processing using Streams</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="mediacapture-transform"/>
 </reference>

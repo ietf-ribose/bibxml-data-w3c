@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-ElementTraversal-20081222" target="https://www.w3.org/TR/2008/REC-ElementTraversal-20081222/">
   <front>
     <title>Element Traversal Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Doug Schepers">
       <organization/>
     </author>

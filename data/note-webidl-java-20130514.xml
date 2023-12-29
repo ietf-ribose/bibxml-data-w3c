@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-WebIDL-Java-20130514" target="https://www.w3.org/TR/2013/NOTE-WebIDL-Java-20130514/">
   <front>
     <title>Java language binding for Web IDL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cameron McCormack">
       <organization/>
     </author>

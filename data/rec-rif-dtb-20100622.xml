@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rif-dtb-20100622" target="https://www.w3.org/TR/2010/REC-rif-dtb-20100622/">
   <front>
     <title>RIF Datatypes and Built-Ins 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Axel Polleres">
       <organization/>
     </author>

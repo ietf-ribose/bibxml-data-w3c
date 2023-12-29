@@ -1,6 +1,9 @@
 <reference anchor="W3C.xproc-v2-req" target="https://www.w3.org/TR/xproc-v2-req/">
   <front>
     <title>XProc V2.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xproc-v2-req"/>
 </reference>

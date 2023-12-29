@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-sparql12-query-20231208" target="https://www.w3.org/TR/2023/WD-sparql12-query-20231208/">
   <front>
     <title>SPARQL 1.2 Query Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andy Seaborne">
       <organization/>
     </author>

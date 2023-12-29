@@ -1,6 +1,9 @@
 <reference anchor="W3C.string-meta" target="https://www.w3.org/TR/string-meta/">
   <front>
     <title>Strings on the Web: Language and Direction Metadata</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="string-meta"/>
 </reference>

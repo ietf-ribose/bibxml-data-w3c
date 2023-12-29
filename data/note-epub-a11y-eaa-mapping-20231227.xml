@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-epub-a11y-eaa-mapping-20231227" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20231227/">
   <front>
     <title>EPUB Accessibility - EU Accessibility Act Mapping</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cristina Mussinelli">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-ws-transfer-20111213" target="https://www.w3.org/TR/2011/REC-ws-transfer-20111213/">
   <front>
     <title>Web Services Transfer (WS-Transfer)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ashok Malhotra">
       <organization/>
     </author>

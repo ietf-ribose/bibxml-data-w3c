@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-epub-a11y-11-20230525" target="https://www.w3.org/TR/2023/REC-epub-a11y-11-20230525/">
   <front>
     <title>EPUB Accessibility 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Avneesh Singh">
       <organization/>
     </author>

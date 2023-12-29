@@ -1,6 +1,9 @@
 <reference anchor="W3C.service-workers" target="https://www.w3.org/TR/service-workers/">
   <front>
     <title>Service Workers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="service-workers"/>
 </reference>

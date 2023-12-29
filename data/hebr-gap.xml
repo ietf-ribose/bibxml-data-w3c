@@ -1,6 +1,9 @@
 <reference anchor="W3C.hebr-gap" target="https://www.w3.org/TR/hebr-gap/">
   <front>
     <title>Hebrew Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="hebr-gap"/>
 </reference>

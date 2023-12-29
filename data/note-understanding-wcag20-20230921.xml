@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-UNDERSTANDING-WCAG20-20230921" target="https://www.w3.org/TR/2023/NOTE-UNDERSTANDING-WCAG20-20230921/">
   <front>
     <title>Understanding WCAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrew Kirkpatrick">
       <organization/>
     </author>

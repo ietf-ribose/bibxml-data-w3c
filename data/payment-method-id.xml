@@ -1,6 +1,9 @@
 <reference anchor="W3C.payment-method-id" target="https://www.w3.org/TR/payment-method-id/">
   <front>
     <title>Payment Method Identifiers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="payment-method-id"/>
 </reference>

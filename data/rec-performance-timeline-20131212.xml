@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-performance-timeline-20131212" target="https://www.w3.org/TR/2013/REC-performance-timeline-20131212/">
   <front>
     <title>Performance Timeline</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jatinder Mann">
       <organization/>
     </author>

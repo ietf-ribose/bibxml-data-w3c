@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-netinfo-api-20140410" target="https://www.w3.org/TR/2014/NOTE-netinfo-api-20140410/">
   <front>
     <title>The Network Information API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mounir Lamouri">
       <organization/>
     </author>

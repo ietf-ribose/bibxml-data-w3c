@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-shacl-20170720" target="https://www.w3.org/TR/2017/REC-shacl-20170720/">
   <front>
     <title>Shapes Constraint Language (SHACL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dimitris Kontokostas">
       <organization/>
     </author>

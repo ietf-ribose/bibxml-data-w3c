@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rdf-sparql-XMLres-20080115" target="https://www.w3.org/TR/2008/REC-rdf-sparql-XMLres-20080115/">
   <front>
     <title>SPARQL Query Results XML Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Beckett">
       <organization/>
     </author>

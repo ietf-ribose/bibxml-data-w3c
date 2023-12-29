@@ -1,6 +1,9 @@
 <reference anchor="W3C.rdf-sparql-XMLres" target="https://www.w3.org/TR/rdf-sparql-XMLres/">
   <front>
     <title>SPARQL Query Results XML Format (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="rdf-sparql-XMLres"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.tcp-udp-sockets" target="https://www.w3.org/TR/tcp-udp-sockets/">
   <front>
     <title>TCP and UDP Socket API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="tcp-udp-sockets"/>
 </reference>

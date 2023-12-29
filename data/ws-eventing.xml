@@ -1,6 +1,9 @@
 <reference anchor="W3C.ws-eventing" target="https://www.w3.org/TR/ws-eventing/">
   <front>
     <title>Web Services Eventing (WS-Eventing)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="ws-eventing"/>
 </reference>

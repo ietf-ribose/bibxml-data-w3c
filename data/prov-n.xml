@@ -1,6 +1,9 @@
 <reference anchor="W3C.prov-n" target="https://www.w3.org/TR/prov-n/">
   <front>
     <title>PROV-N: The Provenance Notation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="prov-n"/>
 </reference>

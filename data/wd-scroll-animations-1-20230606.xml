@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-scroll-animations-1-20230606" target="https://www.w3.org/TR/2023/WD-scroll-animations-1-20230606/">
   <front>
     <title>Scroll-driven Animations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Antoine Quint">
       <organization/>
     </author>

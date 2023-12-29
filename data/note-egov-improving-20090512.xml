@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-egov-improving-20090512" target="https://www.w3.org/TR/2009/NOTE-egov-improving-20090512/">
   <front>
     <title>Improving Access to Government through Better Use of the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="José Manuel Alonso">
       <organization/>
     </author>

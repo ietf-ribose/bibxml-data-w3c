@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-json-ld11-streaming-20200507" target="https://www.w3.org/TR/2020/NOTE-json-ld11-streaming-20200507/">
   <front>
     <title>Streaming JSON-LD</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ruben Taelman">
       <organization/>
     </author>

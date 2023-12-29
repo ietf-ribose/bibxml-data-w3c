@@ -1,6 +1,9 @@
 <reference anchor="W3C.html53" target="https://www.w3.org/TR/html53/">
   <front>
     <title>HTML 5.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="html53"/>
 </reference>

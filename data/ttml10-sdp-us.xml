@@ -1,6 +1,9 @@
 <reference anchor="W3C.ttml10-sdp-us" target="https://www.w3.org/TR/ttml10-sdp-us/">
   <front>
     <title>TTML Simple Delivery Profile for Closed Captions (US)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="ttml10-sdp-us"/>
 </reference>

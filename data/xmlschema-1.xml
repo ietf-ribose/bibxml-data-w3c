@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmlschema-1" target="https://www.w3.org/TR/xmlschema-1/">
   <front>
     <title>XML Schema Part 1: Structures Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xmlschema-1"/>
 </reference>

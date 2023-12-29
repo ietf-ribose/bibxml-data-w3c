@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-orientation-sensor-20231128" target="https://www.w3.org/TR/2023/WD-orientation-sensor-20231128/">
   <front>
     <title>Orientation Sensor</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-DOM-Level-2-HTML-20030109" target="https://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109/">
   <front>
     <title>Document Object Model (DOM) Level 2 HTML Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arnaud Le Hors">
       <organization/>
     </author>

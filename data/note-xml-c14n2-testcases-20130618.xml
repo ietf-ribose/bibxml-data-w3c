@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xml-c14n2-testcases-20130618" target="https://www.w3.org/TR/2013/NOTE-xml-c14n2-testcases-20130618/">
   <front>
     <title>Test cases for Canonical XML 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Frederick Hirsch">
       <organization/>
     </author>

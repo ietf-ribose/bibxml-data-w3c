@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-XHTMLplusSMIL-20020131" target="https://www.w3.org/TR/2002/NOTE-XHTMLplusSMIL-20020131/">
   <front>
     <title>XHTML+SMIL Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Aaron Patterson">
       <organization/>
     </author>

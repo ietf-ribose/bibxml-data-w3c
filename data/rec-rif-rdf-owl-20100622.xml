@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-rif-rdf-owl-20100622" target="https://www.w3.org/TR/2010/REC-rif-rdf-owl-20100622/">
   <front>
     <title>RIF RDF and OWL Compatibility</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jos de Bruijn">
       <organization/>
     </author>

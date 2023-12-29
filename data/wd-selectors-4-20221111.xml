@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-selectors-4-20221111" target="https://www.w3.org/TR/2022/WD-selectors-4-20221111/">
   <front>
     <title>Selectors Level 4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

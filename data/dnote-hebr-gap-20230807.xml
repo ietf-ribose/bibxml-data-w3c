@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-hebr-gap-20230807" target="https://www.w3.org/TR/2023/DNOTE-hebr-gap-20230807/">
   <front>
     <title>Hebrew Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>

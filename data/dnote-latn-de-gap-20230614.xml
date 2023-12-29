@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-latn-de-gap-20230614" target="https://www.w3.org/TR/2023/DNOTE-latn-de-gap-20230614/">
   <front>
     <title>German Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>

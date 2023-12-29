@@ -1,6 +1,9 @@
 <reference anchor="W3C.xpath-functions" target="https://www.w3.org/TR/xpath-functions/">
   <front>
     <title>XQuery 1.0 and XPath 2.0 Functions and Operators (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xpath-functions"/>
 </reference>

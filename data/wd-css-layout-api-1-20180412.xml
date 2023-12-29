@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-layout-api-1-20180412" target="https://www.w3.org/TR/2018/WD-css-layout-api-1-20180412/">
   <front>
     <title>CSS Layout API Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Greg Whitworth">
       <organization/>
     </author>

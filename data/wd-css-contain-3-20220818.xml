@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-contain-3-20220818" target="https://www.w3.org/TR/2022/WD-css-contain-3-20220818/">
   <front>
     <title>CSS Containment Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Florian Rivoal">
       <organization/>
     </author>

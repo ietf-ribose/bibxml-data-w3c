@@ -1,6 +1,9 @@
 <reference anchor="W3C.xpath-datamodel-30" target="https://www.w3.org/TR/xpath-datamodel-30/">
   <front>
     <title>XQuery and XPath Data Model 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xpath-datamodel-30"/>
 </reference>

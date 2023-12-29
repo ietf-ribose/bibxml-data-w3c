@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-permissions-20231201" target="https://www.w3.org/TR/2023/WD-permissions-20231201/">
   <front>
     <title>Permissions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

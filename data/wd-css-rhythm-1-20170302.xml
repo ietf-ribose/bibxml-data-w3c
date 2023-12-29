@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-rhythm-1-20170302" target="https://www.w3.org/TR/2017/WD-css-rhythm-1-20170302/">
   <front>
     <title>CSS Rhythmic Sizing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

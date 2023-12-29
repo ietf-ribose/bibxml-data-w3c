@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-offline-webapps-20080530" target="https://www.w3.org/TR/2008/NOTE-offline-webapps-20080530/">
   <front>
     <title>Offline Web Applications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anne van Kesteren">
       <organization/>
     </author>

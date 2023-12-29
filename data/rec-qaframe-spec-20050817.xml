@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-qaframe-spec-20050817" target="https://www.w3.org/TR/2005/REC-qaframe-spec-20050817/">
   <front>
     <title>QA Framework: Specification Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dominique Hazaël-Massieux">
       <organization/>
     </author>

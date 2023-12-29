@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-css-transitions-2-20230905" target="https://www.w3.org/TR/2023/WD-css-transitions-2-20230905/">
   <front>
     <title>CSS Transitions Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brian Birtles">
       <organization/>
     </author>

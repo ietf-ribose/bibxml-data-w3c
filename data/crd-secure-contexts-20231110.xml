@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-secure-contexts-20231110" target="https://www.w3.org/TR/2023/CRD-secure-contexts-20231110/">
   <front>
     <title>Secure Contexts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mike West">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-selectors-api-20201103" target="https://www.w3.org/TR/2020/SPSD-selectors-api-20201103/">
   <front>
     <title>Selectors API Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anne van Kesteren">
       <organization/>
     </author>

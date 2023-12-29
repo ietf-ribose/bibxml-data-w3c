@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-appmanifest-20231129" target="https://www.w3.org/TR/2023/WD-appmanifest-20231129/">
   <front>
     <title>Web Application Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Aaron Gustafson">
       <organization/>
     </author>

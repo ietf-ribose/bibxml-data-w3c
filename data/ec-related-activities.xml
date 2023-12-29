@@ -1,6 +1,9 @@
 <reference anchor="W3C.EC-related-activities" target="https://www.w3.org/TR/EC-related-activities/">
   <front>
     <title>W3C and Electronic Commerce</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="EC-related-activities"/>
 </reference>

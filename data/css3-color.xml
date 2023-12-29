@@ -1,6 +1,9 @@
 <reference anchor="W3C.css3-color" target="https://www.w3.org/TR/css3-color/">
   <front>
     <title>CSS Color Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="css3-color"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-htr-20221213" target="https://www.w3.org/TR/2022/NOTE-htr-20221213/">
   <front>
     <title>How EMVCo, FIDO, and W3C Technologies Relate</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ian Jacobs">
       <organization/>
     </author>

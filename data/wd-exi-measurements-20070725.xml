@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-exi-measurements-20070725" target="https://www.w3.org/TR/2007/WD-exi-measurements-20070725/">
   <front>
     <title>Efficient XML Interchange Measurements Note</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Don Brutzman">
       <organization/>
     </author>

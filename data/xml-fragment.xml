@@ -1,6 +1,9 @@
 <reference anchor="W3C.xml-fragment" target="https://www.w3.org/TR/xml-fragment">
   <front>
     <title>XML Fragment Interchange</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="xml-fragment"/>
 </reference>

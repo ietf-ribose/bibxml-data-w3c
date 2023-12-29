@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-owl-test-20040210" target="https://www.w3.org/TR/2004/REC-owl-test-20040210/">
   <front>
     <title>OWL Web Ontology Language Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeremy Carroll">
       <organization/>
     </author>

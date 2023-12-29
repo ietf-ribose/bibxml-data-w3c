@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-largest-contentful-paint-20230906" target="https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230906/">
   <front>
     <title>Largest Contentful Paint</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Nicolas Pena Moreno">
       <organization/>
     </author>

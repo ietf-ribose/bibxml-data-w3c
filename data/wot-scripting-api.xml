@@ -1,6 +1,9 @@
 <reference anchor="W3C.wot-scripting-api" target="https://www.w3.org/TR/wot-scripting-api/">
   <front>
     <title>Web of Things (WoT) Scripting API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="wot-scripting-api"/>
 </reference>

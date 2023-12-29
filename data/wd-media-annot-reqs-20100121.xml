@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-media-annot-reqs-20100121" target="https://www.w3.org/TR/2010/WD-media-annot-reqs-20100121/">
   <front>
     <title>Use Cases and Requirements for Ontology and API for Media Resource 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Felix Sasaki">
       <organization/>
     </author>

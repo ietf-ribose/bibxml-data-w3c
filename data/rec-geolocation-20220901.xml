@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-geolocation-20220901" target="https://www.w3.org/TR/2022/REC-geolocation-20220901/">
   <front>
     <title>Geolocation API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

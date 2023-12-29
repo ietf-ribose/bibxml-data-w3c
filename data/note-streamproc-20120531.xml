@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-streamproc-20120531" target="https://www.w3.org/TR/2012/NOTE-streamproc-20120531/">
   <front>
     <title>MediaStream Processing API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Robert O'Callahan">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.emma" target="https://www.w3.org/TR/emma/">
   <front>
     <title>EMMA: Extensible MultiModal Annotation markup language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="emma"/>
 </reference>

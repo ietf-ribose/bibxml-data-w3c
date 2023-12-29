@@ -1,6 +1,9 @@
 <reference anchor="W3C.webcgm21" target="https://www.w3.org/TR/webcgm21/">
   <front>
     <title>WebCGM 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="webcgm21"/>
 </reference>

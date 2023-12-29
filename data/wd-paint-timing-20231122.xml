@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-paint-timing-20231122" target="https://www.w3.org/TR/2023/WD-paint-timing-20231122/">
   <front>
     <title>Paint Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Nicolas Pena Moreno">
       <organization/>
     </author>

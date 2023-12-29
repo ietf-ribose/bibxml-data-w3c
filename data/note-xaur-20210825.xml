@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xaur-20210825" target="https://www.w3.org/TR/2021/NOTE-xaur-20210825/">
   <front>
     <title>XR Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Janina Sajka">
       <organization/>
     </author>

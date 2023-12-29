@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-soap12-mtom-20050125" target="https://www.w3.org/TR/2005/REC-soap12-mtom-20050125/">
   <front>
     <title>SOAP Message Transmission Optimization Mechanism</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Hervé Ruellan">
       <organization/>
     </author>

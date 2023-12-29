@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-DSIG-label-arch-970610" target="https://www.w3.org/TR/WD-DSIG-label-arch-970610">
   <front>
     <title>Digital Signature Label Architecture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Rohit Khare">
       <organization/>
     </author>

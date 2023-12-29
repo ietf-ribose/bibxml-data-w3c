@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xpath-full-text-10-20110317" target="https://www.w3.org/TR/2011/REC-xpath-full-text-10-20110317/">
   <front>
     <title>XQuery and XPath Full Text 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chavdar Botev">
       <organization/>
     </author>

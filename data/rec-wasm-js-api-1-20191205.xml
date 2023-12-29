@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-wasm-js-api-1-20191205" target="https://www.w3.org/TR/2019/REC-wasm-js-api-1-20191205/">
   <front>
     <title>WebAssembly JavaScript Interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Ehrenberg">
       <organization/>
     </author>

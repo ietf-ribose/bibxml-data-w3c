@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-edge-cloud-reqs-20230926" target="https://www.w3.org/TR/2023/DNOTE-edge-cloud-reqs-20230926/">
   <front>
     <title>Client-Edge-Cloud coordination Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dapeng(Max) Liu">
       <organization/>
     </author>

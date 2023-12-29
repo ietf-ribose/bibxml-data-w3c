@@ -1,6 +1,9 @@
 <reference anchor="W3C.core-aam-1.2" target="https://www.w3.org/TR/core-aam-1.2/">
   <front>
     <title>Core Accessibility API Mappings 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="core-aam-1.2"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.eo-qb" target="https://www.w3.org/TR/eo-qb/">
   <front>
     <title>Publishing and Using Earth Observation Data with the RDF Data Cube and the Discrete Global Grid System</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="eo-qb"/>
 </reference>

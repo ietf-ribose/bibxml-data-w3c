@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-css-namespaces-3-20140320" target="https://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/">
   <front>
     <title>CSS Namespaces Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>

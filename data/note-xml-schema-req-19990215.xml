@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xml-schema-req-19990215" target="https://www.w3.org/TR/1999/NOTE-xml-schema-req-19990215">
   <front>
     <title>XML Schema Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ashok Malhotra">
       <organization/>
     </author>

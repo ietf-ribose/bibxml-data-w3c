@@ -1,6 +1,9 @@
 <reference anchor="W3C.xforms-11-req" target="https://www.w3.org/TR/xforms-11-req/">
   <front>
     <title>XForms 1.1 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xforms-11-req"/>
 </reference>

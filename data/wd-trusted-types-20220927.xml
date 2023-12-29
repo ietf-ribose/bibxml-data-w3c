@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-trusted-types-20220927" target="https://www.w3.org/TR/2022/WD-trusted-types-20220927/">
   <front>
     <title>Trusted Types</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Krzysztof Kotowicz">
       <organization/>
     </author>

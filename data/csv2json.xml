@@ -1,6 +1,9 @@
 <reference anchor="W3C.csv2json" target="https://www.w3.org/TR/csv2json/">
   <front>
     <title>Generating JSON from Tabular Data on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="csv2json"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-vc-data-integrity-20231210" target="https://www.w3.org/TR/2023/CRD-vc-data-integrity-20231210/">
   <front>
     <title>Verifiable Credential Data Integrity 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dave Longley">
       <organization/>
     </author>

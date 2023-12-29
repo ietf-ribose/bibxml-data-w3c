@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-vocab-dcat-2-20200204" target="https://www.w3.org/TR/2020/REC-vocab-dcat-2-20200204/">
   <front>
     <title>Data Catalog Vocabulary (DCAT) - Version 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alejandra Gonzalez Beltran">
       <organization/>
     </author>

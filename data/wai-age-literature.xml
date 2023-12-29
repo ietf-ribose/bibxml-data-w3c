@@ -1,6 +1,9 @@
 <reference anchor="W3C.wai-age-literature" target="https://www.w3.org/TR/wai-age-literature/">
   <front>
     <title>Web Accessibility for Older Users: A Literature Review</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="wai-age-literature"/>
 </reference>

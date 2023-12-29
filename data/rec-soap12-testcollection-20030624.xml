@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-soap12-testcollection-20030624" target="https://www.w3.org/TR/2003/REC-soap12-testcollection-20030624/">
   <front>
     <title>SOAP Version 1.2 Specification Assertions and Test Collection</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Anish Karmarkar">
       <organization/>
     </author>

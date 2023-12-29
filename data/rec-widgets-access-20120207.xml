@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-widgets-access-20120207" target="https://www.w3.org/TR/2012/REC-widgets-access-20120207/">
   <front>
     <title>Widget Access Request Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>

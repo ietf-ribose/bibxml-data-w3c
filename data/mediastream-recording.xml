@@ -1,6 +1,9 @@
 <reference anchor="W3C.mediastream-recording" target="https://www.w3.org/TR/mediastream-recording/">
   <front>
     <title>MediaStream Recording</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="mediastream-recording"/>
 </reference>

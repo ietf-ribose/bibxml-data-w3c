@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-webintents-local-services-20140114" target="https://www.w3.org/TR/2014/NOTE-webintents-local-services-20140114/">
   <front>
     <title>Web Intents Addendum - Local Services</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Claes Nilsson">
       <organization/>
     </author>

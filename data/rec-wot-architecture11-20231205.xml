@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-wot-architecture11-20231205" target="https://www.w3.org/TR/2023/REC-wot-architecture11-20231205/">
   <front>
     <title>Web of Things (WoT) Architecture 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Kunihiko Toumura">
       <organization/>
     </author>

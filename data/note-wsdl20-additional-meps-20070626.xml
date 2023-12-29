@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-wsdl20-additional-meps-20070626" target="https://www.w3.org/TR/2007/NOTE-wsdl20-additional-meps-20070626/">
   <front>
     <title>Web Services Description Language (WSDL) Version 2.0: Additional MEPs</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Amelia Lewis">
       <organization/>
     </author>

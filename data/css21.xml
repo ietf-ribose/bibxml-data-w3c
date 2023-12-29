@@ -1,6 +1,9 @@
 <reference anchor="W3C.CSS21" target="https://www.w3.org/TR/CSS21/">
   <front>
     <title>Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="CSS21"/>
 </reference>

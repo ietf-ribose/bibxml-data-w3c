@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-xpath20req-20050603" target="https://www.w3.org/TR/2005/WD-xpath20req-20050603/">
   <front>
     <title>XPath Requirements Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="K Karun">
       <organization/>
     </author>

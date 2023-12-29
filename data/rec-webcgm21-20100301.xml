@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-webcgm21-20100301" target="https://www.w3.org/TR/2010/REC-webcgm21-20100301/">
   <front>
     <title>WebCGM 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Benoit Bezaire">
       <organization/>
     </author>

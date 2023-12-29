@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-speech-grammar-20040316" target="https://www.w3.org/TR/2004/REC-speech-grammar-20040316/">
   <front>
     <title>Speech Recognition Grammar Specification Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andrew Hunt">
       <organization/>
     </author>

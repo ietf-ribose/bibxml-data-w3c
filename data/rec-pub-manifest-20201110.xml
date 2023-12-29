@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-pub-manifest-20201110" target="https://www.w3.org/TR/2020/REC-pub-manifest-20201110/">
   <front>
     <title>Publication Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ivan Herman">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.webvtt1" target="https://www.w3.org/TR/webvtt1/">
   <front>
     <title>WebVTT: The Web Video Text Tracks Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="webvtt1"/>
 </reference>

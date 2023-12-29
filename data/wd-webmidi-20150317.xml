@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-webmidi-20150317" target="https://www.w3.org/TR/2015/WD-webmidi-20150317/">
   <front>
     <title>Web MIDI API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Wilson">
       <organization/>
     </author>

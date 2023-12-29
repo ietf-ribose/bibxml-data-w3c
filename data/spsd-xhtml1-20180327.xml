@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-xhtml1-20180327" target="https://www.w3.org/TR/2018/SPSD-xhtml1-20180327/">
   <front>
     <title>XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Steven Pemberton">
       <organization/>
     </author>

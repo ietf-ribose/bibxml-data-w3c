@@ -1,6 +1,9 @@
 <reference anchor="W3C.media-frags-recipes" target="https://www.w3.org/TR/media-frags-recipes/">
   <front>
     <title>Protocol for Media Fragments 1.0 Resolution in HTTP</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="media-frags-recipes"/>
 </reference>

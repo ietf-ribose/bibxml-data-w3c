@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-mse-byte-stream-format-webm-20161004" target="https://www.w3.org/TR/2016/NOTE-mse-byte-stream-format-webm-20161004/">
   <front>
     <title>WebM Byte Stream Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Aaron Colwell">
       <organization/>
     </author>

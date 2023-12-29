@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xforms-20031014" target="https://www.w3.org/TR/2003/REC-xforms-20031014/">
   <front>
     <title>XForms 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="L Klotz">
       <organization/>
     </author>

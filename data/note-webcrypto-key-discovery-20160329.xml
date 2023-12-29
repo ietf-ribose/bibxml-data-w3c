@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-webcrypto-key-discovery-20160329" target="https://www.w3.org/TR/2016/NOTE-webcrypto-key-discovery-20160329/">
   <front>
     <title>WebCrypto Key Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Mark Watson">
       <organization/>
     </author>

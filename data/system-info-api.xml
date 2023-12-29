@@ -1,6 +1,9 @@
 <reference anchor="W3C.system-info-api" target="https://www.w3.org/TR/system-info-api/">
   <front>
     <title>The System Information API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="system-info-api"/>
 </reference>

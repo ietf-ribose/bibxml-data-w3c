@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-page-visibility-20130514" target="https://www.w3.org/TR/2013/REC-page-visibility-20130514/">
   <front>
     <title>Page Visibility</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arvind Jain">
       <organization/>
     </author>

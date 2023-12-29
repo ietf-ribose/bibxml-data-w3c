@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-naur-20220903" target="https://www.w3.org/TR/2022/DNOTE-naur-20220903/">
   <front>
     <title>Natural Language Interface Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jason White">
       <organization/>
     </author>

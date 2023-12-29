@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-design-principles-20230907" target="https://www.w3.org/TR/2023/NOTE-design-principles-20230907/">
   <front>
     <title>Web Platform Design Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Sangwhan Moon">
       <organization/>
     </author>

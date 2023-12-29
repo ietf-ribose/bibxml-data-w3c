@@ -1,6 +1,9 @@
 <reference anchor="W3C.owl-ref" target="https://www.w3.org/TR/owl-ref/">
   <front>
     <title>OWL Web Ontology Language Reference</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="owl-ref"/>
 </reference>

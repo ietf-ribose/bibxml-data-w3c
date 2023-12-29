@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-DSig-label-20091124" target="https://www.w3.org/TR/2009/REC-DSig-label-20091124/">
   <front>
     <title>PICS Signed Labels (DSig) 1.0 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Brian LaMacchia">
       <organization/>
     </author>

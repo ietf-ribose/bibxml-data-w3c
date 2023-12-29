@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xmlschema-patterns-advanced-20090505" target="https://www.w3.org/TR/2009/NOTE-xmlschema-patterns-advanced-20090505/">
   <front>
     <title>Advanced XML Schema Patterns for Databinding Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="George Cowe">
       <organization/>
     </author>

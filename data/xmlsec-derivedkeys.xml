@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmlsec-derivedkeys" target="https://www.w3.org/TR/xmlsec-derivedkeys/">
   <front>
     <title>XML Security Derived Keys</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="xmlsec-derivedkeys"/>
 </reference>

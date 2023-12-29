@@ -1,6 +1,9 @@
 <reference anchor="W3C.csvw-html" target="https://www.w3.org/TR/csvw-html/">
   <front>
     <title>Embedding Tabular Metadata in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="csvw-html"/>
 </reference>

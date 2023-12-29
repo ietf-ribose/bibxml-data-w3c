@@ -1,6 +1,9 @@
 <reference anchor="W3C.dpub-accessibility" target="https://www.w3.org/TR/dpub-accessibility/">
   <front>
     <title>Digital Publishing and Accessibility in W3C Documents</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="dpub-accessibility"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.mmi-mcbp" target="https://www.w3.org/TR/mmi-mcbp/">
   <front>
     <title>Best practices for creating MMI Modality Components</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mmi-mcbp"/>
 </reference>

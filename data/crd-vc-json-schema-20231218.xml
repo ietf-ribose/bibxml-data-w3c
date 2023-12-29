@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-vc-json-schema-20231218" target="https://www.w3.org/TR/2023/CRD-vc-json-schema-20231218/">
   <front>
     <title>Verifiable Credentials JSON Schema Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andres Uribe">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-spec-variability-20050831" target="https://www.w3.org/TR/2005/NOTE-spec-variability-20050831/">
   <front>
     <title>Variability in Specifications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dominique Hazaël-Massieux">
       <organization/>
     </author>

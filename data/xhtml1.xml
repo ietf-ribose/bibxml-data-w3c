@@ -1,6 +1,9 @@
 <reference anchor="W3C.xhtml1" target="https://www.w3.org/TR/xhtml1/">
   <front>
     <title>XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xhtml1"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.CRD-rdf-canon-20231130" target="https://www.w3.org/TR/2023/CRD-rdf-canon-20231130/">
   <front>
     <title>RDF Dataset Canonicalization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dan Yamamoto">
       <organization/>
     </author>

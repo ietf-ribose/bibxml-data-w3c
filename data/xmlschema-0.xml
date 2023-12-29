@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmlschema-0" target="https://www.w3.org/TR/xmlschema-0/">
   <front>
     <title>XML Schema Part 0: Primer Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xmlschema-0"/>
 </reference>

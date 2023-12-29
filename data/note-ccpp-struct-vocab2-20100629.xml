@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-CCPP-struct-vocab2-20100629" target="https://www.w3.org/TR/2010/NOTE-CCPP-struct-vocab2-20100629/">
   <front>
     <title>Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Cédric Kiss">
       <organization/>
     </author>

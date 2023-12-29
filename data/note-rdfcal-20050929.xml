@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-rdfcal-20050929" target="https://www.w3.org/TR/2005/NOTE-rdfcal-20050929/">
   <front>
     <title>RDF Calendar - an application of the Resource Description Framework to iCalendar Data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Dan Connolly">
       <organization/>
     </author>

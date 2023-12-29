@@ -1,6 +1,9 @@
 <reference anchor="W3C.xml-events" target="https://www.w3.org/TR/xml-events/">
   <front>
     <title>XML Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xml-events"/>
 </reference>

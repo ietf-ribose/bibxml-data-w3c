@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-shadow-dom-20180301" target="https://www.w3.org/TR/2018/NOTE-shadow-dom-20180301/">
   <front>
     <title>Shadow DOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Hayato Ito">
       <organization/>
     </author>

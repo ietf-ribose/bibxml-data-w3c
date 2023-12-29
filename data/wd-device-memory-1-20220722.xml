@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-device-memory-1-20220722" target="https://www.w3.org/TR/2022/WD-device-memory-1-20220722/">
   <front>
     <title>Device Memory</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Shubhie Panicker">
       <organization/>
     </author>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-vc-jose-cose-20231221" target="https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/">
   <front>
     <title>Securing Verifiable Credentials using JOSE and COSE</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gabe Cohen">
       <organization/>
     </author>

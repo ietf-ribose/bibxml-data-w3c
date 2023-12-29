@@ -1,6 +1,9 @@
 <reference anchor="W3C.xmldsig-core" target="https://www.w3.org/TR/xmldsig-core/">
   <front>
     <title>XML Signature Syntax and Processing (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xmldsig-core"/>
 </reference>

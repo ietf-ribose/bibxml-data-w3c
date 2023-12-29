@@ -1,6 +1,9 @@
 <reference anchor="W3C.CR-SVG2-20181004" target="https://www.w3.org/TR/2018/CR-SVG2-20181004/">
   <front>
     <title>Scalable Vector Graphics (SVG) 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Amelia Bellamy-Royds">
       <organization/>
     </author>

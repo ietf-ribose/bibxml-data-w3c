@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-wai-aria-1.2-20230606" target="https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/">
   <front>
     <title>Accessible Rich Internet Applications (WAI-ARIA) 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Carolyn MacLeod">
       <organization/>
     </author>

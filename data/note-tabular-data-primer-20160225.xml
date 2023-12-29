@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-tabular-data-primer-20160225" target="https://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/">
   <front>
     <title>CSV on the Web: A Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jeni Tennison">
       <organization/>
     </author>

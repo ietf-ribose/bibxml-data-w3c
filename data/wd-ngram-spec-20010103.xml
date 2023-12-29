@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-ngram-spec-20010103" target="https://www.w3.org/TR/2001/WD-ngram-spec-20010103/">
   <front>
     <title>Stochastic Language Models (N-Gram) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Andreas Kellner">
       <organization/>
     </author>

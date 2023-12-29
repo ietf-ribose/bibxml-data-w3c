@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-vocab-adms-20130801" target="https://www.w3.org/TR/2013/NOTE-vocab-adms-20130801/">
   <front>
     <title>Asset Description Metadata Schema (ADMS)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Gofran Shukair">
       <organization/>
     </author>

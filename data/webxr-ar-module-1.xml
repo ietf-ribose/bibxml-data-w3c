@@ -1,6 +1,9 @@
 <reference anchor="W3C.webxr-ar-module-1" target="https://www.w3.org/TR/webxr-ar-module-1/">
   <front>
     <title>WebXR Augmented Reality Module - Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C CR" value="webxr-ar-module-1"/>
 </reference>

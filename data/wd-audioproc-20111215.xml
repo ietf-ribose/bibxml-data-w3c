@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-audioproc-20111215" target="https://www.w3.org/TR/2011/WD-audioproc-20111215/">
   <front>
     <title>Audio Processing API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Chris Rogers">
       <organization/>
     </author>

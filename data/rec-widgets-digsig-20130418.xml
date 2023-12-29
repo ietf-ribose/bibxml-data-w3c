@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-widgets-digsig-20130418" target="https://www.w3.org/TR/2013/REC-widgets-digsig-20130418/">
   <front>
     <title>XML Digital Signatures for Widgets</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Frederick Hirsch">
       <organization/>
     </author>

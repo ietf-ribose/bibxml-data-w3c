@@ -1,6 +1,9 @@
 <reference anchor="W3C.DNOTE-adapt-requirements-20220609" target="https://www.w3.org/TR/2022/DNOTE-adapt-requirements-20220609/">
   <front>
     <title>Requirements for WAI-Adapt specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Charles LaPierre">
       <organization/>
     </author>

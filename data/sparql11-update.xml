@@ -1,6 +1,9 @@
 <reference anchor="W3C.sparql11-update" target="https://www.w3.org/TR/sparql11-update/">
   <front>
     <title>SPARQL 1.1 Update</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="sparql11-update"/>
 </reference>

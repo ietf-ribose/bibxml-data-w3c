@@ -1,6 +1,9 @@
 <reference anchor="W3C.rif-core" target="https://www.w3.org/TR/rif-core/">
   <front>
     <title>RIF Core Dialect (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="rif-core"/>
 </reference>

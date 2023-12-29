@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-exi-20140211" target="https://www.w3.org/TR/2014/REC-exi-20140211/">
   <front>
     <title>Efficient XML Interchange (EXI) Format 1.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Daniel Peintner">
       <organization/>
     </author>

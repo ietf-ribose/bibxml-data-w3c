@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-DOM-Level-1-19981001" target="https://www.w3.org/TR/1998/REC-DOM-Level-1-19981001/">
   <front>
     <title>Document Object Model (DOM) Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Arnaud Le Hors">
       <organization/>
     </author>

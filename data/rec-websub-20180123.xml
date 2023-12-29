@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-websub-20180123" target="https://www.w3.org/TR/2018/REC-websub-20180123/">
   <front>
     <title>WebSub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Aaron Parecki">
       <organization/>
     </author>

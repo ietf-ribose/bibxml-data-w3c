@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-dpub-accessibility-20160503" target="https://www.w3.org/TR/2016/NOTE-dpub-accessibility-20160503/">
   <front>
     <title>Digital Publishing and Accessibility in W3C Documents</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Charles LaPierre">
       <organization/>
     </author>

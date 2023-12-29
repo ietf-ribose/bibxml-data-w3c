@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-hnreq-20111201" target="https://www.w3.org/TR/2011/NOTE-hnreq-20111201/">
   <front>
     <title>Requirements for Home Networking Scenarios</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Giuseppe Pascale">
       <organization/>
     </author>

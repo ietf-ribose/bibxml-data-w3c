@@ -1,6 +1,9 @@
 <reference anchor="W3C.owl2-dr-linear" target="https://www.w3.org/TR/owl2-dr-linear/">
   <front>
     <title>OWL 2 Web Ontology Language Data Range Extension: Linear Equations (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="owl2-dr-linear"/>
 </reference>

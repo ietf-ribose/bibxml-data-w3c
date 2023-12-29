@@ -1,6 +1,9 @@
 <reference anchor="W3C.pronunciation-explainer" target="https://www.w3.org/TR/pronunciation-explainer/">
   <front>
     <title>Explainer: Improving Spoken Presentation on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="pronunciation-explainer"/>
 </reference>

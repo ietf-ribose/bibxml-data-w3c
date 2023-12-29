@@ -1,6 +1,9 @@
 <reference anchor="W3C.xslt11req" target="https://www.w3.org/TR/xslt11req/">
   <front>
     <title>XSL Transformations Requirements Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C WD" value="xslt11req"/>
 </reference>

@@ -1,6 +1,9 @@
 <reference anchor="W3C.WD-wai-aria-practices-20160714" target="https://www.w3.org/TR/2016/WD-wai-aria-practices-20160714/">
   <front>
     <title>WAI-ARIA 1.0 Authoring Practices</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Joseph Scheuhammer">
       <organization/>
     </author>

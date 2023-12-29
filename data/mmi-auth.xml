@@ -1,6 +1,9 @@
 <reference anchor="W3C.mmi-auth" target="https://www.w3.org/TR/mmi-auth/">
   <front>
     <title>Authoring Applications for the Multimodal Architecture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="mmi-auth"/>
 </reference>

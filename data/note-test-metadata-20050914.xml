@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-test-metadata-20050914" target="https://www.w3.org/TR/2005/NOTE-test-metadata-20050914/">
   <front>
     <title>Test Metadata</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Karl Dubost">
       <organization/>
     </author>

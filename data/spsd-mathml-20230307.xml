@@ -1,6 +1,9 @@
 <reference anchor="W3C.SPSD-MathML-20230307" target="https://www.w3.org/TR/2023/SPSD-MathML-20230307/">
   <front>
     <title>Mathematical Markup Language (MathML™) 1.01 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Patrick D F Ion">
       <organization/>
     </author>

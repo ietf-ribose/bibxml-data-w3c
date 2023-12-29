@@ -1,6 +1,9 @@
 <reference anchor="W3C.REC-xop10-20050125" target="https://www.w3.org/TR/2005/REC-xop10-20050125/">
   <front>
     <title>XML-binary Optimized Packaging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Hervé Ruellan">
       <organization/>
     </author>

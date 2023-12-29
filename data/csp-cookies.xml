@@ -1,6 +1,9 @@
 <reference anchor="W3C.csp-cookies" target="https://www.w3.org/TR/csp-cookies/">
   <front>
     <title>Content Security Policy: Cookie Controls</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="csp-cookies"/>
 </reference>

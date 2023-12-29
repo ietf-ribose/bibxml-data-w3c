@@ -1,6 +1,9 @@
 <reference anchor="W3C.csvw-ucr" target="https://www.w3.org/TR/csvw-ucr/">
   <front>
     <title>CSV on the Web: Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C NOTE" value="csvw-ucr"/>
 </reference>

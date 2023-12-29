@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-xquery-update-10-use-cases-20110125" target="https://www.w3.org/TR/2011/NOTE-xquery-update-10-use-cases-20110125/">
   <front>
     <title>XQuery Update Facility 1.0 Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Ioana Manolescu">
       <organization/>
     </author>

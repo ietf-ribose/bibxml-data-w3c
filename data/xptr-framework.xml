@@ -1,6 +1,9 @@
 <reference anchor="W3C.xptr-framework" target="https://www.w3.org/TR/xptr-framework/">
   <front>
     <title>XPointer Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
   </front>
   <seriesInfo name="W3C REC" value="xptr-framework"/>
 </reference>

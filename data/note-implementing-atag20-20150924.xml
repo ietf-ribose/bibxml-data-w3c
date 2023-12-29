@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-IMPLEMENTING-ATAG20-20150924" target="https://www.w3.org/TR/2015/NOTE-IMPLEMENTING-ATAG20-20150924/">
   <front>
     <title>Implementing ATAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Jan Richards">
       <organization/>
     </author>

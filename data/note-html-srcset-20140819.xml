@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-html-srcset-20140819" target="https://www.w3.org/TR/2014/NOTE-html-srcset-20140819/">
   <front>
     <title>The srcset attribute</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Theresa O'Connor">
       <organization/>
     </author>

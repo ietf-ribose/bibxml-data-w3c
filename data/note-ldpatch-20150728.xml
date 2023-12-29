@@ -1,6 +1,9 @@
 <reference anchor="W3C.NOTE-ldpatch-20150728" target="https://www.w3.org/TR/2015/NOTE-ldpatch-20150728/">
   <front>
     <title>Linked Data Patch Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
     <author role="editor" fullname="Alexandre Bertails">
       <organization/>
     </author>
