@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-largest-contentful-paint-20230906" target="https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230906/">
+<reference anchor="W3C.WD-largest-contentful-paint-20240115" target="https://www.w3.org/TR/2024/WD-largest-contentful-paint-20240115/">
   <front>
     <title>Largest Contentful Paint</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2023" month="September" day="6"/>
+    <date year="2024" month="January" day="15"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-largest-contentful-paint-20230906"/>
+  <seriesInfo name="W3C WD" value="WD-largest-contentful-paint-20240115"/>
 </reference>
