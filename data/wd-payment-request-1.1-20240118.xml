@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-payment-request-1.1-20240116" target="https://www.w3.org/TR/2024/WD-payment-request-1.1-20240116/">
+<reference anchor="W3C.WD-payment-request-1.1-20240118" target="https://www.w3.org/TR/2024/WD-payment-request-1.1-20240118/">
   <front>
     <title>Payment Request API 1.1</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Rouslan Solomakhin">
       <organization/>
     </author>
-    <date year="2024" month="January" day="16"/>
+    <date year="2024" month="January" day="18"/>
     <workgroup>Web Payments Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-payment-request-1.1-20240116"/>
+  <seriesInfo name="W3C WD" value="WD-payment-request-1.1-20240118"/>
 </reference>
