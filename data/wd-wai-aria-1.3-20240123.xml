@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-wai-aria-1.3-20240123" target="https://www.w3.org/TR/2024/WD-wai-aria-1.3-20240123/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) 1.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Nurthen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Krautzberger">
+      <organization/>
+    </author>
+    <date year="2024" month="January" day="23"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-1.3-20240123"/>
+</reference>
