@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-pointerevents3-20240121" target="https://www.w3.org/TR/2024/WD-pointerevents3-20240121/">
+<reference anchor="W3C.WD-pointerevents3-20240201" target="https://www.w3.org/TR/2024/WD-pointerevents3-20240201/">
   <front>
     <title>Pointer Events</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Robert Flack">
       <organization/>
     </author>
-    <date year="2024" month="January" day="21"/>
+    <date year="2024" month="February" day="1"/>
     <workgroup>Pointer Events Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-pointerevents3-20240121"/>
+  <seriesInfo name="W3C WD" value="WD-pointerevents3-20240201"/>
 </reference>

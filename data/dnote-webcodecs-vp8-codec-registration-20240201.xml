@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-vp8-codec-registration-20240129" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-vp8-codec-registration-20240129/">
+<reference anchor="W3C.DNOTE-webcodecs-vp8-codec-registration-20240201" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-vp8-codec-registration-20240201/">
   <front>
     <title>VP8 WebCodecs Registration</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2024" month="January" day="29"/>
+    <date year="2024" month="February" day="1"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-vp8-codec-registration-20240129"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-vp8-codec-registration-20240201"/>
 </reference>
