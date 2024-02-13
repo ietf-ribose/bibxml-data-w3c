@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-dpub-aam-1.1-20240123" target="https://www.w3.org/TR/2024/WD-dpub-aam-1.1-20240123/">
+<reference anchor="W3C.WD-dpub-aria-1.1-20240213" target="https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240213/">
   <front>
-    <title>Digital Publishing Accessibility API Mappings 1.1</title>
+    <title>Digital Publishing WAI-ARIA Module 1.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Tzviya Siegman">
       <organization/>
     </author>
-    <date year="2024" month="January" day="23"/>
+    <date year="2024" month="February" day="13"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-dpub-aam-1.1-20240123"/>
+  <seriesInfo name="W3C WD" value="WD-dpub-aria-1.1-20240213"/>
 </reference>
