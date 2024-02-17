@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-wasm-web-api-2-20240216" target="https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240216/">
+<reference anchor="W3C.WD-wasm-web-api-2-20240217" target="https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240217/">
   <front>
     <title>WebAssembly Web API</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname=". Ms2ger">
       <organization/>
     </author>
-    <date year="2024" month="February" day="16"/>
+    <date year="2024" month="February" day="17"/>
     <workgroup>WebAssembly Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wasm-web-api-2-20240216"/>
+  <seriesInfo name="W3C WD" value="WD-wasm-web-api-2-20240217"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-longtasks-1-20240131" target="https://www.w3.org/TR/2024/WD-longtasks-1-20240131/">
+<reference anchor="W3C.WD-longtasks-1-20240216" target="https://www.w3.org/TR/2024/WD-longtasks-1-20240216/">
   <front>
     <title>Long Tasks API</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Noam Rosenthal">
       <organization/>
     </author>
-    <date year="2024" month="January" day="31"/>
+    <date year="2024" month="February" day="16"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-longtasks-1-20240131"/>
+  <seriesInfo name="W3C WD" value="WD-longtasks-1-20240216"/>
 </reference>
