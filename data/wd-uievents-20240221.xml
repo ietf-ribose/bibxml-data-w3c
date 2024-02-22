@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-uievents-20231204" target="https://www.w3.org/TR/2023/WD-uievents-20231204/">
+<reference anchor="W3C.WD-uievents-20240221" target="https://www.w3.org/TR/2024/WD-uievents-20240221/">
   <front>
     <title>UI Events</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Travis Leithead">
       <organization/>
     </author>
-    <date year="2023" month="December" day="4"/>
+    <date year="2024" month="February" day="21"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-uievents-20231204"/>
+  <seriesInfo name="W3C WD" value="WD-uievents-20240221"/>
 </reference>
