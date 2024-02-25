@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-vc-data-model-2.0-20240221" target="https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240221/">
+<reference anchor="W3C.CRD-vc-data-model-2.0-20240224" target="https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240224/">
   <front>
     <title>Verifiable Credentials Data Model v2.0</title>
     <author>
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Ted Thibodeau Jr">
       <organization/>
     </author>
-    <date year="2024" month="February" day="21"/>
+    <date year="2024" month="February" day="24"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-vc-data-model-2.0-20240221"/>
+  <seriesInfo name="W3C CR" value="CRD-vc-data-model-2.0-20240224"/>
 </reference>
