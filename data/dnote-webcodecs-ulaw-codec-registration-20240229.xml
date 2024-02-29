@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-ulaw-codec-registration-20240208" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-ulaw-codec-registration-20240208/">
+<reference anchor="W3C.DNOTE-webcodecs-ulaw-codec-registration-20240229" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-ulaw-codec-registration-20240229/">
   <front>
     <title>u-law PCM WebCodecs Registration</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2024" month="February" day="8"/>
+    <date year="2024" month="February" day="29"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-ulaw-codec-registration-20240208"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-ulaw-codec-registration-20240229"/>
 </reference>
