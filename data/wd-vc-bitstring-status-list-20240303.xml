@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-bitstring-status-list-20240204" target="https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240204/">
+<reference anchor="W3C.WD-vc-bitstring-status-list-20240303" target="https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240303/">
   <front>
     <title>Bitstring Status List v1.0</title>
     <author>
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Michael Prorock">
       <organization/>
     </author>
-    <date year="2024" month="February" day="4"/>
+    <date year="2024" month="March" day="3"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-bitstring-status-list-20240204"/>
+  <seriesInfo name="W3C WD" value="WD-vc-bitstring-status-list-20240303"/>
 </reference>

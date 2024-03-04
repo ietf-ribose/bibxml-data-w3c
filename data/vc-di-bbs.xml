@@ -1,6 +1,6 @@
 <reference anchor="W3C.vc-di-bbs" target="https://www.w3.org/TR/vc-di-bbs/">
   <front>
-    <title>BBS Cryptosuite v2023</title>
+    <title>Data Integrity BBS Cryptosuites v1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
