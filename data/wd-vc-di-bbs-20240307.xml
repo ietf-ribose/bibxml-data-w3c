@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-vc-di-bbs-20240303" target="https://www.w3.org/TR/2024/WD-vc-di-bbs-20240303/">
+<reference anchor="W3C.WD-vc-di-bbs-20240307" target="https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/">
   <front>
     <title>Data Integrity BBS Cryptosuites v1.0</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Manu Sporny">
       <organization/>
     </author>
-    <date year="2024" month="March" day="3"/>
+    <date year="2024" month="March" day="7"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-vc-di-bbs-20240303"/>
+  <seriesInfo name="W3C WD" value="WD-vc-di-bbs-20240307"/>
 </reference>
