@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-aac-codec-registration-20240318" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-aac-codec-registration-20240318/">
+<reference anchor="W3C.DNOTE-webcodecs-aac-codec-registration-20240319" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-aac-codec-registration-20240319/">
   <front>
     <title>AAC WebCodecs Registration</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2024" month="March" day="18"/>
+    <date year="2024" month="March" day="19"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-aac-codec-registration-20240318"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-aac-codec-registration-20240319"/>
 </reference>
