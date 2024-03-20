@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-epub-a11y-eaa-mapping-20231227" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20231227/">
+<reference anchor="W3C.NOTE-epub-a11y-eaa-mapping-20240320" target="https://www.w3.org/TR/2024/NOTE-epub-a11y-eaa-mapping-20240320/">
   <front>
     <title>EPUB Accessibility - EU Accessibility Act Mapping</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Gregorio Pellegrino">
       <organization/>
     </author>
-    <date year="2023" month="December" day="27"/>
+    <date year="2024" month="March" day="20"/>
     <workgroup>Publishing Maintenance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-eaa-mapping-20231227"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-eaa-mapping-20240320"/>
 </reference>
