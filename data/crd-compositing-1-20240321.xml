@@ -1,0 +1,14 @@
+<reference anchor="W3C.CRD-compositing-1-20240321" target="https://www.w3.org/TR/2024/CRD-compositing-1-20240321/">
+  <front>
+    <title>Compositing and Blending Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Harrelson">
+      <organization/>
+    </author>
+    <date year="2024" month="March" day="21"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-compositing-1-20240321"/>
+</reference>
