@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-string-meta-20240229" target="https://www.w3.org/TR/2024/DNOTE-string-meta-20240229/">
+<reference anchor="W3C.DNOTE-international-specs-20240321" target="https://www.w3.org/TR/2024/DNOTE-international-specs-20240321/">
   <front>
-    <title>Strings on the Web: Language and Direction Metadata</title>
+    <title>Internationalization Best Practices for Spec Developers</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="February" day="29"/>
+    <date year="2024" month="March" day="21"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-string-meta-20240229"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-international-specs-20240321"/>
 </reference>

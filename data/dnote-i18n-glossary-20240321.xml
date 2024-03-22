@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-i18n-glossary-20240208" target="https://www.w3.org/TR/2024/DNOTE-i18n-glossary-20240208/">
+<reference anchor="W3C.DNOTE-i18n-glossary-20240321" target="https://www.w3.org/TR/2024/DNOTE-i18n-glossary-20240321/">
   <front>
     <title>Internationalization Glossary</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="February" day="8"/>
+    <date year="2024" month="March" day="21"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-i18n-glossary-20240208"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-i18n-glossary-20240321"/>
 </reference>
