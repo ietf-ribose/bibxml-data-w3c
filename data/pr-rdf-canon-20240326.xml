@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-rdf-canon-20240311" target="https://www.w3.org/TR/2024/CRD-rdf-canon-20240311/">
+<reference anchor="W3C.PR-rdf-canon-20240326" target="https://www.w3.org/TR/2024/PR-rdf-canon-20240326/">
   <front>
     <title>RDF Dataset Canonicalization</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2024" month="March" day="11"/>
+    <date year="2024" month="March" day="26"/>
     <workgroup>RDF Dataset Canonicalization and Hash Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-rdf-canon-20240311"/>
+  <seriesInfo name="W3C PR" value="PR-rdf-canon-20240326"/>
 </reference>

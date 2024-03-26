@@ -1,9 +1,9 @@
-<reference anchor="W3C.xpath" target="https://www.w3.org/TR/xpath/">
+<reference anchor="W3C.xpath-10" target="https://www.w3.org/TR/xpath-10/">
   <front>
     <title>XML Path Language (XPath) Version 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xpath"/>
+  <seriesInfo name="W3C REC" value="xpath-10"/>
 </reference>
