@@ -1,4 +1,4 @@
-<reference anchor="W3C.CR-css-view-transitions-1-20230905" target="https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/">
+<reference anchor="W3C.CRD-css-view-transitions-1-20240328" target="https://www.w3.org/TR/2024/CRD-css-view-transitions-1-20240328/">
   <front>
     <title>CSS View Transitions Module Level 1</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Tab Atkins Jr.">
       <organization/>
     </author>
-    <date year="2023" month="September" day="5"/>
+    <date year="2024" month="March" day="28"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-css-view-transitions-1-20230905"/>
+  <seriesInfo name="W3C CR" value="CRD-css-view-transitions-1-20240328"/>
 </reference>
