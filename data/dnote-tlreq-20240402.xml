@@ -1,17 +1,14 @@
-<reference anchor="W3C.WD-tlreq-20200616" target="https://www.w3.org/TR/2020/WD-tlreq-20200616/">
+<reference anchor="W3C.DNOTE-tlreq-20240402" target="https://www.w3.org/TR/2024/DNOTE-tlreq-20240402/">
   <front>
     <title>Requirements for Tibetan Text Layout and Typography</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
-    <author role="editor" fullname="Chunming Hu">
-      <organization/>
-    </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2020" month="June" day="16"/>
+    <date year="2024" month="April" day="2"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-tlreq-20200616"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-tlreq-20240402"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-wasm-core-2-20240305" target="https://www.w3.org/TR/2024/WD-wasm-core-2-20240305/">
+<reference anchor="W3C.WD-wasm-core-2-20240403" target="https://www.w3.org/TR/2024/WD-wasm-core-2-20240403/">
   <front>
     <title>WebAssembly Core Specification</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Andreas Rossberg">
       <organization/>
     </author>
-    <date year="2024" month="March" day="5"/>
+    <date year="2024" month="April" day="3"/>
     <workgroup>WebAssembly Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wasm-core-2-20240305"/>
+  <seriesInfo name="W3C WD" value="WD-wasm-core-2-20240403"/>
 </reference>

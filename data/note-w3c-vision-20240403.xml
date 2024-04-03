@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-w3c-vision-20231026" target="https://www.w3.org/TR/2023/DNOTE-w3c-vision-20231026/">
+<reference anchor="W3C.NOTE-w3c-vision-20240403" target="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">
   <front>
     <title>Vision for W3C</title>
     <author>
@@ -7,7 +7,7 @@
     <author role="editor" fullname="Chris Wilson">
       <organization/>
     </author>
-    <date year="2023" month="October" day="26"/>
+    <date year="2024" month="April" day="3"/>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-w3c-vision-20231026"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-w3c-vision-20240403"/>
 </reference>
