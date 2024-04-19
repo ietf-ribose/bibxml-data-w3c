@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-schema-20230928" target="https://www.w3.org/TR/2023/WD-rdf12-schema-20230928/">
+<reference anchor="W3C.WD-rdf12-schema-20240418" target="https://www.w3.org/TR/2024/WD-rdf12-schema-20240418/">
   <front>
     <title>RDF 1.2 Schema</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Timothée Haudebourg">
       <organization/>
     </author>
-    <date year="2023" month="September" day="28"/>
+    <date year="2024" month="April" day="18"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-schema-20230928"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-schema-20240418"/>
 </reference>

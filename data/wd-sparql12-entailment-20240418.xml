@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-sparql12-entailment-20230615" target="https://www.w3.org/TR/2023/WD-sparql12-entailment-20230615/">
+<reference anchor="W3C.WD-sparql12-entailment-20240418" target="https://www.w3.org/TR/2024/WD-sparql12-entailment-20240418/">
   <front>
     <title>SPARQL 1.2 Entailment Regimes</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Peter Patel-Schneider">
       <organization/>
     </author>
-    <date year="2023" month="June" day="15"/>
+    <date year="2024" month="April" day="18"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-sparql12-entailment-20230615"/>
+  <seriesInfo name="W3C WD" value="WD-sparql12-entailment-20240418"/>
 </reference>
