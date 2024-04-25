@@ -1,4 +1,4 @@
-<reference anchor="W3C.PR-imsc-hrm-20240229" target="https://www.w3.org/TR/2024/PR-imsc-hrm-20240229/">
+<reference anchor="W3C.REC-imsc-hrm-20240425" target="https://www.w3.org/TR/2024/REC-imsc-hrm-20240425/">
   <front>
     <title>IMSC Hypothetical Render Model</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Pierre-Anthony Lemieux">
       <organization/>
     </author>
-    <date year="2024" month="February" day="29"/>
+    <date year="2024" month="April" day="25"/>
     <workgroup>Timed Text Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C PR" value="PR-imsc-hrm-20240229"/>
+  <seriesInfo name="W3C REC" value="REC-imsc-hrm-20240425"/>
 </reference>
