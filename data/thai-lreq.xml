@@ -1,0 +1,9 @@
+<reference anchor="W3C.thai-lreq" target="https://www.w3.org/TR/thai-lreq/">
+  <front>
+    <title>Thai Layout Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="thai-lreq"/>
+</reference>
