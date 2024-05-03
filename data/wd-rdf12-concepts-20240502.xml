@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-concepts-20240416" target="https://www.w3.org/TR/2024/WD-rdf12-concepts-20240416/">
+<reference anchor="W3C.WD-rdf12-concepts-20240502" target="https://www.w3.org/TR/2024/WD-rdf12-concepts-20240502/">
   <front>
     <title>RDF 1.2 Concepts and Abstract Syntax</title>
     <author>
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Pierre-Antoine Champin">
       <organization/>
     </author>
-    <date year="2024" month="April" day="16"/>
+    <date year="2024" month="May" day="2"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-concepts-20240416"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-concepts-20240502"/>
 </reference>

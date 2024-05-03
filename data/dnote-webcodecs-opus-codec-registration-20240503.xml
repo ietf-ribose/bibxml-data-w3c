@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-opus-codec-registration-20240419" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-opus-codec-registration-20240419/">
+<reference anchor="W3C.DNOTE-webcodecs-opus-codec-registration-20240503" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-opus-codec-registration-20240503/">
   <front>
     <title>Opus WebCodecs Registration</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2024" month="April" day="19"/>
+    <date year="2024" month="May" day="3"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-opus-codec-registration-20240419"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-opus-codec-registration-20240503"/>
 </reference>
