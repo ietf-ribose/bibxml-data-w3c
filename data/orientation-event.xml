@@ -1,6 +1,6 @@
 <reference anchor="W3C.orientation-event" target="https://www.w3.org/TR/orientation-event/">
   <front>
-    <title>DeviceOrientation Event Specification</title>
+    <title>Device Orientation and Motion</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
