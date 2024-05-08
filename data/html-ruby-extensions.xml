@@ -1,9 +1,9 @@
 <reference anchor="W3C.html-ruby-extensions" target="https://www.w3.org/TR/html-ruby-extensions/">
   <front>
-    <title>W3C HTML Ruby Markup Extensions</title>
+    <title>HTML Ruby Markup Extensions</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="html-ruby-extensions"/>
+  <seriesInfo name="W3C WD" value="html-ruby-extensions"/>
 </reference>
