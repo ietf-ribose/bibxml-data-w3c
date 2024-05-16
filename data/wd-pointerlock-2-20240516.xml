@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-pointerlock-2-20240508" target="https://www.w3.org/TR/2024/WD-pointerlock-2-20240508/">
+<reference anchor="W3C.WD-pointerlock-2-20240516" target="https://www.w3.org/TR/2024/WD-pointerlock-2-20240516/">
   <front>
     <title>Pointer Lock 2.0</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Vincent Scheib">
       <organization/>
     </author>
-    <date year="2024" month="May" day="8"/>
+    <date year="2024" month="May" day="16"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-pointerlock-2-20240508"/>
+  <seriesInfo name="W3C WD" value="WD-pointerlock-2-20240516"/>
 </reference>

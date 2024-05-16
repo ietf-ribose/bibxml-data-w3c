@@ -1,16 +1,16 @@
-<reference anchor="W3C.WD-appmanifest-20240502" target="https://www.w3.org/TR/2024/WD-appmanifest-20240502/">
+<reference anchor="W3C.WD-appmanifest-20240516" target="https://www.w3.org/TR/2024/WD-appmanifest-20240516/">
   <front>
     <title>Web Application Manifest</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
-    <author role="editor" fullname="Aaron Gustafson">
-      <organization/>
-    </author>
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>
     <author role="editor" fullname="Daniel Murphy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Diego Gonzalez-Zuniga">
       <organization/>
     </author>
     <author role="editor" fullname="Kenneth Christiansen">
@@ -22,8 +22,8 @@
     <author role="editor" fullname="Matt Giuca">
       <organization/>
     </author>
-    <date year="2024" month="May" day="2"/>
+    <date year="2024" month="May" day="16"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-appmanifest-20240502"/>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20240516"/>
 </reference>
