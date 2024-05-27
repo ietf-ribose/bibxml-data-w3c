@@ -1,0 +1,9 @@
+<reference anchor="W3C.xquery-10" target="https://www.w3.org/TR/xquery-10/">
+  <front>
+    <title>XQuery 1.0: An XML Query Language (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C REC" value="xquery-10"/>
+</reference>
