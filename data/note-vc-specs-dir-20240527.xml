@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-vc-specs-dir-20240201" target="https://www.w3.org/TR/2024/NOTE-vc-specs-dir-20240201/">
+<reference anchor="W3C.NOTE-vc-specs-dir-20240527" target="https://www.w3.org/TR/2024/NOTE-vc-specs-dir-20240527/">
   <front>
     <title>VC Specifications Directory</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Manu Sporny">
       <organization/>
     </author>
-    <date year="2024" month="February" day="1"/>
+    <date year="2024" month="May" day="27"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-vc-specs-dir-20240201"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-vc-specs-dir-20240527"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-wot-binding-templates-20230928" target="https://www.w3.org/TR/2023/NOTE-wot-binding-templates-20230928/">
+<reference anchor="W3C.NOTE-wot-binding-templates-20240528" target="https://www.w3.org/TR/2024/NOTE-wot-binding-templates-20240528/">
   <front>
     <title>Web of Things (WoT) Binding Templates</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Michael Koster">
       <organization/>
     </author>
-    <date year="2023" month="September" day="28"/>
+    <date year="2024" month="May" day="28"/>
     <workgroup>Web of Things Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-wot-binding-templates-20230928"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-wot-binding-templates-20240528"/>
 </reference>

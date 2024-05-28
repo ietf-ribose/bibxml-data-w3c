@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-wcag-3.0-20240516" target="https://www.w3.org/TR/2024/WD-wcag-3.0-20240516/">
+<reference anchor="W3C.WD-wcag-3.0-20240528" target="https://www.w3.org/TR/2024/WD-wcag-3.0-20240528/">
   <front>
     <title>W3C Accessibility Guidelines (WCAG) 3.0</title>
     <author>
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Rachael Bradley Montgomery">
       <organization/>
     </author>
-    <date year="2024" month="May" day="16"/>
+    <date year="2024" month="May" day="28"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wcag-3.0-20240516"/>
+  <seriesInfo name="W3C WD" value="WD-wcag-3.0-20240528"/>
 </reference>
