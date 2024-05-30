@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-epub-fxl-a11y-20240530" target="https://www.w3.org/TR/2024/NOTE-epub-fxl-a11y-20240530/">
+  <front>
+    <title>EPUB Fixed Layout Accessibility</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Wendy Reid">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="30"/>
+    <workgroup>Publishing Maintenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-fxl-a11y-20240530"/>
+</reference>

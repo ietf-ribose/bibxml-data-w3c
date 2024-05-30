@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-push-api-20231211" target="https://www.w3.org/TR/2023/WD-push-api-20231211/">
+<reference anchor="W3C.WD-push-api-20240530" target="https://www.w3.org/TR/2024/WD-push-api-20240530/">
   <front>
     <title>Push API</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Peter Beverloo">
       <organization/>
     </author>
-    <date year="2023" month="December" day="11"/>
+    <date year="2024" month="May" day="30"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-push-api-20231211"/>
+  <seriesInfo name="W3C WD" value="WD-push-api-20240530"/>
 </reference>
