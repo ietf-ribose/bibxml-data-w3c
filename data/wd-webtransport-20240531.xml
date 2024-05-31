@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webtransport-20231220" target="https://www.w3.org/TR/2023/WD-webtransport-20231220/">
+<reference anchor="W3C.WD-webtransport-20240531" target="https://www.w3.org/TR/2024/WD-webtransport-20240531/">
   <front>
     <title>WebTransport</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Victor Vasiliev">
       <organization/>
     </author>
-    <date year="2023" month="December" day="20"/>
+    <date year="2024" month="May" day="31"/>
     <workgroup>WebTransport Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webtransport-20231220"/>
+  <seriesInfo name="W3C WD" value="WD-webtransport-20240531"/>
 </reference>

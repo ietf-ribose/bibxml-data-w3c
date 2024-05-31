@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-ethical-web-principles-20240319" target="https://www.w3.org/TR/2024/DNOTE-ethical-web-principles-20240319/">
+<reference anchor="W3C.DNOTE-ethical-web-principles-20240531" target="https://www.w3.org/TR/2024/DNOTE-ethical-web-principles-20240531/">
   <front>
     <title>Ethical Web Principles</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Hadley Beeman">
       <organization/>
     </author>
-    <date year="2024" month="March" day="19"/>
+    <date year="2024" month="May" day="31"/>
     <workgroup>Technical Architecture Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-ethical-web-principles-20240319"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-ethical-web-principles-20240531"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-mediacapture-transform-20221020" target="https://www.w3.org/TR/2022/WD-mediacapture-transform-20221020/">
+<reference anchor="W3C.WD-mediacapture-transform-20240531" target="https://www.w3.org/TR/2024/WD-mediacapture-transform-20240531/">
   <front>
     <title>MediaStreamTrack Insertable Media Processing using Streams</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Harald Alvestrand">
       <organization/>
     </author>
-    <date year="2022" month="October" day="20"/>
+    <date year="2024" month="May" day="31"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-mediacapture-transform-20221020"/>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-transform-20240531"/>
 </reference>
