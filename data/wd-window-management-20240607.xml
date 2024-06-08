@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-window-management-20240401" target="https://www.w3.org/TR/2024/WD-window-management-20240401/">
+<reference anchor="W3C.WD-window-management-20240607" target="https://www.w3.org/TR/2024/WD-window-management-20240607/">
   <front>
     <title>Window Management</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Mike Wasserman">
       <organization/>
     </author>
-    <date year="2024" month="April" day="1"/>
+    <date year="2024" month="June" day="7"/>
     <workgroup>Second Screen Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-window-management-20240401"/>
+  <seriesInfo name="W3C WD" value="WD-window-management-20240607"/>
 </reference>
