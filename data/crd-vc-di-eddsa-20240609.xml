@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-vc-di-eddsa-20240303" target="https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20240303/">
+<reference anchor="W3C.CRD-vc-di-eddsa-20240609" target="https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20240609/">
   <front>
     <title>Data Integrity EdDSA Cryptosuites v1.0</title>
     <author>
@@ -16,8 +16,8 @@
     <author role="editor" fullname="Sebastian Crane">
       <organization/>
     </author>
-    <date year="2024" month="March" day="3"/>
+    <date year="2024" month="June" day="9"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-vc-di-eddsa-20240303"/>
+  <seriesInfo name="W3C CR" value="CRD-vc-di-eddsa-20240609"/>
 </reference>
