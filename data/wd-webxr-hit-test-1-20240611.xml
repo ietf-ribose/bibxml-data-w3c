@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webxr-hit-test-1-20220419" target="https://www.w3.org/TR/2022/WD-webxr-hit-test-1-20220419/">
+<reference anchor="W3C.WD-webxr-hit-test-1-20240611" target="https://www.w3.org/TR/2024/WD-webxr-hit-test-1-20240611/">
   <front>
     <title>WebXR Hit Test Module</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Piotr Bialecki">
       <organization/>
     </author>
-    <date year="2022" month="April" day="19"/>
+    <date year="2024" month="June" day="11"/>
     <workgroup>Immersive Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webxr-hit-test-1-20220419"/>
+  <seriesInfo name="W3C WD" value="WD-webxr-hit-test-1-20240611"/>
 </reference>
