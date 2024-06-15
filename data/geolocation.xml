@@ -1,6 +1,6 @@
 <reference anchor="W3C.geolocation" target="https://www.w3.org/TR/geolocation/">
   <front>
-    <title>Geolocation API</title>
+    <title>Geolocation</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
