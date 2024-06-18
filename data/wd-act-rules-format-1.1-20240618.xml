@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-act-rules-format-1.1-20240618" target="https://www.w3.org/TR/2024/WD-act-rules-format-1.1-20240618/">
+  <front>
+    <title>Accessibility Conformance Testing (ACT) Rules Format 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Montalvo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kathy Eng">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Trevor Bostic">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wilco Fiers">
+      <organization/>
+    </author>
+    <date year="2024" month="June" day="18"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-act-rules-format-1.1-20240618"/>
+</reference>

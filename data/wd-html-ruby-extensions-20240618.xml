@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-html-ruby-extensions-20240529" target="https://www.w3.org/TR/2024/WD-html-ruby-extensions-20240529/">
+<reference anchor="W3C.WD-html-ruby-extensions-20240618" target="https://www.w3.org/TR/2024/WD-html-ruby-extensions-20240618/">
   <front>
     <title>HTML Ruby Markup Extensions</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Florian Rivoal">
       <organization/>
     </author>
-    <date year="2024" month="May" day="29"/>
+    <date year="2024" month="June" day="18"/>
     <workgroup>HTML Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-html-ruby-extensions-20240529"/>
+  <seriesInfo name="W3C WD" value="WD-html-ruby-extensions-20240618"/>
 </reference>
