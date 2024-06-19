@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-trusted-types-20240618" target="https://www.w3.org/TR/2024/WD-trusted-types-20240618/">
+<reference anchor="W3C.WD-trusted-types-20240619" target="https://www.w3.org/TR/2024/WD-trusted-types-20240619/">
   <front>
     <title>Trusted Types</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Krzysztof Kotowicz">
       <organization/>
     </author>
-    <date year="2024" month="June" day="18"/>
+    <date year="2024" month="June" day="19"/>
     <workgroup>Web Application Security Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-trusted-types-20240618"/>
+  <seriesInfo name="W3C WD" value="WD-trusted-types-20240619"/>
 </reference>
