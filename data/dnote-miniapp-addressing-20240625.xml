@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-miniapp-addressing-20240131" target="https://www.w3.org/TR/2024/WD-miniapp-addressing-20240131/">
+<reference anchor="W3C.DNOTE-miniapp-addressing-20240625" target="https://www.w3.org/TR/2024/DNOTE-miniapp-addressing-20240625/">
   <front>
     <title>MiniApp Addressing</title>
     <author>
@@ -16,8 +16,8 @@
     <author role="editor" fullname="shuo wang">
       <organization/>
     </author>
-    <date year="2024" month="January" day="31"/>
+    <date year="2024" month="June" day="25"/>
     <workgroup>MiniApps Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-miniapp-addressing-20240131"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-miniapp-addressing-20240625"/>
 </reference>
