@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-semantics-20240418" target="https://www.w3.org/TR/2024/WD-rdf12-semantics-20240418/">
+<reference anchor="W3C.WD-rdf12-semantics-20240627" target="https://www.w3.org/TR/2024/WD-rdf12-semantics-20240627/">
   <front>
     <title>RDF 1.2 Semantics</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Timothée Haudebourg">
       <organization/>
     </author>
-    <date year="2024" month="April" day="18"/>
+    <date year="2024" month="June" day="27"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-semantics-20240418"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-semantics-20240627"/>
 </reference>
