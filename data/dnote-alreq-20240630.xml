@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-alreq-20240515" target="https://www.w3.org/TR/2024/DNOTE-alreq-20240515/">
+<reference anchor="W3C.DNOTE-alreq-20240630" target="https://www.w3.org/TR/2024/DNOTE-alreq-20240630/">
   <front>
     <title>Arabic &amp; Persian Layout Requirements</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="May" day="15"/>
+    <date year="2024" month="June" day="30"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-alreq-20240515"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-alreq-20240630"/>
 </reference>
