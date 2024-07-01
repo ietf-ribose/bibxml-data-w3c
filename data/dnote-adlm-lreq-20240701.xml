@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-adlm-lreq-20240530" target="https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240530/">
+<reference anchor="W3C.DNOTE-adlm-lreq-20240701" target="https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240701/">
   <front>
     <title>Adlam Layout Requirements</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="May" day="30"/>
+    <date year="2024" month="July" day="1"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-adlm-lreq-20240530"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-adlm-lreq-20240701"/>
 </reference>

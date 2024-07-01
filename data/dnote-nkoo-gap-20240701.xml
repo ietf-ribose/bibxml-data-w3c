@@ -1,14 +1,14 @@
-<reference anchor="W3C.DNOTE-beng-gap-20231004" target="https://www.w3.org/TR/2023/DNOTE-beng-gap-20231004/">
+<reference anchor="W3C.DNOTE-nkoo-gap-20240701" target="https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240701/">
   <front>
-    <title>Bengali Gap Analysis</title>
+    <title>N’Ko Gap Analysis</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="October" day="4"/>
+    <date year="2024" month="July" day="1"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-beng-gap-20231004"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-nkoo-gap-20240701"/>
 </reference>

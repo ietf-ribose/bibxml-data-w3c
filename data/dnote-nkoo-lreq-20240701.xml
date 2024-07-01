@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-nkoo-lreq-20240515" target="https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240515/">
+<reference anchor="W3C.DNOTE-nkoo-lreq-20240701" target="https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240701/">
   <front>
     <title>N’Ko Layout Requirements</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="May" day="15"/>
+    <date year="2024" month="July" day="1"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-nkoo-lreq-20240515"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-nkoo-lreq-20240701"/>
 </reference>
