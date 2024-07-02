@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-hebr-gap-20230807" target="https://www.w3.org/TR/2023/DNOTE-hebr-gap-20230807/">
+<reference anchor="W3C.DNOTE-hebr-gap-20240701" target="https://www.w3.org/TR/2024/DNOTE-hebr-gap-20240701/">
   <front>
     <title>Hebrew Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="August" day="7"/>
+    <date year="2024" month="July" day="1"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-hebr-gap-20230807"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-hebr-gap-20240701"/>
 </reference>

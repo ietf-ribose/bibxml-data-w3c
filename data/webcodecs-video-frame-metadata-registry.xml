@@ -1,0 +1,9 @@
+<reference anchor="W3C.webcodecs-video-frame-metadata-registry" target="https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/">
+  <front>
+    <title>WebCodecs VideoFrame Metadata Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="webcodecs-video-frame-metadata-registry"/>
+</reference>

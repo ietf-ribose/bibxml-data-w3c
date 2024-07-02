@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-arab-ug-gap-20231004" target="https://www.w3.org/TR/2023/DNOTE-arab-ug-gap-20231004/">
+<reference anchor="W3C.DNOTE-arab-ug-gap-20240702" target="https://www.w3.org/TR/2024/DNOTE-arab-ug-gap-20240702/">
   <front>
     <title>Uighur Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="October" day="4"/>
+    <date year="2024" month="July" day="2"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-arab-ug-gap-20231004"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-arab-ug-gap-20240702"/>
 </reference>
