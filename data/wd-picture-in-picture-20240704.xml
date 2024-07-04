@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-picture-in-picture-20240502" target="https://www.w3.org/TR/2024/WD-picture-in-picture-20240502/">
+<reference anchor="W3C.WD-picture-in-picture-20240704" target="https://www.w3.org/TR/2024/WD-picture-in-picture-20240704/">
   <front>
     <title>Picture-in-Picture</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Francois Beaufort">
       <organization/>
     </author>
-    <date year="2024" month="May" day="2"/>
+    <date year="2024" month="July" day="4"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-picture-in-picture-20240502"/>
+  <seriesInfo name="W3C WD" value="WD-picture-in-picture-20240704"/>
 </reference>

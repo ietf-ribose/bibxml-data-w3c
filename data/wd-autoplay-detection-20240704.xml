@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-autoplay-detection-20230210" target="https://www.w3.org/TR/2023/WD-autoplay-detection-20230210/">
+<reference anchor="W3C.WD-autoplay-detection-20240704" target="https://www.w3.org/TR/2024/WD-autoplay-detection-20240704/">
   <front>
     <title>Autoplay Policy Detection</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Alastor Wu">
       <organization/>
     </author>
-    <date year="2023" month="February" day="10"/>
+    <date year="2024" month="July" day="4"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-autoplay-detection-20230210"/>
+  <seriesInfo name="W3C WD" value="WD-autoplay-detection-20240704"/>
 </reference>
