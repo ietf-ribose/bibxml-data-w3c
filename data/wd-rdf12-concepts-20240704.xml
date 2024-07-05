@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-rdf12-concepts-20240704" target="https://www.w3.org/TR/2024/WD-rdf12-concepts-20240704/">
+  <front>
+    <title>RDF 1.2 Concepts and Abstract Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Seaborne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Olaf Hartig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pierre-Antoine Champin">
+      <organization/>
+    </author>
+    <date year="2024" month="July" day="4"/>
+    <workgroup>RDF-star Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf12-concepts-20240704"/>
+</reference>

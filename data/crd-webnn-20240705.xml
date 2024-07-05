@@ -1,0 +1,17 @@
+<reference anchor="W3C.CRD-webnn-20240705" target="https://www.w3.org/TR/2024/CRD-webnn-20240705/">
+  <front>
+    <title>Web Neural Network API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dwayne Robinson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ningxin Hu">
+      <organization/>
+    </author>
+    <date year="2024" month="July" day="5"/>
+    <workgroup>Web Machine Learning Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-webnn-20240705"/>
+</reference>

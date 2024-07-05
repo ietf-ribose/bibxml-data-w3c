@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-cans-iu-cr-gap-20240704" target="https://www.w3.org/TR/2024/DNOTE-cans-iu-cr-gap-20240704/">
+  <front>
+    <title>Inuktitut &amp; Cree Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2024" month="July" day="4"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-cans-iu-cr-gap-20240704"/>
+</reference>
