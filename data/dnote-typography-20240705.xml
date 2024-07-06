@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-typography-20240322" target="https://www.w3.org/TR/2024/DNOTE-typography-20240322/">
+<reference anchor="W3C.DNOTE-typography-20240705" target="https://www.w3.org/TR/2024/DNOTE-typography-20240705/">
   <front>
     <title>Language enablement index</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="March" day="22"/>
+    <date year="2024" month="July" day="5"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-typography-20240322"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-typography-20240705"/>
 </reference>
