@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-privacy-principles-20240511" target="https://www.w3.org/TR/2024/DNOTE-privacy-principles-20240511/">
+<reference anchor="W3C.DNOTE-privacy-principles-20240706" target="https://www.w3.org/TR/2024/DNOTE-privacy-principles-20240706/">
   <front>
     <title>Privacy Principles</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Robin Berjon">
       <organization/>
     </author>
-    <date year="2024" month="May" day="11"/>
+    <date year="2024" month="July" day="6"/>
     <workgroup>Technical Architecture Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-privacy-principles-20240511"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-privacy-principles-20240706"/>
 </reference>
