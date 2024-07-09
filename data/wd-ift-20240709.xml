@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-IFT-20230530" target="https://www.w3.org/TR/2023/WD-IFT-20230530/">
+<reference anchor="W3C.WD-IFT-20240709" target="https://www.w3.org/TR/2024/WD-IFT-20240709/">
   <front>
     <title>Incremental Font Transfer</title>
     <author>
@@ -10,11 +10,11 @@
     <author role="editor" fullname="Garret Rieger">
       <organization/>
     </author>
-    <author role="editor" fullname="Myles Maxfield">
+    <author role="editor" fullname="Skef Iterum">
       <organization/>
     </author>
-    <date year="2023" month="May" day="30"/>
+    <date year="2024" month="July" day="9"/>
     <workgroup>Web Fonts Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-IFT-20230530"/>
+  <seriesInfo name="W3C WD" value="WD-IFT-20240709"/>
 </reference>

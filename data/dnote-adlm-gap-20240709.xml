@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-adlm-gap-20240704" target="https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240704/">
+<reference anchor="W3C.DNOTE-adlm-gap-20240709" target="https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240709/">
   <front>
     <title>Adlam Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="July" day="4"/>
+    <date year="2024" month="July" day="9"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-adlm-gap-20240704"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-adlm-gap-20240709"/>
 </reference>
