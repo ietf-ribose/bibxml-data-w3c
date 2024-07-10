@@ -1,14 +1,14 @@
-<reference anchor="W3C.DNOTE-thai-gap-20240705" target="https://www.w3.org/TR/2024/DNOTE-thai-gap-20240705/">
+<reference anchor="W3C.DNOTE-laoo-lreq-20240710" target="https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240710/">
   <front>
-    <title>Thai Gap Analysis</title>
+    <title>Lao Script Resources</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="July" day="5"/>
+    <date year="2024" month="July" day="10"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-thai-gap-20240705"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-laoo-lreq-20240710"/>
 </reference>

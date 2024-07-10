@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-java-gap-20240705" target="https://www.w3.org/TR/2024/DNOTE-java-gap-20240705/">
+<reference anchor="W3C.DNOTE-java-gap-20240710" target="https://www.w3.org/TR/2024/DNOTE-java-gap-20240710/">
   <front>
     <title>Javanese Script Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="July" day="5"/>
+    <date year="2024" month="July" day="10"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-java-gap-20240705"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-java-gap-20240710"/>
 </reference>
