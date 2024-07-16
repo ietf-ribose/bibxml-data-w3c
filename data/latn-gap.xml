@@ -1,0 +1,9 @@
+<reference anchor="W3C.latn-gap" target="https://www.w3.org/TR/latn-gap/">
+  <front>
+    <title>Latin Script Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="latn-gap"/>
+</reference>
