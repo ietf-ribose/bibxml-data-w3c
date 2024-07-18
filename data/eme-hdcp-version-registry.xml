@@ -1,0 +1,9 @@
+<reference anchor="W3C.eme-hdcp-version-registry" target="https://www.w3.org/TR/eme-hdcp-version-registry/">
+  <front>
+    <title>Encrypted Media Extensions HDCP Version Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C technicalReport" value="eme-hdcp-version-registry"/>
+</reference>

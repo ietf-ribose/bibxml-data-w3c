@@ -5,5 +5,5 @@
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="eme-stream-registry"/>
+  <seriesInfo name="W3C technicalReport" value="eme-stream-registry"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.CR-png-3-20230921" target="https://www.w3.org/TR/2023/CR-png-3-20230921/">
+<reference anchor="W3C.CRD-png-3-20240718" target="https://www.w3.org/TR/2024/CRD-png-3-20240718/">
   <front>
     <title>Portable Network Graphics (PNG) Specification (Third Edition)</title>
     <author>
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Pierre-Anthony Lemieux">
       <organization/>
     </author>
-    <date year="2023" month="September" day="21"/>
+    <date year="2024" month="July" day="18"/>
     <workgroup>Portable Network Graphics (PNG) Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-png-3-20230921"/>
+  <seriesInfo name="W3C CR" value="CRD-png-3-20240718"/>
 </reference>

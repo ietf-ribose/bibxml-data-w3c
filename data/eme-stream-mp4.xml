@@ -1,6 +1,6 @@
 <reference anchor="W3C.eme-stream-mp4" target="https://www.w3.org/TR/eme-stream-mp4/">
   <front>
-    <title>ISO Common Encryption ('cenc') Protection Scheme for ISO Base Media File Format Stream Format</title>
+    <title>ISO Common Encryption Protection Scheme for ISO Base Media File Format Stream Format</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

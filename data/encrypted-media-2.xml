@@ -1,0 +1,9 @@
+<reference anchor="W3C.encrypted-media-2" target="https://www.w3.org/TR/encrypted-media-2/">
+  <front>
+    <title>Encrypted Media Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="encrypted-media-2"/>
+</reference>

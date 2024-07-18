@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-eme-stream-webm-20240718" target="https://www.w3.org/TR/2024/NOTE-eme-stream-webm-20240718/">
+  <front>
+    <title>WebM Stream Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Greg Freedman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joey Parrish">
+      <organization/>
+    </author>
+    <date year="2024" month="July" day="18"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-eme-stream-webm-20240718"/>
+</reference>

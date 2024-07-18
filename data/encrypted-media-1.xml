@@ -1,9 +1,9 @@
-<reference anchor="W3C.encrypted-media" target="https://www.w3.org/TR/encrypted-media/">
+<reference anchor="W3C.encrypted-media-1" target="https://www.w3.org/TR/encrypted-media-1/">
   <front>
     <title>Encrypted Media Extensions</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="encrypted-media"/>
+  <seriesInfo name="W3C REC" value="encrypted-media-1"/>
 </reference>
