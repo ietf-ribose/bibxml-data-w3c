@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-arab-ur-lreq-20240630" target="https://www.w3.org/TR/2024/DNOTE-arab-ur-lreq-20240630/">
+<reference anchor="W3C.DNOTE-arab-ur-lreq-20240719" target="https://www.w3.org/TR/2024/DNOTE-arab-ur-lreq-20240719/">
   <front>
     <title>Urdu Layout Requirements</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="June" day="30"/>
+    <date year="2024" month="July" day="19"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-arab-ur-lreq-20240630"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-arab-ur-lreq-20240719"/>
 </reference>
