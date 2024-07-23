@@ -1,0 +1,9 @@
+<reference anchor="W3C.deva-lreq" target="https://www.w3.org/TR/deva-lreq/">
+  <front>
+    <title>Devanagari Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="deva-lreq"/>
+</reference>

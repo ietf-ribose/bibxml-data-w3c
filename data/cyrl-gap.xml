@@ -1,0 +1,9 @@
+<reference anchor="W3C.cyrl-gap" target="https://www.w3.org/TR/cyrl-gap/">
+  <front>
+    <title>Cyrillic Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="cyrl-gap"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-mse-byte-stream-format-webm-20240718" target="https://www.w3.org/TR/2024/NOTE-mse-byte-stream-format-webm-20240718/">
+<reference anchor="W3C.NOTE-mse-byte-stream-format-webm-20240723" target="https://www.w3.org/TR/2024/NOTE-mse-byte-stream-format-webm-20240723/">
   <front>
     <title>WebM Byte Stream Format</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Chris Needham">
       <organization/>
     </author>
-    <date year="2024" month="July" day="18"/>
+    <date year="2024" month="July" day="23"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-mse-byte-stream-format-webm-20240718"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-mse-byte-stream-format-webm-20240723"/>
 </reference>

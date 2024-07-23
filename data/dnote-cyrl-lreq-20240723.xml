@@ -1,0 +1,11 @@
+<reference anchor="W3C.DNOTE-cyrl-lreq-20240723" target="https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20240723/">
+  <front>
+    <title>Cyrillic Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2024" month="July" day="23"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-cyrl-lreq-20240723"/>
+</reference>

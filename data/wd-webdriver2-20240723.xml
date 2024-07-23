@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webdriver2-20240717" target="https://www.w3.org/TR/2024/WD-webdriver2-20240717/">
+<reference anchor="W3C.WD-webdriver2-20240723" target="https://www.w3.org/TR/2024/WD-webdriver2-20240723/">
   <front>
     <title>WebDriver</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Simon Stewart">
       <organization/>
     </author>
-    <date year="2024" month="July" day="17"/>
+    <date year="2024" month="July" day="23"/>
     <workgroup>Browser Testing and Tools Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webdriver2-20240717"/>
+  <seriesInfo name="W3C WD" value="WD-webdriver2-20240723"/>
 </reference>
