@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-media-capabilities-20240718" target="https://www.w3.org/TR/2024/WD-media-capabilities-20240718/">
+<reference anchor="W3C.WD-media-capabilities-20240724" target="https://www.w3.org/TR/2024/WD-media-capabilities-20240724/">
   <front>
     <title>Media Capabilities</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Jean-Yves Avenard">
       <organization/>
     </author>
-    <date year="2024" month="July" day="18"/>
+    <date year="2024" month="July" day="24"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-media-capabilities-20240718"/>
+  <seriesInfo name="W3C WD" value="WD-media-capabilities-20240724"/>
 </reference>
