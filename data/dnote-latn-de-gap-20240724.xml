@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-latn-de-gap-20230614" target="https://www.w3.org/TR/2023/DNOTE-latn-de-gap-20230614/">
+<reference anchor="W3C.DNOTE-latn-de-gap-20240724" target="https://www.w3.org/TR/2024/DNOTE-latn-de-gap-20240724/">
   <front>
     <title>German Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="June" day="14"/>
+    <date year="2024" month="July" day="24"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-latn-de-gap-20230614"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-latn-de-gap-20240724"/>
 </reference>

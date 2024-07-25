@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-ilreq-taml-20240702" target="https://www.w3.org/TR/2024/DNOTE-ilreq-taml-20240702/">
+<reference anchor="W3C.DNOTE-ilreq-taml-20240724" target="https://www.w3.org/TR/2024/DNOTE-ilreq-taml-20240724/">
   <front>
     <title>Tamil Layout Requirements</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="July" day="2"/>
+    <date year="2024" month="July" day="24"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-ilreq-taml-20240702"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-ilreq-taml-20240724"/>
 </reference>
