@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-navigation-timing-2-20240307" target="https://www.w3.org/TR/2024/WD-navigation-timing-2-20240307/">
+<reference anchor="W3C.WD-navigation-timing-2-20240729" target="https://www.w3.org/TR/2024/WD-navigation-timing-2-20240729/">
   <front>
     <title>Navigation Timing Level 2</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2024" month="March" day="7"/>
+    <date year="2024" month="July" day="29"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20240307"/>
+  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20240729"/>
 </reference>
