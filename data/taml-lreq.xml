@@ -1,0 +1,9 @@
+<reference anchor="W3C.taml-lreq" target="https://www.w3.org/TR/taml-lreq/">
+  <front>
+    <title>Tamil Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="taml-lreq"/>
+</reference>

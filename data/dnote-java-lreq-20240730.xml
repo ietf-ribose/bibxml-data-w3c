@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-java-lreq-20240730" target="https://www.w3.org/TR/2024/DNOTE-java-lreq-20240730/">
+  <front>
+    <title>Javanese Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2024" month="July" day="30"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-java-lreq-20240730"/>
+</reference>

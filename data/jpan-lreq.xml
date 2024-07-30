@@ -1,0 +1,9 @@
+<reference anchor="W3C.jpan-lreq" target="https://www.w3.org/TR/jpan-lreq/">
+  <front>
+    <title>Japanese Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="jpan-lreq"/>
+</reference>

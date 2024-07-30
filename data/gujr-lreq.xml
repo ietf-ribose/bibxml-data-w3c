@@ -1,0 +1,9 @@
+<reference anchor="W3C.gujr-lreq" target="https://www.w3.org/TR/gujr-lreq/">
+  <front>
+    <title>Gujarati Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="gujr-lreq"/>
+</reference>

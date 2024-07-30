@@ -1,0 +1,9 @@
+<reference anchor="W3C.osge-lreq" target="https://www.w3.org/TR/osge-lreq/">
+  <front>
+    <title>Osage Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="osge-lreq"/>
+</reference>

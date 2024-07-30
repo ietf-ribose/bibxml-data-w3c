@@ -1,0 +1,9 @@
+<reference anchor="W3C.tibt-lreq" target="https://www.w3.org/TR/tibt-lreq/">
+  <front>
+    <title>Tibetan Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="tibt-lreq"/>
+</reference>

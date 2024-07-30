@@ -1,0 +1,9 @@
+<reference anchor="W3C.java-lreq" target="https://www.w3.org/TR/java-lreq/">
+  <front>
+    <title>Javanese Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="java-lreq"/>
+</reference>

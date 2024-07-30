@@ -1,0 +1,9 @@
+<reference anchor="W3C.cher-lreq" target="https://www.w3.org/TR/cher-lreq/">
+  <front>
+    <title>Cherokee Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="cher-lreq"/>
+</reference>
