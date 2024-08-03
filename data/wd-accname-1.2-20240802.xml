@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-accname-1.2-20240710" target="https://www.w3.org/TR/2024/WD-accname-1.2-20240710/">
+<reference anchor="W3C.WD-accname-1.2-20240802" target="https://www.w3.org/TR/2024/WD-accname-1.2-20240802/">
   <front>
     <title>Accessible Name and Description Computation 1.2</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Melanie Sumner">
       <organization/>
     </author>
-    <date year="2024" month="July" day="10"/>
+    <date year="2024" month="August" day="2"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-accname-1.2-20240710"/>
+  <seriesInfo name="W3C WD" value="WD-accname-1.2-20240802"/>
 </reference>
