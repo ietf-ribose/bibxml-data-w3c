@@ -1,0 +1,20 @@
+<reference anchor="W3C.CRD-payment-request-20240807" target="https://www.w3.org/TR/2024/CRD-payment-request-20240807/">
+  <front>
+    <title>Payment Request API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rouslan Solomakhin">
+      <organization/>
+    </author>
+    <date year="2024" month="August" day="7"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-payment-request-20240807"/>
+</reference>
