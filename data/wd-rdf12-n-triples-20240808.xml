@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-rdf12-turtle-20240801" target="https://www.w3.org/TR/2024/WD-rdf12-turtle-20240801/">
+<reference anchor="W3C.WD-rdf12-n-triples-20240808" target="https://www.w3.org/TR/2024/WD-rdf12-n-triples-20240808/">
   <front>
-    <title>RDF 1.2 Turtle</title>
+    <title>RDF 1.2 N-Triples</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2024" month="August" day="1"/>
+    <date year="2024" month="August" day="8"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-turtle-20240801"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-n-triples-20240808"/>
 </reference>

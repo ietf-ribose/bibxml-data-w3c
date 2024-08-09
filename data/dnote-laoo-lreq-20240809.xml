@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-laoo-lreq-20240710" target="https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240710/">
+<reference anchor="W3C.DNOTE-laoo-lreq-20240809" target="https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240809/">
   <front>
     <title>Lao Script Resources</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="July" day="10"/>
+    <date year="2024" month="August" day="9"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-laoo-lreq-20240710"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-laoo-lreq-20240809"/>
 </reference>

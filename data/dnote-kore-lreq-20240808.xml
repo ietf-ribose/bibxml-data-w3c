@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-kore-lreq-20240723" target="https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240723/">
+<reference anchor="W3C.DNOTE-kore-lreq-20240808" target="https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240808/">
   <front>
     <title>Korean Script Resources</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="July" day="23"/>
+    <date year="2024" month="August" day="8"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-kore-lreq-20240723"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-kore-lreq-20240808"/>
 </reference>
