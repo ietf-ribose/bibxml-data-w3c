@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-payment-request-20240807" target="https://www.w3.org/TR/2024/CRD-payment-request-20240807/">
+<reference anchor="W3C.CRD-payment-request-20240814" target="https://www.w3.org/TR/2024/CRD-payment-request-20240814/">
   <front>
     <title>Payment Request API</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Rouslan Solomakhin">
       <organization/>
     </author>
-    <date year="2024" month="August" day="7"/>
+    <date year="2024" month="August" day="14"/>
     <workgroup>Web Payments Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-payment-request-20240807"/>
+  <seriesInfo name="W3C CR" value="CRD-payment-request-20240814"/>
 </reference>
