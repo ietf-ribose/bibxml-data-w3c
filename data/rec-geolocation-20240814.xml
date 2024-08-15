@@ -1,0 +1,18 @@
+<reference anchor="W3C.REC-geolocation-20240814" target="https://www.w3.org/TR/2024/REC-geolocation-20240814/">
+  <front>
+    <title>Geolocation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Reilly Grant">
+      <organization/>
+    </author>
+    <date year="2024" month="August" day="14"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C REC" value="REC-geolocation-20240814"/>
+</reference>

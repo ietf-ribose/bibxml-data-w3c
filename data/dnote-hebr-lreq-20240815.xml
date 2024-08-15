@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-hebr-lreq-20240808" target="https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240808/">
+<reference anchor="W3C.DNOTE-hebr-lreq-20240815" target="https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240815/">
   <front>
     <title>Hebrew Script Resources</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="August" day="8"/>
+    <date year="2024" month="August" day="15"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-hebr-lreq-20240808"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-hebr-lreq-20240815"/>
 </reference>

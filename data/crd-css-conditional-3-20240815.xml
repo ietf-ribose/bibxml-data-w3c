@@ -1,4 +1,4 @@
-<reference anchor="W3C.CR-css-conditional-3-20220113" target="https://www.w3.org/TR/2022/CR-css-conditional-3-20220113/">
+<reference anchor="W3C.CRD-css-conditional-3-20240815" target="https://www.w3.org/TR/2024/CRD-css-conditional-3-20240815/">
   <front>
     <title>CSS Conditional Rules Module Level 3</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Elika Etemad">
       <organization/>
     </author>
-    <date year="2022" month="January" day="13"/>
+    <date year="2024" month="August" day="15"/>
     <workgroup>Cascading Style Sheets Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-css-conditional-3-20220113"/>
+  <seriesInfo name="W3C CR" value="CRD-css-conditional-3-20240815"/>
 </reference>
