@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-predefined-counter-styles-20230630" target="https://www.w3.org/TR/2023/NOTE-predefined-counter-styles-20230630/">
+<reference anchor="W3C.NOTE-predefined-counter-styles-20240815" target="https://www.w3.org/TR/2024/NOTE-predefined-counter-styles-20240815/">
   <front>
     <title>Ready-made Counter Styles</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2023" month="June" day="30"/>
+    <date year="2024" month="August" day="15"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-predefined-counter-styles-20230630"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-predefined-counter-styles-20240815"/>
 </reference>
