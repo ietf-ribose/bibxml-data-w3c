@@ -1,0 +1,9 @@
+<reference anchor="W3C.fedcm-1" target="https://www.w3.org/TR/fedcm-1/">
+  <front>
+    <title>Federated Credential Management API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="fedcm-1"/>
+</reference>
