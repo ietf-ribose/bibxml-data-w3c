@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-eme-initdata-keyids-20240718" target="https://www.w3.org/TR/2024/NOTE-eme-initdata-keyids-20240718/">
+<reference anchor="W3C.NOTE-eme-initdata-keyids-20240820" target="https://www.w3.org/TR/2024/NOTE-eme-initdata-keyids-20240820/">
   <front>
     <title>"keyids" Initialization Data Format</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Joey Parrish">
       <organization/>
     </author>
-    <date year="2024" month="July" day="18"/>
+    <date year="2024" month="August" day="20"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-eme-initdata-keyids-20240718"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-eme-initdata-keyids-20240820"/>
 </reference>
