@@ -1,4 +1,4 @@
-<reference anchor="W3C.PR-vocab-dcat-3-20240613" target="https://www.w3.org/TR/2024/PR-vocab-dcat-3-20240613/">
+<reference anchor="W3C.REC-vocab-dcat-3-20240822" target="https://www.w3.org/TR/2024/REC-vocab-dcat-3-20240822/">
   <front>
     <title>Data Catalog Vocabulary (DCAT) - Version 3</title>
     <author>
@@ -22,8 +22,8 @@
     <author role="editor" fullname="Simon Cox">
       <organization/>
     </author>
-    <date year="2024" month="June" day="13"/>
+    <date year="2024" month="August" day="22"/>
     <workgroup>Dataset Exchange Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C PR" value="PR-vocab-dcat-3-20240613"/>
+  <seriesInfo name="W3C REC" value="REC-vocab-dcat-3-20240822"/>
 </reference>
