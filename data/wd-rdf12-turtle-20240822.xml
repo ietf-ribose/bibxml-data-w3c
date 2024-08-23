@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-turtle-20240815" target="https://www.w3.org/TR/2024/WD-rdf12-turtle-20240815/">
+<reference anchor="W3C.WD-rdf12-turtle-20240822" target="https://www.w3.org/TR/2024/WD-rdf12-turtle-20240822/">
   <front>
     <title>RDF 1.2 Turtle</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2024" month="August" day="15"/>
+    <date year="2024" month="August" day="22"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-turtle-20240815"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-turtle-20240822"/>
 </reference>
