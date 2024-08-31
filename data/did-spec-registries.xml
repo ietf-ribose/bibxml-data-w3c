@@ -1,6 +1,6 @@
 <reference anchor="W3C.did-spec-registries" target="https://www.w3.org/TR/did-spec-registries/">
   <front>
-    <title>DID Specification Registries</title>
+    <title>Decentralized Identifier Extensions</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
