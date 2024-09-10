@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-webcodecs-hevc-codec-registration-20240717" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240717/">
+<reference anchor="W3C.DNOTE-webcodecs-hevc-codec-registration-20240909" target="https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240909/">
   <front>
     <title>HEVC (H.265) WebCodecs Registration</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2024" month="July" day="17"/>
+    <date year="2024" month="September" day="9"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-hevc-codec-registration-20240717"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-hevc-codec-registration-20240909"/>
 </reference>
