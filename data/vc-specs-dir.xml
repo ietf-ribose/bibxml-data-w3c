@@ -1,6 +1,6 @@
 <reference anchor="W3C.vc-specs-dir" target="https://www.w3.org/TR/vc-specs-dir/">
   <front>
-    <title>VC Specifications Directory</title>
+    <title>Verifiable Credential Extensions</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
