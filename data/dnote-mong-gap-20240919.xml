@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-mong-gap-20240919" target="https://www.w3.org/TR/2024/DNOTE-mong-gap-20240919/">
+  <front>
+    <title>Mongolian Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2024" month="September" day="19"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-mong-gap-20240919"/>
+</reference>
