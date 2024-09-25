@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webxr-dom-overlays-1-20221117" target="https://www.w3.org/TR/2022/WD-webxr-dom-overlays-1-20221117/">
+<reference anchor="W3C.WD-webxr-dom-overlays-1-20240924" target="https://www.w3.org/TR/2024/WD-webxr-dom-overlays-1-20240924/">
   <front>
     <title>WebXR DOM Overlays Module</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Piotr Bialecki">
       <organization/>
     </author>
-    <date year="2022" month="November" day="17"/>
+    <date year="2024" month="September" day="24"/>
     <workgroup>Immersive Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webxr-dom-overlays-1-20221117"/>
+  <seriesInfo name="W3C WD" value="WD-webxr-dom-overlays-1-20240924"/>
 </reference>
