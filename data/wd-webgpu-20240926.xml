@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webgpu-20240920" target="https://www.w3.org/TR/2024/WD-webgpu-20240920/">
+<reference anchor="W3C.WD-webgpu-20240926" target="https://www.w3.org/TR/2024/WD-webgpu-20240926/">
   <front>
     <title>WebGPU</title>
     <author>
@@ -13,7 +13,7 @@
     <author role="editor" fullname="Kai Ninomiya">
       <organization/>
     </author>
-    <date year="2024" month="September" day="20"/>
+    <date year="2024" month="September" day="26"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webgpu-20240920"/>
+  <seriesInfo name="W3C WD" value="WD-webgpu-20240926"/>
 </reference>
