@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-mediacapture-viewport-20220621" target="https://www.w3.org/TR/2022/WD-mediacapture-viewport-20220621/">
+<reference anchor="W3C.WD-mediacapture-viewport-20240926" target="https://www.w3.org/TR/2024/WD-mediacapture-viewport-20240926/">
   <front>
     <title>Viewport Capture</title>
     <author>
@@ -10,8 +10,11 @@
     <author role="editor" fullname="Jan-Ivar Bruaroey">
       <organization/>
     </author>
-    <date year="2022" month="June" day="21"/>
+    <author role="editor" fullname="Tove Petersson">
+      <organization/>
+    </author>
+    <date year="2024" month="September" day="26"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-mediacapture-viewport-20220621"/>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-viewport-20240926"/>
 </reference>
