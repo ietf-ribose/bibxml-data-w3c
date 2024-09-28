@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-selection-api-20240926" target="https://www.w3.org/TR/2024/WD-selection-api-20240926/">
+<reference anchor="W3C.WD-selection-api-20240927" target="https://www.w3.org/TR/2024/WD-selection-api-20240927/">
   <front>
     <title>Selection API</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Ryosuke Niwa">
       <organization/>
     </author>
-    <date year="2024" month="September" day="26"/>
+    <date year="2024" month="September" day="27"/>
     <workgroup>Web Editing Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-selection-api-20240926"/>
+  <seriesInfo name="W3C WD" value="WD-selection-api-20240927"/>
 </reference>
