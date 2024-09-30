@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-compute-pressure-20240919" target="https://www.w3.org/TR/2024/WD-compute-pressure-20240919/">
+<reference anchor="W3C.WD-compute-pressure-20240930" target="https://www.w3.org/TR/2024/WD-compute-pressure-20240930/">
   <front>
     <title>Compute Pressure Level 1</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Raphael Kubo da Costa">
       <organization/>
     </author>
-    <date year="2024" month="September" day="19"/>
+    <date year="2024" month="September" day="30"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-compute-pressure-20240919"/>
+  <seriesInfo name="W3C WD" value="WD-compute-pressure-20240930"/>
 </reference>
