@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-mediasession-20240926" target="https://www.w3.org/TR/2024/WD-mediasession-20240926/">
+<reference anchor="W3C.WD-mediasession-20240930" target="https://www.w3.org/TR/2024/WD-mediasession-20240930/">
   <front>
     <title>Media Session</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="youenn fablet">
       <organization/>
     </author>
-    <date year="2024" month="September" day="26"/>
+    <date year="2024" month="September" day="30"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-mediasession-20240926"/>
+  <seriesInfo name="W3C WD" value="WD-mediasession-20240930"/>
 </reference>
