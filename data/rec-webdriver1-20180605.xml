@@ -11,7 +11,6 @@
       <organization/>
     </author>
     <date year="2018" month="June" day="5"/>
-    <workgroup>Browser Testing and Tools Working Group</workgroup>
   </front>
   <seriesInfo name="W3C REC" value="REC-webdriver1-20180605"/>
 </reference>
