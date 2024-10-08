@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-wcag2ict-22-20240702" target="https://www.w3.org/TR/2024/DNOTE-wcag2ict-22-20240702/">
+<reference anchor="W3C.NOTE-wcag2ict-22-20241008" target="https://www.w3.org/TR/2024/NOTE-wcag2ict-22-20241008/">
   <front>
     <title>Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Phil Day">
       <organization/>
     </author>
-    <date year="2024" month="July" day="2"/>
+    <date year="2024" month="October" day="8"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-wcag2ict-22-20240702"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-wcag2ict-22-20241008"/>
 </reference>
