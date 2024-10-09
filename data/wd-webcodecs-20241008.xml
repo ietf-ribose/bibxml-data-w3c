@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webcodecs-20241004" target="https://www.w3.org/TR/2024/WD-webcodecs-20241004/">
+<reference anchor="W3C.WD-webcodecs-20241008" target="https://www.w3.org/TR/2024/WD-webcodecs-20241008/">
   <front>
     <title>WebCodecs</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2024" month="October" day="4"/>
+    <date year="2024" month="October" day="8"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webcodecs-20241004"/>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-20241008"/>
 </reference>

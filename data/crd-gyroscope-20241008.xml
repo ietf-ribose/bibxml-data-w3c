@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-gyroscope-20240108" target="https://www.w3.org/TR/2024/CRD-gyroscope-20240108/">
+<reference anchor="W3C.CRD-gyroscope-20241008" target="https://www.w3.org/TR/2024/CRD-gyroscope-20241008/">
   <front>
     <title>Gyroscope</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>
-    <date year="2024" month="January" day="8"/>
+    <date year="2024" month="October" day="8"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-gyroscope-20240108"/>
+  <seriesInfo name="W3C CR" value="CRD-gyroscope-20241008"/>
 </reference>
