@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-vc-jose-cose-20241004" target="https://www.w3.org/TR/2024/CRD-vc-jose-cose-20241004/">
+<reference anchor="W3C.CRD-vc-jose-cose-20241009" target="https://www.w3.org/TR/2024/CRD-vc-jose-cose-20241009/">
   <front>
     <title>Securing Verifiable Credentials using JOSE and COSE</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Michael Prorock">
       <organization/>
     </author>
-    <date year="2024" month="October" day="4"/>
+    <date year="2024" month="October" day="9"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-vc-jose-cose-20241004"/>
+  <seriesInfo name="W3C CR" value="CRD-vc-jose-cose-20241009"/>
 </reference>
