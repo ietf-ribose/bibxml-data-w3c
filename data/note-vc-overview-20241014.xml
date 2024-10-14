@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-vc-overview-20240919" target="https://www.w3.org/TR/2024/NOTE-vc-overview-20240919/">
+<reference anchor="W3C.NOTE-vc-overview-20241014" target="https://www.w3.org/TR/2024/NOTE-vc-overview-20241014/">
   <front>
     <title>Verifiable Credentials Overview</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Ivan Herman">
       <organization/>
     </author>
-    <date year="2024" month="September" day="19"/>
+    <date year="2024" month="October" day="14"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-vc-overview-20240919"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-vc-overview-20241014"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-sparql12-query-20240921" target="https://www.w3.org/TR/2024/WD-sparql12-query-20240921/">
+<reference anchor="W3C.WD-sparql12-query-20241013" target="https://www.w3.org/TR/2024/WD-sparql12-query-20241013/">
   <front>
     <title>SPARQL 1.2 Query Language</title>
     <author>
@@ -19,8 +19,8 @@
     <author role="editor" fullname="Thomas Pellissier Tanon">
       <organization/>
     </author>
-    <date year="2024" month="September" day="21"/>
+    <date year="2024" month="October" day="13"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-sparql12-query-20240921"/>
+  <seriesInfo name="W3C WD" value="WD-sparql12-query-20241013"/>
 </reference>
