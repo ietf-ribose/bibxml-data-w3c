@@ -1,0 +1,20 @@
+<reference anchor="W3C.REC-epub-rs-33-20241017" target="https://www.w3.org/TR/2024/REC-epub-rs-33-20241017/">
+  <front>
+    <title>EPUB Reading Systems 3.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Cramer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <date year="2024" month="October" day="17"/>
+    <workgroup>Publishing Maintenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C REC" value="REC-epub-rs-33-20241017"/>
+</reference>
