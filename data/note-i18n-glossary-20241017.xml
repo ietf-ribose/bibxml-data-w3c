@@ -1,6 +1,6 @@
-<reference anchor="W3C.DNOTE-international-specs-20240321" target="https://www.w3.org/TR/2024/DNOTE-international-specs-20240321/">
+<reference anchor="W3C.NOTE-i18n-glossary-20241017" target="https://www.w3.org/TR/2024/NOTE-i18n-glossary-20241017/">
   <front>
-    <title>Internationalization Best Practices for Spec Developers</title>
+    <title>Internationalization Glossary</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="March" day="21"/>
+    <date year="2024" month="October" day="17"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-international-specs-20240321"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-i18n-glossary-20241017"/>
 </reference>

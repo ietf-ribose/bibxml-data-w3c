@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-input-events-2-20240925" target="https://www.w3.org/TR/2024/WD-input-events-2-20240925/">
+<reference anchor="W3C.WD-input-events-2-20241018" target="https://www.w3.org/TR/2024/WD-input-events-2-20241018/">
   <front>
     <title>Input Events Level 2</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Johannes Wilm">
       <organization/>
     </author>
-    <date year="2024" month="September" day="25"/>
+    <date year="2024" month="October" day="18"/>
     <workgroup>Web Editing Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-input-events-2-20240925"/>
+  <seriesInfo name="W3C WD" value="WD-input-events-2-20241018"/>
 </reference>
