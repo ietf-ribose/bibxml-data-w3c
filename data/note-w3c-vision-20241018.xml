@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-w3c-vision-20241018" target="https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/">
+  <front>
+    <title>Vision for W3C</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Wilson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2024" month="October" day="18"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-w3c-vision-20241018"/>
+</reference>

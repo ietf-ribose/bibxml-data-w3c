@@ -1,0 +1,9 @@
+<reference anchor="W3C.S6Group2" target="https://www.w3.org/TR/S6Group2/">
+  <front>
+    <title>A Proposed Convention for Embedding Metadata in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="S6Group2"/>
+</reference>
