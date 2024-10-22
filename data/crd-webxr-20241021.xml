@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-webxr-20240927" target="https://www.w3.org/TR/2024/CRD-webxr-20240927/">
+<reference anchor="W3C.CRD-webxr-20241021" target="https://www.w3.org/TR/2024/CRD-webxr-20241021/">
   <front>
     <title>WebXR Device API</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Rik Cabanier">
       <organization/>
     </author>
-    <date year="2024" month="September" day="27"/>
+    <date year="2024" month="October" day="21"/>
     <workgroup>Immersive Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-webxr-20240927"/>
+  <seriesInfo name="W3C CR" value="CRD-webxr-20241021"/>
 </reference>
