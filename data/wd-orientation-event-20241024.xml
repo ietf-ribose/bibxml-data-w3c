@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-orientation-event-20240514" target="https://www.w3.org/TR/2024/WD-orientation-event-20240514/">
+<reference anchor="W3C.WD-orientation-event-20241024" target="https://www.w3.org/TR/2024/WD-orientation-event-20241024/">
   <front>
     <title>Device Orientation and Motion</title>
     <author>
@@ -7,15 +7,12 @@
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>
-    <author role="editor" fullname="Raphael Kubo da Costa">
-      <organization/>
-    </author>
     <author role="editor" fullname="Reilly Grant">
       <organization/>
     </author>
-    <date year="2024" month="May" day="14"/>
+    <date year="2024" month="October" day="24"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-orientation-event-20240514"/>
+  <seriesInfo name="W3C WD" value="WD-orientation-event-20241024"/>
 </reference>

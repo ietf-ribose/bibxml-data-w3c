@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-screen-wake-lock-20240527" target="https://www.w3.org/TR/2024/WD-screen-wake-lock-20240527/">
+<reference anchor="W3C.WD-screen-wake-lock-20241024" target="https://www.w3.org/TR/2024/WD-screen-wake-lock-20241024/">
   <front>
     <title>Screen Wake Lock API</title>
     <author>
@@ -10,12 +10,9 @@
     <author role="editor" fullname="Marcos Caceres">
       <organization/>
     </author>
-    <author role="editor" fullname="Raphael Kubo da Costa">
-      <organization/>
-    </author>
-    <date year="2024" month="May" day="27"/>
+    <date year="2024" month="October" day="24"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-screen-wake-lock-20240527"/>
+  <seriesInfo name="W3C WD" value="WD-screen-wake-lock-20241024"/>
 </reference>
