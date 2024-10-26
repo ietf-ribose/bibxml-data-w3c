@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-sparql12-update-20240829" target="https://www.w3.org/TR/2024/WD-sparql12-update-20240829/">
+<reference anchor="W3C.WD-sparql12-update-20241025" target="https://www.w3.org/TR/2024/WD-sparql12-update-20241025/">
   <front>
     <title>SPARQL 1.2 Update</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Thomas Pellissier Tanon">
       <organization/>
     </author>
-    <date year="2024" month="August" day="29"/>
+    <date year="2024" month="October" day="25"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-sparql12-update-20240829"/>
+  <seriesInfo name="W3C WD" value="WD-sparql12-update-20241025"/>
 </reference>
