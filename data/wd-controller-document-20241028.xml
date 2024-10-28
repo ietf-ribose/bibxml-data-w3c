@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-controller-document-20241020" target="https://www.w3.org/TR/2024/WD-controller-document-20241020/">
+<reference anchor="W3C.WD-controller-document-20241028" target="https://www.w3.org/TR/2024/WD-controller-document-20241028/">
   <front>
     <title>Controller Documents 1.0</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Michael Jones">
       <organization/>
     </author>
-    <date year="2024" month="October" day="20"/>
+    <date year="2024" month="October" day="28"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-controller-document-20241020"/>
+  <seriesInfo name="W3C WD" value="WD-controller-document-20241028"/>
 </reference>
