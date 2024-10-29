@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-mathml4-20220908" target="https://www.w3.org/TR/2022/WD-mathml4-20220908/">
+<reference anchor="W3C.WD-mathml4-20241028" target="https://www.w3.org/TR/2024/WD-mathml4-20241028/">
   <front>
     <title>Mathematical Markup Language (MathML) Version 4.0</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="David Carlisle">
       <organization/>
     </author>
-    <date year="2022" month="September" day="8"/>
+    <date year="2024" month="October" day="28"/>
     <workgroup>Math Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-mathml4-20220908"/>
+  <seriesInfo name="W3C WD" value="WD-mathml4-20241028"/>
 </reference>
