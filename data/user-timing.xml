@@ -1,6 +1,6 @@
 <reference anchor="W3C.user-timing" target="https://www.w3.org/TR/user-timing/">
   <front>
-    <title>User Timing Level 3</title>
+    <title>User Timing</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
