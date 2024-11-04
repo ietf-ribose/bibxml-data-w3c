@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-navigation-timing-2-20240729" target="https://www.w3.org/TR/2024/WD-navigation-timing-2-20240729/">
+<reference anchor="W3C.CRD-resource-timing-20241104" target="https://www.w3.org/TR/2024/CRD-resource-timing-20241104/">
   <front>
-    <title>Navigation Timing Level 2</title>
+    <title>Resource Timing</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2024" month="July" day="29"/>
+    <date year="2024" month="November" day="4"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20240729"/>
+  <seriesInfo name="W3C CR" value="CRD-resource-timing-20241104"/>
 </reference>
