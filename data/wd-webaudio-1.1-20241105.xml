@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webaudio-1.1-20241105" target="https://www.w3.org/TR/2024/WD-webaudio-1.1-20241105/">
+  <front>
+    <title>Web Audio API 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hongchan Choi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="5"/>
+    <workgroup>Audio Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webaudio-1.1-20241105"/>
+</reference>
