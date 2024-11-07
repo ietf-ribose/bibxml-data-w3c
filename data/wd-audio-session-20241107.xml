@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-audio-session-20241107" target="https://www.w3.org/TR/2024/WD-audio-session-20241107/">
+  <front>
+    <title>Audio Session</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alastor Wu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="youenn fablet">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="7"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-audio-session-20241107"/>
+</reference>

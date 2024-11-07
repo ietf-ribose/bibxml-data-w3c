@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-hr-time-3-20230719" target="https://www.w3.org/TR/2023/WD-hr-time-3-20230719/">
+<reference anchor="W3C.WD-hr-time-3-20241107" target="https://www.w3.org/TR/2024/WD-hr-time-3-20241107/">
   <front>
     <title>High Resolution Time</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Yoav Weiss">
       <organization/>
     </author>
-    <date year="2023" month="July" day="19"/>
+    <date year="2024" month="November" day="7"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-hr-time-3-20230719"/>
+  <seriesInfo name="W3C WD" value="WD-hr-time-3-20241107"/>
 </reference>
