@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-paint-timing-20240112" target="https://www.w3.org/TR/2024/WD-paint-timing-20240112/">
+<reference anchor="W3C.WD-paint-timing-20241111" target="https://www.w3.org/TR/2024/WD-paint-timing-20241111/">
   <front>
     <title>Paint Timing</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Noam Rosenthal">
       <organization/>
     </author>
-    <date year="2024" month="January" day="12"/>
+    <date year="2024" month="November" day="11"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-paint-timing-20240112"/>
+  <seriesInfo name="W3C WD" value="WD-paint-timing-20241111"/>
 </reference>
