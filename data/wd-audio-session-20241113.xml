@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-audio-session-20241107" target="https://www.w3.org/TR/2024/WD-audio-session-20241107/">
+<reference anchor="W3C.WD-audio-session-20241113" target="https://www.w3.org/TR/2024/WD-audio-session-20241113/">
   <front>
     <title>Audio Session</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="youenn fablet">
       <organization/>
     </author>
-    <date year="2024" month="November" day="7"/>
+    <date year="2024" month="November" day="13"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-audio-session-20241107"/>
+  <seriesInfo name="W3C WD" value="WD-audio-session-20241113"/>
 </reference>
