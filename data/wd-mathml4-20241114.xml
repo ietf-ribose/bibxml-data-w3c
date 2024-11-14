@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mathml4-20241114" target="https://www.w3.org/TR/2024/WD-mathml4-20241114/">
+  <front>
+    <title>Mathematical Markup Language (MathML) Version 4.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="14"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mathml4-20241114"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-guru-lreq-20241114" target="https://www.w3.org/TR/2024/DNOTE-guru-lreq-20241114/">
+  <front>
+    <title>Gurmukhi Script Resources</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="14"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-guru-lreq-20241114"/>
+</reference>

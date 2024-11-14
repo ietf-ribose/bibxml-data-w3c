@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-largest-contentful-paint-20241113" target="https://www.w3.org/TR/2024/WD-largest-contentful-paint-20241113/">
+  <front>
+    <title>Largest Contentful Paint</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Nicolas Pena Moreno">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yoav Weiss">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="13"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-largest-contentful-paint-20241113"/>
+</reference>
