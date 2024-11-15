@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-jpan-lreq-20241114" target="https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20241114/">
+<reference anchor="W3C.DNOTE-jpan-lreq-20241115" target="https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20241115/">
   <front>
     <title>Japanese Script Resources</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="November" day="14"/>
+    <date year="2024" month="November" day="15"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-jpan-lreq-20241114"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-jpan-lreq-20241115"/>
 </reference>
