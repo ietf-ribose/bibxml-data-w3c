@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-did-extensions-properties-20241119" target="https://www.w3.org/TR/2024/NOTE-did-extensions-properties-20241119/">
+  <front>
+    <title>DID Document Property Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Sabadello">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="19"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-did-extensions-properties-20241119"/>
+</reference>

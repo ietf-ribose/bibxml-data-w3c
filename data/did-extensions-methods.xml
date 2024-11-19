@@ -1,0 +1,9 @@
+<reference anchor="W3C.did-extensions-methods" target="https://www.w3.org/TR/did-extensions-methods/">
+  <front>
+    <title>DID Methods</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="did-extensions-methods"/>
+</reference>
