@@ -1,9 +1,9 @@
-<reference anchor="W3C.webaudio" target="https://www.w3.org/TR/webaudio/">
+<reference anchor="W3C.webaudio-1.0" target="https://www.w3.org/TR/webaudio-1.0/">
   <front>
     <title>Web Audio API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="webaudio"/>
+  <seriesInfo name="W3C REC" value="webaudio-1.0"/>
 </reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-edit-context-20241119" target="https://www.w3.org/TR/2024/WD-edit-context-20241119/">
+  <front>
+    <title>EditContext API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anupam Snigdha">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Clark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="alex keng">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="19"/>
+    <workgroup>Web Editing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-edit-context-20241119"/>
+</reference>
