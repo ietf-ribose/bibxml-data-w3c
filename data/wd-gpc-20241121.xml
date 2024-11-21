@@ -1,0 +1,22 @@
+<reference anchor="W3C.WD-gpc-20241121" target="https://www.w3.org/TR/2024/WD-gpc-20241121/">
+  <front>
+    <title>Global Privacy Control (GPC)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aram Zucker-Scharff">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Justin Brookman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Snyder">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Zimmeck">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="21"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-gpc-20241121"/>
+</reference>

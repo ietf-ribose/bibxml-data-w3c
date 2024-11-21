@@ -1,0 +1,9 @@
+<reference anchor="W3C.gpc" target="https://www.w3.org/TR/gpc/">
+  <front>
+    <title>Global Privacy Control (GPC)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="gpc"/>
+</reference>
