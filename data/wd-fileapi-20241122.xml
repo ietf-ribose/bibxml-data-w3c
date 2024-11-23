@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-FileAPI-20241024" target="https://www.w3.org/TR/2024/WD-FileAPI-20241024/">
+<reference anchor="W3C.WD-FileAPI-20241122" target="https://www.w3.org/TR/2024/WD-FileAPI-20241122/">
   <front>
     <title>File API</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Marijn Kruisselbrink">
       <organization/>
     </author>
-    <date year="2024" month="October" day="24"/>
+    <date year="2024" month="November" day="22"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-FileAPI-20241024"/>
+  <seriesInfo name="W3C WD" value="WD-FileAPI-20241122"/>
 </reference>

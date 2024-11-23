@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-timezone-20241122" target="https://www.w3.org/TR/2024/DNOTE-timezone-20241122/">
+  <front>
+    <title>Working with Time and Timezones</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="22"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-timezone-20241122"/>
+</reference>
