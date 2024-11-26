@@ -1,6 +1,6 @@
-<reference anchor="W3C.CR-uievents-code-20230530" target="https://www.w3.org/TR/2023/CR-uievents-code-20230530/">
+<reference anchor="W3C.PR-uievents-key-20241126" target="https://www.w3.org/TR/2024/PR-uievents-key-20241126/">
   <front>
-    <title>UI Events KeyboardEvent code Values</title>
+    <title>UI Events KeyboardEvent key Values</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Travis Leithead">
       <organization/>
     </author>
-    <date year="2023" month="May" day="30"/>
+    <date year="2024" month="November" day="26"/>
     <workgroup>Web Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-uievents-code-20230530"/>
+  <seriesInfo name="W3C PR" value="PR-uievents-key-20241126"/>
 </reference>
