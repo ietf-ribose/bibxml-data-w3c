@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-did-resolution-20241128" target="https://www.w3.org/TR/2024/WD-did-resolution-20241128/">
+  <front>
+    <title>Decentralized Identifier (DID) Resolution and DID URL Dereferencing v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dmitri Zagidulin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Sabadello">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="28"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-did-resolution-20241128"/>
+</reference>

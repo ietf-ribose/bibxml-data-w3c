@@ -1,6 +1,6 @@
 <reference anchor="W3C.vibration" target="https://www.w3.org/TR/vibration/">
   <front>
-    <title>Vibration API (Second Edition)</title>
+    <title>Vibration API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

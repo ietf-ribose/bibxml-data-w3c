@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-vibration-20241128" target="https://www.w3.org/TR/2024/CR-vibration-20241128/">
+  <front>
+    <title>Vibration API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2024" month="November" day="28"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-vibration-20241128"/>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-pointerevents4-20241128" target="https://www.w3.org/TR/2024/WD-pointerevents4-20241128/">
+  <front>
+    <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2024" month="November" day="28"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerevents4-20241128"/>
+</reference>
