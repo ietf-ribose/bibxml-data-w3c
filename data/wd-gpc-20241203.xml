@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-gpc-20241122" target="https://www.w3.org/TR/2024/WD-gpc-20241122/">
+<reference anchor="W3C.WD-gpc-20241203" target="https://www.w3.org/TR/2024/WD-gpc-20241203/">
   <front>
     <title>Global Privacy Control (GPC)</title>
     <author>
@@ -16,7 +16,7 @@
     <author role="editor" fullname="Sebastian Zimmeck">
       <organization/>
     </author>
-    <date year="2024" month="November" day="22"/>
+    <date year="2024" month="December" day="3"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-gpc-20241122"/>
+  <seriesInfo name="W3C WD" value="WD-gpc-20241203"/>
 </reference>
