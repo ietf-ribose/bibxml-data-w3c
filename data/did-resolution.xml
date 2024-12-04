@@ -1,6 +1,6 @@
 <reference anchor="W3C.did-resolution" target="https://www.w3.org/TR/did-resolution/">
   <front>
-    <title>Decentralized Identifier (DID) Resolution and DID URL Dereferencing v1.0</title>
+    <title>Decentralized Identifier Resolution (DID Resolution) v0.3</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
