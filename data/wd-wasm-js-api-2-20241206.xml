@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-wasm-js-api-2-20241130" target="https://www.w3.org/TR/2024/WD-wasm-js-api-2-20241130/">
+<reference anchor="W3C.WD-wasm-js-api-2-20241206" target="https://www.w3.org/TR/2024/WD-wasm-js-api-2-20241206/">
   <front>
     <title>WebAssembly JavaScript Interface</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname=". Ms2ger">
       <organization/>
     </author>
-    <date year="2024" month="November" day="30"/>
+    <date year="2024" month="December" day="6"/>
     <workgroup>WebAssembly Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wasm-js-api-2-20241130"/>
+  <seriesInfo name="W3C WD" value="WD-wasm-js-api-2-20241206"/>
 </reference>
