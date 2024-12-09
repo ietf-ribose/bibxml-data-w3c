@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-controller-document-20241130" target="https://www.w3.org/TR/2024/WD-controller-document-20241130/">
+<reference anchor="W3C.WD-controller-document-20241209" target="https://www.w3.org/TR/2024/WD-controller-document-20241209/">
   <front>
-    <title>Controller Documents 1.0</title>
+    <title>Controlled Identifier Document 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Michael Jones">
       <organization/>
     </author>
-    <date year="2024" month="November" day="30"/>
+    <date year="2024" month="December" day="9"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-controller-document-20241130"/>
+  <seriesInfo name="W3C WD" value="WD-controller-document-20241209"/>
 </reference>
