@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-openscreen-network-20241210" target="https://www.w3.org/TR/2024/WD-openscreen-network-20241210/">
+  <front>
+    <title>Open Screen Network Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Foltz">
+      <organization/>
+    </author>
+    <date year="2024" month="December" day="10"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-openscreen-network-20241210"/>
+</reference>

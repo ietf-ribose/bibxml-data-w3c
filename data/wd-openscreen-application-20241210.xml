@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-openscreen-application-20241210" target="https://www.w3.org/TR/2024/WD-openscreen-application-20241210/">
+  <front>
+    <title>Open Screen Application Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Foltz">
+      <organization/>
+    </author>
+    <date year="2024" month="December" day="10"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-openscreen-application-20241210"/>
+</reference>

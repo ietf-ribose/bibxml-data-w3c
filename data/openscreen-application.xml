@@ -1,0 +1,9 @@
+<reference anchor="W3C.openscreen-application" target="https://www.w3.org/TR/openscreen-application/">
+  <front>
+    <title>Open Screen Application Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="openscreen-application"/>
+</reference>
