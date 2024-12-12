@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-wcag-3.0-20240528" target="https://www.w3.org/TR/2024/WD-wcag-3.0-20240528/">
+<reference anchor="W3C.DNOTE-wcag-3.0-requirements-20241212" target="https://www.w3.org/TR/2024/DNOTE-wcag-3.0-requirements-20241212/">
   <front>
-    <title>W3C Accessibility Guidelines (WCAG) 3.0</title>
+    <title>Requirements for WCAG 3.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -8,6 +8,9 @@
       <organization/>
     </author>
     <author role="editor" fullname="Charles Adams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Francis Storr">
       <organization/>
     </author>
     <author role="editor" fullname="Jeanne F Spellman">
@@ -19,8 +22,8 @@
     <author role="editor" fullname="Rachael Bradley Montgomery">
       <organization/>
     </author>
-    <date year="2024" month="May" day="28"/>
+    <date year="2024" month="December" day="12"/>
     <workgroup>Accessibility Guidelines Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-wcag-3.0-20240528"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-wcag-3.0-requirements-20241212"/>
 </reference>

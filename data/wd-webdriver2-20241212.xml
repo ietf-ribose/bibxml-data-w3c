@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webdriver2-20241205" target="https://www.w3.org/TR/2024/WD-webdriver2-20241205/">
+<reference anchor="W3C.WD-webdriver2-20241212" target="https://www.w3.org/TR/2024/WD-webdriver2-20241212/">
   <front>
     <title>WebDriver</title>
     <author>
@@ -10,7 +10,7 @@
     <author role="editor" fullname="Simon Stewart">
       <organization/>
     </author>
-    <date year="2024" month="December" day="5"/>
+    <date year="2024" month="December" day="12"/>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webdriver2-20241205"/>
+  <seriesInfo name="W3C WD" value="WD-webdriver2-20241212"/>
 </reference>
