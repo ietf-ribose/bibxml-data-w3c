@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-dpub-aria-1.0-20161215" target="https://www.w3.org/TR/2016/CR-dpub-aria-1.0-20161215/">
+  <front>
+    <title>Digital Publishing WAI-ARIA Module 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Markus Gylling">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tzviya Siegman">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="15"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-dpub-aria-1.0-20161215"/>
+</reference>

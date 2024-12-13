@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-shadow-dom-20151215" target="http://www.w3.org/TR/2015/WD-shadow-dom-20151215/">
+  <front>
+    <title>Shadow DOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitri Glazkov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hayato Ito">
+      <organization/>
+    </author>
+    <date year="2015" month="December" day="15"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-shadow-dom-20151215"/>
+</reference>

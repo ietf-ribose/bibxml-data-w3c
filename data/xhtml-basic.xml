@@ -1,4 +1,4 @@
-<reference anchor="W3C.xhtml-basic" target="https://www.w3.org/TR/xhtml-basic/">
+<reference anchor="W3C.xhtml-basic" target="http://www.w3.org/TR/xhtml-basic">
   <front>
     <title>XHTML™ Basic 1.1 - Second Edition</title>
     <author>

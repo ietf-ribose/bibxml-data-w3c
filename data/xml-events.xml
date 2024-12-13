@@ -1,9 +1,9 @@
-<reference anchor="W3C.xml-events" target="https://www.w3.org/TR/xml-events/">
+<reference anchor="W3C.xml-events" target="http://www.w3.org/TR/xml-events">
   <front>
-    <title>XML Events</title>
+    <title>XML Events 2</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xml-events"/>
+  <seriesInfo name="W3C WD" value="xml-events"/>
 </reference>

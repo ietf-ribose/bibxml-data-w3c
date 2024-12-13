@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-jepi" target="http://www.w3.org/TR/NOTE-jepi">
+  <front>
+    <title>White Paper: Joint Electronic Payment Initiative</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-jepi"/>
+</reference>

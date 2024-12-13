@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xmldsig-xpath-20100831" target="http://www.w3.org/TR/2010/WD-xmldsig-xpath-20100831/">
+  <front>
+    <title>XML Signature Streaming Profile of XPath 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Pratik Datta">
+      <organization/>
+    </author>
+    <date year="2010" month="August" day="31"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmldsig-xpath-20100831"/>
+</reference>

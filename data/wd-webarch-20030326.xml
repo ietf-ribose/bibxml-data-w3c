@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webarch-20030326" target="http://www.w3.org/TR/2003/WD-webarch-20030326/">
+  <front>
+    <title>Architecture of the World Wide Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <date year="2003" month="March" day="26"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webarch-20030326"/>
+</reference>

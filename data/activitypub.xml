@@ -1,9 +1,9 @@
-<reference anchor="W3C.activitypub" target="https://www.w3.org/TR/activitypub/">
+<reference anchor="W3C.activitypub" target="http://www.w3.org/TR/activitypub/">
   <front>
     <title>ActivityPub</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="activitypub"/>
+  <seriesInfo name="W3C WD" value="activitypub"/>
 </reference>

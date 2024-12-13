@@ -1,0 +1,31 @@
+<reference anchor="W3C.NOTE-XMLsubmit" target="http://www.w3.org/TR/NOTE-XMLsubmit">
+  <front>
+    <title>Web Collections using XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Hopmann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Berman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="George Hatoun">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Antonoff">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Berkun">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Reardon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yaron Goland">
+      <organization/>
+    </author>
+    <date year="1997" month="March" day="9"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-XMLsubmit"/>
+</reference>

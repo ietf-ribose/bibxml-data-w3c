@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-swbp-specified-values-20040803" target="http://www.w3.org/TR/2004/WD-swbp-specified-values-20040803/">
+  <front>
+    <title>Representing Specified Values in OWL: "value partitions" and "value sets"</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alan Rector">
+      <organization/>
+    </author>
+    <date year="2004" month="August" day="3"/>
+    <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-specified-values-20040803"/>
+</reference>

@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-WAP-19981030" target="http://www.w3.org/TR/1998/NOTE-WAP-19981030">
+  <front>
+    <title>WAP Forum - W3C Cooperation White Paper</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bruce Martin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johan Hjelm">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter King">
+      <organization/>
+    </author>
+    <date year="1998" month="October" day="30"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-WAP-19981030"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xquery-30-use-cases-20101214" target="http://www.w3.org/TR/2010/WD-xquery-30-use-cases-20101214/">
+  <front>
+    <title>XQuery 3.0 Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Tim Kraska">
+      <organization/>
+    </author>
+    <date year="2010" month="December" day="14"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-30-use-cases-20101214"/>
+</reference>

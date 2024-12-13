@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-micropub-20160713" target="http://www.w3.org/TR/2016/WD-micropub-20160713/">
+  <front>
+    <title>Micropub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="July" day="13"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-micropub-20160713"/>
+</reference>

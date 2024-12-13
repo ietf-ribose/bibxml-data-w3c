@@ -1,9 +1,9 @@
-<reference anchor="W3C.scxml" target="https://www.w3.org/TR/scxml/">
+<reference anchor="W3C.scxml" target="http://www.w3.org/TR/scxml/">
   <front>
     <title>State Chart XML (SCXML): State Machine Notation for Control Abstraction</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="scxml"/>
+  <seriesInfo name="W3C WD" value="scxml"/>
 </reference>

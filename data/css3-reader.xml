@@ -1,9 +1,9 @@
-<reference anchor="W3C.css3-reader" target="https://www.w3.org/TR/css3-reader/">
+<reference anchor="W3C.css3-reader" target="http://www.w3.org/TR/css3-reader">
   <front>
-    <title>The CSS ‘Reader’ Media Type</title>
+    <title>The CSS 'Reader' Media Type</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="css3-reader"/>
+  <seriesInfo name="W3C WD" value="css3-reader"/>
 </reference>

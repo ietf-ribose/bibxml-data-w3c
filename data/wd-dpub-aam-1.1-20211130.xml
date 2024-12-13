@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-dpub-aam-1.1-20211130" target="https://www.w3.org/TR/2021/WD-dpub-aam-1.1-20211130/">
+  <front>
+    <title>Digital Publishing Accessibility API Mappings 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <date year="2021" month="November" day="30"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dpub-aam-1.1-20211130"/>
+</reference>

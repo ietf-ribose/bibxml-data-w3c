@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-websub-20171003" target="https://www.w3.org/TR/2017/PR-websub-20171003/">
+  <front>
+    <title>WebSub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Parecki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Julien Genestoux">
+      <organization/>
+    </author>
+    <date year="2017" month="October" day="3"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-websub-20171003"/>
+</reference>

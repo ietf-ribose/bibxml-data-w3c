@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-fullscreen-20120703" target="http://www.w3.org/TR/2012/WD-fullscreen-20120703/">
+  <front>
+    <title>Fullscreen</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="3"/>
+    <workgroup>Web Applications Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-fullscreen-20120703"/>
+</reference>

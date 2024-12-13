@@ -1,9 +1,9 @@
-<reference anchor="W3C.wsdl20-primer" target="https://www.w3.org/TR/wsdl20-primer/">
+<reference anchor="W3C.wsdl20-primer" target="http://www.w3.org/TR/wsdl20-primer">
   <front>
     <title>Web Services Description Language (WSDL) Version 2.0 Part 0: Primer</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="wsdl20-primer"/>
+  <seriesInfo name="W3C WD" value="wsdl20-primer"/>
 </reference>

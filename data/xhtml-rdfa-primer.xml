@@ -1,0 +1,9 @@
+<reference anchor="W3C.xhtml-rdfa-primer" target="http://www.w3.org/TR/xhtml-rdfa-primer/">
+  <front>
+    <title>RDFa Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xhtml-rdfa-primer"/>
+</reference>

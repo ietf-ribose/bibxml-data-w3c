@@ -1,4 +1,4 @@
-<reference anchor="W3C.rdf-dawg-uc" target="https://www.w3.org/TR/rdf-dawg-uc/">
+<reference anchor="W3C.rdf-dawg-uc" target="http://www.w3.org/TR/rdf-dawg-uc/">
   <front>
     <title>RDF Data Access Use Cases and Requirements</title>
     <author>

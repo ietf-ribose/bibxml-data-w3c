@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-css-tv-20030514" target="http://www.w3.org/TR/2003/CR-css-tv-20030514">
+  <front>
+    <title>CSS TV Profile 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean Hayes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2003" month="May" day="14"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-tv-20030514"/>
+</reference>

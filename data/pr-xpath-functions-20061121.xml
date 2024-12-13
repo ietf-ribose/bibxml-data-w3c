@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-xpath-functions-20061121" target="http://www.w3.org/TR/2006/PR-xpath-functions-20061121/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Functions and Operators</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2006" month="November" day="21"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xpath-functions-20061121"/>
+</reference>

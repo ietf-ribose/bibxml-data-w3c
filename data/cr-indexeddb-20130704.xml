@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-IndexedDB-20130704" target="http://www.w3.org/TR/2013/CR-IndexedDB-20130704/">
+  <front>
+    <title>Indexed Database API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eliot Graff">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy Orlow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonas Sicking">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nikunj Mehta">
+      <organization/>
+    </author>
+    <date year="2013" month="July" day="4"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-IndexedDB-20130704"/>
+</reference>

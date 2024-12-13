@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-xlink-naming-20001220" target="http://www.w3.org/TR/2000/NOTE-xlink-naming-20001220">
+  <front>
+    <title>XLink Markup Name Control</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Veillard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <date year="2000" month="December" day="20"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xlink-naming-20001220"/>
+</reference>

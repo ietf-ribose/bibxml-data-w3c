@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-ws-addr-metadata-20070202" target="http://www.w3.org/TR/2007/WD-ws-addr-metadata-20070202">
+  <front>
+    <title>Web Services Addressing 1.0 - Metadata</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tony Rogers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ümit Yalçınalp">
+      <organization/>
+    </author>
+    <date year="2007" month="February" day="2"/>
+    <workgroup>Web Services Addressing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-addr-metadata-20070202"/>
+</reference>

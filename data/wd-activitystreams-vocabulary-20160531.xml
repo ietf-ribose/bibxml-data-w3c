@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-activitystreams-vocabulary-20160531" target="http://www.w3.org/TR/2016/WD-activitystreams-vocabulary-20160531/">
+  <front>
+    <title>Activity Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="May" day="31"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-activitystreams-vocabulary-20160531"/>
+</reference>

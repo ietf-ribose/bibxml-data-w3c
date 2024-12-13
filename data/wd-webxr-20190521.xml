@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webxr-20190521" target="https://www.w3.org/TR/2019/WD-webxr-20190521/">
+  <front>
+    <title>WebXR Device API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brandon Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nell Waliczek">
+      <organization/>
+    </author>
+    <date year="2019" month="May" day="21"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxr-20190521"/>
+</reference>

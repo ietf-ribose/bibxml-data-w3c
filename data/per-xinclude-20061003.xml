@@ -1,0 +1,20 @@
+<reference anchor="W3C.PER-xinclude-20061003" target="http://www.w3.org/TR/2006/PER-xinclude-20061003/">
+  <front>
+    <title>XML Inclusions (XInclude) Version 1.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Veillard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <date year="2006" month="October" day="3"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xinclude-20061003"/>
+</reference>

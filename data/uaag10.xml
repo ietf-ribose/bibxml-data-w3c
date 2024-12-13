@@ -1,9 +1,9 @@
-<reference anchor="W3C.UAAG10" target="https://www.w3.org/TR/UAAG10/">
+<reference anchor="W3C.UAAG10" target="http://www.w3.org/TR/UAAG10/">
   <front>
     <title>User Agent Accessibility Guidelines 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="UAAG10"/>
+  <seriesInfo name="W3C PR" value="UAAG10"/>
 </reference>

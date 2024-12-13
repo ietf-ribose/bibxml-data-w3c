@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-web-packaging-20180130" target="https://www.w3.org/TR/2018/NOTE-web-packaging-20180130/">
+  <front>
+    <title>Packaging on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeni Tennison">
+      <organization/>
+    </author>
+    <date year="2018" month="January" day="30"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-web-packaging-20180130"/>
+</reference>

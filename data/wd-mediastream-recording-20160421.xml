@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-mediastream-recording-20160421" target="http://www.w3.org/TR/2016/WD-mediastream-recording-20160421/">
+  <front>
+    <title>MediaStream Recording</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Barnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Miguel Casas-sanchez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2016" month="April" day="21"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediastream-recording-20160421"/>
+</reference>

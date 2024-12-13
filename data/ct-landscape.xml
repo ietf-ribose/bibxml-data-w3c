@@ -1,9 +1,9 @@
-<reference anchor="W3C.ct-landscape" target="https://www.w3.org/TR/ct-landscape/">
+<reference anchor="W3C.ct-landscape" target="http://www.w3.org/TR/ct-landscape/">
   <front>
     <title>Content Transformation Landscape 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="ct-landscape"/>
+  <seriesInfo name="W3C WD" value="ct-landscape"/>
 </reference>

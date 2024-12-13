@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-file-system-api-20110419" target="http://www.w3.org/TR/2011/WD-file-system-api-20110419/">
+  <front>
+    <title>File API: Directories and System</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Uhrhane">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="19"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-file-system-api-20110419"/>
+</reference>

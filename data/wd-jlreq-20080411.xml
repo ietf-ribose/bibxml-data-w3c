@@ -1,0 +1,19 @@
+<reference anchor="W3C.WD-jlreq-20080411" target="http://www.w3.org/TR/2008/WD-jlreq-20080411/">
+  <front>
+    <title>Requirements of Japanese Text Layout</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Toshi Kobayashi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yasuhiro Anan">
+      <organization/>
+    </author>
+    <date year="2008" month="April" day="11"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Internationalization Working Group</workgroup>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-jlreq-20080411"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-fragid-best-practices-20120726" target="http://www.w3.org/TR/2012/WD-fragid-best-practices-20120726/">
+  <front>
+    <title>Best Practices for Fragment Identifiers and Media Type Definitions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeni Tennison">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="26"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-fragid-best-practices-20120726"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webxr-hand-input-1-20240207" target="https://www.w3.org/TR/2024/WD-webxr-hand-input-1-20240207/">
+  <front>
+    <title>WebXR Hand Input Module - Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Manish Goregaokar">
+      <organization/>
+    </author>
+    <date year="2024" month="February" day="7"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxr-hand-input-1-20240207"/>
+</reference>

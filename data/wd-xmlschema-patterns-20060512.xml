@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xmlschema-patterns-20060512" target="http://www.w3.org/TR/2006/WD-xmlschema-patterns-20060512/">
+  <front>
+    <title>XML Schema Patterns for Common Data Structures Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Paul Downey">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Lafon">
+      <organization/>
+    </author>
+    <date year="2006" month="May" day="12"/>
+    <workgroup>XML Schema Patterns for Databinding Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlschema-patterns-20060512"/>
+</reference>

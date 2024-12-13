@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-ltli-20150423" target="https://www.w3.org/TR/2015/WD-ltli-20150423/">
+  <front>
+    <title>Language Tags and Locale Identifiers for the World Wide Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="23"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ltli-20150423"/>
+</reference>

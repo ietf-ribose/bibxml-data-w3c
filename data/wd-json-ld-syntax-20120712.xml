@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-json-ld-syntax-20120712" target="http://www.w3.org/TR/2012/WD-json-ld-syntax-20120712/">
+  <front>
+    <title>JSON-LD Syntax 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Lanthaler">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="12"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-json-ld-syntax-20120712"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-css-color-adjust-1-20220210" target="https://www.w3.org/TR/2022/CR-css-color-adjust-1-20220210/">
+  <front>
+    <title>CSS Color Adjustment Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rossen Atanassov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rune Lillesveen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2022" month="February" day="10"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-color-adjust-1-20220210"/>
+</reference>

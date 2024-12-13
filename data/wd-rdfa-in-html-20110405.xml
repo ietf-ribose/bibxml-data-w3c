@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-rdfa-in-html-20110405" target="http://www.w3.org/TR/2011/WD-rdfa-in-html-20110405/">
+  <front>
+    <title>HTML+RDFa 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="5"/>
+    <workgroup>RDFa Working Group</workgroup>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdfa-in-html-20110405"/>
+</reference>

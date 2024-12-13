@@ -1,0 +1,36 @@
+<reference anchor="W3C.WD-xquery-full-text-20050915" target="http://www.w3.org/TR/2005/WD-xquery-full-text-20050915/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Full-Text</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chavdar Botev">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Darin McBeath">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jayavel Shanmugasundaram">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jochen Doerre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Rys">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pat Case">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sihem Amer-Yahia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Buxton">
+      <organization/>
+    </author>
+    <date year="2005" month="September" day="15"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-full-text-20050915"/>
+</reference>

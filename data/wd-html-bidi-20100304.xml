@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-bidi-20100304" target="http://www.w3.org/TR/2010/WD-html-bidi-20100304/">
+  <front>
+    <title>Additional Requirements for Bidi in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aharon Lanin">
+      <organization/>
+    </author>
+    <date year="2010" month="March" day="4"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-bidi-20100304"/>
+</reference>

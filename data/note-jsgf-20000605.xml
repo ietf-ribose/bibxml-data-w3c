@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-jsgf-20000605" target="http://www.w3.org/TR/2000/NOTE-jsgf-20000605">
+  <front>
+    <title>JSpeech Grammar Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Hunt">
+      <organization/>
+    </author>
+    <date year="2000" month="June" day="5"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-jsgf-20000605"/>
+</reference>

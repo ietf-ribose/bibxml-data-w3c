@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-vibration-20130523" target="http://www.w3.org/TR/2013/WD-vibration-20130523/">
+  <front>
+    <title>Vibration API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2013" month="May" day="23"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vibration-20130523"/>
+</reference>

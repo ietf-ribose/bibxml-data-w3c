@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-qaframe-spec-20030210" target="http://www.w3.org/TR/2003/WD-qaframe-spec-20030210/">
+  <front>
+    <title>QA Framework: Specification Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitris Dimitriadis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dominique Hazaël-Massieux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kirill Gavrylyuk">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lynne Rosenthal">
+      <organization/>
+    </author>
+    <date year="2003" month="February" day="10"/>
+    <workgroup>Quality Assurance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-qaframe-spec-20030210"/>
+</reference>

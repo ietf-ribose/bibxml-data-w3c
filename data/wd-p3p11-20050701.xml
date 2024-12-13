@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-P3P11-20050701" target="http://www.w3.org/TR/2005/WD-P3P11-20050701/">
+  <front>
+    <title>The Platform for Privacy Preferences 1.1 (P3P1.1) Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rigo Wenning">
+      <organization/>
+    </author>
+    <date year="2005" month="July" day="1"/>
+    <workgroup>P3P Specification Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-P3P11-20050701"/>
+</reference>

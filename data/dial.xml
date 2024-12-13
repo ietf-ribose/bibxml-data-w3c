@@ -1,9 +1,9 @@
-<reference anchor="W3C.dial" target="https://www.w3.org/TR/dial/">
+<reference anchor="W3C.dial" target="http://www.w3.org/TR/dial/">
   <front>
     <title>Device Independent Authoring Language (DIAL)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="dial"/>
+  <seriesInfo name="W3C WD" value="dial"/>
 </reference>

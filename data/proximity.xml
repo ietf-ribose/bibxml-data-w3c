@@ -1,9 +1,9 @@
-<reference anchor="W3C.proximity" target="https://www.w3.org/TR/proximity/">
+<reference anchor="W3C.proximity" target="http://www.w3.org/TR/proximity/">
   <front>
     <title>Proximity Sensor</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C WD" value="proximity"/>
+  <seriesInfo name="W3C CR" value="proximity"/>
 </reference>

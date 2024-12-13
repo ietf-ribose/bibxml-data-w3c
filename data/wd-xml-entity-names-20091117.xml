@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xml-entity-names-20091117" target="http://www.w3.org/TR/2009/WD-xml-entity-names-20091117/">
+  <front>
+    <title>XML Entity definitions for Characters</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Ion">
+      <organization/>
+    </author>
+    <date year="2009" month="November" day="17"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xml-entity-names-20091117"/>
+</reference>

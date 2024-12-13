@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-webtransport-20220311" target="https://www.w3.org/TR/2022/WD-webtransport-20220311/">
+  <front>
+    <title>WebTransport</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Victor Vasiliev">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yutaka Hirano">
+      <organization/>
+    </author>
+    <date year="2022" month="March" day="11"/>
+    <workgroup>WebTransport Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webtransport-20220311"/>
+</reference>

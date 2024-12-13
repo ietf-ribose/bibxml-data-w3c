@@ -1,4 +1,4 @@
-<reference anchor="W3C.xmldsig-core2" target="https://www.w3.org/TR/xmldsig-core2/">
+<reference anchor="W3C.xmldsig-core2" target="http://www.w3.org/TR/xmldsig-core2/">
   <front>
     <title>XML Signature Syntax and Processing Version 2.0</title>
     <author>

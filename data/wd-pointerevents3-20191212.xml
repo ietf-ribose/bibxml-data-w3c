@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-pointerevents3-20191212" target="https://www.w3.org/TR/2019/WD-pointerevents3-20191212/">
+  <front>
+    <title>Pointer Events Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Navid Zolghadr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Lauke">
+      <organization/>
+    </author>
+    <date year="2019" month="December" day="12"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerevents3-20191212"/>
+</reference>

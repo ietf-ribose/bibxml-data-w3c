@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-xup-20020528" target="http://www.w3.org/TR/2002/NOTE-xup-20020528">
+  <front>
+    <title>XUP - Extensible User Interface Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jin Yu">
+      <organization/>
+    </author>
+    <date year="2002" month="May" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xup-20020528"/>
+</reference>

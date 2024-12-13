@@ -1,0 +1,9 @@
+<reference anchor="W3C.css3-page" target="http://www.w3.org/TR/css3-page">
+  <front>
+    <title>CSS3 Module: Paged Media</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css3-page"/>
+</reference>

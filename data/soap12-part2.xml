@@ -1,9 +1,9 @@
-<reference anchor="W3C.soap12-part2" target="https://www.w3.org/TR/soap12-part2/">
+<reference anchor="W3C.soap12-part2" target="http://www.w3.org/TR/soap12-part2/">
   <front>
     <title>SOAP Version 1.2 Part 2: Adjuncts (Second Edition)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="soap12-part2"/>
+  <seriesInfo name="W3C WD" value="soap12-part2"/>
 </reference>

@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-xpath-datamodel-30-20111213" target="http://www.w3.org/TR/2011/WD-xpath-datamodel-30-20111213/">
+  <front>
+    <title>XQuery and XPath Data Model 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Snelson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2011" month="December" day="13"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xpath-datamodel-30-20111213"/>
+</reference>

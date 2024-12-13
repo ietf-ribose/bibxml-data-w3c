@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-uievents-20150428" target="http://www.w3.org/TR/2015/WD-uievents-20150428/">
+  <front>
+    <title>UI Events (formerly DOM Level 3 Events)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gary Kacmarcik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="28"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-uievents-20150428"/>
+</reference>

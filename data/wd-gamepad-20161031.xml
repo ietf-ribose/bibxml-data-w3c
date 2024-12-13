@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-gamepad-20161031" target="https://www.w3.org/TR/2016/WD-gamepad-20161031/">
+  <front>
+    <title>Gamepad</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="October" day="31"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-gamepad-20161031"/>
+</reference>

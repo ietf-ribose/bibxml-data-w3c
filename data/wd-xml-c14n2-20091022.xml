@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-xml-c14n2-20091022" target="http://www.w3.org/TR/2009/WD-xml-c14n2-20091022/">
+  <front>
+    <title>Canonical XML Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Glenn Marcy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pratik Datta">
+      <organization/>
+    </author>
+    <date year="2009" month="October" day="22"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xml-c14n2-20091022"/>
+</reference>

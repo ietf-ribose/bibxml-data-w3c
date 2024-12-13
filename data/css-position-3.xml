@@ -1,4 +1,4 @@
-<reference anchor="W3C.css-position-3" target="https://www.w3.org/TR/css-position-3/">
+<reference anchor="W3C.css-position-3" target="http://www.w3.org/TR/css-position-3/">
   <front>
     <title>CSS Positioned Layout Module Level 3</title>
     <author>

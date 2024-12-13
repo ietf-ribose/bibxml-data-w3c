@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-xforms11-20041115" target="http://www.w3.org/TR/2004/WD-xforms11-20041115/">
+  <front>
+    <title>XForms 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Landwehr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T. V. Raman">
+      <organization/>
+    </author>
+    <date year="2004" month="November" day="15"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xforms11-20041115"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-rif-owl-rl-20100622" target="http://www.w3.org/TR/2010/NOTE-rif-owl-rl-20100622/">
+  <front>
+    <title>OWL 2 RL in RIF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Reynolds">
+      <organization/>
+    </author>
+    <date year="2010" month="June" day="22"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rif-owl-rl-20100622"/>
+</reference>

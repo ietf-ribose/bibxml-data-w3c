@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-becss-19990804" target="http://www.w3.org/TR/1999/WD-becss-19990804">
+  <front>
+    <title>Behavioral Extensions to CSS</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Wilson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Glazman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vidur Apparao">
+      <organization/>
+    </author>
+    <date year="1999" month="August" day="4"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-becss-19990804"/>
+</reference>

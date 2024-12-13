@@ -1,0 +1,10 @@
+<reference anchor="W3C.patent-policy" target="http://www.w3.org/TR/patent-policy/">
+  <front>
+    <title>Patent Policy Working Group Royalty-Free Patent
+Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="patent-policy"/>
+</reference>

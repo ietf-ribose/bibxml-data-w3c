@@ -1,0 +1,29 @@
+<reference anchor="W3C.PER-xquery-20090421" target="http://www.w3.org/TR/2009/PER-xquery-20090421/">
+  <front>
+    <title>XQuery 1.0: An XML Query Language (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérôme Siméon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary F. Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Boag">
+      <organization/>
+    </author>
+    <date year="2009" month="April" day="21"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xquery-20090421"/>
+</reference>

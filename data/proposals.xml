@@ -1,0 +1,13 @@
+<reference anchor="W3C.Proposals" target="http://www.w3.org/Demographics/Proposals">
+  <front>
+    <title>Proposals for Gathering Consumer Demographics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <date year="1995" month="November" day="6"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="Proposals"/>
+</reference>

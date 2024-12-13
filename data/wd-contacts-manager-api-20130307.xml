@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-contacts-manager-api-20130307" target="http://www.w3.org/TR/2013/WD-contacts-manager-api-20130307/">
+  <front>
+    <title>Contacts Manager API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christophe Dumez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eduardo Fullea">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jose Manuel Cantera Fonseca">
+      <organization/>
+    </author>
+    <date year="2013" month="March" day="7"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-contacts-manager-api-20130307"/>
+</reference>

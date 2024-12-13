@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-logfile" target="http://www.w3.org/TR/WD-logfile">
+  <front>
+    <title>Extended Log File Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="WD-logfile"/>
+</reference>

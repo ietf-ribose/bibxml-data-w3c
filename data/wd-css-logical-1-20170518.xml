@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-css-logical-1-20170518" target="https://www.w3.org/TR/2017/WD-css-logical-1-20170518/">
+  <front>
+    <title>CSS Logical Properties and Values Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rossen Atanassov">
+      <organization/>
+    </author>
+    <date year="2017" month="May" day="18"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css-logical-1-20170518"/>
+</reference>

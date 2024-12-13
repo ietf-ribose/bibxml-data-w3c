@@ -1,4 +1,4 @@
-<reference anchor="W3C.CCPP-ra" target="https://www.w3.org/TR/CCPP-ra/">
+<reference anchor="W3C.CCPP-ra" target="http://www.w3.org/TR/CCPP-ra/">
   <front>
     <title>Composite Capabilities/Preference Profiles: Requirements and Architecture</title>
     <author>

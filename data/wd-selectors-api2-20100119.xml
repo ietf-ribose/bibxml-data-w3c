@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-selectors-api2-20100119" target="http://www.w3.org/TR/2010/WD-selectors-api2-20100119/">
+  <front>
+    <title>Selectors API Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lachlan Hunt">
+      <organization/>
+    </author>
+    <date year="2010" month="January" day="19"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-selectors-api2-20100119"/>
+</reference>

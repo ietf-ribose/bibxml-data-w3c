@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-wot-architecture-20170914" target="https://www.w3.org/TR/2017/WD-wot-architecture-20170914/">
+  <front>
+    <title>Web of Things (WoT) Architecture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kazuo Kajimoto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthias Kovatsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Uday Davuluru">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="14"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wot-architecture-20170914"/>
+</reference>

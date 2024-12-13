@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-webintents-local-services-20121004" target="http://www.w3.org/TR/2012/WD-webintents-local-services-20121004/">
+  <front>
+    <title>Web Intents Addendum - Local Services</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Claes Nilsson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norifumi Kikkawa">
+      <organization/>
+    </author>
+    <date year="2012" month="October" day="4"/>
+    <workgroup>Web Applications Working Group</workgroup>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webintents-local-services-20121004"/>
+</reference>

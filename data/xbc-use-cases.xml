@@ -1,9 +1,9 @@
-<reference anchor="W3C.xbc-use-cases" target="https://www.w3.org/TR/xbc-use-cases/">
+<reference anchor="W3C.xbc-use-cases" target="http://www.w3.org/TR/xbc-use-cases">
   <front>
     <title>XML Binary Characterization Use Cases</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xbc-use-cases"/>
+  <seriesInfo name="W3C WD" value="xbc-use-cases"/>
 </reference>

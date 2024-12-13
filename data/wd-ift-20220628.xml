@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-IFT-20220628" target="https://www.w3.org/TR/2022/WD-IFT-20220628/">
+  <front>
+    <title>Incremental Font Transfer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Garret Rieger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Myles Maxfield">
+      <organization/>
+    </author>
+    <date year="2022" month="June" day="28"/>
+    <workgroup>Web Fonts Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-IFT-20220628"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webrtc-svc-20220225" target="https://www.w3.org/TR/2022/WD-webrtc-svc-20220225/">
+  <front>
+    <title>Scalable Video Coding (SVC) Extension for WebRTC</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <date year="2022" month="February" day="25"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webrtc-svc-20220225"/>
+</reference>

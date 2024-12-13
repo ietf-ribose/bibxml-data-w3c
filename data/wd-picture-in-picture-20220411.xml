@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-picture-in-picture-20220411" target="https://www.w3.org/TR/2022/WD-picture-in-picture-20220411/">
+  <front>
+    <title>Picture-in-Picture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Francois Beaufort">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="11"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-picture-in-picture-20220411"/>
+</reference>

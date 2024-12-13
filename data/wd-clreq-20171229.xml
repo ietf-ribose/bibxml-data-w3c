@@ -1,0 +1,38 @@
+<reference anchor="W3C.WD-clreq-20171229" target="https://www.w3.org/TR/2017/WD-clreq-20171229/">
+  <front>
+    <title>Requirements for Chinese Text Layout 中文排版需求</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aijie Zhang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="An Qi Li">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bobby Tung">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Q LIU">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hai Liang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hui Jing Chen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Xiaoqian Wu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yijun Chen">
+      <organization/>
+    </author>
+    <date year="2017" month="December" day="29"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-clreq-20171229"/>
+</reference>

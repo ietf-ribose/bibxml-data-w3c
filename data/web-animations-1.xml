@@ -1,4 +1,4 @@
-<reference anchor="W3C.web-animations-1" target="https://www.w3.org/TR/web-animations-1/">
+<reference anchor="W3C.web-animations-1" target="http://www.w3.org/TR/web-animations-1/">
   <front>
     <title>Web Animations</title>
     <author>

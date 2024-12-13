@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-ambient-light-20131001" target="http://www.w3.org/TR/2013/CR-ambient-light-20131001/">
+  <front>
+    <title>Ambient Light Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Turner">
+      <organization/>
+    </author>
+    <date year="2013" month="October" day="1"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-ambient-light-20131001"/>
+</reference>

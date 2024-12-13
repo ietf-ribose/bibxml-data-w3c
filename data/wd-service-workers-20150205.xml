@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-service-workers-20150205" target="http://www.w3.org/TR/2015/WD-service-workers-20150205/">
+  <front>
+    <title>Service Workers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Russell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jake Archibald">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jungkee Song">
+      <organization/>
+    </author>
+    <date year="2015" month="February" day="5"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-service-workers-20150205"/>
+</reference>

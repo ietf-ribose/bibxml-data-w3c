@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-encrypted-media-20160603" target="http://www.w3.org/TR/2016/WD-encrypted-media-20160603/">
+  <front>
+    <title>Encrypted Media Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="June" day="3"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-encrypted-media-20160603"/>
+</reference>

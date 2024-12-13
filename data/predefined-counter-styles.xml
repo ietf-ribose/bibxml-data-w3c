@@ -1,9 +1,9 @@
-<reference anchor="W3C.predefined-counter-styles" target="https://www.w3.org/TR/predefined-counter-styles/">
+<reference anchor="W3C.predefined-counter-styles" target="http://www.w3.org/TR/predefined-counter-styles/">
   <front>
-    <title>Ready-made Counter Styles</title>
+    <title>Custom Counter Styles</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="predefined-counter-styles"/>
+  <seriesInfo name="W3C WD" value="predefined-counter-styles"/>
 </reference>

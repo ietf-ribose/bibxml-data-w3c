@@ -1,0 +1,20 @@
+<reference anchor="W3C.CRD-web-share-20221103" target="https://www.w3.org/TR/2022/CRD-web-share-20221103/">
+  <front>
+    <title>Web Share API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Willigers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Giuca">
+      <organization/>
+    </author>
+    <date year="2022" month="November" day="3"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-web-share-20221103"/>
+</reference>

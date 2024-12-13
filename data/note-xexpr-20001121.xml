@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-xexpr-20001121" target="http://www.w3.org/TR/2000/NOTE-xexpr-20001121">
+  <front>
+    <title>XEXPR - A Scripting Language for XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gavin Thomas Nicol">
+      <organization/>
+    </author>
+    <date year="2000" month="November" day="21"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xexpr-20001121"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-workers-20120501" target="http://www.w3.org/TR/2012/CR-workers-20120501/">
+  <front>
+    <title>Web Workers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2012" month="May" day="1"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-workers-20120501"/>
+</reference>

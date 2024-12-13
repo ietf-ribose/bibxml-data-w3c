@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-DataCache-20100114" target="http://www.w3.org/TR/2010/WD-DataCache-20100114/">
+  <front>
+    <title>Programmable HTTP Caching and Serving</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Nikunj Mehta">
+      <organization/>
+    </author>
+    <date year="2010" month="January" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DataCache-20100114"/>
+</reference>

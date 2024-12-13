@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-xslt-30-20170418" target="https://www.w3.org/TR/2017/PR-xslt-30-20170418/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <date year="2017" month="April" day="18"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xslt-30-20170418"/>
+</reference>

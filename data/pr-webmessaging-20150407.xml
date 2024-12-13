@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-webmessaging-20150407" target="http://www.w3.org/TR/2015/PR-webmessaging-20150407/">
+  <front>
+    <title>HTML5 Web Messaging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="7"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-webmessaging-20150407"/>
+</reference>

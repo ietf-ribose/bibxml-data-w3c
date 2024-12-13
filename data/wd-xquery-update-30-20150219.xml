@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xquery-update-30-20150219" target="http://www.w3.org/TR/2015/WD-xquery-update-30-20150219/">
+  <front>
+    <title>XQuery Update Facility 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Snelson">
+      <organization/>
+    </author>
+    <date year="2015" month="February" day="19"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-update-30-20150219"/>
+</reference>

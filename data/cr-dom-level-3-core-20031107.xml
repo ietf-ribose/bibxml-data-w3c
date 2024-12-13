@@ -1,0 +1,32 @@
+<reference anchor="W3C.CR-DOM-Level-3-Core-20031107" target="http://www.w3.org/TR/2003/CR-DOM-Level-3-Core-20031107">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Core Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Nicol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Byrne">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="7"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-DOM-Level-3-Core-20031107"/>
+</reference>

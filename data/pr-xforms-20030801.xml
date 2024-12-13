@@ -1,0 +1,23 @@
+<reference anchor="W3C.PR-xforms-20030801" target="http://www.w3.org/TR/2003/PR-xforms-20030801/">
+  <front>
+    <title>XForms 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Leigh L. Klotz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Micah Dubinko">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T. V. Raman">
+      <organization/>
+    </author>
+    <date year="2003" month="August" day="1"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xforms-20030801"/>
+</reference>

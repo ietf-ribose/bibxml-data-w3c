@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-trig-20130409" target="http://www.w3.org/TR/2013/WD-trig-20130409/">
+  <front>
+    <title>TriG</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gavin Carothers">
+      <organization/>
+    </author>
+    <date year="2013" month="April" day="9"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-trig-20130409"/>
+</reference>

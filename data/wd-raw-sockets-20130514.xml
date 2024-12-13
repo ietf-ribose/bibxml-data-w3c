@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-raw-sockets-20130514" target="http://www.w3.org/TR/2013/WD-raw-sockets-20130514/">
+  <front>
+    <title>Raw Socket API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Claes Nilsson">
+      <organization/>
+    </author>
+    <date year="2013" month="May" day="14"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-raw-sockets-20130514"/>
+</reference>

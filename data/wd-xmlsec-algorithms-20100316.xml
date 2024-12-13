@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-xmlsec-algorithms-20100316" target="http://www.w3.org/TR/2010/WD-xmlsec-algorithms-20100316/">
+  <front>
+    <title>XML Security Algorithm Cross-Reference</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kelvin Yiu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Roessler">
+      <organization/>
+    </author>
+    <date year="2010" month="March" day="16"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlsec-algorithms-20100316"/>
+</reference>

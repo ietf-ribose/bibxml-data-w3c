@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-UNDERSTANDING-WCAG20-20140311" target="http://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140311/">
+  <front>
+    <title>Understanding WCAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Kirkpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2014" month="March" day="11"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-UNDERSTANDING-WCAG20-20140311"/>
+</reference>

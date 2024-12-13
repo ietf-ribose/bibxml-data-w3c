@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-grddl-20070502" target="http://www.w3.org/TR/2007/CR-grddl-20070502/">
+  <front>
+    <title>Gleaning Resource Descriptions from Dialects of Languages (GRDDL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <date year="2007" month="May" day="2"/>
+    <workgroup>GRDDL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-grddl-20070502"/>
+</reference>

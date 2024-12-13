@@ -1,0 +1,35 @@
+<reference anchor="W3C.WD-webauthn-20160531" target="http://www.w3.org/TR/2016/WD-webauthn-20160531/">
+  <front>
+    <title>Web Authentication: A Web API for accessing scoped credentials</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexei Czeskis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arnar Birgisson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Balfanz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hubert Le Van Gong">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Hodges">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rolf Lindemann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vijay Bharadwaj">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="31"/>
+    <workgroup>Web Authentication Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webauthn-20160531"/>
+</reference>

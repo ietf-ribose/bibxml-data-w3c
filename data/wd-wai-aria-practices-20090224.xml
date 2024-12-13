@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-wai-aria-practices-20090224" target="http://www.w3.org/TR/2009/WD-wai-aria-practices-20090224/">
+  <front>
+    <title>WAI-ARIA Best Practices</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lisa Pappas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2009" month="February" day="24"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-practices-20090224"/>
+</reference>

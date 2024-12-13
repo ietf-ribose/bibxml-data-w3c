@@ -1,9 +1,9 @@
-<reference anchor="W3C.activitystreams-vocabulary" target="https://www.w3.org/TR/activitystreams-vocabulary/">
+<reference anchor="W3C.activitystreams-vocabulary" target="http://www.w3.org/TR/activitystreams-vocabulary/">
   <front>
     <title>Activity Vocabulary</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="activitystreams-vocabulary"/>
+  <seriesInfo name="W3C WD" value="activitystreams-vocabulary"/>
 </reference>

@@ -1,0 +1,15 @@
+<reference anchor="W3C.CR-SMIL3-20080115" target="http://www.w3.org/TR/2008/CR-SMIL3-20080115/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 3.0)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dick Bulterman">
+      <organization/>
+    </author>
+    <date year="2008" month="January" day="15"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-SMIL3-20080115"/>
+</reference>

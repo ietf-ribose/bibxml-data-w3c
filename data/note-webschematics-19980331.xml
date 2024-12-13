@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-WebSchematics-19980331" target="http://www.w3.org/TR/1998/NOTE-WebSchematics-19980331">
+  <front>
+    <title>Web Schematics on the World Wide Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bob Hopgood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Duce">
+      <organization/>
+    </author>
+    <date year="1998" month="March" day="31"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-WebSchematics-19980331"/>
+</reference>

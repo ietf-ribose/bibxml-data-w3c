@@ -1,9 +1,9 @@
-<reference anchor="W3C.xml-entity-names" target="https://www.w3.org/TR/xml-entity-names/">
+<reference anchor="W3C.xml-entity-names" target="http://www.w3.org/TR/xml-entity-names/">
   <front>
-    <title>XML Entity Definitions for Characters (3rd Edition)</title>
+    <title>XML Entity Definitions for Characters (2nd Edition)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xml-entity-names"/>
+  <seriesInfo name="W3C WD" value="xml-entity-names"/>
 </reference>

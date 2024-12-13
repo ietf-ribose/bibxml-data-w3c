@@ -1,0 +1,11 @@
+<reference anchor="W3C.PR-html-20201222" target="https://www.w3.org/TR/2020/PR-html-20201222/">
+  <front>
+    <title>HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2020" month="December" day="22"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-html-20201222"/>
+</reference>

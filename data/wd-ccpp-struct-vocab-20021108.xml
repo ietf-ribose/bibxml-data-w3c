@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-CCPP-struct-vocab-20021108" target="http://www.w3.org/TR/2002/WD-CCPP-struct-vocab-20021108/">
+  <front>
+    <title>Composite Capability/Preference Profiles (CC/PP): Structure
+and Vocabularies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Woodrow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Franklin Reynolds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Graham Klyne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hidetaka Ohto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark H. Butler">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="8"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CCPP-struct-vocab-20021108"/>
+</reference>

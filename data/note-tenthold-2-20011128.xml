@@ -1,0 +1,22 @@
+<reference anchor="W3C.NOTE-tenthold-2-20011128" target="http://www.w3.org/TR/2001/NOTE-tenthold-2-20011128/">
+  <front>
+    <title>Tentative Hold Protocol Part 2: Technical Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jerry Roberts">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Krishnamurthy Srinivasan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pallavi Malu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Collier">
+      <organization/>
+    </author>
+    <date year="2001" month="November" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-tenthold-2-20011128"/>
+</reference>

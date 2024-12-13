@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-wsdl20-patterns-20031110" target="http://www.w3.org/TR/2003/WD-wsdl20-patterns-20031110">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0 Part 2: Message Patterns</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amy Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeffrey Schlimmer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="10"/>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wsdl20-patterns-20031110"/>
+</reference>

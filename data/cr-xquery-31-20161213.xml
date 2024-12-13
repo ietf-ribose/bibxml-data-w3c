@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-xquery-31-20161213" target="https://www.w3.org/TR/2016/CR-xquery-31-20161213/">
+  <front>
+    <title>XQuery 3.1: An XML Query Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Josh Spiegel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Dyck">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="13"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xquery-31-20161213"/>
+</reference>

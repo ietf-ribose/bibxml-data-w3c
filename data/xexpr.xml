@@ -1,0 +1,9 @@
+<reference anchor="W3C.xexpr" target="http://www.w3.org/TR/xexpr">
+  <front>
+    <title>XEXPR - A Scripting Language for XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="xexpr"/>
+</reference>

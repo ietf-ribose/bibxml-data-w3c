@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-access-control-20080912" target="http://www.w3.org/TR/2008/WD-access-control-20080912/">
+  <front>
+    <title>Access Control for Cross-Site Requests</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <date year="2008" month="September" day="12"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-access-control-20080912"/>
+</reference>

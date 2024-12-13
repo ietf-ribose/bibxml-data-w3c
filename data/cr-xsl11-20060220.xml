@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-xsl11-20060220" target="http://www.w3.org/TR/2006/CR-xsl11-20060220/">
+  <front>
+    <title>Extensible Stylesheet Language (XSL) Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <date year="2006" month="February" day="20"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xsl11-20060220"/>
+</reference>

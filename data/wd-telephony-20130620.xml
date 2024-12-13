@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-telephony-20130620" target="http://www.w3.org/TR/2013/WD-telephony-20130620/">
+  <front>
+    <title>Web Telephony API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eduardo Fullea">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jose Manuel Cantera Fonseca">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zoltan Kis">
+      <organization/>
+    </author>
+    <date year="2013" month="June" day="20"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-telephony-20130620"/>
+</reference>

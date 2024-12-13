@@ -1,0 +1,23 @@
+<reference anchor="W3C.CRD-css-easing-1-20210401" target="https://www.w3.org/TR/2021/CRD-css-easing-1-20210401/">
+  <front>
+    <title>CSS Easing Functions Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brian Birtles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Rakow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane Stephens">
+      <organization/>
+    </author>
+    <date year="2021" month="April" day="1"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-css-easing-1-20210401"/>
+</reference>

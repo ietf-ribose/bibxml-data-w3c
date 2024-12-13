@@ -1,4 +1,4 @@
-<reference anchor="W3C.media-frags-reqs" target="https://www.w3.org/TR/media-frags-reqs/">
+<reference anchor="W3C.media-frags-reqs" target="http://www.w3.org/TR/media-frags-reqs">
   <front>
     <title>Use cases and requirements for Media Fragments</title>
     <author>

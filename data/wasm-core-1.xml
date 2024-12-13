@@ -5,5 +5,5 @@
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="wasm-core-1"/>
+  <seriesInfo name="W3C WD" value="wasm-core-1"/>
 </reference>

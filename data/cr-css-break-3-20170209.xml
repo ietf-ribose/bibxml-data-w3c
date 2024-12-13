@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-css-break-3-20170209" target="https://www.w3.org/TR/2017/CR-css-break-3-20170209/">
+  <front>
+    <title>CSS Fragmentation Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rossen Atanassov">
+      <organization/>
+    </author>
+    <date year="2017" month="February" day="9"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-break-3-20170209"/>
+</reference>

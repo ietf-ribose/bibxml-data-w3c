@@ -1,0 +1,9 @@
+<reference anchor="W3C.xslt-21" target="http://www.w3.org/TR/xslt-21/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xslt-21"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-autoplay-detection-20230127" target="https://www.w3.org/TR/2023/WD-autoplay-detection-20230127/">
+  <front>
+    <title>Autoplay Policy Detection</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alastor Wu">
+      <organization/>
+    </author>
+    <date year="2023" month="January" day="27"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-autoplay-detection-20230127"/>
+</reference>

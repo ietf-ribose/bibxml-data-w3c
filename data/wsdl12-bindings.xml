@@ -1,0 +1,9 @@
+<reference anchor="W3C.wsdl12-bindings" target="http://www.w3.org/TR/wsdl12-bindings">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 1.2 Part 3: Bindings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="wsdl12-bindings"/>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="W3C.CRD-WCAG22-20230517" target="https://www.w3.org/TR/2023/CRD-WCAG22-20230517/">
+  <front>
+    <title>Web Content Accessibility Guidelines (WCAG) 2.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alastair Campbell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Kirkpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles Adams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rachael Bradley Montgomery">
+      <organization/>
+    </author>
+    <date year="2023" month="May" day="17"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-WCAG22-20230517"/>
+</reference>

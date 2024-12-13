@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-hr-time-2-20151112" target="http://www.w3.org/TR/2015/WD-hr-time-2-20151112/">
+  <front>
+    <title>High Resolution Time Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Simonsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <date year="2015" month="November" day="12"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-hr-time-2-20151112"/>
+</reference>

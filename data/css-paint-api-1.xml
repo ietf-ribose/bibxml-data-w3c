@@ -1,9 +1,9 @@
-<reference anchor="W3C.css-paint-api-1" target="https://www.w3.org/TR/css-paint-api-1/">
+<reference anchor="W3C.css-paint-api-1" target="http://www.w3.org/TR/css-paint-api-1/">
   <front>
     <title>CSS Painting API Level 1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="css-paint-api-1"/>
+  <seriesInfo name="W3C WD" value="css-paint-api-1"/>
 </reference>

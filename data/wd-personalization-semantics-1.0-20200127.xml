@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-personalization-semantics-1.0-20200127" target="https://www.w3.org/TR/2020/WD-personalization-semantics-1.0-20200127/">
+  <front>
+    <title>Personalization Semantics Explainer 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles LaPierre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lisa Seeman-Horwitz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <date year="2020" month="January" day="27"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-personalization-semantics-1.0-20200127"/>
+</reference>

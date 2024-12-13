@@ -1,0 +1,41 @@
+<reference anchor="W3C.DNOTE-mini-app-white-paper-20220519" target="https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220519/">
+  <front>
+    <title>MiniApp Standardization White Paper version 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="An Qi (Angel) Li">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Canfeng Chen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chen Yinli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dan Zhou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Fuqiao Xue">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenny Yuan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Alvarez-Espinar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Qing An">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wanming Lin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zitao Wang">
+      <organization/>
+    </author>
+    <date year="2022" month="May" day="19"/>
+    <workgroup>MiniApps Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-mini-app-white-paper-20220519"/>
+</reference>

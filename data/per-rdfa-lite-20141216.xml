@@ -1,0 +1,14 @@
+<reference anchor="W3C.PER-rdfa-lite-20141216" target="http://www.w3.org/TR/2014/PER-rdfa-lite-20141216/">
+  <front>
+    <title>RDFa Lite 1.1 - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <date year="2014" month="December" day="16"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-rdfa-lite-20141216"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-media-frags-20100413" target="http://www.w3.org/TR/2010/WD-media-frags-20100413">
+  <front>
+    <title>Media Fragments URI 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Erik Mannens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raphaël Troncy">
+      <organization/>
+    </author>
+    <date year="2010" month="April" day="13"/>
+    <workgroup>Media Fragments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-media-frags-20100413"/>
+</reference>

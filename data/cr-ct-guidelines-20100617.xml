@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-ct-guidelines-20100617" target="http://www.w3.org/TR/2010/CR-ct-guidelines-20100617/">
+  <front>
+    <title>Guidelines for Web Content Transformation Proxies 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <date year="2010" month="June" day="17"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-ct-guidelines-20100617"/>
+</reference>

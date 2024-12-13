@@ -1,9 +1,9 @@
-<reference anchor="W3C.i18n-html-tech-bidi" target="https://www.w3.org/TR/i18n-html-tech-bidi/">
+<reference anchor="W3C.i18n-html-tech-bidi" target="http://www.w3.org/TR/i18n-html-tech-bidi/">
   <front>
     <title>Authoring HTML: Handling Right-to-left Scripts</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="i18n-html-tech-bidi"/>
+  <seriesInfo name="W3C WD" value="i18n-html-tech-bidi"/>
 </reference>

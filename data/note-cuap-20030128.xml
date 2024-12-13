@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-cuap-20030128" target="http://www.w3.org/TR/2003/NOTE-cuap-20030128">
+  <front>
+    <title>Common User Agent Problems</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Karl Dubost">
+      <organization/>
+    </author>
+    <date year="2003" month="January" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-cuap-20030128"/>
+</reference>

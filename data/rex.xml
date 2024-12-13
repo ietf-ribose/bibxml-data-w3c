@@ -1,4 +1,4 @@
-<reference anchor="W3C.rex" target="https://www.w3.org/TR/rex/">
+<reference anchor="W3C.rex" target="http://www.w3.org/TR/rex">
   <front>
     <title>Remote Events for XML (REX) 1.0</title>
     <author>

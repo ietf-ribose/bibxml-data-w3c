@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-tvcontrol-api-20170316" target="https://www.w3.org/TR/2017/WD-tvcontrol-api-20170316/">
+  <front>
+    <title>TV Control API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexander Futász">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Morris">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sung Hei Kim">
+      <organization/>
+    </author>
+    <date year="2017" month="March" day="16"/>
+    <workgroup>TV Control Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-tvcontrol-api-20170316"/>
+</reference>

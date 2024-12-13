@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-owl2-quick-reference-20081202" target="http://www.w3.org/TR/2008/WD-owl2-quick-reference-20081202/">
+  <front>
+    <title>OWL 2 Web Ontology Language:Quick Reference Guide</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Deborah L. McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elisa F. Kendall">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Evan K. Wallace">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jie Bao">
+      <organization/>
+    </author>
+    <date year="2008" month="December" day="2"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl2-quick-reference-20081202"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-prov-constraints-20130312" target="http://www.w3.org/TR/2013/PR-prov-constraints-20130312/">
+  <front>
+    <title>Constraints of the PROV Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Cheney">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Luc Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Missier">
+      <organization/>
+    </author>
+    <date year="2013" month="March" day="12"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-prov-constraints-20130312"/>
+</reference>

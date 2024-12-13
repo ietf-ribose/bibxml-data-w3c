@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-predefined-counter-styles-20170201" target="https://www.w3.org/TR/2017/WD-predefined-counter-styles-20170201/">
+  <front>
+    <title>Ready-made Counter Styles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2017" month="February" day="1"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-predefined-counter-styles-20170201"/>
+</reference>

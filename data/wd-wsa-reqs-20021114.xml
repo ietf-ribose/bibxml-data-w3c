@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wsa-reqs-20021114" target="http://www.w3.org/TR/2002/WD-wsa-reqs-20021114">
+  <front>
+    <title>Web Services Architecture Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Abbie Barbir">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Christopher Ferris">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Austin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sharad Garg">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="14"/>
+    <workgroup>Web Services Architecture Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wsa-reqs-20021114"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.InkML" target="https://www.w3.org/TR/InkML/">
+<reference anchor="W3C.InkML" target="http://www.w3.org/TR/InkML">
   <front>
     <title>Ink Markup Language (InkML)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="InkML"/>
+  <seriesInfo name="W3C WD" value="InkML"/>
 </reference>

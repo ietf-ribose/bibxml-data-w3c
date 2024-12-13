@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-InkML-20061023" target="http://www.w3.org/TR/2006/WD-InkML-20061023">
+  <front>
+    <title>Ink Markup Language (InkML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen M. Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yi-Min Chee">
+      <organization/>
+    </author>
+    <date year="2006" month="October" day="23"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-InkML-20061023"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.css3-values" target="http://www.w3.org/TR/css3-values/">
+  <front>
+    <title>CSS Values and Units Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css3-values"/>
+</reference>

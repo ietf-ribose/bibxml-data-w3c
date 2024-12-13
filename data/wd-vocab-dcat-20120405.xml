@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-vocab-dcat-20120405" target="http://www.w3.org/TR/2012/WD-vocab-dcat-20120405/">
+  <front>
+    <title>Data Catalog Vocabulary (DCAT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Fadi Maali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Erickson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <date year="2012" month="April" day="5"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vocab-dcat-20120405"/>
+</reference>

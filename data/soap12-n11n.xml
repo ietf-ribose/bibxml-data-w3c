@@ -1,4 +1,4 @@
-<reference anchor="W3C.soap12-n11n" target="https://www.w3.org/TR/soap12-n11n/">
+<reference anchor="W3C.soap12-n11n" target="http://www.w3.org/TR/soap12-n11n/">
   <front>
     <title>SOAP Version 1.2 Message Normalization</title>
     <author>

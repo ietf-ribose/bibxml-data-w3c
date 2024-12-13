@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wai-aria-20080806" target="http://www.w3.org/TR/2008/WD-wai-aria-20080806/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lisa Pappas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lisa Seeman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rich Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2008" month="August" day="6"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-20080806"/>
+</reference>

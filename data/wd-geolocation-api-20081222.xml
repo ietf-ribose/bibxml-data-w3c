@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-geolocation-API-20081222" target="http://www.w3.org/TR/2008/WD-geolocation-API-20081222/">
+  <front>
+    <title>Geolocation API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
+    <date year="2008" month="December" day="22"/>
+    <workgroup>Geolocation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-geolocation-API-20081222"/>
+</reference>

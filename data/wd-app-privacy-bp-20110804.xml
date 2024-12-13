@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-app-privacy-bp-20110804" target="http://www.w3.org/TR/2011/WD-app-privacy-bp-20110804/">
+  <front>
+    <title>Web Application Privacy Best Practices</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <date year="2011" month="August" day="4"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-app-privacy-bp-20110804"/>
+</reference>

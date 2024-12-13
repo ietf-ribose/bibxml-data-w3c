@@ -1,0 +1,29 @@
+<reference anchor="W3C.PR-xmlschema11-1-20120119" target="http://www.w3.org/TR/2012/PR-xmlschema11-1-20120119/">
+  <front>
+    <title>W3C XML Schema Definition Language (XSD) 1.1 Part 1: Structures</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="C. M. Sperberg-McQueen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Beech">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Murray Maloney">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shudi Gao">
+      <organization/>
+    </author>
+    <date year="2012" month="January" day="19"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xmlschema11-1-20120119"/>
+</reference>

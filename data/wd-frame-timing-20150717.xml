@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-frame-timing-20150717" target="http://www.w3.org/TR/2015/WD-frame-timing-20150717/">
+  <front>
+    <title>Frame Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Blain">
+      <organization/>
+    </author>
+    <date year="2015" month="July" day="17"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-frame-timing-20150717"/>
+</reference>

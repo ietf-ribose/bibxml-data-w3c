@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-webvtt1-20141113" target="http://www.w3.org/TR/2014/WD-webvtt1-20141113/">
+  <front>
+    <title>WebVTT: The Web Video Text Tracks Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip Jägenstedt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Silvia Pfeiffer">
+      <organization/>
+    </author>
+    <date year="2014" month="November" day="13"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webvtt1-20141113"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xmlenc-core1-testcases-20120105" target="http://www.w3.org/TR/2012/WD-xmlenc-core1-testcases-20120105/">
+  <front>
+    <title>Test cases for XML Encryption 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pratik Datta">
+      <organization/>
+    </author>
+    <date year="2012" month="January" day="5"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlenc-core1-testcases-20120105"/>
+</reference>

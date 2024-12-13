@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mediastream-recording-20230414" target="https://www.w3.org/TR/2023/WD-mediastream-recording-20230414/">
+  <front>
+    <title>MediaStream Recording</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Miguel Casas-sanchez">
+      <organization/>
+    </author>
+    <date year="2023" month="April" day="14"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediastream-recording-20230414"/>
+</reference>

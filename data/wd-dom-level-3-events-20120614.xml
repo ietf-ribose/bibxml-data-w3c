@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-DOM-Level-3-Events-20120614" target="http://www.w3.org/TR/2012/WD-DOM-Level-3-Events-20120614/">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Events Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Björn Höhrmann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jacob Rossi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Pixley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2012" month="June" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Level-3-Events-20120614"/>
+</reference>

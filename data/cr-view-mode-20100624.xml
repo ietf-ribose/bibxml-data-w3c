@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-view-mode-20100624" target="http://www.w3.org/TR/2010/CR-view-mode-20100624/">
+  <front>
+    <title>The 'view-mode' Media Feature</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2010" month="June" day="24"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-view-mode-20100624"/>
+</reference>

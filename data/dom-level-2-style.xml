@@ -1,4 +1,4 @@
-<reference anchor="W3C.DOM-Level-2-Style" target="https://www.w3.org/TR/DOM-Level-2-Style/">
+<reference anchor="W3C.DOM-Level-2-Style" target="http://www.w3.org/TR/DOM-Level-2-Style/">
   <front>
     <title>Document Object Model (DOM) Level 2 Style Specification</title>
     <author>

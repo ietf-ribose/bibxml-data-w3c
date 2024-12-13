@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-did-core-20210615" target="https://www.w3.org/TR/2021/CR-did-core-20210615/">
+  <front>
+    <title>Decentralized Identifiers (DIDs) v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Drummond Reed">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Sabadello">
+      <organization/>
+    </author>
+    <date year="2021" month="June" day="15"/>
+    <workgroup>Decentralized Identifier Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-did-core-20210615"/>
+</reference>

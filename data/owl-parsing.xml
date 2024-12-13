@@ -1,4 +1,4 @@
-<reference anchor="W3C.owl-parsing" target="https://www.w3.org/TR/owl-parsing/">
+<reference anchor="W3C.owl-parsing" target="http://www.w3.org/TR/owl-parsing">
   <front>
     <title>OWL Web Ontology Language Parsing OWL in RDF/XML</title>
     <author>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-khmr-lreq-20240515" target="https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240515/">
+  <front>
+    <title>Khmer Layout Requirements (Draft)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="15"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-khmr-lreq-20240515"/>
+</reference>

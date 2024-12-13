@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-selection-api-20160921" target="https://www.w3.org/TR/2016/WD-selection-api-20160921/">
+  <front>
+    <title>Selection API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="September" day="21"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-selection-api-20160921"/>
+</reference>

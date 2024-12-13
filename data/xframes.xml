@@ -1,9 +1,9 @@
-<reference anchor="W3C.xframes" target="https://www.w3.org/TR/xframes/">
+<reference anchor="W3C.xframes" target="http://www.w3.org/TR/xframes">
   <front>
     <title>XFrames</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xframes"/>
+  <seriesInfo name="W3C WD" value="xframes"/>
 </reference>

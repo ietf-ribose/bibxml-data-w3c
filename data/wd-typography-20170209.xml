@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-typography-20170209" target="https://www.w3.org/TR/2017/WD-typography-20170209/">
+  <front>
+    <title>International text layout and typography index</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2017" month="February" day="9"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-typography-20170209"/>
+</reference>

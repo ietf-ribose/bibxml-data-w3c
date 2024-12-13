@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-discovery-api-20130924" target="http://www.w3.org/TR/2013/WD-discovery-api-20130924/">
+  <front>
+    <title>Network Service Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rich Tibbett">
+      <organization/>
+    </author>
+    <date year="2013" month="September" day="24"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-discovery-api-20130924"/>
+</reference>

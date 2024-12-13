@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-emma-20071211" target="http://www.w3.org/TR/2007/CR-emma-20071211/">
+  <front>
+    <title>EMMA: Extensible MultiModal Annotation markup language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Johnston">
+      <organization/>
+    </author>
+    <date year="2007" month="December" day="11"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-emma-20071211"/>
+</reference>

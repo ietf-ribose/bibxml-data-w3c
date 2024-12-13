@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-xqupdate-20060127" target="http://www.w3.org/TR/2006/WD-xqupdate-20060127/">
+  <front>
+    <title>XQuery Update Facility</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <date year="2006" month="January" day="27"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xqupdate-20060127"/>
+</reference>

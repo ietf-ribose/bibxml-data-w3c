@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-device-posture-20211104" target="https://www.w3.org/TR/2021/WD-device-posture-20211104/">
+  <front>
+    <title>Device Posture API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Diego Gonzalez-Zuniga">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <date year="2021" month="November" day="4"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-device-posture-20211104"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.daml+oil-walkthru" target="http://www.w3.org/TR/daml+oil-walkthru/">
+  <front>
+    <title>Annotated DAML+OIL Ontology Markup</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="daml+oil-walkthru"/>
+</reference>

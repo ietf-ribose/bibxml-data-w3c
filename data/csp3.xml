@@ -1,4 +1,4 @@
-<reference anchor="W3C.CSP3" target="https://www.w3.org/TR/CSP3/">
+<reference anchor="W3C.CSP3" target="http://www.w3.org/TR/CSP3/">
   <front>
     <title>Content Security Policy Level 3</title>
     <author>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.rdf-text" target="http://www.w3.org/TR/rdf-text/">
+  <front>
+    <title>rdf:text: A Datatype for Internationalized Text</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="rdf-text"/>
+</reference>

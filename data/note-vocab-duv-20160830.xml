@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-vocab-duv-20160830" target="https://www.w3.org/TR/2016/NOTE-vocab-duv-20160830/">
+  <front>
+    <title>Data on the Web Best Practices: Dataset Usage Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernadette Farias Loscio">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Stephan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sumit Purohit">
+      <organization/>
+    </author>
+    <date year="2016" month="August" day="30"/>
+    <workgroup>Data on the Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vocab-duv-20160830"/>
+</reference>

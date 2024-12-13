@@ -1,0 +1,43 @@
+<reference anchor="W3C.NOTE-wscl10-20020314" target="http://www.w3.org/TR/2002/NOTE-wscl10-20020314/">
+  <front>
+    <title>Web Services Conversation Language (WSCL) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alan Karp">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arindam Banerji">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Claudio Bartolini">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dorothea Beringer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregory Pogossiants">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Harumi Kuno">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kannan Govindarajan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Lemon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Williams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shamik Sharma">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Venkatesh Chopella">
+      <organization/>
+    </author>
+    <date year="2002" month="March" day="14"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wscl10-20020314"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-mobileOK-20060712" target="http://www.w3.org/TR/2006/WD-mobileOK-20060712/">
+  <front>
+    <title>W3C mobileOK Scheme 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean Owen">
+      <organization/>
+    </author>
+    <date year="2006" month="July" day="12"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mobileOK-20060712"/>
+</reference>

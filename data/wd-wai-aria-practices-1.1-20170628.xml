@@ -1,0 +1,32 @@
+<reference anchor="W3C.WD-wai-aria-practices-1.1-20170628" target="https://www.w3.org/TR/2017/WD-wai-aria-practices-1.1-20170628/">
+  <front>
+    <title>WAI-ARIA Authoring Practices 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Nurthen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Scheuhammer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lisa Pappas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew King">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michiel Bijl">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2017" month="June" day="28"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-practices-1.1-20170628"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CRD-presentation-api-20230119" target="https://www.w3.org/TR/2023/CRD-presentation-api-20230119/">
+  <front>
+    <title>Presentation API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dominik Röttsches">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Foltz">
+      <organization/>
+    </author>
+    <date year="2023" month="January" day="19"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-presentation-api-20230119"/>
+</reference>

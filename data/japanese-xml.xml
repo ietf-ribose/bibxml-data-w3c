@@ -1,0 +1,9 @@
+<reference anchor="W3C.japanese-xml" target="http://www.w3.org/TR/japanese-xml/">
+  <front>
+    <title>XML Japanese Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="japanese-xml"/>
+</reference>

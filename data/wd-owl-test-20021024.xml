@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-owl-test-20021024" target="http://www.w3.org/TR/2002/WD-owl-test-20021024/">
+  <front>
+    <title>Web Ontology Language (OWL) Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeremy J. Carroll">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jos De Roo">
+      <organization/>
+    </author>
+    <date year="2002" month="October" day="24"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl-test-20021024"/>
+</reference>

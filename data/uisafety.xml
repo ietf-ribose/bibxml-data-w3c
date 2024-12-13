@@ -1,0 +1,9 @@
+<reference anchor="W3C.UISafety" target="http://www.w3.org/TR/UISafety/">
+  <front>
+    <title>User Interface Safety Directives for Content Security Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="UISafety"/>
+</reference>

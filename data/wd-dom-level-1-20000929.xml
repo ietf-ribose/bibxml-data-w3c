@@ -1,0 +1,44 @@
+<reference anchor="W3C.WD-DOM-Level-1-20000929" target="http://www.w3.org/TR/2000/WD-DOM-Level-1-20000929/">
+  <front>
+    <title>Document Object Model (DOM) Level 1 Specification (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Wilson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Nicol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Sutor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Isaacs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Byrne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vidur Apparao">
+      <organization/>
+    </author>
+    <date year="2000" month="September" day="29"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Level-1-20000929"/>
+</reference>

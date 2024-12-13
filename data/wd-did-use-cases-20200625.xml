@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-did-use-cases-20200625" target="https://www.w3.org/TR/2020/WD-did-use-cases-20200625/">
+  <front>
+    <title>Use Cases and Requirements for Decentralized Identifiers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Gropper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joe Andrieu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kim Duffy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryan Grant">
+      <organization/>
+    </author>
+    <date year="2020" month="June" day="25"/>
+    <workgroup>Decentralized Identifier Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-did-use-cases-20200625"/>
+</reference>

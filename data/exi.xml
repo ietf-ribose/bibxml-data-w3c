@@ -1,9 +1,9 @@
-<reference anchor="W3C.exi" target="https://www.w3.org/TR/exi/">
+<reference anchor="W3C.exi" target="http://www.w3.org/TR/exi/">
   <front>
     <title>Efficient XML Interchange (EXI) Format 1.0 (Second Edition)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="exi"/>
+  <seriesInfo name="W3C WD" value="exi"/>
 </reference>

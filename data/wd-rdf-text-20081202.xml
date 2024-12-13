@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-rdf-text-20081202" target="http://www.w3.org/TR/2008/WD-rdf-text-20081202/">
+  <front>
+    <title>rdf:text: A Datatype for Internationalized Text</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Axel Polleres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Boris Motik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jie Bao">
+      <organization/>
+    </author>
+    <date year="2008" month="December" day="2"/>
+    <workgroup>RIF Working Group</workgroup>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-text-20081202"/>
+</reference>

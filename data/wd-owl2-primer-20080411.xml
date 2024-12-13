@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-owl2-primer-20080411" target="http://www.w3.org/TR/2008/WD-owl2-primer-20080411/">
+  <front>
+    <title>OWL 2 Web Ontology Language:Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bijan Parsia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter F. Patel-Schneider">
+      <organization/>
+    </author>
+    <date year="2008" month="April" day="11"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl2-primer-20080411"/>
+</reference>

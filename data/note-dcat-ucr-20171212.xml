@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-dcat-ucr-20171212" target="https://www.w3.org/TR/2017/NOTE-dcat-ucr-20171212/">
+  <front>
+    <title>Dataset Exchange Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ixchel Faniel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jaroslav Pullmann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rob Atkinson">
+      <organization/>
+    </author>
+    <date year="2017" month="December" day="12"/>
+    <workgroup>Dataset Exchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-dcat-ucr-20171212"/>
+</reference>

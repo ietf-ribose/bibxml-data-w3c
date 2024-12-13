@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-wot-binding-templates-20180405" target="https://www.w3.org/TR/2018/NOTE-wot-binding-templates-20180405/">
+  <front>
+    <title>Web of Things (WoT) Protocol Binding Templates</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Koster">
+      <organization/>
+    </author>
+    <date year="2018" month="April" day="5"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wot-binding-templates-20180405"/>
+</reference>

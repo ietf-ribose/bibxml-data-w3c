@@ -1,4 +1,4 @@
-<reference anchor="W3C.SVG" target="https://www.w3.org/TR/SVG/">
+<reference anchor="W3C.SVG" target="http://www.w3.org/TR/SVG/">
   <front>
     <title>Scalable Vector Graphics (SVG) 1.0 Specification</title>
     <author>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-CSS21-20040225" target="http://www.w3.org/TR/2004/CR-CSS21-20040225">
+  <front>
+    <title>Cascading Style Sheets, level 2 revision 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2004" month="February" day="25"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-CSS21-20040225"/>
+</reference>

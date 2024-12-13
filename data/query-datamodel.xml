@@ -1,0 +1,9 @@
+<reference anchor="W3C.query-datamodel" target="http://www.w3.org/TR/query-datamodel/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="query-datamodel"/>
+</reference>

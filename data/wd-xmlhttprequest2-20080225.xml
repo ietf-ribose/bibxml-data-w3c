@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-XMLHttpRequest2-20080225" target="http://www.w3.org/TR/2008/WD-XMLHttpRequest2-20080225/">
+  <front>
+    <title>XMLHttpRequest Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <date year="2008" month="February" day="25"/>
+    <workgroup>Web API Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-XMLHttpRequest2-20080225"/>
+</reference>

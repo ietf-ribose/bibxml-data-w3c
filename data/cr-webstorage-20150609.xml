@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-webstorage-20150609" target="http://www.w3.org/TR/2015/CR-webstorage-20150609/">
+  <front>
+    <title>Web Storage (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2015" month="June" day="9"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-webstorage-20150609"/>
+</reference>

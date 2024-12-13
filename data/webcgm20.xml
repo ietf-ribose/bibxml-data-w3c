@@ -1,9 +1,9 @@
-<reference anchor="W3C.webcgm20" target="https://www.w3.org/TR/webcgm20/">
+<reference anchor="W3C.webcgm20" target="http://www.w3.org/TR/webcgm20/">
   <front>
     <title>WebCGM 2.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="webcgm20"/>
+  <seriesInfo name="W3C WD" value="webcgm20"/>
 </reference>

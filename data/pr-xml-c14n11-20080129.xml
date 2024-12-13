@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-xml-c14n11-20080129" target="http://www.w3.org/TR/2008/PR-xml-c14n11-20080129">
+  <front>
+    <title>Canonical XML 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Marcy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <date year="2008" month="January" day="29"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xml-c14n11-20080129"/>
+</reference>

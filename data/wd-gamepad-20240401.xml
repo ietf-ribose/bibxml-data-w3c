@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-gamepad-20240401" target="https://www.w3.org/TR/2024/WD-gamepad-20240401/">
+  <front>
+    <title>Gamepad</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Matthew Reynolds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Agoston">
+      <organization/>
+    </author>
+    <date year="2024" month="April" day="1"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-gamepad-20240401"/>
+</reference>

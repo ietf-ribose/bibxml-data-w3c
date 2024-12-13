@@ -1,0 +1,23 @@
+<reference anchor="W3C.PR-encrypted-media-20170316" target="https://www.w3.org/TR/2017/PR-encrypted-media-20170316/">
+  <front>
+    <title>Encrypted Media Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Dorwin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Smith">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <date year="2017" month="March" day="16"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-encrypted-media-20170316"/>
+</reference>

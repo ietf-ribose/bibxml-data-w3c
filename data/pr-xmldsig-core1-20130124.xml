@@ -1,0 +1,32 @@
+<reference anchor="W3C.PR-xmldsig-core1-20130124" target="http://www.w3.org/TR/2013/PR-xmldsig-core1-20130124/">
+  <front>
+    <title>XML Signature Syntax and Processing Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Solo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Donald Eastlake">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Reagle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kelvin Yiu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Magnus Nyström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Roessler">
+      <organization/>
+    </author>
+    <date year="2013" month="January" day="24"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xmldsig-core1-20130124"/>
+</reference>

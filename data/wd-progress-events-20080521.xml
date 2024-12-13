@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-progress-events-20080521" target="http://www.w3.org/TR/2008/WD-progress-events-20080521">
+  <front>
+    <title>Progress Events 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <date year="2008" month="May" day="21"/>
+    <workgroup>Web API Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-progress-events-20080521"/>
+</reference>

@@ -1,6 +1,6 @@
-<reference anchor="W3C.lexicon-reqs" target="https://www.w3.org/TR/lexicon-reqs/">
+<reference anchor="W3C.lexicon-reqs" target="http://www.w3.org/TR/lexicon-reqs/">
   <front>
-    <title>Pronunciation Lexicon Specification (PLS) Version 1.0 Requirements</title>
+    <title>Pronunciation Lexicon Markup Requirements for the W3C Speech Interface Framework</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

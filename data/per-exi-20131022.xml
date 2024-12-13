@@ -1,0 +1,23 @@
+<reference anchor="W3C.PER-exi-20131022" target="http://www.w3.org/TR/2013/PER-exi-20131022/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Format 1.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rumen Kyusakov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
+    <date year="2013" month="October" day="22"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-exi-20131022"/>
+</reference>

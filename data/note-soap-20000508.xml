@@ -1,0 +1,34 @@
+<reference anchor="W3C.NOTE-SOAP-20000508" target="http://www.w3.org/TR/2000/NOTE-SOAP-20000508">
+  <front>
+    <title>Simple Object Access Protocol (SOAP) 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Layman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Winer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Ehnebuske">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Box">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gopal Kakivaya">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Satish Thatte">
+      <organization/>
+    </author>
+    <date year="2000" month="May" day="8"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SOAP-20000508"/>
+</reference>

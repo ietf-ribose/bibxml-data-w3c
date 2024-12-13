@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-graphics-aam-1.0-20180626" target="https://www.w3.org/TR/2018/PR-graphics-aam-1.0-20180626/">
+  <front>
+    <title>Graphics Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amelia Bellamy-Royds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2018" month="June" day="26"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-graphics-aam-1.0-20180626"/>
+</reference>

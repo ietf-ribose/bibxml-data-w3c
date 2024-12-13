@@ -1,9 +1,9 @@
-<reference anchor="W3C.charmod-norm" target="https://www.w3.org/TR/charmod-norm/">
+<reference anchor="W3C.charmod-norm" target="http://www.w3.org/TR/charmod-norm/">
   <front>
-    <title>Character Model for the World Wide Web: String Matching</title>
+    <title>Character Model for the World Wide Web: String Matching and Searching</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="charmod-norm"/>
+  <seriesInfo name="W3C WD" value="charmod-norm"/>
 </reference>

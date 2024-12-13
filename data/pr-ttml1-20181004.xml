@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-ttml1-20181004" target="https://www.w3.org/TR/2018/PR-ttml1-20181004/">
+  <front>
+    <title>Timed Text Markup Language 1 (TTML1) (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pierre-Anthony Lemieux">
+      <organization/>
+    </author>
+    <date year="2018" month="October" day="4"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-ttml1-20181004"/>
+</reference>

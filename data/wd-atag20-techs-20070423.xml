@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-ATAG20-TECHS-20070423" target="http://www.w3.org/TR/2007/WD-ATAG20-TECHS-20070423/">
+  <front>
+    <title>Implementation Techniques for Authoring Tool Accessibility Guidelines 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jan Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jutta Treviranus">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Boland">
+      <organization/>
+    </author>
+    <date year="2007" month="April" day="23"/>
+    <workgroup>Authoring Tool Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ATAG20-TECHS-20070423"/>
+</reference>

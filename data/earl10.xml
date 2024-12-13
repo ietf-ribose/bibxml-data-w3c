@@ -1,0 +1,9 @@
+<reference anchor="W3C.EARL10" target="http://www.w3.org/TR/EARL10/">
+  <front>
+    <title>Evaluation and Report Language (EARL) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="EARL10"/>
+</reference>

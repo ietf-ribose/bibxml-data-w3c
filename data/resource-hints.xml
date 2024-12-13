@@ -1,9 +1,9 @@
-<reference anchor="W3C.resource-hints" target="https://www.w3.org/TR/resource-hints/">
+<reference anchor="W3C.resource-hints" target="http://www.w3.org/TR/resource-hints/">
   <front>
     <title>Resource Hints</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C technicalReport" value="resource-hints"/>
+  <seriesInfo name="W3C WD" value="resource-hints"/>
 </reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.runtime" target="https://www.w3.org/TR/runtime/">
+<reference anchor="W3C.runtime" target="http://www.w3.org/TR/runtime/">
   <front>
     <title>Runtime and Security Model for Web Applications</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="runtime"/>
+  <seriesInfo name="W3C WD" value="runtime"/>
 </reference>

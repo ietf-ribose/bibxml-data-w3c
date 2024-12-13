@@ -1,4 +1,4 @@
-<reference anchor="W3C.mediacapture-fromelement" target="https://www.w3.org/TR/mediacapture-fromelement/">
+<reference anchor="W3C.mediacapture-fromelement" target="http://www.w3.org/TR/mediacapture-fromelement/">
   <front>
     <title>Media Capture from DOM Elements</title>
     <author>

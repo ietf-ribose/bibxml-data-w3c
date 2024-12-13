@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-speech-synthesis11-20070904" target="http://www.w3.org/TR/2007/WD-speech-synthesis11-20070904/">
+  <front>
+    <title>Speech Synthesis Markup Language (SSML) Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="双志伟">
+      <organization/>
+    </author>
+    <date year="2007" month="September" day="4"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-speech-synthesis11-20070904"/>
+</reference>

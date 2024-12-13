@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-vocab-regorg-20130108" target="http://www.w3.org/TR/2013/WD-vocab-regorg-20130108/">
+  <front>
+    <title>Registered Organization Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Agisilaos Papantoniou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <date year="2013" month="January" day="8"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vocab-regorg-20130108"/>
+</reference>

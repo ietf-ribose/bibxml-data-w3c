@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xml-c14n11-20061220" target="http://www.w3.org/TR/2006/WD-xml-c14n11-20061220">
+  <front>
+    <title>Canonical XML 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Marcy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="20"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xml-c14n11-20061220"/>
+</reference>

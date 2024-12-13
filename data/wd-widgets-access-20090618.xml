@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-widgets-access-20090618" target="http://www.w3.org/TR/2009/WD-widgets-access-20090618/">
+  <front>
+    <title>Widgets 1.0: Access Requests Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="18"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-widgets-access-20090618"/>
+</reference>

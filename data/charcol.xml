@@ -1,0 +1,9 @@
+<reference anchor="W3C.charcol" target="http://www.w3.org/TR/charcol">
+  <front>
+    <title>A Notation for Character Collections for the WWW</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="charcol"/>
+</reference>

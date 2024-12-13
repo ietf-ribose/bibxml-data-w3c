@@ -1,9 +1,9 @@
-<reference anchor="W3C.its" target="https://www.w3.org/TR/its/">
+<reference anchor="W3C.its" target="http://www.w3.org/TR/its">
   <front>
     <title>Internationalization Tag Set (ITS) Version 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="its"/>
+  <seriesInfo name="W3C WD" value="its"/>
 </reference>

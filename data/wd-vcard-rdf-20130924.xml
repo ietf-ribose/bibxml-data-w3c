@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-vcard-rdf-20130924" target="http://www.w3.org/TR/2013/WD-vcard-rdf-20130924/">
+  <front>
+    <title>vCard Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James McKinney">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
+    <date year="2013" month="September" day="24"/>
+    <workgroup>Semantic Web Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vcard-rdf-20130924"/>
+</reference>

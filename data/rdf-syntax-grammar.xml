@@ -1,9 +1,9 @@
-<reference anchor="W3C.rdf-syntax-grammar" target="https://www.w3.org/TR/rdf-syntax-grammar/">
+<reference anchor="W3C.rdf-syntax-grammar" target="http://www.w3.org/TR/rdf-syntax-grammar">
   <front>
-    <title>RDF 1.1 XML Syntax</title>
+    <title>RDF/XML Syntax Specification (Revised)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rdf-syntax-grammar"/>
+  <seriesInfo name="W3C WD" value="rdf-syntax-grammar"/>
 </reference>

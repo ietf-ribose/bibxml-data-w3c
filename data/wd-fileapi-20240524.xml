@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-FileAPI-20240524" target="https://www.w3.org/TR/2024/WD-FileAPI-20240524/">
+  <front>
+    <title>File API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marijn Kruisselbrink">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="24"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-FileAPI-20240524"/>
+</reference>

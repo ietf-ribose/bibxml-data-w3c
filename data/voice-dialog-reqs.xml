@@ -1,4 +1,4 @@
-<reference anchor="W3C.voice-dialog-reqs" target="https://www.w3.org/TR/voice-dialog-reqs/">
+<reference anchor="W3C.voice-dialog-reqs" target="http://www.w3.org/TR/voice-dialog-reqs">
   <front>
     <title>Dialog Requirements for Voice Markup Languages</title>
     <author>

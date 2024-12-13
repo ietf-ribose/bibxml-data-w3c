@@ -1,0 +1,23 @@
+<reference anchor="W3C.PR-wot-architecture11-20230711" target="https://www.w3.org/TR/2023/PR-wot-architecture11-20230711/">
+  <front>
+    <title>Web of Things (WoT) Architecture 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kunihiko Toumura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Lagally">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McCool">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryuichi Matsukura">
+      <organization/>
+    </author>
+    <date year="2023" month="July" day="11"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-wot-architecture11-20230711"/>
+</reference>

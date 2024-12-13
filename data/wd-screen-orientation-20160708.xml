@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-screen-orientation-20160708" target="http://www.w3.org/TR/2016/WD-screen-orientation-20160708/">
+  <front>
+    <title>The Screen Orientation API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="July" day="8"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-screen-orientation-20160708"/>
+</reference>

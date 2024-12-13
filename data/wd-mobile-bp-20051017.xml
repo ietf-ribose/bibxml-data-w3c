@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-mobile-bp-20051017" target="http://www.w3.org/TR/2005/WD-mobile-bp-20051017/">
+  <front>
+    <title>Mobile Web Best Practices 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <date year="2005" month="October" day="17"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mobile-bp-20051017"/>
+</reference>

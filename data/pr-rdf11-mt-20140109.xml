@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-rdf11-mt-20140109" target="http://www.w3.org/TR/2014/PR-rdf11-mt-20140109/">
+  <front>
+    <title>RDF 1.1 Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Patrick Hayes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Patel-Schneider">
+      <organization/>
+    </author>
+    <date year="2014" month="January" day="9"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-rdf11-mt-20140109"/>
+</reference>

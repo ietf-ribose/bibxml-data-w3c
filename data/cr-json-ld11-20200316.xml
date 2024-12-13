@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-json-ld11-20200316" target="https://www.w3.org/TR/2020/CR-json-ld11-20200316/">
+  <front>
+    <title>JSON-LD 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Longley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pierre-Antoine Champin">
+      <organization/>
+    </author>
+    <date year="2020" month="March" day="16"/>
+    <workgroup>JSON-LD Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-json-ld11-20200316"/>
+</reference>

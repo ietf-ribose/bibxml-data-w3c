@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-webcodecs-avc-codec-registration-20210906" target="https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210906/">
+  <front>
+    <title>AVC (H.264) WebCodecs Registration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Cunningham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
+    <date year="2021" month="September" day="6"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-avc-codec-registration-20210906"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-lexicon-reqs-20010312" target="http://www.w3.org/TR/2001/WD-lexicon-reqs-20010312/">
+  <front>
+    <title>Pronunciation Lexicon Markup Requirements for the W3C Speech Interface Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frank Scahill">
+      <organization/>
+    </author>
+    <date year="2001" month="March" day="12"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-lexicon-reqs-20010312"/>
+</reference>

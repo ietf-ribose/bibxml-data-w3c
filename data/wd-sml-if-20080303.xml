@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-sml-if-20080303" target="http://www.w3.org/TR/2008/WD-sml-if-20080303/">
+  <front>
+    <title>Service Modeling Language Interchange Format Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bhalchandra Pandit">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Valentina Popescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Virginia Smith">
+      <organization/>
+    </author>
+    <date year="2008" month="March" day="3"/>
+    <workgroup>Service Modeling Language</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sml-if-20080303"/>
+</reference>

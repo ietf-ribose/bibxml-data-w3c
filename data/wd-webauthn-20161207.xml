@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-webauthn-20161207" target="https://www.w3.org/TR/2016/WD-webauthn-20161207/">
+  <front>
+    <title>Web Authentication: An API for accessing Scoped Credentials</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="December" day="7"/>
+    <workgroup>Web Authentication Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webauthn-20161207"/>
+</reference>

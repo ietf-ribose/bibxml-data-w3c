@@ -1,0 +1,14 @@
+<reference anchor="W3C.PER-geolocation-API-20150528" target="http://www.w3.org/TR/2015/PER-geolocation-API-20150528/">
+  <front>
+    <title>Geolocation API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
+    <date year="2015" month="May" day="28"/>
+    <workgroup>Geolocation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-geolocation-API-20150528"/>
+</reference>

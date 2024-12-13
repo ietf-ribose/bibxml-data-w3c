@@ -1,4 +1,4 @@
-<reference anchor="W3C.image-capture" target="https://www.w3.org/TR/image-capture/">
+<reference anchor="W3C.image-capture" target="http://www.w3.org/TR/image-capture/">
   <front>
     <title>MediaStream Image Capture</title>
     <author>

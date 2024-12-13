@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-cselection-20050502" target="http://www.w3.org/TR/2005/WD-cselection-20050502/">
+  <front>
+    <title>Content Selection for Device Independence (DISelect) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <date year="2005" month="May" day="2"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-cselection-20050502"/>
+</reference>

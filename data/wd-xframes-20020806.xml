@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xframes-20020806" target="http://www.w3.org/TR/2002/WD-xframes-20020806">
+  <front>
+    <title>XFrames</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <date year="2002" month="August" day="6"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xframes-20020806"/>
+</reference>

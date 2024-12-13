@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-IPWG-Practices" target="http://www.w3.org/TR/NOTE-IPWG-Practices">
+  <front>
+    <title>Internet Privacy Working Group Privacy Practices for the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-IPWG-Practices"/>
+</reference>

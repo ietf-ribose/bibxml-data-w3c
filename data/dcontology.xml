@@ -1,9 +1,9 @@
-<reference anchor="W3C.dcontology" target="https://www.w3.org/TR/dcontology/">
+<reference anchor="W3C.dcontology" target="http://www.w3.org/TR/dcontology/">
   <front>
     <title>Delivery Context Ontology</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="dcontology"/>
+  <seriesInfo name="W3C WD" value="dcontology"/>
 </reference>

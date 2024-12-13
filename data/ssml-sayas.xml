@@ -1,4 +1,4 @@
-<reference anchor="W3C.ssml-sayas" target="https://www.w3.org/TR/ssml-sayas/">
+<reference anchor="W3C.ssml-sayas" target="http://www.w3.org/TR/ssml-sayas">
   <front>
     <title>SSML 1.0 say-as attribute values</title>
     <author>

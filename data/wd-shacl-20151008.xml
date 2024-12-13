@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-shacl-20151008" target="http://www.w3.org/TR/2015/WD-shacl-20151008/">
+  <front>
+    <title>Shapes Constraint Language (SHACL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arthur Ryman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Holger Knublauch">
+      <organization/>
+    </author>
+    <date year="2015" month="October" day="8"/>
+    <workgroup>RDF Data Shapes Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-shacl-20151008"/>
+</reference>

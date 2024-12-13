@@ -1,0 +1,9 @@
+<reference anchor="W3C.xhtml-m12n-schema" target="http://www.w3.org/TR/xhtml-m12n-schema">
+  <front>
+    <title>Modularization of XHTML™ in XML Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xhtml-m12n-schema"/>
+</reference>

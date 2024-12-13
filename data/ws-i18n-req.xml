@@ -1,9 +1,9 @@
-<reference anchor="W3C.ws-i18n-req" target="https://www.w3.org/TR/ws-i18n-req/">
+<reference anchor="W3C.ws-i18n-req" target="http://www.w3.org/TR/ws-i18n-req/">
   <front>
     <title>Requirements for the Internationalization of Web Services</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="ws-i18n-req"/>
+  <seriesInfo name="W3C WD" value="ws-i18n-req"/>
 </reference>

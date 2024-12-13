@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-PIDL-19990209" target="http://www.w3.org/TR/1999/NOTE-PIDL-19990209">
+  <front>
+    <title>Personalized Information Description Language (PIDL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marc Langheinrich">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tomonari Kamba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yuichi Koike">
+      <organization/>
+    </author>
+    <date year="1999" month="February" day="9"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-PIDL-19990209"/>
+</reference>

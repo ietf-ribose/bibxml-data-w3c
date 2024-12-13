@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-skos-primer-20090615" target="http://www.w3.org/TR/2009/WD-skos-primer-20090615/">
+  <front>
+    <title>SKOS Simple Knowledge Organization System Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Antoine Isaac">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ed Summers">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="15"/>
+    <workgroup>Semantic Web Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-skos-primer-20090615"/>
+</reference>

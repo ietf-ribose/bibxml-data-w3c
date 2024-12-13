@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xbc-properties-20050224" target="http://www.w3.org/TR/2005/WD-xbc-properties-20050224/">
+  <front>
+    <title>XML Binary Characterization Properties</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mike Cokus">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Santiago Pericas-Geertsen">
+      <organization/>
+    </author>
+    <date year="2005" month="February" day="24"/>
+    <workgroup>XML Binary Characterization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xbc-properties-20050224"/>
+</reference>

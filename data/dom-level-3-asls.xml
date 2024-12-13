@@ -1,4 +1,4 @@
-<reference anchor="W3C.DOM-Level-3-ASLS" target="https://www.w3.org/TR/DOM-Level-3-ASLS/">
+<reference anchor="W3C.DOM-Level-3-ASLS" target="http://www.w3.org/TR/DOM-Level-3-ASLS/">
   <front>
     <title>Document Object Model (DOM) Level 3 Abstract Schemas and Load and       Save Specification</title>
     <author>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-generic-sensor-20190307" target="https://www.w3.org/TR/2019/WD-generic-sensor-20190307/">
+  <front>
+    <title>Generic Sensor API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexander Shalamov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mikhail Pozdnyakov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tobie Langel">
+      <organization/>
+    </author>
+    <date year="2019" month="March" day="7"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-generic-sensor-20190307"/>
+</reference>

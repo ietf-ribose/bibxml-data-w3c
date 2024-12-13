@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-soap12-mtom-20040826" target="http://www.w3.org/TR/2004/CR-soap12-mtom-20040826/">
+  <front>
+    <title>SOAP Message Transmission Optimization Mechanism</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hervé Ruellan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Nottingham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <date year="2004" month="August" day="26"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-soap12-mtom-20040826"/>
+</reference>

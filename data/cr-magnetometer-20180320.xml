@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-magnetometer-20180320" target="https://www.w3.org/TR/2018/CR-magnetometer-20180320/">
+  <front>
+    <title>Magnetometer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rijubrata Bhaumik">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="20"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-magnetometer-20180320"/>
+</reference>

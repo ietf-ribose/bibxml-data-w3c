@@ -1,0 +1,9 @@
+<reference anchor="W3C.cssom" target="http://www.w3.org/TR/cssom/">
+  <front>
+    <title>CSS Object Model (CSSOM)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="cssom"/>
+</reference>

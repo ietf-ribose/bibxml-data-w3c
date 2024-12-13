@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-graphics-aam-1.0-20180329" target="https://www.w3.org/TR/2018/CR-graphics-aam-1.0-20180329/">
+  <front>
+    <title>Graphics Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amelia Bellamy-Royds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Fred Esch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="29"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-graphics-aam-1.0-20180329"/>
+</reference>

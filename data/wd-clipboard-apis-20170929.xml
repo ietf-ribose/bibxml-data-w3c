@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-clipboard-apis-20170929" target="https://www.w3.org/TR/2017/WD-clipboard-apis-20170929/">
+  <front>
+    <title>Clipboard API and events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gary Kacmarcik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Grisha Lyukshin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hallvord Steen">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="29"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-clipboard-apis-20170929"/>
+</reference>

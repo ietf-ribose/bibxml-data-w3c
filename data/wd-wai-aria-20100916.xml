@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-wai-aria-20100916" target="http://www.w3.org/TR/2010/WD-wai-aria-20100916/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Craig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2010" month="September" day="16"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-20100916"/>
+</reference>

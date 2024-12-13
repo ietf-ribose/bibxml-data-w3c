@@ -1,9 +1,9 @@
-<reference anchor="W3C.css-grid-1" target="https://www.w3.org/TR/css-grid-1/">
+<reference anchor="W3C.css-grid-1" target="http://www.w3.org/TR/css-grid-1/">
   <front>
     <title>CSS Grid Layout Module Level 1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="css-grid-1"/>
+  <seriesInfo name="W3C WD" value="css-grid-1"/>
 </reference>

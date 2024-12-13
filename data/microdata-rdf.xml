@@ -1,6 +1,6 @@
-<reference anchor="W3C.microdata-rdf" target="https://www.w3.org/TR/microdata-rdf/">
+<reference anchor="W3C.microdata-rdf" target="http://www.w3.org/TR/microdata-rdf/">
   <front>
-    <title>Microdata to RDF – Second Edition</title>
+    <title>Microdata to RDF</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

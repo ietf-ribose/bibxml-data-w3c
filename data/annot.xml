@@ -1,0 +1,9 @@
+<reference anchor="W3C.annot" target="http://www.w3.org/TR/annot">
+  <front>
+    <title>Annotation of Web Content for Transcoding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="annot"/>
+</reference>

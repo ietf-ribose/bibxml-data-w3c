@@ -1,9 +1,9 @@
-<reference anchor="W3C.DOM-Level-3-Views" target="https://www.w3.org/TR/DOM-Level-3-Views/">
+<reference anchor="W3C.DOM-Level-3-Views" target="http://www.w3.org/TR/DOM-Level-3-Views/">
   <front>
     <title>Document Object Model (DOM) Level 3 Views and Formatting Specification</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="DOM-Level-3-Views"/>
+  <seriesInfo name="W3C WD" value="DOM-Level-3-Views"/>
 </reference>

@@ -1,0 +1,65 @@
+<reference anchor="W3C.WD-xmlp-reqs-20020626" target="http://www.w3.org/TR/2002/WD-xmlp-reqs-20020626">
+  <front>
+    <title>XML Protocol (XMLP) Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Ceponkus">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Amr Yassin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bob Lojek">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Ezell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Fallside">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Newcomer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Ibbotson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevin Mitchell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Nottingham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Oisin Hurley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Cotton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="R. Alexander Milowski">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stuart Williams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vidur Apparao">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Waqar Sadiq">
+      <organization/>
+    </author>
+    <date year="2002" month="June" day="26"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlp-reqs-20020626"/>
+</reference>

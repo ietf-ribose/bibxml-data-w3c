@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-patent-practice-20020124" target="http://www.w3.org/TR/2002/NOTE-patent-practice-20020124">
+  <front>
+    <title>Current Patent Practice</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel J. Weitzner">
+      <organization/>
+    </author>
+    <date year="2002" month="January" day="24"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-patent-practice-20020124"/>
+</reference>

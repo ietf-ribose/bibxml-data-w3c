@@ -1,0 +1,22 @@
+<reference anchor="W3C.WD-owl-guide-20021104" target="http://www.w3.org/TR/2002/WD-owl-guide-20021104/">
+  <front>
+    <title>Web Ontology Language (OWL) Guide Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Welty">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Deborah McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael K. Smith">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raphael Volz">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="4"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl-guide-20021104"/>
+</reference>

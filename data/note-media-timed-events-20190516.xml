@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-media-timed-events-20190516" target="https://www.w3.org/TR/2019/NOTE-media-timed-events-20190516/">
+  <front>
+    <title>Media Timed Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Needham">
+      <organization/>
+    </author>
+    <date year="2019" month="May" day="16"/>
+    <workgroup>Media and Entertainment Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-media-timed-events-20190516"/>
+</reference>

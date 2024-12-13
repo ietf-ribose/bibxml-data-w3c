@@ -1,0 +1,32 @@
+<reference anchor="W3C.PER-soap12-part1-20061219" target="http://www.w3.org/TR/2006/PER-soap12-part1-20061219/">
+  <front>
+    <title>SOAP Version 1.2 Part 1: Messaging Framework (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anish Karmarkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Lafon">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="19"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-soap12-part1-20061219"/>
+</reference>

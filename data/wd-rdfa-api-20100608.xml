@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-rdfa-api-20100608" target="http://www.w3.org/TR/2010/WD-rdfa-api-20100608/">
+  <front>
+    <title>RDFa API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benjamin Adrian">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <date year="2010" month="June" day="8"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdfa-api-20100608"/>
+</reference>

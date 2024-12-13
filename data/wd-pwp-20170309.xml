@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-pwp-20170309" target="https://www.w3.org/TR/2017/WD-pwp-20170309/">
+  <front>
+    <title>Web Publications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben De Meester">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Cramer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Leonard Rosenthol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Gylling">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tzviya Siegman">
+      <organization/>
+    </author>
+    <date year="2017" month="March" day="9"/>
+    <workgroup>Digital Publishing Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pwp-20170309"/>
+</reference>

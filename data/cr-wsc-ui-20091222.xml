@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-wsc-ui-20091222" target="http://www.w3.org/TR/2009/CR-wsc-ui-20091222/">
+  <front>
+    <title>Web Security Context: User Interface Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anil Saldhana">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Roessler">
+      <organization/>
+    </author>
+    <date year="2009" month="December" day="22"/>
+    <workgroup>Web Security Context Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-wsc-ui-20091222"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.dd-ecosystem" target="https://www.w3.org/TR/dd-ecosystem/">
+<reference anchor="W3C.dd-ecosystem" target="http://www.w3.org/TR/dd-ecosystem">
   <front>
-    <title>Device Description Ecosystem 1.0</title>
+    <title>Device Description Ecosystem</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="dd-ecosystem"/>
+  <seriesInfo name="W3C WD" value="dd-ecosystem"/>
 </reference>

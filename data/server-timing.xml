@@ -1,4 +1,4 @@
-<reference anchor="W3C.server-timing" target="https://www.w3.org/TR/server-timing/">
+<reference anchor="W3C.server-timing" target="http://www.w3.org/TR/server-timing/">
   <front>
     <title>Server Timing</title>
     <author>

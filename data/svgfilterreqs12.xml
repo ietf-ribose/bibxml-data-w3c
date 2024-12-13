@@ -1,9 +1,9 @@
-<reference anchor="W3C.SVGFilterReqs12" target="https://www.w3.org/TR/SVGFilterReqs12/">
+<reference anchor="W3C.SVGFilterReqs12" target="http://www.w3.org/TR/SVGFilterReqs12/">
   <front>
     <title>SVG Filter Requirements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="SVGFilterReqs12"/>
+  <seriesInfo name="W3C WD" value="SVGFilterReqs12"/>
 </reference>

@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-filter-effects-1-20141125" target="http://www.w3.org/TR/2014/WD-filter-effects-1-20141125/">
+  <front>
+    <title>Filter Effects Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <date year="2014" month="November" day="25"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-filter-effects-1-20141125"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-rdf12-semantics-20230606" target="https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/">
+  <front>
+    <title>RDF 1.2 Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dörthe Arndt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Patel-Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timothée Haudebourg">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="6"/>
+    <workgroup>RDF-star Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf12-semantics-20230606"/>
+</reference>

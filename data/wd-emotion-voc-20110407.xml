@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-emotion-voc-20110407" target="http://www.w3.org/TR/2011/WD-emotion-voc-20110407/">
+  <front>
+    <title>Vocabularies for EmotionML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Catherine Pelachaud">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marc Schröder">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="7"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-emotion-voc-20110407"/>
+</reference>

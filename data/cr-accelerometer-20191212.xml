@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-accelerometer-20191212" target="https://www.w3.org/TR/2019/CR-accelerometer-20191212/">
+  <front>
+    <title>Accelerometer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2019" month="December" day="12"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-accelerometer-20191212"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-ws-i18n-20080415" target="http://www.w3.org/TR/2008/WD-ws-i18n-20080415/">
+  <front>
+    <title>Web Services Internationalization (WS-I18N)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Trumble">
+      <organization/>
+    </author>
+    <date year="2008" month="April" day="15"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-i18n-20080415"/>
+</reference>

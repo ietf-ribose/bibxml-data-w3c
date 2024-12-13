@@ -1,9 +1,9 @@
-<reference anchor="W3C.grddl-tests" target="https://www.w3.org/TR/grddl-tests/">
+<reference anchor="W3C.grddl-tests" target="http://www.w3.org/TR/grddl-tests/">
   <front>
     <title>GRDDL Test Cases</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="grddl-tests"/>
+  <seriesInfo name="W3C WD" value="grddl-tests"/>
 </reference>

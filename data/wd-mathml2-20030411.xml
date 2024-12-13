@@ -1,0 +1,24 @@
+<reference anchor="W3C.WD-MathML2-20030411" target="http://www.w3.org/TR/2003/WD-MathML2-20030411/">
+  <front>
+    <title>Mathematical Markup Language (MathML) Version 2.0 (2nd
+Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nico Poppelier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Ion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Miner">
+      <organization/>
+    </author>
+    <date year="2003" month="April" day="11"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-MathML2-20030411"/>
+</reference>

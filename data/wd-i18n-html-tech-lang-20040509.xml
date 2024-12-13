@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-i18n-html-tech-lang-20040509" target="http://www.w3.org/TR/2004/WD-i18n-html-tech-lang-20040509/">
+  <front>
+    <title>Authoring Techniques for XHTML &amp; HTML Internationalization: Specifying the language of content 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2004" month="May" day="9"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-i18n-html-tech-lang-20040509"/>
+</reference>

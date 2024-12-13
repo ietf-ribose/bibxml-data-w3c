@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-session-id-960221" target="http://www.w3.org/TR/WD-session-id-960221">
+  <front>
+    <title>Session Identification URI</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phillip M. Hallam-Baker">
+      <organization/>
+    </author>
+    <date year="1996" month="February" day="21"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="WD-session-id-960221"/>
+</reference>

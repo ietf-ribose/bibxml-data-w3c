@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xinclude-20031110" target="http://www.w3.org/TR/2003/WD-xinclude-20031110">
+  <front>
+    <title>XML Inclusions (XInclude) Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="10"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xinclude-20031110"/>
+</reference>

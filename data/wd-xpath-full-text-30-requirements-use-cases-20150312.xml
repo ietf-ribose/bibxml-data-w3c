@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-xpath-full-text-30-requirements-use-cases-20150312" target="http://www.w3.org/TR/2015/WD-xpath-full-text-30-requirements-use-cases-20150312/">
+  <front>
+    <title>XQuery and XPath Full Text 3.0 Requirements and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Pat Case">
+      <organization/>
+    </author>
+    <date year="2015" month="March" day="12"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xpath-full-text-30-requirements-use-cases-20150312"/>
+</reference>

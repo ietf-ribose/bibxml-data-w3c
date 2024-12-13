@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-motion-1-20181218" target="https://www.w3.org/TR/2018/WD-motion-1-20181218/">
+  <front>
+    <title>Motion Path Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Willigers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jihye Hong">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane Stephens">
+      <organization/>
+    </author>
+    <date year="2018" month="December" day="18"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-motion-1-20181218"/>
+</reference>

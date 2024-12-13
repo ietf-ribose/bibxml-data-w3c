@@ -1,0 +1,9 @@
+<reference anchor="W3C.vc-specs-dir" target="https://www.w3.org/TR/vc-specs-dir/">
+  <front>
+    <title>VC Specifications Directory</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="vc-specs-dir"/>
+</reference>

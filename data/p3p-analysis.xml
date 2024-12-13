@@ -1,0 +1,9 @@
+<reference anchor="W3C.P3P-analysis" target="http://www.w3.org/TR/P3P-analysis">
+  <front>
+    <title>Analysis of P3P and US Patent 5,862,325</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="P3P-analysis"/>
+</reference>

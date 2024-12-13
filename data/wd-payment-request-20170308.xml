@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-payment-request-20170308" target="https://www.w3.org/TR/2017/WD-payment-request-20170308/">
+  <front>
+    <title>Payment Request API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roy McElmurry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zach Koch">
+      <organization/>
+    </author>
+    <date year="2017" month="March" day="8"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-payment-request-20170308"/>
+</reference>

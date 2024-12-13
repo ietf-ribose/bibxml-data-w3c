@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-xml-c14n11-20070621" target="http://www.w3.org/TR/2007/CR-xml-c14n11-20070621">
+  <front>
+    <title>Canonical XML 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Marcy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <date year="2007" month="June" day="21"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xml-c14n11-20070621"/>
+</reference>

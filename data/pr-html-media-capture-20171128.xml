@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-html-media-capture-20171128" target="https://www.w3.org/TR/2017/PR-html-media-capture-20171128/">
+  <front>
+    <title>HTML Media Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dominique Hazaël-Massieux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilkka Oksanen">
+      <organization/>
+    </author>
+    <date year="2017" month="November" day="28"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-html-media-capture-20171128"/>
+</reference>

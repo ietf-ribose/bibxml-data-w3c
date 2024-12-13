@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-widgets-updates-20100413" target="http://www.w3.org/TR/2010/WD-widgets-updates-20100413/">
+  <front>
+    <title>Widget Updates</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2010" month="April" day="13"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-widgets-updates-20100413"/>
+</reference>

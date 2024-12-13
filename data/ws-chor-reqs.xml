@@ -1,6 +1,6 @@
-<reference anchor="W3C.ws-chor-reqs" target="https://www.w3.org/TR/ws-chor-reqs/">
+<reference anchor="W3C.ws-chor-reqs" target="http://www.w3.org/TR/ws-chor-reqs">
   <front>
-    <title>Web Services Choreography Requirements</title>
+    <title>Web Services Choreography Requirements 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

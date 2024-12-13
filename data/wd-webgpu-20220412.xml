@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-webgpu-20220412" target="https://www.w3.org/TR/2022/WD-webgpu-20220412/">
+  <front>
+    <title>WebGPU</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brandon Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dzmitry Malyshau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kai Ninomiya">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="12"/>
+    <workgroup>GPU for the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webgpu-20220412"/>
+</reference>

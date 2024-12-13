@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-rif-test-20091001" target="http://www.w3.org/TR/2009/WD-rif-test-20091001/">
+  <front>
+    <title>RIF Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Paschke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Leora Morgenstern">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stella Mitchell">
+      <organization/>
+    </author>
+    <date year="2009" month="October" day="1"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rif-test-20091001"/>
+</reference>

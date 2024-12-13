@@ -1,0 +1,18 @@
+<reference anchor="W3C.PR-xpath-full-text-30-20150806" target="http://www.w3.org/TR/2015/PR-xpath-full-text-30-20150806/">
+  <front>
+    <title>XQuery and XPath Full Text 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Holstege">
+      <organization/>
+    </author>
+    <date year="2015" month="August" day="6"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xpath-full-text-30-20150806"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.di-dco" target="https://www.w3.org/TR/di-dco/">
+<reference anchor="W3C.di-dco" target="http://www.w3.org/TR/di-dco/">
   <front>
     <title>Delivery Context Overview for Device Independence</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="di-dco"/>
+  <seriesInfo name="W3C WD" value="di-dco"/>
 </reference>

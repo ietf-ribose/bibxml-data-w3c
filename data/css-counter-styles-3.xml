@@ -1,9 +1,9 @@
-<reference anchor="W3C.css-counter-styles-3" target="https://www.w3.org/TR/css-counter-styles-3/">
+<reference anchor="W3C.css-counter-styles-3" target="http://www.w3.org/TR/css-counter-styles-3/">
   <front>
     <title>CSS Counter Styles Level 3</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="css-counter-styles-3"/>
+  <seriesInfo name="W3C WD" value="css-counter-styles-3"/>
 </reference>

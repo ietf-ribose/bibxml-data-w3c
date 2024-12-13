@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-ttml10-sdp-us-20120913" target="http://www.w3.org/TR/2012/WD-ttml10-sdp-us-20120913/">
+  <front>
+    <title>Simple Delivery Profile for Closed Captions (US)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Monica Martin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean Hayes">
+      <organization/>
+    </author>
+    <date year="2012" month="September" day="13"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ttml10-sdp-us-20120913"/>
+</reference>

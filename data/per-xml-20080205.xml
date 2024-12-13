@@ -1,0 +1,26 @@
+<reference anchor="W3C.PER-xml-20080205" target="http://www.w3.org/TR/2008/PER-xml-20080205">
+  <front>
+    <title>Extensible Markup Language (XML) 1.0 (Fifth Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="C. M. Sperberg-McQueen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="François Yergeau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean Paoli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
+    <date year="2008" month="February" day="5"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xml-20080205"/>
+</reference>

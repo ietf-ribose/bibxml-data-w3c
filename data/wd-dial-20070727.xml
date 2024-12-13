@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-dial-20070727" target="http://www.w3.org/TR/2007/WD-dial-20070727/">
+  <front>
+    <title>Device Independent Authoring Language (DIAL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kevin Smith">
+      <organization/>
+    </author>
+    <date year="2007" month="July" day="27"/>
+    <workgroup>Ubiquitous Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dial-20070727"/>
+</reference>

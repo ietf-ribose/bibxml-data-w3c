@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mediacapture-region-20220510" target="https://www.w3.org/TR/2022/WD-mediacapture-region-20220510/">
+  <front>
+    <title>Region Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elad Alon">
+      <organization/>
+    </author>
+    <date year="2022" month="May" day="10"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-region-20220510"/>
+</reference>

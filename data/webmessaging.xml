@@ -1,9 +1,9 @@
-<reference anchor="W3C.webmessaging" target="https://www.w3.org/TR/webmessaging/">
+<reference anchor="W3C.webmessaging" target="http://www.w3.org/TR/webmessaging/">
   <front>
     <title>HTML5 Web Messaging</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="webmessaging"/>
+  <seriesInfo name="W3C CR" value="webmessaging"/>
 </reference>

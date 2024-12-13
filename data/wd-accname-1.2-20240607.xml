@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-accname-1.2-20240607" target="https://www.w3.org/TR/2024/WD-accname-1.2-20240607/">
+  <front>
+    <title>Accessible Name and Description Computation 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bryan Garaventa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Melanie Sumner">
+      <organization/>
+    </author>
+    <date year="2024" month="June" day="7"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-accname-1.2-20240607"/>
+</reference>

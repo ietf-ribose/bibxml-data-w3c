@@ -1,0 +1,16 @@
+<reference anchor="W3C.Specification" target="http://www.w3.org/MarkUp/Resource/Specification">
+  <front>
+    <title>Giving Information About Other Resources in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Berners-Lee">
+      <organization/>
+    </author>
+    <date year="1995" month="November" day="20"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="Specification"/>
+</reference>

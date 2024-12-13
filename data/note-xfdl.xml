@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-XFDL" target="http://www.w3.org/TR/NOTE-XFDL">
+  <front>
+    <title>Extensible Forms Description Language (XFDL) 4.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-XFDL"/>
+</reference>

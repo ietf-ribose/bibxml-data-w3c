@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-service-workers-1-20191119" target="https://www.w3.org/TR/2019/CR-service-workers-1-20191119/">
+  <front>
+    <title>Service Workers 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Russell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jake Archibald">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jungkee Song">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marijn Kruisselbrink">
+      <organization/>
+    </author>
+    <date year="2019" month="November" day="19"/>
+    <workgroup>Service Workers Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-service-workers-1-20191119"/>
+</reference>

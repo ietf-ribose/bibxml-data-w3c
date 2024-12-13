@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wcag-3.0-20230724" target="https://www.w3.org/TR/2023/WD-wcag-3.0-20230724/">
+  <front>
+    <title>W3C Accessibility Guidelines (WCAG) 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeanne F Spellman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rachael Bradley Montgomery">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shawn Lauriat">
+      <organization/>
+    </author>
+    <date year="2023" month="July" day="24"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wcag-3.0-20230724"/>
+</reference>

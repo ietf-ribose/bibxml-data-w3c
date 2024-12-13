@@ -1,4 +1,4 @@
-<reference anchor="W3C.xmlp-am" target="https://www.w3.org/TR/xmlp-am/">
+<reference anchor="W3C.xmlp-am" target="http://www.w3.org/TR/xmlp-am/">
   <front>
     <title>XML Protocol Abstract Model</title>
     <author>

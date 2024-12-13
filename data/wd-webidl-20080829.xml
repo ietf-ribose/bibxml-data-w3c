@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-WebIDL-20080829" target="http://www.w3.org/TR/2008/WD-WebIDL-20080829/">
+  <front>
+    <title>Web IDL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <date year="2008" month="August" day="29"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WebIDL-20080829"/>
+</reference>

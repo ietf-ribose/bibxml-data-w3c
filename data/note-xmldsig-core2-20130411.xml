@@ -1,0 +1,34 @@
+<reference anchor="W3C.NOTE-xmldsig-core2-20130411" target="http://www.w3.org/TR/2013/NOTE-xmldsig-core2-20130411/">
+  <front>
+    <title>XML Signature Syntax and Processing Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Solo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Donald Eastlake">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Reagle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kelvin Yiu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pratik Datta">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Cantor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Roessler">
+      <organization/>
+    </author>
+    <date year="2013" month="April" day="11"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xmldsig-core2-20130411"/>
+</reference>

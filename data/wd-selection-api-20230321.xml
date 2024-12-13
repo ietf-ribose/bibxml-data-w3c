@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-selection-api-20230321" target="https://www.w3.org/TR/2023/WD-selection-api-20230321/">
+  <front>
+    <title>Selection API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ryosuke Niwa">
+      <organization/>
+    </author>
+    <date year="2023" month="March" day="21"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-selection-api-20230321"/>
+</reference>

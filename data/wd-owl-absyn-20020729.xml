@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-owl-absyn-20020729" target="http://www.w3.org/TR/2002/WD-owl-absyn-20020729/">
+  <front>
+    <title>OWL Web Ontology Language 1.0 Abstract Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frank van Harmelen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter F. Patel-Schneider">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="29"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl-absyn-20020729"/>
+</reference>

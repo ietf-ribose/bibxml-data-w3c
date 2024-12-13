@@ -1,4 +1,4 @@
-<reference anchor="W3C.mediastream-recording" target="https://www.w3.org/TR/mediastream-recording/">
+<reference anchor="W3C.mediastream-recording" target="http://www.w3.org/TR/mediastream-recording/">
   <front>
     <title>MediaStream Recording</title>
     <author>

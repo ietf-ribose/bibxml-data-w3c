@@ -1,0 +1,9 @@
+<reference anchor="W3C.xtnd" target="http://www.w3.org/TR/xtnd">
+  <front>
+    <title>XTND - XML Transition Network Definition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="xtnd"/>
+</reference>

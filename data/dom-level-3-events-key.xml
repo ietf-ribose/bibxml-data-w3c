@@ -1,0 +1,9 @@
+<reference anchor="W3C.DOM-Level-3-Events-key" target="http://www.w3.org/TR/DOM-Level-3-Events-key/">
+  <front>
+    <title>DOM Level 3 KeyboardEvent key Values</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="DOM-Level-3-Events-key"/>
+</reference>

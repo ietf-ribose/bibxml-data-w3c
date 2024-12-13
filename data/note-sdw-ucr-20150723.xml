@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-sdw-ucr-20150723" target="http://www.w3.org/TR/2015/NOTE-sdw-ucr-20150723/">
+  <front>
+    <title>Spatial Data on the Web Use Cases &amp; Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alejandro Llaves">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frans Knibbe">
+      <organization/>
+    </author>
+    <date year="2015" month="July" day="23"/>
+    <workgroup>Spatial Data on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-sdw-ucr-20150723"/>
+</reference>

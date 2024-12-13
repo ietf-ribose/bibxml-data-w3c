@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-esi-lang-20010804" target="http://www.w3.org/TR/2001/NOTE-esi-lang-20010804">
+  <front>
+    <title>ESI Language Specification 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Nottingham">
+      <organization/>
+    </author>
+    <date year="2001" month="August" day="4"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-esi-lang-20010804"/>
+</reference>

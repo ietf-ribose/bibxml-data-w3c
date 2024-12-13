@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-geofencing-20150604" target="http://www.w3.org/TR/2015/WD-geofencing-20150604/">
+  <front>
+    <title>Geofencing API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marijn Kruisselbrink">
+      <organization/>
+    </author>
+    <date year="2015" month="June" day="4"/>
+    <workgroup>Geolocation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-geofencing-20150604"/>
+</reference>

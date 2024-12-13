@@ -1,0 +1,36 @@
+<reference anchor="W3C.CR-xquery-semantics-20051103" target="http://www.w3.org/TR/2005/CR-xquery-semantics-20051103/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Formal Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Denise Draper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérôme Siméon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kristoffer Rose">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Rys">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Fankhauser">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philip Wadler">
+      <organization/>
+    </author>
+    <date year="2005" month="November" day="3"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xquery-semantics-20051103"/>
+</reference>

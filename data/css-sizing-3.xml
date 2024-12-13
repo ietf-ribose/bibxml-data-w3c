@@ -1,6 +1,6 @@
-<reference anchor="W3C.css-sizing-3" target="https://www.w3.org/TR/css-sizing-3/">
+<reference anchor="W3C.css-sizing-3" target="http://www.w3.org/TR/css-sizing-3/">
   <front>
-    <title>CSS Box Sizing Module Level 3</title>
+    <title>CSS Intrinsic &amp; Extrinsic Sizing Module Level 3</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

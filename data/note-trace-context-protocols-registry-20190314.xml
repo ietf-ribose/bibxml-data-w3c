@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-trace-context-protocols-registry-20190314" target="https://www.w3.org/TR/2019/NOTE-trace-context-protocols-registry-20190314/">
+  <front>
+    <title>Trace Context Protocols Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sergey Kanzhelev">
+      <organization/>
+    </author>
+    <date year="2019" month="March" day="14"/>
+    <workgroup>Distributed Tracing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-trace-context-protocols-registry-20190314"/>
+</reference>

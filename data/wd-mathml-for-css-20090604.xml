@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-mathml-for-css-20090604" target="http://www.w3.org/TR/2009/WD-mathml-for-css-20090604/">
+  <front>
+    <title>A MathML for CSS profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bruce R. Miller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="George Chavchanidze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick D. F. Ion">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="4"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mathml-for-css-20090604"/>
+</reference>

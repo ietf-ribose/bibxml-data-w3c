@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-CCPPexchange-19990624" target="http://www.w3.org/1999/06/NOTE-CCPPexchange-19990624">
+  <front>
+    <title>CC/PP exchange protocol based on HTTP Extension Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hidetaka Ohto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johan Hjelm">
+      <organization/>
+    </author>
+    <date year="1999" month="June" day="24"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CCPPexchange-19990624"/>
+</reference>

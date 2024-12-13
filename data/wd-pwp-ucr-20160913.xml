@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-pwp-ucr-20160913" target="https://www.w3.org/TR/2016/WD-pwp-ucr-20160913/">
+  <front>
+    <title>Portable Web Publications Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Heather Flanagan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <date year="2016" month="September" day="13"/>
+    <workgroup>Digital Publishing Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pwp-ucr-20160913"/>
+</reference>

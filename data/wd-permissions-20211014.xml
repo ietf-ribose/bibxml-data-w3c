@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-permissions-20211014" target="https://www.w3.org/TR/2021/WD-permissions-20211014/">
+  <front>
+    <title>Permissions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeffrey Yasskin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Taylor">
+      <organization/>
+    </author>
+    <date year="2021" month="October" day="14"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-permissions-20211014"/>
+</reference>

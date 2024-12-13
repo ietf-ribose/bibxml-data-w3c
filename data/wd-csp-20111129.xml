@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-CSP-20111129" target="http://www.w3.org/TR/2011/WD-CSP-20111129/">
+  <front>
+    <title>Content Security Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Barth">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brandon Sterne">
+      <organization/>
+    </author>
+    <date year="2011" month="November" day="29"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CSP-20111129"/>
+</reference>

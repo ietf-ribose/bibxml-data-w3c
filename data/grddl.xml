@@ -1,9 +1,9 @@
-<reference anchor="W3C.grddl" target="https://www.w3.org/TR/grddl/">
+<reference anchor="W3C.grddl" target="http://www.w3.org/TR/grddl/">
   <front>
     <title>Gleaning Resource Descriptions from Dialects of Languages (GRDDL)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="grddl"/>
+  <seriesInfo name="W3C NOTE" value="grddl"/>
 </reference>

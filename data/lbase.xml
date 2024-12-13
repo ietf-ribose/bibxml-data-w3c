@@ -1,4 +1,4 @@
-<reference anchor="W3C.lbase" target="https://www.w3.org/TR/lbase/">
+<reference anchor="W3C.lbase" target="http://www.w3.org/TR/lbase">
   <front>
     <title>LBase: Semantics for Languages of the Semantic Web</title>
     <author>

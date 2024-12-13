@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-aria-roadmap-20061220" target="http://www.w3.org/TR/2006/WD-aria-roadmap-20061220/">
+  <front>
+    <title>Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jon Gunderson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="20"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-aria-roadmap-20061220"/>
+</reference>

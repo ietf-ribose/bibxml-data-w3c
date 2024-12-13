@@ -1,9 +1,9 @@
-<reference anchor="W3C.mathml-for-css" target="https://www.w3.org/TR/mathml-for-css/">
+<reference anchor="W3C.mathml-for-css" target="http://www.w3.org/TR/mathml-for-css/">
   <front>
     <title>A MathML for CSS Profile</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="mathml-for-css"/>
+  <seriesInfo name="W3C WD" value="mathml-for-css"/>
 </reference>

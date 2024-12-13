@@ -1,0 +1,37 @@
+<reference anchor="W3C.NOTE-VML-19980513" target="http://www.w3.org/TR/1998/NOTE-VML-19980513">
+  <front>
+    <title>Vector Markup Language (VML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ajay Jindal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brian Dister">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brian Mathews">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Lee">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Howard Cooperstein">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Bowler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Wu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Troy Sandal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tuan Nguyen">
+      <organization/>
+    </author>
+    <date year="1998" month="May" day="13"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-VML-19980513"/>
+</reference>

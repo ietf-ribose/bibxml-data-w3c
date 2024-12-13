@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-query-datamodel-20021115" target="http://www.w3.org/TR/2002/WD-query-datamodel-20021115/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marton Nagy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="15"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-query-datamodel-20021115"/>
+</reference>

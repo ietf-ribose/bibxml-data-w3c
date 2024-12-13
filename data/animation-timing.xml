@@ -1,9 +1,9 @@
-<reference anchor="W3C.animation-timing" target="https://www.w3.org/TR/animation-timing/">
+<reference anchor="W3C.animation-timing" target="http://www.w3.org/TR/animation-timing/">
   <front>
     <title>Timing control for script-based animations</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="animation-timing"/>
+  <seriesInfo name="W3C CR" value="animation-timing"/>
 </reference>

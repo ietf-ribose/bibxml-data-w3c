@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-HTTP-NG-wire" target="https://www.w3.org/TR/WD-HTTP-NG-wire/">
+<reference anchor="W3C.WD-HTTP-NG-wire" target="http://www.w3.org/TR/WD-HTTP-NG-wire">
   <front>
     <title>HTTP-ng Binary Wire Protocol</title>
     <author>

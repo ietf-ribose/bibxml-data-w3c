@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-sparql11-overview-20121108" target="http://www.w3.org/TR/2012/PR-sparql11-overview-20121108/">
+  <front>
+    <title>SPARQL 1.1 Overview</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="The W3C SPARQL Working Group">
+      <organization/>
+    </author>
+    <date year="2012" month="November" day="8"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-sparql11-overview-20121108"/>
+</reference>

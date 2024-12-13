@@ -1,0 +1,43 @@
+<reference anchor="W3C.WD-voicexml20-20020424" target="http://www.w3.org/TR/2002/WD-voicexml20-20020424/">
+  <front>
+    <title>Voice Extensible Markup Language (VoiceXML) Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Hunt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brad Porter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bruce Lucas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dan Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Ladd">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gerald Karam">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Ferrans">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ken Rehor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Danielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott McGlashan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steph Tryphonas">
+      <organization/>
+    </author>
+    <date year="2002" month="April" day="24"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-voicexml20-20020424"/>
+</reference>

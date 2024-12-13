@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-CSP2-20161108" target="https://www.w3.org/TR/2016/PR-CSP2-20161108/">
+  <front>
+    <title>Content Security Policy Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Barth">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Veditz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2016" month="November" day="8"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-CSP2-20161108"/>
+</reference>

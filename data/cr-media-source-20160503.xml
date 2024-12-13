@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-media-source-20160503" target="http://www.w3.org/TR/2016/CR-media-source-20160503/">
+  <front>
+    <title>Media Source Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Colwell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Smith">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew Wolenetz">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="3"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-media-source-20160503"/>
+</reference>

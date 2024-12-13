@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-owl2-overview-20090922" target="http://www.w3.org/TR/2009/PR-owl2-overview-20090922/">
+  <front>
+    <title>OWL 2 Web Ontology Language Document Overview</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="W3C OWL Working Group">
+      <organization/>
+    </author>
+    <date year="2009" month="September" day="22"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-owl2-overview-20090922"/>
+</reference>

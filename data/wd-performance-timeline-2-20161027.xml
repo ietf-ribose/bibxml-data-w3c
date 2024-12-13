@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-performance-timeline-2-20161027" target="https://www.w3.org/TR/2016/WD-performance-timeline-2-20161027/">
+  <front>
+    <title>Performance Timeline Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="October" day="27"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-performance-timeline-2-20161027"/>
+</reference>

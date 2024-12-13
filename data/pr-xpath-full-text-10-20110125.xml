@@ -1,0 +1,42 @@
+<reference anchor="W3C.PR-xpath-full-text-10-20110125" target="http://www.w3.org/TR/2011/PR-xpath-full-text-10-20110125/">
+  <front>
+    <title>XQuery and XPath Full Text 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chavdar Botev">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jayavel Shanmugasundaram">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jochen Doerre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Holstege">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Dyck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Rys">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pat Case">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sihem Amer-Yahia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Buxton">
+      <organization/>
+    </author>
+    <date year="2011" month="January" day="25"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xpath-full-text-10-20110125"/>
+</reference>

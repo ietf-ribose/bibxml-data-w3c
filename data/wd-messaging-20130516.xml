@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-messaging-20130516" target="http://www.w3.org/TR/2013/WD-messaging-20130516/">
+  <front>
+    <title>Messaging API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eduardo Fullea">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jose Manuel Cantera Fonseca">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zoltan Kis">
+      <organization/>
+    </author>
+    <date year="2013" month="May" day="16"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-messaging-20130516"/>
+</reference>

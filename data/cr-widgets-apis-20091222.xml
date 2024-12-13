@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-widgets-apis-20091222" target="http://www.w3.org/TR/2009/CR-widgets-apis-20091222/">
+  <front>
+    <title>The Widget Interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arve Bersvendsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2009" month="December" day="22"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-widgets-apis-20091222"/>
+</reference>

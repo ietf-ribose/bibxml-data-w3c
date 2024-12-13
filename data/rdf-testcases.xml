@@ -1,9 +1,9 @@
-<reference anchor="W3C.rdf-testcases" target="https://www.w3.org/TR/rdf-testcases/">
+<reference anchor="W3C.rdf-testcases" target="http://www.w3.org/TR/rdf-testcases">
   <front>
     <title>RDF Test Cases</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rdf-testcases"/>
+  <seriesInfo name="W3C WD" value="rdf-testcases"/>
 </reference>

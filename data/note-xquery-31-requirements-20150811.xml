@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-xquery-31-requirements-20150811" target="http://www.w3.org/TR/2015/NOTE-xquery-31-requirements-20150811/">
+  <front>
+    <title>XQuery 3.1 Requirements and Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <date year="2015" month="August" day="11"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xquery-31-requirements-20150811"/>
+</reference>

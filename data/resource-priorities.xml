@@ -1,9 +1,9 @@
-<reference anchor="W3C.resource-priorities" target="https://www.w3.org/TR/resource-priorities/">
+<reference anchor="W3C.resource-priorities" target="http://www.w3.org/TR/resource-priorities/">
   <front>
     <title>Resource Priorities</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="resource-priorities"/>
+  <seriesInfo name="W3C WD" value="resource-priorities"/>
 </reference>

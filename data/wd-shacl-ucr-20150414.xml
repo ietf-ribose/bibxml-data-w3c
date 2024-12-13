@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-shacl-ucr-20150414" target="http://www.w3.org/TR/2015/WD-shacl-ucr-20150414/">
+  <front>
+    <title>SHACL Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Karen Coyle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Steyskal">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="14"/>
+    <workgroup>RDF Data Shapes Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-shacl-ucr-20150414"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-xhtml-media-types-20020801" target="http://www.w3.org/TR/2002/NOTE-xhtml-media-types-20020801">
+  <front>
+    <title>XHTML Media Types</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <date year="2002" month="August" day="1"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xhtml-media-types-20020801"/>
+</reference>

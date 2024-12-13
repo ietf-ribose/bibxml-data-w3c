@@ -1,4 +1,4 @@
-<reference anchor="W3C.ambient-light" target="https://www.w3.org/TR/ambient-light/">
+<reference anchor="W3C.ambient-light" target="http://www.w3.org/TR/ambient-light/">
   <front>
     <title>Ambient Light Sensor</title>
     <author>

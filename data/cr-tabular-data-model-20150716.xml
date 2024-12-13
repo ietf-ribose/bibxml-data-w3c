@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-tabular-data-model-20150716" target="http://www.w3.org/TR/2015/CR-tabular-data-model-20150716/">
+  <front>
+    <title>Model for Tabular Data and Metadata on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeni Tennison">
+      <organization/>
+    </author>
+    <date year="2015" month="July" day="16"/>
+    <workgroup>CSV on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-tabular-data-model-20150716"/>
+</reference>

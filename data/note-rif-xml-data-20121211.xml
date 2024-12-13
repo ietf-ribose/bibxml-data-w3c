@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-rif-xml-data-20121211" target="http://www.w3.org/TR/2012/NOTE-rif-xml-data-20121211/">
+  <front>
+    <title>RIF Combination with XML data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christian de Sainte Marie">
+      <organization/>
+    </author>
+    <date year="2012" month="December" day="11"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rif-xml-data-20121211"/>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-xhtml-basic-20060607" target="http://www.w3.org/TR/2006/WD-xhtml-basic-20060607">
+  <front>
+    <title>XHTML Basic 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Baker">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Stark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shin'ichi Matsui">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ted Wugofski">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toshihiko Yamakami">
+      <organization/>
+    </author>
+    <date year="2006" month="June" day="7"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-basic-20060607"/>
+</reference>

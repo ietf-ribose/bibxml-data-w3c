@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-custom-elements-20160523" target="http://www.w3.org/TR/2016/WD-custom-elements-20160523/">
+  <front>
+    <title>Custom Elements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Domenic Denicola">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="23"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-custom-elements-20160523"/>
+</reference>

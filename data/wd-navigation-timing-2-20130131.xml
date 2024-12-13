@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-navigation-timing-2-20130131" target="http://www.w3.org/TR/2013/WD-navigation-timing-2-20130131/">
+  <front>
+    <title>Navigation Timing 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arvind Jain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <date year="2013" month="January" day="31"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20130131"/>
+</reference>

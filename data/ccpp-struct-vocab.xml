@@ -1,9 +1,9 @@
-<reference anchor="W3C.CCPP-struct-vocab" target="https://www.w3.org/TR/CCPP-struct-vocab/">
+<reference anchor="W3C.CCPP-struct-vocab" target="http://www.w3.org/TR/CCPP-struct-vocab/">
   <front>
     <title>Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="CCPP-struct-vocab"/>
+  <seriesInfo name="W3C WD" value="CCPP-struct-vocab"/>
 </reference>

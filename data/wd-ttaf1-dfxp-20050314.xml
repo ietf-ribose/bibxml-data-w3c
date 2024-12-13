@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ttaf1-dfxp-20050314" target="http://www.w3.org/TR/2005/WD-ttaf1-dfxp-20050314/">
+  <front>
+    <title>Timed Text (TT) Authoring Format 1.0 – Distribution Format Exchange Profile (DFXP)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <date year="2005" month="March" day="14"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ttaf1-dfxp-20050314"/>
+</reference>

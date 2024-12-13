@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-css-writing-modes-3-20171207" target="https://www.w3.org/TR/2017/CR-css-writing-modes-3-20171207/">
+  <front>
+    <title>CSS Writing Modes Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Koji Ishii">
+      <organization/>
+    </author>
+    <date year="2017" month="December" day="7"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-writing-modes-3-20171207"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-soap12-rep-20040826" target="http://www.w3.org/TR/2004/CR-soap12-rep-20040826/">
+  <front>
+    <title>Resource Representation SOAP Header Block</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anish Karmarkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Lafon">
+      <organization/>
+    </author>
+    <date year="2004" month="August" day="26"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-soap12-rep-20040826"/>
+</reference>

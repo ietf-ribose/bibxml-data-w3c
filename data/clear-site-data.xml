@@ -1,4 +1,4 @@
-<reference anchor="W3C.clear-site-data" target="https://www.w3.org/TR/clear-site-data/">
+<reference anchor="W3C.clear-site-data" target="http://www.w3.org/TR/clear-site-data/">
   <front>
     <title>Clear Site Data</title>
     <author>

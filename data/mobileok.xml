@@ -1,9 +1,9 @@
-<reference anchor="W3C.mobileOK" target="https://www.w3.org/TR/mobileOK/">
+<reference anchor="W3C.mobileOK" target="http://www.w3.org/TR/mobileOK/">
   <front>
     <title>W3C mobileOK Scheme 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="mobileOK"/>
+  <seriesInfo name="W3C WD" value="mobileOK"/>
 </reference>

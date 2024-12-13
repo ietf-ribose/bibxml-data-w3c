@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-turtle-20110809" target="http://www.w3.org/TR/2011/WD-turtle-20110809/">
+  <front>
+    <title>Turtle</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Carothers">
+      <organization/>
+    </author>
+    <date year="2011" month="August" day="9"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-turtle-20110809"/>
+</reference>

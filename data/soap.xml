@@ -1,0 +1,9 @@
+<reference anchor="W3C.SOAP" target="http://www.w3.org/TR/SOAP/">
+  <front>
+    <title>Simple Object Access Protocol (SOAP) 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="SOAP"/>
+</reference>

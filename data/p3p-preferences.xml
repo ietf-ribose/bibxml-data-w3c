@@ -1,4 +1,4 @@
-<reference anchor="W3C.P3P-preferences" target="https://www.w3.org/TR/P3P-preferences/">
+<reference anchor="W3C.P3P-preferences" target="http://www.w3.org/TR/P3P-preferences">
   <front>
     <title>A P3P Preference Exchange Language 1.0 (APPEL1.0)</title>
     <author>

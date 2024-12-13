@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-SMIL2-20041105" target="http://www.w3.org/TR/2004/PER-SMIL2-20041105/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 2.0)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeff Ayars">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thierry Michel">
+      <organization/>
+    </author>
+    <date year="2004" month="November" day="5"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-SMIL2-20041105"/>
+</reference>

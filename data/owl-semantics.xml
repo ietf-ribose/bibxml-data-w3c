@@ -1,9 +1,9 @@
-<reference anchor="W3C.owl-semantics" target="https://www.w3.org/TR/owl-semantics/">
+<reference anchor="W3C.owl-semantics" target="http://www.w3.org/TR/owl-semantics/">
   <front>
     <title>OWL Web Ontology Language Semantics and Abstract Syntax</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="owl-semantics"/>
+  <seriesInfo name="W3C WD" value="owl-semantics"/>
 </reference>

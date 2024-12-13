@@ -1,9 +1,9 @@
-<reference anchor="W3C.xquery-update-10-use-cases" target="https://www.w3.org/TR/xquery-update-10-use-cases/">
+<reference anchor="W3C.xquery-update-10-use-cases" target="http://www.w3.org/TR/xquery-update-10-use-cases/">
   <front>
     <title>XQuery Update Facility 1.0 Use Cases</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xquery-update-10-use-cases"/>
+  <seriesInfo name="W3C WD" value="xquery-update-10-use-cases"/>
 </reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-CSS-smil" target="http://www.w3.org/TR/NOTE-CSS-smil">
+  <front>
+    <title>Displaying SMIL Basic Layout with a CSS2 Rendering engine</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CSS-smil"/>
+</reference>

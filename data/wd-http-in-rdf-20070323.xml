@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-HTTP-in-RDF-20070323" target="http://www.w3.org/TR/2007/WD-HTTP-in-RDF-20070323/">
+  <front>
+    <title>HTTP Vocabulary in RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Carlos A Velasco">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johannes Koch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shadi Abou-Zahra">
+      <organization/>
+    </author>
+    <date year="2007" month="March" day="23"/>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-HTTP-in-RDF-20070323"/>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-IndexedDB-20120524" target="http://www.w3.org/TR/2012/WD-IndexedDB-20120524/">
+  <front>
+    <title>Indexed Database API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eliot Graff">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy Orlow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonas Sicking">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nikunj Mehta">
+      <organization/>
+    </author>
+    <date year="2012" month="May" day="24"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-IndexedDB-20120524"/>
+</reference>

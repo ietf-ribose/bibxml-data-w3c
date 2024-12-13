@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-pwpub-20180104" target="https://www.w3.org/TR/2018/WD-pwpub-20180104/">
+  <front>
+    <title>Packaged Web Publications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Wood">
+      <organization/>
+    </author>
+    <date year="2018" month="January" day="4"/>
+    <workgroup>Audiobooks Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pwpub-20180104"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-international-specs-20200529" target="https://www.w3.org/TR/2020/WD-international-specs-20200529/">
+  <front>
+    <title>Internationalization Best Practices for Spec Developers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2020" month="May" day="29"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-international-specs-20200529"/>
+</reference>

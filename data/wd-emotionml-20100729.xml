@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-emotionml-20100729" target="http://www.w3.org/TR/2010/WD-emotionml-20100729/">
+  <front>
+    <title>Emotion Markup Language (EmotionML) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marc Schröder">
+      <organization/>
+    </author>
+    <date year="2010" month="July" day="29"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-emotionml-20100729"/>
+</reference>

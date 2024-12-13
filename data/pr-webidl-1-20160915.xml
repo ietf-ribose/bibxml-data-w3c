@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-WebIDL-1-20160915" target="https://www.w3.org/TR/2016/PR-WebIDL-1-20160915/">
+  <front>
+    <title>WebIDL Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Boris Zbarsky">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <date year="2016" month="September" day="15"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-WebIDL-1-20160915"/>
+</reference>

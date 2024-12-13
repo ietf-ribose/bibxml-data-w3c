@@ -1,0 +1,26 @@
+<reference anchor="W3C.PER-xml-20031030" target="http://www.w3.org/TR/2003/PER-xml-20031030">
+  <front>
+    <title>Extensible Markup Language (XML) 1.0 (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="C. M. Sperberg-McQueen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="François Yergeau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean Paoli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
+    <date year="2003" month="October" day="30"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xml-20031030"/>
+</reference>

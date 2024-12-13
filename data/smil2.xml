@@ -1,9 +1,9 @@
-<reference anchor="W3C.SMIL2" target="https://www.w3.org/TR/SMIL2/">
+<reference anchor="W3C.SMIL2" target="http://www.w3.org/TR/SMIL2/">
   <front>
     <title>Synchronized Multimedia Integration Language (SMIL 2.1)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="SMIL2"/>
+  <seriesInfo name="W3C PER" value="SMIL2"/>
 </reference>

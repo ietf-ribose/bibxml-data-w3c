@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-ws-metadata-exchange-20090625" target="http://www.w3.org/TR/2009/WD-ws-metadata-exchange-20090625">
+  <front>
+    <title>Web Services Metadata Exchange (WS-MetadataExchange)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Davis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Katy Warr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wu Chou">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="25"/>
+    <workgroup>Web Services Resource Access Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-metadata-exchange-20090625"/>
+</reference>

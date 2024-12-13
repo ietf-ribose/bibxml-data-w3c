@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-EARL10-Schema-20060927" target="http://www.w3.org/TR/2006/WD-EARL10-Schema-20060927">
+  <front>
+    <title>Evaluation and Report Language (EARL) 1.0 Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shadi Abou-Zahra">
+      <organization/>
+    </author>
+    <date year="2006" month="September" day="27"/>
+    <workgroup>Content Label Incubator Group</workgroup>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-EARL10-Schema-20060927"/>
+</reference>

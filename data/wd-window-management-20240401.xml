@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-window-management-20240401" target="https://www.w3.org/TR/2024/WD-window-management-20240401/">
+  <front>
+    <title>Window Management</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Wasserman">
+      <organization/>
+    </author>
+    <date year="2024" month="April" day="1"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-window-management-20240401"/>
+</reference>

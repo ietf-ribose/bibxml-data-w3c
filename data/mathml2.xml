@@ -1,6 +1,6 @@
-<reference anchor="W3C.MathML2" target="https://www.w3.org/TR/MathML2/">
+<reference anchor="W3C.MathML2" target="http://www.w3.org/TR/MathML2/">
   <front>
-    <title>Mathematical Markup Language (MathML) Version 2.0 (Second Edition)</title>
+    <title>Mathematical Markup Language (MathML) Version 2.0 (2nd Edition)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

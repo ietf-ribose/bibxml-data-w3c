@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-di-atdi-20031106" target="http://www.w3.org/TR/2003/WD-di-atdi-20031106/">
+  <front>
+    <title>Authoring Techniques for Device Independence</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rotan Hanrahan">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="6"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-di-atdi-20031106"/>
+</reference>

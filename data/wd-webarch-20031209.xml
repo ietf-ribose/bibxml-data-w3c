@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webarch-20031209" target="http://www.w3.org/TR/2003/WD-webarch-20031209/">
+  <front>
+    <title>Architecture of the World Wide Web, First Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <date year="2003" month="December" day="9"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webarch-20031209"/>
+</reference>

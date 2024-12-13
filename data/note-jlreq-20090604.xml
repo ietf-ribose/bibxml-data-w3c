@@ -1,0 +1,41 @@
+<reference anchor="W3C.NOTE-jlreq-20090604" target="http://www.w3.org/TR/2009/NOTE-jlreq-20090604/">
+  <front>
+    <title>Requirements for Japanese Text Layout</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hiroyuki Chiba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Junsaburo Edamoto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keiichiro Ishino">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenzou Onozawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tatsuo Kobayashi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toshi Kobayashi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yasuhiro Anan">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="4"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Internationalization Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-jlreq-20090604"/>
+</reference>

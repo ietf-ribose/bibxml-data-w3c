@@ -1,4 +1,4 @@
-<reference anchor="W3C.ws-metadata-exchange" target="https://www.w3.org/TR/ws-metadata-exchange/">
+<reference anchor="W3C.ws-metadata-exchange" target="http://www.w3.org/TR/ws-metadata-exchange">
   <front>
     <title>Web Services Metadata Exchange (WS-MetadataExchange)</title>
     <author>

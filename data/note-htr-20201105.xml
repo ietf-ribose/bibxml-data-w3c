@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-htr-20201105" target="https://www.w3.org/TR/2020/NOTE-htr-20201105/">
+  <front>
+    <title>How EMVCo, FIDO, and W3C Technologies Relate</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <date year="2020" month="November" day="5"/>
+    <workgroup>Web Payment Security Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-htr-20201105"/>
+</reference>

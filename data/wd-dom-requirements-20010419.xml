@@ -1,0 +1,47 @@
+<reference anchor="W3C.WD-DOM-Requirements-20010419" target="http://www.w3.org/TR/2001/WD-DOM-Requirements-20010419/">
+  <front>
+    <title>Document Object Model (DOM) Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Heninger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Angel Diaz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ben Chang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Davidson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jared Sorensen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joe Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ray Whitmer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Pixley">
+      <organization/>
+    </author>
+    <date year="2001" month="April" day="19"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Requirements-20010419"/>
+</reference>

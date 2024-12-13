@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-orientation-event-20230421" target="https://www.w3.org/TR/2023/WD-orientation-event-20230421/">
+  <front>
+    <title>DeviceOrientation Event Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Raphael Kubo da Costa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Reilly Grant">
+      <organization/>
+    </author>
+    <date year="2023" month="April" day="21"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-orientation-event-20230421"/>
+</reference>

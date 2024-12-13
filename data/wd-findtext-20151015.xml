@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-findtext-20151015" target="http://www.w3.org/TR/2015/WD-findtext-20151015/">
+  <front>
+    <title>FindText API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <date year="2015" month="October" day="15"/>
+    <workgroup>Web Applications Working Group</workgroup>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-findtext-20151015"/>
+</reference>

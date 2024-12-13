@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-payment-method-id-20160421" target="http://www.w3.org/TR/2016/WD-payment-method-id-20160421/">
+  <front>
+    <title>Payment Method Identifiers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Barnes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roy McElmurry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zach Koch">
+      <organization/>
+    </author>
+    <date year="2016" month="April" day="21"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-payment-method-id-20160421"/>
+</reference>

@@ -1,0 +1,56 @@
+<reference anchor="W3C.CR-SVGMobile12-20060810" target="http://www.w3.org/TR/2006/CR-SVGMobile12-20060810/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andreas Neumann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Emmons">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Shellshear">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Craig Northway">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nandini Ramani">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ola Andersson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hayman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Hardy">
+      <organization/>
+    </author>
+    <date year="2006" month="August" day="10"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-SVGMobile12-20060810"/>
+</reference>

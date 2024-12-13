@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-screen-capture-20160714" target="http://www.w3.org/TR/2016/WD-screen-capture-20160714/">
+  <front>
+    <title>Screen Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Keith Griffin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Thomson">
+      <organization/>
+    </author>
+    <date year="2016" month="July" day="14"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-screen-capture-20160714"/>
+</reference>

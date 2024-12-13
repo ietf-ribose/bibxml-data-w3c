@@ -1,9 +1,9 @@
-<reference anchor="W3C.rdf-sparql-protocol" target="https://www.w3.org/TR/rdf-sparql-protocol/">
+<reference anchor="W3C.rdf-sparql-protocol" target="http://www.w3.org/TR/rdf-sparql-protocol/">
   <front>
     <title>SPARQL Protocol for RDF</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rdf-sparql-protocol"/>
+  <seriesInfo name="W3C WD" value="rdf-sparql-protocol"/>
 </reference>

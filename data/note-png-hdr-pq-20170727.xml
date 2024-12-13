@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-png-hdr-pq-20170727" target="https://www.w3.org/TR/2017/NOTE-png-hdr-pq-20170727/">
+  <front>
+    <title>Using the ITU BT.2100 PQ EOTF with the PNG Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Pierre-Anthony Lemieux">
+      <organization/>
+    </author>
+    <date year="2017" month="July" day="27"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-png-hdr-pq-20170727"/>
+</reference>

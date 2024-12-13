@@ -1,9 +1,9 @@
-<reference anchor="W3C.dpub-annotation-uc" target="https://www.w3.org/TR/dpub-annotation-uc/">
+<reference anchor="W3C.dpub-annotation-uc" target="http://www.w3.org/TR/dpub-annotation-uc/">
   <front>
-    <title>Digital Publishing Annotation Use Cases</title>
+    <title>Annotation Use Cases</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="dpub-annotation-uc"/>
+  <seriesInfo name="W3C WD" value="dpub-annotation-uc"/>
 </reference>

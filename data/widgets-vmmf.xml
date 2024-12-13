@@ -1,0 +1,9 @@
+<reference anchor="W3C.widgets-vmmf" target="http://www.w3.org/TR/widgets-vmmf/">
+  <front>
+    <title>Widgets 1.0: View Modes Media Feature</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="widgets-vmmf"/>
+</reference>

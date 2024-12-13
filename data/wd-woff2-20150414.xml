@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-WOFF2-20150414" target="http://www.w3.org/TR/2015/WD-WOFF2-20150414/">
+  <front>
+    <title>WOFF File Format 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Raph Levien">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vladimir Levantovsky">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="14"/>
+    <workgroup>Web Fonts Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WOFF2-20150414"/>
+</reference>

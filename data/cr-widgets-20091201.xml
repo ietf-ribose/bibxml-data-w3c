@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-widgets-20091201" target="http://www.w3.org/TR/2009/CR-widgets-20091201/">
+  <front>
+    <title>Widget Packaging and Configuration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2009" month="December" day="1"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-widgets-20091201"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-xml-entity-names-20140211" target="http://www.w3.org/TR/2014/PER-xml-entity-names-20140211/">
+  <front>
+    <title>XML Entity Definitions for Characters (2nd Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick D F Ion">
+      <organization/>
+    </author>
+    <date year="2014" month="February" day="11"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xml-entity-names-20140211"/>
+</reference>

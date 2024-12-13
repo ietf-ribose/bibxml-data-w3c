@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-xquery-use-cases-20050915" target="http://www.w3.org/TR/2005/WD-xquery-use-cases-20050915/">
+  <front>
+    <title>XML Query Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Massimo Marchiori">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Fankhauser">
+      <organization/>
+    </author>
+    <date year="2005" month="September" day="15"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-use-cases-20050915"/>
+</reference>

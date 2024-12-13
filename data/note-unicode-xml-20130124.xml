@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-unicode-xml-20130124" target="http://www.w3.org/TR/2013/NOTE-unicode-xml-20130124/">
+  <front>
+    <title>Unicode in XML and other Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2013" month="January" day="24"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-unicode-xml-20130124"/>
+</reference>

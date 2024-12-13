@@ -1,4 +1,4 @@
-<reference anchor="W3C.voice-tts-reqs" target="https://www.w3.org/TR/voice-tts-reqs/">
+<reference anchor="W3C.voice-tts-reqs" target="http://www.w3.org/TR/voice-tts-reqs">
   <front>
     <title>Speech Synthesis Markup Requirements for Voice Markup Languages</title>
     <author>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-webcodecs-codec-registry-20210603" target="https://www.w3.org/TR/2021/WD-webcodecs-codec-registry-20210603/">
+  <front>
+    <title>WebCodecs Codec Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Cunningham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
+    <date year="2021" month="June" day="3"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-codec-registry-20210603"/>
+</reference>

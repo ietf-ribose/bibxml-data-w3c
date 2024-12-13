@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wsdl20-20070326" target="http://www.w3.org/TR/2007/WD-wsdl20-20070326">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0 Part 1: Core Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arthur Ryman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roberto Chinnici">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sanjiva Weerawarana">
+      <organization/>
+    </author>
+    <date year="2007" month="March" day="26"/>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wsdl20-20070326"/>
+</reference>

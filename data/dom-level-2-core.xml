@@ -1,4 +1,4 @@
-<reference anchor="W3C.DOM-Level-2-Core" target="https://www.w3.org/TR/DOM-Level-2-Core/">
+<reference anchor="W3C.DOM-Level-2-Core" target="http://www.w3.org/TR/DOM-Level-2-Core/">
   <front>
     <title>Document Object Model (DOM) Level 2 Core Specification</title>
     <author>

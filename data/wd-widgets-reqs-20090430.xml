@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-widgets-reqs-20090430" target="http://www.w3.org/TR/2009/WD-widgets-reqs-20090430/">
+  <front>
+    <title>Widgets 1.0: Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Priestley">
+      <organization/>
+    </author>
+    <date year="2009" month="April" day="30"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-widgets-reqs-20090430"/>
+</reference>

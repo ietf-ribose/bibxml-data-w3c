@@ -1,4 +1,4 @@
-<reference anchor="W3C.resource-timing-1" target="https://www.w3.org/TR/resource-timing-1/">
+<reference anchor="W3C.resource-timing-1" target="http://www.w3.org/TR/resource-timing-1/">
   <front>
     <title>Resource Timing Level 1</title>
     <author>

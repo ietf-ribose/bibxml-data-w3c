@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-vc-di-eddsa-20231021" target="https://www.w3.org/TR/2023/WD-vc-di-eddsa-20231021/">
+  <front>
+    <title>Data Integrity EdDSA Cryptosuites v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dmitri Zagidulin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Greg Bernstein">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Crane">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="21"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vc-di-eddsa-20231021"/>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-sXBL-20040901" target="http://www.w3.org/TR/2004/WD-sXBL-20040901">
+  <front>
+    <title>SVG's XML Binding Language (sXBL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Hyatt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <date year="2004" month="September" day="1"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sXBL-20040901"/>
+</reference>

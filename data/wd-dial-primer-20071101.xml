@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-dial-primer-20071101" target="http://www.w3.org/TR/2007/WD-dial-primer-20071101/">
+  <front>
+    <title>DIAL Part 0: Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kevin Smith">
+      <organization/>
+    </author>
+    <date year="2007" month="November" day="1"/>
+    <workgroup>Ubiquitous Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dial-primer-20071101"/>
+</reference>

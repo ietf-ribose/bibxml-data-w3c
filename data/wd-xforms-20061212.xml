@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xforms-20061212" target="http://www.w3.org/TR/2006/WD-xforms-20061212/">
+  <front>
+    <title>XForms 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="12"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xforms-20061212"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-wot-thing-description-20170914" target="https://www.w3.org/TR/2017/WD-wot-thing-description-20170914/">
+  <front>
+    <title>Web of Things (WoT) Thing Description</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Sebastian Käbisch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="14"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wot-thing-description-20170914"/>
+</reference>

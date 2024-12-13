@@ -1,0 +1,9 @@
+<reference anchor="W3C.screen-fold" target="https://www.w3.org/TR/screen-fold/">
+  <front>
+    <title>The Screen Fold API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="screen-fold"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-soap12-af-20020924" target="http://www.w3.org/TR/2002/WD-soap12-af-20020924">
+  <front>
+    <title>SOAP 1.2 Attachment Feature</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hervé Ruellan">
+      <organization/>
+    </author>
+    <date year="2002" month="September" day="24"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-soap12-af-20020924"/>
+</reference>

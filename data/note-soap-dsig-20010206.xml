@@ -1,0 +1,25 @@
+<reference anchor="W3C.NOTE-SOAP-dsig-20010206" target="http://www.w3.org/TR/2001/NOTE-SOAP-dsig-20010206">
+  <front>
+    <title>SOAP Security Extensions: Digital Signature</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Allen Brown">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Barbara Fox">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brian LaMacchia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hiroshi Maruyama">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Satoshi Hada">
+      <organization/>
+    </author>
+    <date year="2001" month="February" day="6"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SOAP-dsig-20010206"/>
+</reference>

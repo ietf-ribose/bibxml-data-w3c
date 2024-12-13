@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-security-privacy-questionnaire-20190910" target="https://www.w3.org/TR/2019/NOTE-security-privacy-questionnaire-20190910/">
+  <front>
+    <title>Self-Review Questionnaire: Security and Privacy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jason Novak">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lukasz Olejnik">
+      <organization/>
+    </author>
+    <date year="2019" month="September" day="10"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-security-privacy-questionnaire-20190910"/>
+</reference>

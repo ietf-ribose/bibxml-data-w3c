@@ -1,0 +1,35 @@
+<reference anchor="W3C.CR-webrtc-20191213" target="https://www.w3.org/TR/2019/CR-webrtc-20191213/">
+  <front>
+    <title>WebRTC 1.0: Real-time Communication Between Browsers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Bergkvist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anant Narayanan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cullen Jennings">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Boström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan-Ivar Bruaroey">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Taylor Brandstetter">
+      <organization/>
+    </author>
+    <date year="2019" month="December" day="13"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-webrtc-20191213"/>
+</reference>

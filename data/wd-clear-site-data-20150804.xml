@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-clear-site-data-20150804" target="http://www.w3.org/TR/2015/WD-clear-site-data-20150804/">
+  <front>
+    <title>Clear Site Data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2015" month="August" day="4"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-clear-site-data-20150804"/>
+</reference>

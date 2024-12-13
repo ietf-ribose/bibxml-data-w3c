@@ -1,0 +1,14 @@
+<reference anchor="W3C.PER-owl2-overview-20121018" target="http://www.w3.org/TR/2012/PER-owl2-overview-20121018/">
+  <front>
+    <title>OWL 2 Web Ontology Language Document Overview</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="W3C OWL Working Group">
+      <organization/>
+    </author>
+    <date year="2012" month="October" day="18"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-owl2-overview-20121018"/>
+</reference>

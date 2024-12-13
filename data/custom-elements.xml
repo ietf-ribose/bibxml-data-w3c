@@ -1,9 +1,9 @@
-<reference anchor="W3C.custom-elements" target="https://www.w3.org/TR/custom-elements/">
+<reference anchor="W3C.custom-elements" target="http://www.w3.org/TR/custom-elements/">
   <front>
     <title>Custom Elements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="custom-elements"/>
+  <seriesInfo name="W3C WD" value="custom-elements"/>
 </reference>

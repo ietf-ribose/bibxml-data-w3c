@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ttml2-20160524" target="http://www.w3.org/TR/2016/WD-ttml2-20160524/">
+  <front>
+    <title>Timed Text Markup Language 2 (TTML2)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="24"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ttml2-20160524"/>
+</reference>

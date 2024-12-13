@@ -1,0 +1,9 @@
+<reference anchor="W3C.wsdl12" target="http://www.w3.org/TR/wsdl12">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 1.2 Part 1: Core Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="wsdl12"/>
+</reference>

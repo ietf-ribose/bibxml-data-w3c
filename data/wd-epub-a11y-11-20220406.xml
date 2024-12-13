@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-epub-a11y-11-20220406" target="https://www.w3.org/TR/2022/WD-epub-a11y-11-20220406/">
+  <front>
+    <title>EPUB Accessibility 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Avneesh Singh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles LaPierre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="George Kerscher">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregorio Pellegrino">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="6"/>
+    <workgroup>EPUB 3 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-epub-a11y-11-20220406"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-soap12-os-ucr-20031112" target="http://www.w3.org/TR/2003/WD-soap12-os-ucr-20031112/">
+  <front>
+    <title>SOAP Optimized Serialization Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anish Karmarkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tony Graham">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="12"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-soap12-os-ucr-20031112"/>
+</reference>

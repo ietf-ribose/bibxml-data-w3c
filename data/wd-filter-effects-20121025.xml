@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-filter-effects-20121025" target="http://www.w3.org/TR/2012/WD-filter-effects-20121025/">
+  <front>
+    <title>Filter Effects 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Hardy">
+      <organization/>
+    </author>
+    <date year="2012" month="October" day="25"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-filter-effects-20121025"/>
+</reference>

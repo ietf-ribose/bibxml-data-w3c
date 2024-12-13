@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-SVG-access-20000807" target="http://www.w3.org/TR/2000/NOTE-SVG-access-20000807">
+  <front>
+    <title>Accessibility Features of SVG</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marja-Riitta Koivunen">
+      <organization/>
+    </author>
+    <date year="2000" month="August" day="7"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SVG-access-20000807"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.NOTE-DOM-Level-3-AS-20020725" target="https://www.w3.org/TR/2002/NOTE-DOM-Level-3-AS-20020725/">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Abstract Schemas Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Chang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elena Litani">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="rezaur rahman">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="25"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-DOM-Level-3-AS-20020725"/>
+</reference>

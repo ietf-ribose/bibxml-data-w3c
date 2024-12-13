@@ -1,0 +1,17 @@
+<reference anchor="W3C.DNOTE-international-specs-20220428" target="https://www.w3.org/TR/2022/DNOTE-international-specs-20220428/">
+  <front>
+    <title>Internationalization Best Practices for Spec Developers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="28"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-international-specs-20220428"/>
+</reference>

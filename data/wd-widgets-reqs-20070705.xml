@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-widgets-reqs-20070705" target="http://www.w3.org/TR/2007/WD-widgets-reqs-20070705/">
+  <front>
+    <title>Widgets 1.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2007" month="July" day="5"/>
+    <workgroup>Web Application Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-widgets-reqs-20070705"/>
+</reference>

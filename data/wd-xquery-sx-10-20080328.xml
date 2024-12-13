@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-xquery-sx-10-20080328" target="http://www.w3.org/TR/2008/WD-xquery-sx-10-20080328/">
+  <front>
+    <title>XQuery Scripting Extension 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dana Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Engovatov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Giorgio Ghelli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérôme Siméon">
+      <organization/>
+    </author>
+    <date year="2008" month="March" day="28"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-sx-10-20080328"/>
+</reference>

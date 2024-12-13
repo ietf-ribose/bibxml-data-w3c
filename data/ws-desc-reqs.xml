@@ -1,4 +1,4 @@
-<reference anchor="W3C.ws-desc-reqs" target="https://www.w3.org/TR/ws-desc-reqs/">
+<reference anchor="W3C.ws-desc-reqs" target="http://www.w3.org/TR/ws-desc-reqs">
   <front>
     <title>Web Services Description Requirements</title>
     <author>

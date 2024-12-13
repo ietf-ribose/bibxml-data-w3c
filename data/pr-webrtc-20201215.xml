@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-webrtc-20201215" target="https://www.w3.org/TR/2020/PR-webrtc-20201215/">
+  <front>
+    <title>WebRTC 1.0: Real-Time Communication Between Browsers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cullen Jennings">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Boström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan-Ivar Bruaroey">
+      <organization/>
+    </author>
+    <date year="2020" month="December" day="15"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-webrtc-20201215"/>
+</reference>

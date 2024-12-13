@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xslfo20-20110927" target="http://www.w3.org/TR/2011/WD-xslfo20-20110927/">
+  <front>
+    <title>Extensible Stylesheet Language (XSL) Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Pawson">
+      <organization/>
+    </author>
+    <date year="2011" month="September" day="27"/>
+    <workgroup>XML Print and Page Layout Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xslfo20-20110927"/>
+</reference>

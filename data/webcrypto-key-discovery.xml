@@ -1,9 +1,9 @@
-<reference anchor="W3C.webcrypto-key-discovery" target="https://www.w3.org/TR/webcrypto-key-discovery/">
+<reference anchor="W3C.webcrypto-key-discovery" target="http://www.w3.org/TR/webcrypto-key-discovery/">
   <front>
     <title>WebCrypto Key Discovery</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="webcrypto-key-discovery"/>
+  <seriesInfo name="W3C WD" value="webcrypto-key-discovery"/>
 </reference>

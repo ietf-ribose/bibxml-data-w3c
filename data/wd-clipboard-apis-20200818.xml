@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-clipboard-apis-20200818" target="https://www.w3.org/TR/2020/WD-clipboard-apis-20200818/">
+  <front>
+    <title>Clipboard API and events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gary Kacmarcik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Grisha Lyukshin">
+      <organization/>
+    </author>
+    <date year="2020" month="August" day="18"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-clipboard-apis-20200818"/>
+</reference>

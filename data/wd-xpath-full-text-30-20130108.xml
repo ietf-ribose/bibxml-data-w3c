@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-xpath-full-text-30-20130108" target="http://www.w3.org/TR/2013/WD-xpath-full-text-30-20130108/">
+  <front>
+    <title>XQuery and XPath Full Text 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mary Holstege">
+      <organization/>
+    </author>
+    <date year="2013" month="January" day="8"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xpath-full-text-30-20130108"/>
+</reference>

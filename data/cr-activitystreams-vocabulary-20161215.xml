@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-activitystreams-vocabulary-20161215" target="https://www.w3.org/TR/2016/CR-activitystreams-vocabulary-20161215/">
+  <front>
+    <title>Activity Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Evan Prodromou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Snell">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="15"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-activitystreams-vocabulary-20161215"/>
+</reference>

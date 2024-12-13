@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-accessibility-conformance-challenges-20200604" target="https://www.w3.org/TR/2020/WD-accessibility-conformance-challenges-20200604/">
+  <front>
+    <title>Challenges with Accessibility Guidelines Conformance and Testing, and Approaches for Mitigating Them</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles Hall">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Korn">
+      <organization/>
+    </author>
+    <date year="2020" month="June" day="4"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-accessibility-conformance-challenges-20200604"/>
+</reference>

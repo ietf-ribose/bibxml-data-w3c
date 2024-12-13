@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-xquery-20051103" target="http://www.w3.org/TR/2005/CR-xquery-20051103/">
+  <front>
+    <title>XQuery 1.0: An XML Query Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérôme Siméon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary F. Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Boag">
+      <organization/>
+    </author>
+    <date year="2005" month="November" day="3"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xquery-20051103"/>
+</reference>

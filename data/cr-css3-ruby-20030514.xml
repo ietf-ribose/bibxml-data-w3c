@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-css3-ruby-20030514" target="http://www.w3.org/TR/2003/CR-css3-ruby-20030514">
+  <front>
+    <title>CSS3 Ruby Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michel Suignard">
+      <organization/>
+    </author>
+    <date year="2003" month="May" day="14"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css3-ruby-20030514"/>
+</reference>

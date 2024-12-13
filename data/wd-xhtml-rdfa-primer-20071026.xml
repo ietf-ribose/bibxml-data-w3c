@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-xhtml-rdfa-primer-20071026" target="http://www.w3.org/TR/2007/WD-xhtml-rdfa-primer-20071026/">
+  <front>
+    <title>RDFa Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Adida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <date year="2007" month="October" day="26"/>
+    <workgroup>Semantic Web Deployment Working Group</workgroup>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-rdfa-primer-20071026"/>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-vc-data-model-2.0-20230424" target="https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20230424/">
+  <front>
+    <title>Verifiable Credentials Data Model v2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gabe Cohen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Oliver Terbu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Orie Steele">
+      <organization/>
+    </author>
+    <date year="2023" month="April" day="24"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vc-data-model-2.0-20230424"/>
+</reference>

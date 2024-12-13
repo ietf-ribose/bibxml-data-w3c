@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-dcontology-20090616" target="http://www.w3.org/TR/2009/WD-dcontology-20090616/">
+  <front>
+    <title>Delivery Context Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="José Manuel Cantera Fonseca">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="16"/>
+    <workgroup>Ubiquitous Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dcontology-20090616"/>
+</reference>

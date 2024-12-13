@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-ruby-implementation-20010531" target="http://www.w3.org/TR/2001/NOTE-ruby-implementation-20010531">
+  <front>
+    <title>Implementing the Ruby Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <date year="2001" month="May" day="31"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ruby-implementation-20010531"/>
+</reference>

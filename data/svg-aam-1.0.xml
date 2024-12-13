@@ -1,4 +1,4 @@
-<reference anchor="W3C.svg-aam-1.0" target="https://www.w3.org/TR/svg-aam-1.0/">
+<reference anchor="W3C.svg-aam-1.0" target="http://www.w3.org/TR/svg-aam-1.0/">
   <front>
     <title>SVG Accessibility API Mappings</title>
     <author>

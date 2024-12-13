@@ -1,0 +1,9 @@
+<reference anchor="W3C.xquery-11-use-cases" target="http://www.w3.org/TR/xquery-11-use-cases/">
+  <front>
+    <title>XQuery 1.1 Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xquery-11-use-cases"/>
+</reference>

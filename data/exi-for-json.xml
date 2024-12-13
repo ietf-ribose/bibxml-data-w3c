@@ -1,9 +1,9 @@
-<reference anchor="W3C.exi-for-json" target="https://www.w3.org/TR/exi-for-json/">
+<reference anchor="W3C.exi-for-json" target="http://www.w3.org/TR/exi-for-json/">
   <front>
-    <title>EXI for JSON (EXI4JSON)</title>
+    <title>Efficient XML Interchange (EXI) for JSON</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="exi-for-json"/>
+  <seriesInfo name="W3C WD" value="exi-for-json"/>
 </reference>

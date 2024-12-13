@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-system-info-api-20100202" target="http://www.w3.org/TR/2010/WD-system-info-api-20100202/">
+  <front>
+    <title>The System Information API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dzung Tran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
+    <date year="2010" month="February" day="2"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-system-info-api-20100202"/>
+</reference>

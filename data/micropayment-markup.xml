@@ -1,4 +1,4 @@
-<reference anchor="W3C.Micropayment-Markup" target="https://www.w3.org/TR/Micropayment-Markup/">
+<reference anchor="W3C.Micropayment-Markup" target="http://www.w3.org/TR/Micropayment-Markup">
   <front>
     <title>Common Markup for micropayment per-fee-links</title>
     <author>

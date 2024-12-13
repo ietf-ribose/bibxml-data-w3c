@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-latn-nl-gap-20200611" target="https://www.w3.org/TR/2020/WD-latn-nl-gap-20200611/">
+  <front>
+    <title>Dutch Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <date year="2020" month="June" day="11"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-latn-nl-gap-20200611"/>
+</reference>

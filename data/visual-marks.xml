@@ -1,0 +1,9 @@
+<reference anchor="W3C.visual-marks" target="http://www.w3.org/TR/visual-marks/">
+  <front>
+    <title>Clear, Secure, and Portable Visual Marks for the Cyber World</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="visual-marks"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.xpath-datamodel-11" target="http://www.w3.org/TR/xpath-datamodel-11/">
+  <front>
+    <title>XQuery and XPath Data Model 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xpath-datamodel-11"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.vehicle-data" target="https://www.w3.org/TR/vehicle-data/">
+<reference anchor="W3C.vehicle-data" target="http://www.w3.org/TR/vehicle-data/">
   <front>
     <title>Vehicle Data</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="vehicle-data"/>
+  <seriesInfo name="W3C WD" value="vehicle-data"/>
 </reference>

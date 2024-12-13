@@ -1,0 +1,32 @@
+<reference anchor="W3C.PR-soap12-testcollection-20030507" target="http://www.w3.org/TR/2003/PR-soap12-testcollection-20030507/">
+  <front>
+    <title>SOAP Version 1.2 Specification Assertions and Test Collection</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anish Karmarkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hugo Haas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Mischkinsky">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lynne Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Oisin Hurley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Martin">
+      <organization/>
+    </author>
+    <date year="2003" month="May" day="7"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-soap12-testcollection-20030507"/>
+</reference>

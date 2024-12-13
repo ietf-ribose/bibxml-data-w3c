@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-payment-handler-20221214" target="https://www.w3.org/TR/2022/WD-payment-handler-20221214/">
+  <front>
+    <title>Payment Handler API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Hope-Bailie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jinho Bang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rouslan Solomakhin">
+      <organization/>
+    </author>
+    <date year="2022" month="December" day="14"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-payment-handler-20221214"/>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="W3C.WD-xpath-datamodel-20031112" target="http://www.w3.org/TR/2003/WD-xpath-datamodel-20031112/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marton Nagy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="12"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xpath-datamodel-20031112"/>
+</reference>

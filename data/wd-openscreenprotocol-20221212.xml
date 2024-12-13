@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-openscreenprotocol-20221212" target="https://www.w3.org/TR/2022/WD-openscreenprotocol-20221212/">
+  <front>
+    <title>Open Screen Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Foltz">
+      <organization/>
+    </author>
+    <date year="2022" month="December" day="12"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-openscreenprotocol-20221212"/>
+</reference>

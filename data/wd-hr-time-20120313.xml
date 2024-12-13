@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-hr-time-20120313" target="http://www.w3.org/TR/2012/WD-hr-time-20120313/">
+  <front>
+    <title>High Resolution Time</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <date year="2012" month="March" day="13"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-hr-time-20120313"/>
+</reference>

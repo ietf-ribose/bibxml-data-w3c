@@ -1,0 +1,9 @@
+<reference anchor="W3C.ATAG20-TECHS" target="http://www.w3.org/TR/ATAG20-TECHS/">
+  <front>
+    <title>Implementation Techniques for Authoring Tool Accessibility Guidelines 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="ATAG20-TECHS"/>
+</reference>

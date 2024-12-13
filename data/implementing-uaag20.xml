@@ -1,0 +1,9 @@
+<reference anchor="W3C.IMPLEMENTING-UAAG20" target="http://www.w3.org/TR/IMPLEMENTING-UAAG20/">
+  <front>
+    <title>Implementing UAAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="IMPLEMENTING-UAAG20"/>
+</reference>

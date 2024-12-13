@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-skos-ucr-20070516" target="http://www.w3.org/TR/2007/WD-skos-ucr-20070516/">
+  <front>
+    <title>SKOS Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Antoine Isaac">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Rubin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Phipps">
+      <organization/>
+    </author>
+    <date year="2007" month="May" day="16"/>
+    <workgroup>Semantic Web Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-skos-ucr-20070516"/>
+</reference>

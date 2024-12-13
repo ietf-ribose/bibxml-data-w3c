@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-HTMLplusTIME-19980918" target="http://www.w3.org/TR/1998/NOTE-HTMLplusTIME-19980918">
+  <front>
+    <title>Timed Interactive Multimedia Extensions for HTML (HTML+TIME)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jin Yu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Schmitz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Santangeli">
+      <organization/>
+    </author>
+    <date year="1998" month="September" day="18"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-HTMLplusTIME-19980918"/>
+</reference>

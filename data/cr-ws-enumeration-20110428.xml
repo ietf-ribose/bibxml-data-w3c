@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-ws-enumeration-20110428" target="http://www.w3.org/TR/2011/CR-ws-enumeration-20110428">
+  <front>
+    <title>Web Services Enumeration (WS-Enumeration)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Davis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Katy Warr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wu Chou">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="28"/>
+    <workgroup>Web Services Resource Access Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-ws-enumeration-20110428"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-wot-discovery-20230119" target="https://www.w3.org/TR/2023/CR-wot-discovery-20230119/">
+  <front>
+    <title>Web of Things (WoT) Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrea Cimmino">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Farshid Tavakolizadeh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kunihiko Toumura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McCool">
+      <organization/>
+    </author>
+    <date year="2023" month="January" day="19"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-wot-discovery-20230119"/>
+</reference>

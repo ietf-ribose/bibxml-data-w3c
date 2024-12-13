@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-arab-ks-gap-20220712" target="https://www.w3.org/TR/2022/DNOTE-arab-ks-gap-20220712/">
+  <front>
+    <title>Perso-arabic Kashmiri Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2022" month="July" day="12"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-arab-ks-gap-20220712"/>
+</reference>

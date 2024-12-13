@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-nfc-20140114" target="http://www.w3.org/TR/2014/WD-nfc-20140114/">
+  <front>
+    <title>Web NFC API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Don Coleman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Luc Yriarte">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Samuel Ortiz">
+      <organization/>
+    </author>
+    <date year="2014" month="January" day="14"/>
+    <workgroup>Near Field Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-nfc-20140114"/>
+</reference>

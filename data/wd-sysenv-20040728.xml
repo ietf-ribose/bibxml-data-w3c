@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-sysenv-20040728" target="http://www.w3.org/TR/2004/WD-sysenv-20040728/">
+  <front>
+    <title>System and Environment Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keith Waters">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah A. Hosn">
+      <organization/>
+    </author>
+    <date year="2004" month="July" day="28"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sysenv-20040728"/>
+</reference>

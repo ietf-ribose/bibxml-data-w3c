@@ -1,0 +1,38 @@
+<reference anchor="W3C.WD-InkML-20040928" target="http://www.w3.org/TR/2004/WD-InkML-20040928">
+  <front>
+    <title>Ink Markup Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christopher Tremblay">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Giovanni Seni">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregory Russell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jose-Antonio Magaña">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Katrin Franke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Larry Yaeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sriganesh Madhvanath">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yi-Min Chee">
+      <organization/>
+    </author>
+    <date year="2004" month="September" day="28"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-InkML-20040928"/>
+</reference>

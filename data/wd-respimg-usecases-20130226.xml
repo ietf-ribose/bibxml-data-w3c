@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-respimg-usecases-20130226" target="http://www.w3.org/TR/2013/WD-respimg-usecases-20130226/">
+  <front>
+    <title>Use Cases and Requirements for Standardizing Responsive Images</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mathew Marquis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yoav Weiss">
+      <organization/>
+    </author>
+    <date year="2013" month="February" day="26"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-respimg-usecases-20130226"/>
+</reference>

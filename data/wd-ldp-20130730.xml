@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-ldp-20130730" target="http://www.w3.org/TR/2013/WD-ldp-20130730/">
+  <front>
+    <title>Linked Data Platform 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Arwe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Speicher">
+      <organization/>
+    </author>
+    <date year="2013" month="July" day="30"/>
+    <workgroup>Linked Data Platform Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ldp-20130730"/>
+</reference>

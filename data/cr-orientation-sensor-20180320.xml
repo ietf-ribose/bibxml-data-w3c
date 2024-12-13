@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-orientation-sensor-20180320" target="https://www.w3.org/TR/2018/CR-orientation-sensor-20180320/">
+  <front>
+    <title>Orientation Sensor</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexander Shalamov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mikhail Pozdnyakov">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="20"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-orientation-sensor-20180320"/>
+</reference>

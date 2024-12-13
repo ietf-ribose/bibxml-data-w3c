@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-CDRReqs-20050809" target="http://www.w3.org/TR/2005/WD-CDRReqs-20050809/">
+  <front>
+    <title>Compound Document by Reference Use Cases and Requirements Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Appelquist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timur Mehrvarz">
+      <organization/>
+    </author>
+    <date year="2005" month="August" day="9"/>
+    <workgroup>Compound Document Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CDRReqs-20050809"/>
+</reference>

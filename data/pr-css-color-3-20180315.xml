@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-css-color-3-20180315" target="https://www.w3.org/TR/2018/PR-css-color-3-20180315/">
+  <front>
+    <title>CSS Color Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Baron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="15"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-css-color-3-20180315"/>
+</reference>

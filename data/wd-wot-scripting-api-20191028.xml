@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wot-scripting-api-20191028" target="https://www.w3.org/TR/2019/WD-wot-scripting-api-20191028/">
+  <front>
+    <title>Web of Things (WoT) Scripting API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johannes Hund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kazuaki Nimura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zoltan Kis">
+      <organization/>
+    </author>
+    <date year="2019" month="October" day="28"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wot-scripting-api-20191028"/>
+</reference>

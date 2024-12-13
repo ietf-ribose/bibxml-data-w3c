@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-speech-synthesis-20021202" target="http://www.w3.org/TR/2002/WD-speech-synthesis-20021202/">
+  <front>
+    <title>Speech Synthesis Markup Language Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Hunt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark R. Walker">
+      <organization/>
+    </author>
+    <date year="2002" month="December" day="2"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-speech-synthesis-20021202"/>
+</reference>

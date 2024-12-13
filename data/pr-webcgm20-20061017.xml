@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-webcgm20-20061017" target="http://www.w3.org/TR/2006/PR-webcgm20-20061017/">
+  <front>
+    <title>WebCGM 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benoit Bezaire">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Cruikshank">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
+    <date year="2006" month="October" day="17"/>
+    <workgroup>WebCGM Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-webcgm20-20061017"/>
+</reference>

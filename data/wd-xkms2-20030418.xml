@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xkms2-20030418" target="http://www.w3.org/TR/2003/WD-xkms2-20030418/">
+  <front>
+    <title>XML Key Management Specification (XKMS)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Phillip Hallam-Baker">
+      <organization/>
+    </author>
+    <date year="2003" month="April" day="18"/>
+    <workgroup>XML Key Management Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xkms2-20030418"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-accname-aam-1.1-20150714" target="http://www.w3.org/TR/2015/WD-accname-aam-1.1-20150714/">
+  <front>
+    <title>Accessible Name and Description: Computation and API Mappings 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Leventhal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andi Snow-Weaver">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Craig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Scheuhammer">
+      <organization/>
+    </author>
+    <date year="2015" month="July" day="14"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-accname-aam-1.1-20150714"/>
+</reference>

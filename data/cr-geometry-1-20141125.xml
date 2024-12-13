@@ -1,0 +1,21 @@
+<reference anchor="W3C.CR-geometry-1-20141125" target="http://www.w3.org/TR/2014/CR-geometry-1-20141125/">
+  <front>
+    <title>Geometry Interfaces Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rik Cabanier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Pieters">
+      <organization/>
+    </author>
+    <date year="2014" month="November" day="25"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-geometry-1-20141125"/>
+</reference>

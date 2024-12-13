@@ -1,0 +1,11 @@
+<reference anchor="W3C.CR-dom-20200317" target="https://www.w3.org/TR/2020/CR-dom-20200317/">
+  <front>
+    <title>DOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2020" month="March" day="17"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-dom-20200317"/>
+</reference>

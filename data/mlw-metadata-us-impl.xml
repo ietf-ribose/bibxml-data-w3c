@@ -1,9 +1,9 @@
-<reference anchor="W3C.mlw-metadata-us-impl" target="https://www.w3.org/TR/mlw-metadata-us-impl/">
+<reference anchor="W3C.mlw-metadata-us-impl" target="http://www.w3.org/TR/mlw-metadata-us-impl/">
   <front>
     <title>Metadata for the Multilingual Web - Usage Scenarios and Implementations</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="mlw-metadata-us-impl"/>
+  <seriesInfo name="W3C WD" value="mlw-metadata-us-impl"/>
 </reference>

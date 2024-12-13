@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-components-intro-20120522" target="http://www.w3.org/TR/2012/WD-components-intro-20120522/">
+  <front>
+    <title>Introduction to Web Components</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitri Glazkov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dominic Cooney">
+      <organization/>
+    </author>
+    <date year="2012" month="May" day="22"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-components-intro-20120522"/>
+</reference>

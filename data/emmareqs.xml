@@ -1,4 +1,4 @@
-<reference anchor="W3C.EMMAreqs" target="https://www.w3.org/TR/EMMAreqs/">
+<reference anchor="W3C.EMMAreqs" target="http://www.w3.org/TR/EMMAreqs">
   <front>
     <title>Requirements for EMMA</title>
     <author>

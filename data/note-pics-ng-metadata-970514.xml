@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-pics-ng-metadata-970514" target="http://www.w3.org/TR/NOTE-pics-ng-metadata-970514">
+  <front>
+    <title>PICS-NG Metadata Model and Label Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ora Lassila">
+      <organization/>
+    </author>
+    <date year="1997" month="May" day="14"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-pics-ng-metadata-970514"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-jf2-20170719" target="https://www.w3.org/TR/2017/WD-jf2-20170719/">
+  <front>
+    <title>JF2 Post Serialization Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benjamin Roberts">
+      <organization/>
+    </author>
+    <date year="2017" month="July" day="19"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-jf2-20170719"/>
+</reference>

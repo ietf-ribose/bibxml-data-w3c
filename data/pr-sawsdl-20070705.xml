@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-sawsdl-20070705" target="http://www.w3.org/TR/2007/PR-sawsdl-20070705/">
+  <front>
+    <title>Semantic Annotations for WSDL and XML Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Holger Lausen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joel Farrell">
+      <organization/>
+    </author>
+    <date year="2007" month="July" day="5"/>
+    <workgroup>Semantic Annotations for WSDL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-sawsdl-20070705"/>
+</reference>

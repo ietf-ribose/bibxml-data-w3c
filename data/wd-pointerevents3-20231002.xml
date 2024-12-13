@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-pointerevents3-20231002" target="https://www.w3.org/TR/2023/WD-pointerevents3-20231002/">
+  <front>
+    <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Patrick Lauke">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="2"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerevents3-20231002"/>
+</reference>

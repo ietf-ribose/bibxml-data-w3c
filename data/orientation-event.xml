@@ -1,9 +1,9 @@
-<reference anchor="W3C.orientation-event" target="https://www.w3.org/TR/orientation-event/">
+<reference anchor="W3C.orientation-event" target="http://www.w3.org/TR/orientation-event/">
   <front>
-    <title>Device Orientation and Motion</title>
+    <title>DeviceOrientation Event Specification</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="orientation-event"/>
+  <seriesInfo name="W3C WD" value="orientation-event"/>
 </reference>

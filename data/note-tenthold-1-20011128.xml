@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-tenthold-1-20011128" target="http://www.w3.org/TR/2001/NOTE-tenthold-1-20011128/">
+  <front>
+    <title>Tentative Hold Protocol Part 1: White Paper</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jerry Roberts">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Krishnamurthy Srinivasan">
+      <organization/>
+    </author>
+    <date year="2001" month="November" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-tenthold-1-20011128"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-WebIDL-20120419" target="http://www.w3.org/TR/2012/CR-WebIDL-20120419/">
+  <front>
+    <title>Web IDL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <date year="2012" month="April" day="19"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-WebIDL-20120419"/>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-input-events-20161205" target="https://www.w3.org/TR/2016/WD-input-events-20161205/">
+  <front>
+    <title>Input Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="December" day="5"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-input-events-20161205"/>
+</reference>

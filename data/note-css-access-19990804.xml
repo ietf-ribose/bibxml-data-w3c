@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-CSS-access-19990804" target="http://www.w3.org/1999/08/NOTE-CSS-access-19990804">
+  <front>
+    <title>Accessibility Features of CSS</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Judy Brewer">
+      <organization/>
+    </author>
+    <date year="1999" month="August" day="4"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CSS-access-19990804"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-MathML3-20070427" target="http://www.w3.org/TR/2007/WD-MathML3-20070427/">
+  <front>
+    <title>Mathematical Markup Language (MathML) Version 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Ion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Miner">
+      <organization/>
+    </author>
+    <date year="2007" month="April" day="27"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-MathML3-20070427"/>
+</reference>

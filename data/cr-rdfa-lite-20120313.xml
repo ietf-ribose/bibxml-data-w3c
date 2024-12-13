@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-rdfa-lite-20120313" target="http://www.w3.org/TR/2012/CR-rdfa-lite-20120313/">
+  <front>
+    <title>RDFa Lite 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <date year="2012" month="March" day="13"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-rdfa-lite-20120313"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-STTS3" target="http://www.w3.org/TR/NOTE-STTS3">
+  <front>
+    <title>Simple Tree Transformation Sheets 3 (STTS3)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-STTS3"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-DOM-Level-3-Views-20001115" target="http://www.w3.org/TR/2000/WD-DOM-Level-3-Views-20001115">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Views and Formatting Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ray Whitmer">
+      <organization/>
+    </author>
+    <date year="2000" month="November" day="15"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Level-3-Views-20001115"/>
+</reference>

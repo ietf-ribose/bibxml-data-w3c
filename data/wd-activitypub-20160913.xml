@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-activitypub-20160913" target="https://www.w3.org/TR/2016/WD-activitypub-20160913/">
+  <front>
+    <title>ActivityPub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="September" day="13"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-activitypub-20160913"/>
+</reference>

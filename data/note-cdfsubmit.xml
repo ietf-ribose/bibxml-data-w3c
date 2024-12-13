@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-CDFsubmit" target="http://www.w3.org/TR/NOTE-CDFsubmit">
+  <front>
+    <title>Channel Definition Format (CDF)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Castedo Ellerman">
+      <organization/>
+    </author>
+    <date year="1997" month="March" day="9"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CDFsubmit"/>
+</reference>

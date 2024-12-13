@@ -1,9 +1,9 @@
-<reference anchor="W3C.app-uri" target="https://www.w3.org/TR/app-uri/">
+<reference anchor="W3C.app-uri" target="http://www.w3.org/TR/app-uri/">
   <front>
     <title>The app: URL Scheme</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="app-uri"/>
+  <seriesInfo name="W3C WD" value="app-uri"/>
 </reference>

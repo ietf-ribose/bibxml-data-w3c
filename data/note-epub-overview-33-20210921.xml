@@ -1,0 +1,32 @@
+<reference anchor="W3C.NOTE-epub-overview-33-20210921" target="https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210921/">
+  <front>
+    <title>EPUB 3 Overview</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Weck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Garth Conboy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Makoto Murata">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Gylling">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <author role="editor" fullname="William McCoy">
+      <organization/>
+    </author>
+    <date year="2021" month="September" day="21"/>
+    <workgroup>EPUB 3 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-overview-33-20210921"/>
+</reference>

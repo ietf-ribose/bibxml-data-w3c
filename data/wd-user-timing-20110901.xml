@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-user-timing-20110901" target="http://www.w3.org/TR/2011/WD-user-timing-20110901/">
+  <front>
+    <title>User Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anderson Quach">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
+    <date year="2011" month="September" day="1"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-user-timing-20110901"/>
+</reference>

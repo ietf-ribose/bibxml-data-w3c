@@ -1,0 +1,17 @@
+<reference anchor="W3C.DNOTE-webcodecs-hevc-codec-registration-20230511" target="https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230511/">
+  <front>
+    <title>HEVC (H.265) WebCodecs Registration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
+    <date year="2023" month="May" day="11"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webcodecs-hevc-codec-registration-20230511"/>
+</reference>

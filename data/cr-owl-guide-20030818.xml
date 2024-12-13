@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-owl-guide-20030818" target="http://www.w3.org/TR/2003/CR-owl-guide-20030818/">
+  <front>
+    <title>OWL Web Ontology Language Guide</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Welty">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Deborah L. McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael K. Smith">
+      <organization/>
+    </author>
+    <date year="2003" month="August" day="18"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-owl-guide-20030818"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mst-content-hint-20180703" target="https://www.w3.org/TR/2018/WD-mst-content-hint-20180703/">
+  <front>
+    <title>MediaStreamTrack Content Hints</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Harald Alvestrand">
+      <organization/>
+    </author>
+    <date year="2018" month="July" day="3"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mst-content-hint-20180703"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.Content-in-RDF10" target="https://www.w3.org/TR/Content-in-RDF10/">
+<reference anchor="W3C.Content-in-RDF10" target="http://www.w3.org/TR/Content-in-RDF10/">
   <front>
     <title>Representing Content in RDF 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="Content-in-RDF10"/>
+  <seriesInfo name="W3C WD" value="Content-in-RDF10"/>
 </reference>

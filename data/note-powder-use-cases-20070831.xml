@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-powder-use-cases-20070831" target="http://www.w3.org/TR/2007/NOTE-powder-use-cases-20070831/">
+  <front>
+    <title>POWDER: Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <date year="2007" month="August" day="31"/>
+    <workgroup>Protocol for Web Description Resources Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-powder-use-cases-20070831"/>
+</reference>

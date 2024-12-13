@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-epub-a11y-eaa-mapping-20230402" target="https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230402/">
+  <front>
+    <title>EPUB Accessibility - EU Accessibility Act Mapping</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cristina Mussinelli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregorio Pellegrino">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Luc Audrain">
+      <organization/>
+    </author>
+    <date year="2023" month="April" day="2"/>
+    <workgroup>EPUB 3 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-a11y-eaa-mapping-20230402"/>
+</reference>

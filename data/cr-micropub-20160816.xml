@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-micropub-20160816" target="https://www.w3.org/TR/2016/CR-micropub-20160816/">
+  <front>
+    <title>Micropub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Parecki">
+      <organization/>
+    </author>
+    <date year="2016" month="August" day="16"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-micropub-20160816"/>
+</reference>

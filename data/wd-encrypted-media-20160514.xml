@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-encrypted-media-20160514" target="http://www.w3.org/TR/2016/WD-encrypted-media-20160514/">
+  <front>
+    <title>Encrypted Media Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Dorwin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Smith">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="14"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-encrypted-media-20160514"/>
+</reference>

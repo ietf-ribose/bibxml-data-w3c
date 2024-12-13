@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-cselection-primer-20070109" target="http://www.w3.org/TR/2007/WD-cselection-primer-20070109/">
+  <front>
+    <title>Content Selection Primer 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <date year="2007" month="January" day="9"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-cselection-primer-20070109"/>
+</reference>

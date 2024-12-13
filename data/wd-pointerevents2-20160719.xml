@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-pointerevents2-20160719" target="http://www.w3.org/TR/2016/WD-pointerevents2-20160719/">
+  <front>
+    <title>Pointer Events - Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jacob Rossi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Lauke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rick Byers">
+      <organization/>
+    </author>
+    <date year="2016" month="July" day="19"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerevents2-20160719"/>
+</reference>

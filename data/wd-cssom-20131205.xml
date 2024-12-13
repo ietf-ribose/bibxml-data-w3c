@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-cssom-20131205" target="http://www.w3.org/TR/2013/WD-cssom-20131205/">
+  <front>
+    <title>CSS Object Model (CSSOM)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Pieters">
+      <organization/>
+    </author>
+    <date year="2013" month="December" day="5"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-cssom-20131205"/>
+</reference>

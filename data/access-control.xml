@@ -1,0 +1,9 @@
+<reference anchor="W3C.access-control" target="http://www.w3.org/TR/access-control/">
+  <front>
+    <title>Access Control for Cross-Site Requests</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="access-control"/>
+</reference>

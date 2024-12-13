@@ -1,4 +1,4 @@
-<reference anchor="W3C.p3p-rdfschema" target="https://www.w3.org/TR/p3p-rdfschema/">
+<reference anchor="W3C.p3p-rdfschema" target="http://www.w3.org/TR/p3p-rdfschema/">
   <front>
     <title>An RDF Schema for P3P</title>
     <author>

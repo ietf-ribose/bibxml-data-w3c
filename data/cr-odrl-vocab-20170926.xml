@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-odrl-vocab-20170926" target="https://www.w3.org/TR/2017/CR-odrl-vocab-20170926/">
+  <front>
+    <title>ODRL Vocabulary &amp; Expression</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Steidl">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stuart Myles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Víctor Rodríguez-Doncel">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="26"/>
+    <workgroup>Permissions and Obligations Expression Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-odrl-vocab-20170926"/>
+</reference>

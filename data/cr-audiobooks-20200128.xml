@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-audiobooks-20200128" target="https://www.w3.org/TR/2020/CR-audiobooks-20200128/">
+  <front>
+    <title>Audiobooks</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wendy Reid">
+      <organization/>
+    </author>
+    <date year="2020" month="January" day="28"/>
+    <workgroup>Audiobooks Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-audiobooks-20200128"/>
+</reference>

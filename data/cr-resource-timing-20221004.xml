@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-resource-timing-20221004" target="https://www.w3.org/TR/2022/CR-resource-timing-20221004/">
+  <front>
+    <title>Resource Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Noam Rosenthal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yoav Weiss">
+      <organization/>
+    </author>
+    <date year="2022" month="October" day="4"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-resource-timing-20221004"/>
+</reference>

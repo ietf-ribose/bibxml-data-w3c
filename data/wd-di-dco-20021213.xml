@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-di-dco-20021213" target="http://www.w3.org/TR/2002/WD-di-dco-20021213/">
+  <front>
+    <title>Delivery Context Overview for Device Independence</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Roger Gimson">
+      <organization/>
+    </author>
+    <date year="2002" month="December" day="13"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-di-dco-20021213"/>
+</reference>

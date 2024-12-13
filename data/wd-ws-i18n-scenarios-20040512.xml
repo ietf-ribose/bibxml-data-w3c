@@ -1,0 +1,38 @@
+<reference anchor="W3C.WD-ws-i18n-scenarios-20040512" target="http://www.w3.org/TR/2004/WD-ws-i18n-scenarios-20040512/">
+  <front>
+    <title>Web Services Internationalization Usage Scenarios</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrea Vine">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Debasish Banerjee">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kentaroh Noji">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin J. Dürst">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Trumble">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike McKenna">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takao Suzuki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tex Texin">
+      <organization/>
+    </author>
+    <date year="2004" month="May" day="12"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-i18n-scenarios-20040512"/>
+</reference>

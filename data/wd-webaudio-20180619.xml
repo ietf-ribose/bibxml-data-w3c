@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webaudio-20180619" target="https://www.w3.org/TR/2018/WD-webaudio-20180619/">
+  <front>
+    <title>Web Audio API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bryan Garaventa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raymond Toy">
+      <organization/>
+    </author>
+    <date year="2018" month="June" day="19"/>
+    <workgroup>Audio Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webaudio-20180619"/>
+</reference>

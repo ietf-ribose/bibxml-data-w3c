@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-DSig-usage-20060915" target="http://www.w3.org/TR/2006/WD-DSig-usage-20060915/">
+  <front>
+    <title>Using XML Digital Signatures in the 2006 XML Environment</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Thomas Roessler">
+      <organization/>
+    </author>
+    <date year="2006" month="September" day="15"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DSig-usage-20060915"/>
+</reference>

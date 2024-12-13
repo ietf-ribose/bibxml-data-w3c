@@ -1,9 +1,9 @@
-<reference anchor="W3C.html-aria" target="https://www.w3.org/TR/html-aria/">
+<reference anchor="W3C.html-aria" target="http://www.w3.org/TR/html-aria/">
   <front>
     <title>ARIA in HTML</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="html-aria"/>
+  <seriesInfo name="W3C WD" value="html-aria"/>
 </reference>

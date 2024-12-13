@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-rdf-concepts-20030123" target="http://www.w3.org/TR/2003/WD-rdf-concepts-20030123/">
+  <front>
+    <title>Resource Description Framework (RDF): Concepts and Abstract
+    Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Graham Klyne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy J. Carroll">
+      <organization/>
+    </author>
+    <date year="2003" month="January" day="23"/>
+    <workgroup>RDFCore Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-concepts-20030123"/>
+</reference>

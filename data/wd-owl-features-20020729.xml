@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-owl-features-20020729" target="http://www.w3.org/TR/2002/WD-owl-features-20020729/">
+  <front>
+    <title>Feature Synopsis for OWL Lite and OWL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Deborah L. McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frank van Harmelen">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="29"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl-features-20020729"/>
+</reference>

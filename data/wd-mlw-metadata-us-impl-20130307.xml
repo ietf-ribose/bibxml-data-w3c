@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mlw-metadata-us-impl-20130307" target="http://www.w3.org/TR/2013/WD-mlw-metadata-us-impl-20130307/">
+  <front>
+    <title>Metadata for the Multilingual Web - Usage Scenarios and Implementations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christian Lieske">
+      <organization/>
+    </author>
+    <date year="2013" month="March" day="7"/>
+    <workgroup>MultilingualWeb-LT Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mlw-metadata-us-impl-20130307"/>
+</reference>

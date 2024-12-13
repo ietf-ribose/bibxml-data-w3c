@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-trace-context-20190509" target="https://www.w3.org/TR/2019/CR-trace-context-20190509/">
+  <front>
+    <title>Trace Context</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alois Reitbauer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bogdan Drutu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Morgan McLean">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nik Molnar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sergey Kanzhelev">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yuri Shkuro">
+      <organization/>
+    </author>
+    <date year="2019" month="May" day="9"/>
+    <workgroup>Distributed Tracing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-trace-context-20190509"/>
+</reference>

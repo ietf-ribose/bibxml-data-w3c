@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-dpub-aam-1.0-20160317" target="http://www.w3.org/TR/2016/WD-dpub-aam-1.0-20160317/">
+  <front>
+    <title>Digital Publishing Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2016" month="March" day="17"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dpub-aam-1.0-20160317"/>
+</reference>

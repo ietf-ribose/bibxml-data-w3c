@@ -1,0 +1,32 @@
+<reference anchor="W3C.WD-payment-handler-20170918" target="https://www.w3.org/TR/2017/WD-payment-handler-20170918/">
+  <front>
+    <title>Payment Handler API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Roach">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Adrian Hope-Bailie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason Normore">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jinho Bang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rouslan Solomakhin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tommy Thorsen">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="18"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-payment-handler-20170918"/>
+</reference>

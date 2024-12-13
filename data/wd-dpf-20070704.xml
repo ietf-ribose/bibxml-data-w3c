@@ -1,0 +1,32 @@
+<reference anchor="W3C.WD-DPF-20070704" target="http://www.w3.org/TR/2007/WD-DPF-20070704/">
+  <front>
+    <title>Delivery Context: Client Interfaces (DCCI) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keith Waters">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Womer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah A. Hosn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sailesh Sathish">
+      <organization/>
+    </author>
+    <date year="2007" month="July" day="4"/>
+    <workgroup>Ubiquitous Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DPF-20070704"/>
+</reference>

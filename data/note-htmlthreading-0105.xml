@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-HTMLThreading-0105" target="http://www.w3.org/TR/1998/NOTE-HTMLThreading-0105">
+  <front>
+    <title>HTML Threading: Conventions for use of HTML in email</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Berman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nick Shelness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pete Resnick">
+      <organization/>
+    </author>
+    <date year="1998" month="January" day="5"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-HTMLThreading-0105"/>
+</reference>

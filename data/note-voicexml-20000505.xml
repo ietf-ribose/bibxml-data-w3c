@@ -1,0 +1,31 @@
+<reference anchor="W3C.NOTE-voicexml-20000505" target="http://www.w3.org/TR/2000/NOTE-voicexml-20000505">
+  <front>
+    <title>Voice eXtensible Markup Language (VoiceXML™) version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bruce Lucas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Ladd">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gerald Karam">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Ferrans">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Rehor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Linda Boyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Danielsen">
+      <organization/>
+    </author>
+    <date year="2000" month="May" day="5"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-voicexml-20000505"/>
+</reference>

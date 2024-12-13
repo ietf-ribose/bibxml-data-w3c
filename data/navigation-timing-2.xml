@@ -1,4 +1,4 @@
-<reference anchor="W3C.navigation-timing-2" target="https://www.w3.org/TR/navigation-timing-2/">
+<reference anchor="W3C.navigation-timing-2" target="http://www.w3.org/TR/navigation-timing-2/">
   <front>
     <title>Navigation Timing Level 2</title>
     <author>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-DOM-Level-3-Val-20021008" target="http://www.w3.org/TR/2002/WD-DOM-Level-3-Val-20021008">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Validation
+Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Chang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joe Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rezaur Rahman">
+      <organization/>
+    </author>
+    <date year="2002" month="October" day="8"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Level-3-Val-20021008"/>
+</reference>

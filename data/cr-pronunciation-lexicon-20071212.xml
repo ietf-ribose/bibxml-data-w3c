@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-pronunciation-lexicon-20071212" target="http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/">
+  <front>
+    <title>Pronunciation Lexicon Specification (PLS) Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Paolo Baggia">
+      <organization/>
+    </author>
+    <date year="2007" month="December" day="12"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-pronunciation-lexicon-20071212"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.sml-xlink-ref-scheme" target="https://www.w3.org/TR/sml-xlink-ref-scheme/">
+<reference anchor="W3C.sml-xlink-ref-scheme" target="http://www.w3.org/TR/sml-xlink-ref-scheme">
   <front>
     <title>The SML XLink Reference Scheme</title>
     <author>

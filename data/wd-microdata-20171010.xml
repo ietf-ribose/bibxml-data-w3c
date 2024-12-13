@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-microdata-20171010" target="https://www.w3.org/TR/2017/WD-microdata-20171010/">
+  <front>
+    <title>HTML Microdata</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathie Nevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dan Brickley">
+      <organization/>
+    </author>
+    <date year="2017" month="October" day="10"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-microdata-20171010"/>
+</reference>

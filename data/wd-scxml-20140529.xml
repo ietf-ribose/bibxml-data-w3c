@@ -1,0 +1,53 @@
+<reference anchor="W3C.WD-scxml-20140529" target="http://www.w3.org/TR/2014/WD-scxml-20140529/">
+  <front>
+    <title>State Chart XML (SCXML): State Machine Notation for Control Abstraction</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Barnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Carter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johan Roxendal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Klaus Reifenrath">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marc Helbing">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Bodell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noam Rosenthal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="RJ Auburn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah Hosn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rahul Akolkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott McGlashan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T.V. Raman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Torbjörn Lager">
+      <organization/>
+    </author>
+    <date year="2014" month="May" day="29"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-scxml-20140529"/>
+</reference>

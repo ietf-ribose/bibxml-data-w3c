@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webrtc-dscp-20180703" target="https://www.w3.org/TR/2018/WD-webrtc-dscp-20180703/">
+  <front>
+    <title>WebRTC DSCP Control API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Harald Alvestrand">
+      <organization/>
+    </author>
+    <date year="2018" month="July" day="3"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webrtc-dscp-20180703"/>
+</reference>

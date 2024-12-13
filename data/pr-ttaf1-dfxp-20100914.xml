@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-ttaf1-dfxp-20100914" target="http://www.w3.org/TR/2010/PR-ttaf1-dfxp-20100914/">
+  <front>
+    <title>Timed Text Markup Language (TTML) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <date year="2010" month="September" day="14"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-ttaf1-dfxp-20100914"/>
+</reference>

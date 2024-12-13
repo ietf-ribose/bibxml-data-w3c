@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-SMIL2-20050927" target="http://www.w3.org/TR/2005/PR-SMIL2-20050927/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 2.1)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dick Bulterman">
+      <organization/>
+    </author>
+    <date year="2005" month="September" day="27"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-SMIL2-20050927"/>
+</reference>

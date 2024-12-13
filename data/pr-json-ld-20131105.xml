@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-json-ld-20131105" target="http://www.w3.org/TR/2013/PR-json-ld-20131105/">
+  <front>
+    <title>JSON-LD 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Lanthaler">
+      <organization/>
+    </author>
+    <date year="2013" month="November" day="5"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-json-ld-20131105"/>
+</reference>

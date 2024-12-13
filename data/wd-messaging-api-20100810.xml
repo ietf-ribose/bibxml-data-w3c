@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-messaging-api-20100810" target="http://www.w3.org/TR/2010/WD-messaging-api-20100810/">
+  <front>
+    <title>The Messaging API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Coloma">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maria Angeles Oteo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Niklas Widell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Suresh Chitturi">
+      <organization/>
+    </author>
+    <date year="2010" month="August" day="10"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-messaging-api-20100810"/>
+</reference>

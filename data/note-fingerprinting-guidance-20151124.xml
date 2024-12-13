@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-fingerprinting-guidance-20151124" target="http://www.w3.org/TR/2015/NOTE-fingerprinting-guidance-20151124/">
+  <front>
+    <title>Fingerprinting Guidance for Web Specification Authors (Draft)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Nick Doty">
+      <organization/>
+    </author>
+    <date year="2015" month="November" day="24"/>
+    <workgroup>Privacy Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-fingerprinting-guidance-20151124"/>
+</reference>

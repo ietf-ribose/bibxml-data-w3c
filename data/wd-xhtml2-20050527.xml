@@ -1,0 +1,35 @@
+<reference anchor="W3C.WD-xhtml2-20050527" target="http://www.w3.org/TR/2005/WD-xhtml2-20050527">
+  <front>
+    <title>XHTML™ 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ann Navarro">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Beth Epperson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonny Axelsson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Micah Dubinko">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <date year="2005" month="May" day="27"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml2-20050527"/>
+</reference>

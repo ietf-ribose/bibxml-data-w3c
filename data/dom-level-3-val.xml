@@ -1,9 +1,9 @@
-<reference anchor="W3C.DOM-Level-3-Val" target="https://www.w3.org/TR/DOM-Level-3-Val/">
+<reference anchor="W3C.DOM-Level-3-Val" target="http://www.w3.org/TR/DOM-Level-3-Val">
   <front>
     <title>Document Object Model (DOM) Level 3 Validation Specification</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="DOM-Level-3-Val"/>
+  <seriesInfo name="W3C WD" value="DOM-Level-3-Val"/>
 </reference>

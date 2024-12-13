@@ -1,0 +1,23 @@
+<reference anchor="W3C.CRD-generic-sensor-20210619" target="https://www.w3.org/TR/2021/CRD-generic-sensor-20210619/">
+  <front>
+    <title>Generic Sensor API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexander Shalamov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mikhail Pozdnyakov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rick Waldron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tobie Langel">
+      <organization/>
+    </author>
+    <date year="2021" month="June" day="19"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-generic-sensor-20210619"/>
+</reference>

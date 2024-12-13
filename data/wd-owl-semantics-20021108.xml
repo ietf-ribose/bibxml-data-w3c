@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-owl-semantics-20021108" target="http://www.w3.org/TR/2002/WD-owl-semantics-20021108/">
+  <front>
+    <title>Web Ontology Language (OWL) Abstract Syntax and
+Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frank van Harmelen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Hayes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter F. Patel-Schneider">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="8"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl-semantics-20021108"/>
+</reference>

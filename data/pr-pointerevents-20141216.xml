@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-pointerevents-20141216" target="http://www.w3.org/TR/2014/PR-pointerevents-20141216/">
+  <front>
+    <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jacob Rossi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
+    <date year="2014" month="December" day="16"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-pointerevents-20141216"/>
+</reference>

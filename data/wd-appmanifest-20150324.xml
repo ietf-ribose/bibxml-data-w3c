@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-appmanifest-20150324" target="http://www.w3.org/TR/2015/WD-appmanifest-20150324/">
+  <front>
+    <title>Manifest for web application</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <date year="2015" month="March" day="24"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20150324"/>
+</reference>

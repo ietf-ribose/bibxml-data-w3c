@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-performance-timeline-2-20161208" target="https://www.w3.org/TR/2016/CR-performance-timeline-2-20161208/">
+  <front>
+    <title>Performance Timeline Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="8"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-performance-timeline-2-20161208"/>
+</reference>

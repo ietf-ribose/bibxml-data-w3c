@@ -1,0 +1,13 @@
+<reference anchor="W3C.charset-harmful" target="http://www.w3.org/MarkUp/html-spec/charset-harmful">
+  <front>
+    <title>"Character Set" Considered Harmful</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <date year="1995" month="May" day="2"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="charset-harmful"/>
+</reference>

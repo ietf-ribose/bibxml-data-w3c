@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-turingtest-20190626" target="https://www.w3.org/TR/2019/WD-turingtest-20190626/">
+  <front>
+    <title>Inaccessibility of CAPTCHA</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew May">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hollier">
+      <organization/>
+    </author>
+    <date year="2019" month="June" day="26"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-turingtest-20190626"/>
+</reference>

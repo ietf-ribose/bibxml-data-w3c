@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-skos-reference-20090317" target="http://www.w3.org/TR/2009/CR-skos-reference-20090317/">
+  <front>
+    <title>SKOS Simple Knowledge Organization System Reference</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alistair Miles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean Bechhofer">
+      <organization/>
+    </author>
+    <date year="2009" month="March" day="17"/>
+    <workgroup>Semantic Web Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-skos-reference-20090317"/>
+</reference>

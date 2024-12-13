@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-rdf-schema-20030123" target="http://www.w3.org/TR/2003/WD-rdf-schema-20030123/">
+  <front>
+    <title>RDF Vocabulary Description Language 1.0: RDF Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Brickley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="R.V. Guha">
+      <organization/>
+    </author>
+    <date year="2003" month="January" day="23"/>
+    <workgroup>RDFCore Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-schema-20030123"/>
+</reference>

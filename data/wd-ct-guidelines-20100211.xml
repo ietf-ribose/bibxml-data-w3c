@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ct-guidelines-20100211" target="http://www.w3.org/TR/2010/WD-ct-guidelines-20100211/">
+  <front>
+    <title>Guidelines for Web Content Transformation Proxies 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <date year="2010" month="February" day="11"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ct-guidelines-20100211"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-eme-initdata-registry-20160510" target="http://www.w3.org/TR/2016/NOTE-eme-initdata-registry-20160510/">
+  <front>
+    <title>Encrypted Media Extensions Initialization Data Format Registry</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Dorwin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="10"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-eme-initdata-registry-20160510"/>
+</reference>

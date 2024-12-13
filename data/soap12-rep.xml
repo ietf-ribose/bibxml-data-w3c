@@ -1,9 +1,9 @@
-<reference anchor="W3C.soap12-rep" target="https://www.w3.org/TR/soap12-rep/">
+<reference anchor="W3C.soap12-rep" target="http://www.w3.org/TR/soap12-rep/">
   <front>
     <title>Resource Representation SOAP Header Block</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="soap12-rep"/>
+  <seriesInfo name="W3C WD" value="soap12-rep"/>
 </reference>

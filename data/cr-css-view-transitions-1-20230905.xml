@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-css-view-transitions-1-20230905" target="https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/">
+  <front>
+    <title>CSS View Transitions Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jake Archibald">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Khushal Sagar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2023" month="September" day="5"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-view-transitions-1-20230905"/>
+</reference>

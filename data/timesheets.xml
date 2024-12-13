@@ -1,9 +1,9 @@
-<reference anchor="W3C.timesheets" target="https://www.w3.org/TR/timesheets/">
+<reference anchor="W3C.timesheets" target="http://www.w3.org/TR/timesheets/">
   <front>
     <title>SMIL Timesheets 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="timesheets"/>
+  <seriesInfo name="W3C WD" value="timesheets"/>
 </reference>

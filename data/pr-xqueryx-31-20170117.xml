@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-xqueryx-31-20170117" target="https://www.w3.org/TR/2017/PR-xqueryx-31-20170117/">
+  <front>
+    <title>XQueryX 3.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Josh Spiegel">
+      <organization/>
+    </author>
+    <date year="2017" month="January" day="17"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xqueryx-31-20170117"/>
+</reference>

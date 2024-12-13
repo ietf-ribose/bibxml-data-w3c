@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-css-box-3-20201222" target="https://www.w3.org/TR/2020/CR-css-box-3-20201222/">
+  <front>
+    <title>CSS Box Model Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <date year="2020" month="December" day="22"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-box-3-20201222"/>
+</reference>

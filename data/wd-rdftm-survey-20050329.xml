@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-rdftm-survey-20050329" target="http://www.w3.org/TR/2005/WD-rdftm-survey-20050329/">
+  <front>
+    <title>A Survey of RDF/Topic Maps Interoperability Proposals</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Fabio Vitali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lars Marius Garshol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nicola Gessa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Pepper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Valentina Presutti">
+      <organization/>
+    </author>
+    <date year="2005" month="March" day="29"/>
+    <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdftm-survey-20050329"/>
+</reference>

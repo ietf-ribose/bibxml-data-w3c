@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xslt-30-20141002" target="http://www.w3.org/TR/2014/WD-xslt-30-20141002/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <date year="2014" month="October" day="2"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xslt-30-20141002"/>
+</reference>

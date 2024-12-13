@@ -1,9 +1,9 @@
-<reference anchor="W3C.xinclude-11" target="https://www.w3.org/TR/xinclude-11/">
+<reference anchor="W3C.xinclude-11" target="http://www.w3.org/TR/xinclude-11/">
   <front>
     <title>XML Inclusions (XInclude) Version 1.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xinclude-11"/>
+  <seriesInfo name="W3C CR" value="xinclude-11"/>
 </reference>

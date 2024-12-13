@@ -1,9 +1,9 @@
-<reference anchor="W3C.progress-events" target="https://www.w3.org/TR/progress-events/">
+<reference anchor="W3C.progress-events" target="http://www.w3.org/TR/progress-events">
   <front>
     <title>Progress Events</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="progress-events"/>
+  <seriesInfo name="W3C WD" value="progress-events"/>
 </reference>

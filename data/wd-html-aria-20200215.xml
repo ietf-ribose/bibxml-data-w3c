@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-html-aria-20200215" target="https://www.w3.org/TR/2020/WD-html-aria-20200215/">
+  <front>
+    <title>ARIA in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Scott O'Hara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <date year="2020" month="February" day="15"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-aria-20200215"/>
+</reference>

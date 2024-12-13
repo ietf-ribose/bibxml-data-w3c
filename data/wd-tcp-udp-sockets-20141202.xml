@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-tcp-udp-sockets-20141202" target="http://www.w3.org/TR/2014/WD-tcp-udp-sockets-20141202/">
+  <front>
+    <title>TCP and UDP Socket API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Claes Nilsson">
+      <organization/>
+    </author>
+    <date year="2014" month="December" day="2"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-tcp-udp-sockets-20141202"/>
+</reference>

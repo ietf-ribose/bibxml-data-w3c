@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xml-i18n-bp-20070427" target="http://www.w3.org/TR/2007/WD-xml-i18n-bp-20070427/">
+  <front>
+    <title>Best Practices for XML Internationalization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Diane Stoick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Savourel">
+      <organization/>
+    </author>
+    <date year="2007" month="April" day="27"/>
+    <workgroup>ITS Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xml-i18n-bp-20070427"/>
+</reference>

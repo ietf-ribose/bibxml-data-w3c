@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-longtasks-1-20170907" target="https://www.w3.org/TR/2017/WD-longtasks-1-20170907/">
+  <front>
+    <title>Long Tasks API 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Domenic Denicola">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shubhie Panicker">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="7"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-longtasks-1-20170907"/>
+</reference>

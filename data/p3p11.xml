@@ -1,9 +1,9 @@
-<reference anchor="W3C.P3P11" target="https://www.w3.org/TR/P3P11/">
+<reference anchor="W3C.P3P11" target="http://www.w3.org/TR/P3P11/">
   <front>
     <title>The Platform for Privacy Preferences 1.1 (P3P1.1) Specification</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="P3P11"/>
+  <seriesInfo name="W3C WD" value="P3P11"/>
 </reference>

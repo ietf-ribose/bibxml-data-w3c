@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-turingtest-20031105" target="http://www.w3.org/TR/2003/WD-turingtest-20031105/">
+  <front>
+    <title>Inaccessibility of Visually-Oriented Anti-Robot Tests</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Matt May">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="5"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-turingtest-20031105"/>
+</reference>

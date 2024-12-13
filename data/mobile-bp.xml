@@ -1,9 +1,9 @@
-<reference anchor="W3C.mobile-bp" target="https://www.w3.org/TR/mobile-bp/">
+<reference anchor="W3C.mobile-bp" target="http://www.w3.org/TR/mobile-bp/">
   <front>
     <title>Mobile Web Best Practices 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="mobile-bp"/>
+  <seriesInfo name="W3C WD" value="mobile-bp"/>
 </reference>

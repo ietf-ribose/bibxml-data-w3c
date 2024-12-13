@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-vocab-dcat-3-20220510" target="https://www.w3.org/TR/2022/WD-vocab-dcat-3-20220510/">
+  <front>
+    <title>Data Catalog Vocabulary (DCAT) - Version 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alejandra Gonzalez Beltran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrea Perego">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Browning">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Winstanley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Riccardo Albertoni">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Cox">
+      <organization/>
+    </author>
+    <date year="2022" month="May" day="10"/>
+    <workgroup>Dataset Exchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vocab-dcat-3-20220510"/>
+</reference>

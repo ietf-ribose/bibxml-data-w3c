@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-html52-20161206" target="https://www.w3.org/TR/2016/WD-html52-20161206/">
+  <front>
+    <title>HTML 5.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Danilo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arron Eicholz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="6"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html52-20161206"/>
+</reference>

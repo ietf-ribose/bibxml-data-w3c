@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-SOAP-attachments-20001211" target="http://www.w3.org/TR/2000/NOTE-SOAP-attachments-20001211">
+  <front>
+    <title>SOAP Messages with Attachments</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John J. Barton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Satish Thatte">
+      <organization/>
+    </author>
+    <date year="2000" month="December" day="11"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SOAP-attachments-20001211"/>
+</reference>

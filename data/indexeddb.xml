@@ -1,9 +1,9 @@
-<reference anchor="W3C.IndexedDB" target="https://www.w3.org/TR/IndexedDB/">
+<reference anchor="W3C.IndexedDB" target="http://www.w3.org/TR/IndexedDB/">
   <front>
     <title>Indexed Database API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="IndexedDB"/>
+  <seriesInfo name="W3C CR" value="IndexedDB"/>
 </reference>

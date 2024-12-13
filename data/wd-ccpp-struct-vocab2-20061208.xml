@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-CCPP-struct-vocab2-20061208" target="http://www.w3.org/TR/2006/WD-CCPP-struct-vocab2-20061208">
+  <front>
+    <title>Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cédric Kiss">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="8"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CCPP-struct-vocab2-20061208"/>
+</reference>

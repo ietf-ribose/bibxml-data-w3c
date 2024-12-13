@@ -1,0 +1,9 @@
+<reference anchor="W3C.tenthold-1" target="http://www.w3.org/TR/tenthold-1/">
+  <front>
+    <title>Tentative Hold Protocol Part 1: White Paper</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="tenthold-1"/>
+</reference>

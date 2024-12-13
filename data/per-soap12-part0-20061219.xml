@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-soap12-part0-20061219" target="http://www.w3.org/TR/2006/PER-soap12-part0-20061219/">
+  <front>
+    <title>SOAP Version 1.2 Part 0: Primer (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Nilo Mitra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Lafon">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="19"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-soap12-part0-20061219"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-resource-hints-20151007" target="http://www.w3.org/TR/2015/WD-resource-hints-20151007/">
+  <front>
+    <title>Resource Hints</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <date year="2015" month="October" day="7"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-resource-hints-20151007"/>
+</reference>

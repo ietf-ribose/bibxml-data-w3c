@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-rdf-concepts-20021108" target="http://www.w3.org/TR/2002/WD-rdf-concepts-20021108/">
+  <front>
+    <title>Resource Description Framework (RDF): Concepts and Abstract
+Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Graham Klyne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy J. Carroll">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="8"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-concepts-20021108"/>
+</reference>

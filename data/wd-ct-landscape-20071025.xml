@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-ct-landscape-20071025" target="http://www.w3.org/TR/2007/WD-ct-landscape-20071025/">
+  <front>
+    <title>Content Transformation Landscape 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Swainston">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <date year="2007" month="October" day="25"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ct-landscape-20071025"/>
+</reference>

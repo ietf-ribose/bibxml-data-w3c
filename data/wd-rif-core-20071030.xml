@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rif-core-20071030" target="http://www.w3.org/TR/2007/WD-rif-core-20071030">
+  <front>
+    <title>RIF Core Design - Placeholder</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Sandro Hawke">
+      <organization/>
+    </author>
+    <date year="2007" month="October" day="30"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rif-core-20071030"/>
+</reference>

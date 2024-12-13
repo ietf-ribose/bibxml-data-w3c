@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-design-principles-20220824" target="https://www.w3.org/TR/2022/NOTE-design-principles-20220824/">
+  <front>
+    <title>Web Platform Design Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Sangwhan Moon">
+      <organization/>
+    </author>
+    <date year="2022" month="August" day="24"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-design-principles-20220824"/>
+</reference>

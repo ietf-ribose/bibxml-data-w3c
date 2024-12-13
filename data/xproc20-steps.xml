@@ -1,9 +1,9 @@
-<reference anchor="W3C.xproc20-steps" target="https://www.w3.org/TR/xproc20-steps/">
+<reference anchor="W3C.xproc20-steps" target="http://www.w3.org/TR/xproc20-steps/">
   <front>
     <title>XProc 2.0: Standard Step Library</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xproc20-steps"/>
+  <seriesInfo name="W3C WD" value="xproc20-steps"/>
 </reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.performance" target="http://www.w3.org/Jigsaw/User/Introduction/performance">
+  <front>
+    <title>Jigsaw performance evaluation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anselm Baird-Smith">
+      <organization/>
+    </author>
+    <date year="1996" month="June" day="7"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="performance"/>
+</reference>

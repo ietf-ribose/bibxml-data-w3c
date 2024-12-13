@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-html-templates-20130214" target="http://www.w3.org/TR/2013/WD-html-templates-20130214/">
+  <front>
+    <title>HTML Templates</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitri Glazkov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafael Weinstein">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tony Ross">
+      <organization/>
+    </author>
+    <date year="2013" month="February" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-templates-20130214"/>
+</reference>

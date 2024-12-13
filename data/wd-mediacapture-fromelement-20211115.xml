@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-mediacapture-fromelement-20211115" target="https://www.w3.org/TR/2021/WD-mediacapture-fromelement-20211115/">
+  <front>
+    <title>Media Capture from DOM Elements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Emircan Uysaler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Thomson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Miguel Casas-sanchez">
+      <organization/>
+    </author>
+    <date year="2021" month="November" day="15"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-fromelement-20211115"/>
+</reference>

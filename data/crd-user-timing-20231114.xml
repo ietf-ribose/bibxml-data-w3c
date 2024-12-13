@@ -1,0 +1,14 @@
+<reference anchor="W3C.CRD-user-timing-20231114" target="https://www.w3.org/TR/2023/CRD-user-timing-20231114/">
+  <front>
+    <title>User Timing Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Nicolas Pena Moreno">
+      <organization/>
+    </author>
+    <date year="2023" month="November" day="14"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-user-timing-20231114"/>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-web-packaging-20150115" target="http://www.w3.org/TR/2015/WD-web-packaging-20150115/">
+  <front>
+    <title>Packaging on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeni Tennison">
+      <organization/>
+    </author>
+    <date year="2015" month="January" day="15"/>
+    <workgroup>Technical Architecture Group</workgroup>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-packaging-20150115"/>
+</reference>

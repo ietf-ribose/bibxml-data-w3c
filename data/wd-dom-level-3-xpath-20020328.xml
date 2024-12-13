@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-DOM-Level-3-XPath-20020328" target="http://www.w3.org/TR/2002/WD-DOM-Level-3-XPath-20020328">
+  <front>
+    <title>Document Object Model (DOM) Level 3 XPath
+Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ray Whitmer">
+      <organization/>
+    </author>
+    <date year="2002" month="March" day="28"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Level-3-XPath-20020328"/>
+</reference>

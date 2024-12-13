@@ -1,0 +1,20 @@
+<reference anchor="W3C.CRD-epub-rs-33-20230209" target="https://www.w3.org/TR/2023/CRD-epub-rs-33-20230209/">
+  <front>
+    <title>EPUB Reading Systems 3.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Cramer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <date year="2023" month="February" day="9"/>
+    <workgroup>EPUB 3 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-epub-rs-33-20230209"/>
+</reference>

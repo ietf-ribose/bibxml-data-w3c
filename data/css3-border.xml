@@ -1,4 +1,4 @@
-<reference anchor="W3C.css3-border" target="https://www.w3.org/TR/css3-border/">
+<reference anchor="W3C.css3-border" target="http://www.w3.org/TR/css3-border">
   <front>
     <title>CSS3 module: Border</title>
     <author>

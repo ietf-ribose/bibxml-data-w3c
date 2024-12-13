@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-SVGMobile12-20050413" target="http://www.w3.org/TR/2005/WD-SVGMobile12-20050413/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ola Andersson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Hardy">
+      <organization/>
+    </author>
+    <date year="2005" month="April" day="13"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SVGMobile12-20050413"/>
+</reference>

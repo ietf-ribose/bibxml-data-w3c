@@ -1,0 +1,32 @@
+<reference anchor="W3C.WD-xpath20-20030502" target="http://www.w3.org/TR/2003/WD-xpath20-20030502">
+  <front>
+    <title>XML Path Language (XPath) 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérôme Siméon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Boag">
+      <organization/>
+    </author>
+    <date year="2003" month="May" day="2"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xpath20-20030502"/>
+</reference>

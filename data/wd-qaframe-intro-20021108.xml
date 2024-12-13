@@ -1,0 +1,22 @@
+<reference anchor="W3C.WD-qaframe-intro-20021108" target="http://www.w3.org/TR/2002/WD-qaframe-intro-20021108/">
+  <front>
+    <title>QA Framework: Introduction</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitris Dimitriadis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kirill Gavrylyuk">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lynne Rosenthal">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="8"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-qaframe-intro-20021108"/>
+</reference>

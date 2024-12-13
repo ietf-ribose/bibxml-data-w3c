@@ -1,0 +1,35 @@
+<reference anchor="W3C.WD-its20-20130820" target="http://www.w3.org/TR/2013/WD-its20-20130820/">
+  <front>
+    <title>Internationalization Tag Set (ITS) Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arle Lommel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Christian Lieske">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Filip">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jirka Kosek">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shaun McCance">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Savourel">
+      <organization/>
+    </author>
+    <date year="2013" month="August" day="20"/>
+    <workgroup>MultilingualWeb-LT Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-its20-20130820"/>
+</reference>

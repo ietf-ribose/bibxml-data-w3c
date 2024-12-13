@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-webrtc-encoded-transform-20230602" target="https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230602/">
+  <front>
+    <title>WebRTC Encoded Transform</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Guido Urdaneta">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Harald Alvestrand">
+      <organization/>
+    </author>
+    <author role="editor" fullname="youenn fablet">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="2"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webrtc-encoded-transform-20230602"/>
+</reference>

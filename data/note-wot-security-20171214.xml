@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-wot-security-20171214" target="https://www.w3.org/TR/2017/NOTE-wot-security-20171214/">
+  <front>
+    <title>Web of Things (WoT) Security and Privacy Considerations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elena Reshetova">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McCool">
+      <organization/>
+    </author>
+    <date year="2017" month="December" day="14"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wot-security-20171214"/>
+</reference>

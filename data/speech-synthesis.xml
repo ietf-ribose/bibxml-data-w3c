@@ -1,9 +1,9 @@
-<reference anchor="W3C.speech-synthesis" target="https://www.w3.org/TR/speech-synthesis/">
+<reference anchor="W3C.speech-synthesis" target="http://www.w3.org/TR/speech-synthesis">
   <front>
     <title>Speech Synthesis Markup Language (SSML) Version 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="speech-synthesis"/>
+  <seriesInfo name="W3C WD" value="speech-synthesis"/>
 </reference>

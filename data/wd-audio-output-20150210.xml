@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-audio-output-20150210" target="http://www.w3.org/TR/2015/WD-audio-output-20150210/">
+  <front>
+    <title>Audio Output Devices API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Justin Uberti">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Victoria Kirst">
+      <organization/>
+    </author>
+    <date year="2015" month="February" day="10"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-audio-output-20150210"/>
+</reference>

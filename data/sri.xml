@@ -1,9 +1,9 @@
-<reference anchor="W3C.SRI" target="https://www.w3.org/TR/SRI/">
+<reference anchor="W3C.SRI" target="http://www.w3.org/TR/SRI/">
   <front>
     <title>Subresource Integrity</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="SRI"/>
+  <seriesInfo name="W3C WD" value="SRI"/>
 </reference>

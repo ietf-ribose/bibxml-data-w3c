@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-cooluris-20071217" target="http://www.w3.org/TR/2007/WD-cooluris-20071217/">
+  <front>
+    <title>Cool URIs for the Semantic Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Leo Sauermann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Cyganiak">
+      <organization/>
+    </author>
+    <date year="2007" month="December" day="17"/>
+    <workgroup>Semantic Web Education and Outreach Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-cooluris-20071217"/>
+</reference>

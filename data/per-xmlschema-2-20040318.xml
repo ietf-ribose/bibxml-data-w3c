@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-xmlschema-2-20040318" target="http://www.w3.org/TR/2004/PER-xmlschema-2-20040318/">
+  <front>
+    <title>XML Schema Part 2: Datatypes Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul V. Biron">
+      <organization/>
+    </author>
+    <date year="2004" month="March" day="18"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xmlschema-2-20040318"/>
+</reference>

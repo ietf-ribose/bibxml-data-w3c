@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-generic-sensor-20170530" target="https://www.w3.org/TR/2017/WD-generic-sensor-20170530/">
+  <front>
+    <title>Generic Sensor API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rick Waldron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tobie Langel">
+      <organization/>
+    </author>
+    <date year="2017" month="May" day="30"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-generic-sensor-20170530"/>
+</reference>

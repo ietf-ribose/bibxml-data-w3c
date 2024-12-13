@@ -11,7 +11,6 @@
       <organization/>
     </author>
     <date year="2017" month="June" day="8"/>
-    <workgroup>RDF Data Shapes Working Group</workgroup>
   </front>
   <seriesInfo name="W3C NOTE" value="NOTE-shacl-js-20170608"/>
 </reference>

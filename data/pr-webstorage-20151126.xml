@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-webstorage-20151126" target="http://www.w3.org/TR/2015/PR-webstorage-20151126/">
+  <front>
+    <title>Web Storage (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2015" month="November" day="26"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-webstorage-20151126"/>
+</reference>

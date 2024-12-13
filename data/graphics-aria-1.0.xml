@@ -1,9 +1,9 @@
-<reference anchor="W3C.graphics-aria-1.0" target="https://www.w3.org/TR/graphics-aria-1.0/">
+<reference anchor="W3C.graphics-aria-1.0" target="http://www.w3.org/TR/graphics-aria-1.0/">
   <front>
     <title>WAI-ARIA Graphics Module</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="graphics-aria-1.0"/>
+  <seriesInfo name="W3C WD" value="graphics-aria-1.0"/>
 </reference>

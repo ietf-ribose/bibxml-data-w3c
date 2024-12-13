@@ -1,9 +1,9 @@
-<reference anchor="W3C.exi-profile" target="https://www.w3.org/TR/exi-profile/">
+<reference anchor="W3C.exi-profile" target="http://www.w3.org/TR/exi-profile/">
   <front>
     <title>Efficient XML Interchange (EXI) Profile for limiting usage of dynamic memory</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="exi-profile"/>
+  <seriesInfo name="W3C PR" value="exi-profile"/>
 </reference>

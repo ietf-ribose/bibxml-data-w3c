@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-rdf-schema-20021112" target="http://www.w3.org/TR/2002/WD-rdf-schema-20021112/">
+  <front>
+    <title>RDF Vocabulary Description Language 1.0: RDF Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Brickley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="R.V. Guha">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="12"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-schema-20021112"/>
+</reference>

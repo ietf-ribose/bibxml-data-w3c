@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-sawsdl-20060630" target="http://www.w3.org/TR/2006/WD-sawsdl-20060630/">
+  <front>
+    <title>Semantic Annotations for WSDL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Holger Lausen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joel Farrell">
+      <organization/>
+    </author>
+    <date year="2006" month="June" day="30"/>
+    <workgroup>Semantic Annotations for WSDL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sawsdl-20060630"/>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-sgml-lex-960615" target="http://www.w3.org/TR/WD-sgml-lex-960615">
+  <front>
+    <title>A Lexical Analyzer for HTML and Basic SGML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <date year="1996" month="June" day="15"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sgml-lex-960615"/>
+</reference>

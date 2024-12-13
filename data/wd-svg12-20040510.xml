@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-SVG12-20040510" target="http://www.w3.org/TR/2004/WD-SVG12-20040510/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <date year="2004" month="May" day="10"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SVG12-20040510"/>
+</reference>

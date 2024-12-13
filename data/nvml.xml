@@ -1,0 +1,9 @@
+<reference anchor="W3C.NVML" target="http://www.w3.org/TR/NVML">
+  <front>
+    <title>NaVigation Markup Language (NVML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NVML"/>
+</reference>

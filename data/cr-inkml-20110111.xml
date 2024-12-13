@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-InkML-20110111" target="http://www.w3.org/TR/2011/CR-InkML-20110111/">
+  <front>
+    <title>Ink Markup Language (InkML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Stephen M. Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Underhill">
+      <organization/>
+    </author>
+    <date year="2011" month="January" day="11"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-InkML-20110111"/>
+</reference>

@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-web-payments-use-cases-20150416" target="http://www.w3.org/TR/2015/WD-web-payments-use-cases-20150416/">
+  <front>
+    <title>Web Payments Use Cases 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2015" month="April" day="16"/>
+    <workgroup>Web Commerce Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-payments-use-cases-20150416"/>
+</reference>

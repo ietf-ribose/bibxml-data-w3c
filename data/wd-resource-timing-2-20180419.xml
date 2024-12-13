@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-resource-timing-2-20180419" target="https://www.w3.org/TR/2018/WD-resource-timing-2-20180419/">
+  <front>
+    <title>Resource Timing Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anderson Quach">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arvind Jain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Todd Reifsteck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
+    <date year="2018" month="April" day="19"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-resource-timing-2-20180419"/>
+</reference>

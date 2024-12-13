@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-pointerlock-2-20180208" target="https://www.w3.org/TR/2018/WD-pointerlock-2-20180208/">
+  <front>
+    <title>Pointer Lock 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Navid Zolghadr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Scheib">
+      <organization/>
+    </author>
+    <date year="2018" month="February" day="8"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerlock-2-20180208"/>
+</reference>

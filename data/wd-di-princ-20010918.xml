@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-di-princ-20010918" target="http://www.w3.org/TR/2001/WD-di-princ-20010918/">
+  <front>
+    <title>Device Independence Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Roger Gimson">
+      <organization/>
+    </author>
+    <date year="2001" month="September" day="18"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-di-princ-20010918"/>
+</reference>

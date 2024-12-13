@@ -1,9 +1,9 @@
-<reference anchor="W3C.uievents-key" target="https://www.w3.org/TR/uievents-key/">
+<reference anchor="W3C.uievents-key" target="http://www.w3.org/TR/uievents-key/">
   <front>
     <title>UI Events KeyboardEvent key Values</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C PR" value="uievents-key"/>
+  <seriesInfo name="W3C WD" value="uievents-key"/>
 </reference>

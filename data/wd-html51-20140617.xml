@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-html51-20140617" target="http://www.w3.org/TR/2014/WD-html51-20140617/">
+  <front>
+    <title>HTML 5.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Edward O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erika Doyle Navara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Silvia Pfeiffer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2014" month="June" day="17"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html51-20140617"/>
+</reference>

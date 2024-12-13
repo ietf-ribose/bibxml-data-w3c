@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rdf11-new-20131217" target="http://www.w3.org/TR/2013/WD-rdf11-new-20131217/">
+  <front>
+    <title>What’s New in RDF 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Wood">
+      <organization/>
+    </author>
+    <date year="2013" month="December" day="17"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf11-new-20131217"/>
+</reference>

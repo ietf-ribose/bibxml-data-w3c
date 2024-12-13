@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-wot-thing-description-20191106" target="https://www.w3.org/TR/2019/CR-wot-thing-description-20191106/">
+  <front>
+    <title>Web of Things (WoT) Thing Description</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Matthias Kovatsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McCool">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Käbisch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Victor Charpenay">
+      <organization/>
+    </author>
+    <date year="2019" month="November" day="6"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-wot-thing-description-20191106"/>
+</reference>

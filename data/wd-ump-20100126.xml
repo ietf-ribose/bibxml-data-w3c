@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-UMP-20100126" target="http://www.w3.org/TR/2010/WD-UMP-20100126/">
+  <front>
+    <title>Uniform Messaging Policy, Level One</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Miller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tyler Close">
+      <organization/>
+    </author>
+    <date year="2010" month="January" day="26"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-UMP-20100126"/>
+</reference>

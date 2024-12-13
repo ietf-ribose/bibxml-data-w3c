@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-IMPLEMENTING-ATAG20-20110426" target="http://www.w3.org/TR/2011/WD-IMPLEMENTING-ATAG20-20110426/">
+  <front>
+    <title>Implementing ATAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jan Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeanne Spellman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jutta Treviranus">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="26"/>
+    <workgroup>Authoring Tool Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-IMPLEMENTING-ATAG20-20110426"/>
+</reference>

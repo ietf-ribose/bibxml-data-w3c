@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-file-writer-api-20120417" target="http://www.w3.org/TR/2012/WD-file-writer-api-20120417/">
+  <front>
+    <title>File API: Writer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Uhrhane">
+      <organization/>
+    </author>
+    <date year="2012" month="April" day="17"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-file-writer-api-20120417"/>
+</reference>

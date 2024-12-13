@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webxrlayers-1-20220421" target="https://www.w3.org/TR/2022/WD-webxrlayers-1-20220421/">
+  <front>
+    <title>WebXR Layers API Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rik Cabanier">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="21"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxrlayers-1-20220421"/>
+</reference>

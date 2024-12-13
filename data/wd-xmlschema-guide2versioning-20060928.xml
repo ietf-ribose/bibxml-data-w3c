@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xmlschema-guide2versioning-20060928" target="http://www.w3.org/TR/2006/WD-xmlschema-guide2versioning-20060928">
+  <front>
+    <title>Guide to Versioning XML Languages using XML Schema 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <date year="2006" month="September" day="28"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlschema-guide2versioning-20060928"/>
+</reference>

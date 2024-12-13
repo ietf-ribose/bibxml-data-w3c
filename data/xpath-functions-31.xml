@@ -1,9 +1,9 @@
-<reference anchor="W3C.xpath-functions-31" target="https://www.w3.org/TR/xpath-functions-31/">
+<reference anchor="W3C.xpath-functions-31" target="http://www.w3.org/TR/xpath-functions-31/">
   <front>
     <title>XPath and XQuery Functions and Operators 3.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xpath-functions-31"/>
+  <seriesInfo name="W3C WD" value="xpath-functions-31"/>
 </reference>

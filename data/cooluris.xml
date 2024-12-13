@@ -1,9 +1,9 @@
-<reference anchor="W3C.cooluris" target="https://www.w3.org/TR/cooluris/">
+<reference anchor="W3C.cooluris" target="http://www.w3.org/TR/cooluris">
   <front>
     <title>Cool URIs for the Semantic Web</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="cooluris"/>
+  <seriesInfo name="W3C WD" value="cooluris"/>
 </reference>

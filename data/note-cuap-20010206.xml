@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-cuap-20010206" target="http://www.w3.org/TR/2001/NOTE-cuap-20010206">
+  <front>
+    <title>Common User Agent Problems</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hugo Haas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Karl Dubost">
+      <organization/>
+    </author>
+    <date year="2001" month="February" day="6"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-cuap-20010206"/>
+</reference>

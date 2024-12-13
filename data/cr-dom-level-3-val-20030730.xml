@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-DOM-Level-3-Val-20030730" target="http://www.w3.org/TR/2003/CR-DOM-Level-3-Val-20030730">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Validation Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Chang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joe Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rezaur Rahman">
+      <organization/>
+    </author>
+    <date year="2003" month="July" day="30"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-DOM-Level-3-Val-20030730"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-micropub-20170413" target="https://www.w3.org/TR/2017/PR-micropub-20170413/">
+  <front>
+    <title>Micropub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Parecki">
+      <organization/>
+    </author>
+    <date year="2017" month="April" day="13"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-micropub-20170413"/>
+</reference>

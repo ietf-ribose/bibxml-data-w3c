@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-session-id" target="http://www.w3.org/TR/WD-session-id">
+  <front>
+    <title>Session Identification URI</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="WD-session-id"/>
+</reference>

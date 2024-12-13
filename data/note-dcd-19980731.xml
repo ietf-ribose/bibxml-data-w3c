@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-dcd-19980731" target="http://www.w3.org/TR/1998/NOTE-dcd-19980731">
+  <front>
+    <title>Document Content Description for XML (DCD)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles Frankston">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
+    <date year="1998" month="July" day="31"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-dcd-19980731"/>
+</reference>

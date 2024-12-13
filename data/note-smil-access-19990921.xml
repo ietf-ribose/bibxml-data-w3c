@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-SMIL-access-19990921" target="http://www.w3.org/TR/1999/NOTE-SMIL-access-19990921">
+  <front>
+    <title>Accessibility Features of SMIL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marja-Riitta Koivunen">
+      <organization/>
+    </author>
+    <date year="1999" month="September" day="21"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SMIL-access-19990921"/>
+</reference>

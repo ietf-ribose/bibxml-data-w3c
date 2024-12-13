@@ -1,9 +1,9 @@
-<reference anchor="W3C.rif-bld" target="https://www.w3.org/TR/rif-bld/">
+<reference anchor="W3C.rif-bld" target="http://www.w3.org/TR/rif-bld">
   <front>
-    <title>RIF Basic Logic Dialect (Second Edition)</title>
+    <title>RIF Basic Logic Dialect</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rif-bld"/>
+  <seriesInfo name="W3C WD" value="rif-bld"/>
 </reference>

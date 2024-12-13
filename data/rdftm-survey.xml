@@ -1,9 +1,9 @@
-<reference anchor="W3C.rdftm-survey" target="https://www.w3.org/TR/rdftm-survey/">
+<reference anchor="W3C.rdftm-survey" target="http://www.w3.org/TR/rdftm-survey">
   <front>
     <title>A Survey of RDF/Topic Maps Interoperability Proposals</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="rdftm-survey"/>
+  <seriesInfo name="W3C WD" value="rdftm-survey"/>
 </reference>

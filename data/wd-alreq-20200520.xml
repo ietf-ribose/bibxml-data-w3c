@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-alreq-20200520" target="https://www.w3.org/TR/2020/WD-alreq-20200520/">
+  <front>
+    <title>Text Layout Requirements for the Arabic Script</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2020" month="May" day="20"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-alreq-20200520"/>
+</reference>

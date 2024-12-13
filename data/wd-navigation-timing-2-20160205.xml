@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-navigation-timing-2-20160205" target="http://www.w3.org/TR/2016/WD-navigation-timing-2-20160205/">
+  <front>
+    <title>Navigation Timing Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arvind Jain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tobin Titus">
+      <organization/>
+    </author>
+    <date year="2016" month="February" day="5"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-navigation-timing-2-20160205"/>
+</reference>

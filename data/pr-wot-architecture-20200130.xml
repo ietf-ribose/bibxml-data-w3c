@@ -1,0 +1,29 @@
+<reference anchor="W3C.PR-wot-architecture-20200130" target="https://www.w3.org/TR/2020/PR-wot-architecture-20200130/">
+  <front>
+    <title>Web of Things (WoT) Architecture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kazuo Kajimoto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kunihiko Toumura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthias Kovatsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Lagally">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryuichi Matsukura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toru Kawaguchi">
+      <organization/>
+    </author>
+    <date year="2020" month="January" day="30"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-wot-architecture-20200130"/>
+</reference>

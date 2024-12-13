@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-DPF-20041122" target="http://www.w3.org/TR/2004/WD-DPF-20041122/">
+  <front>
+    <title>Dynamic Properties Framework (DPF)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keith Waters">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah A. Hosn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sailesh Sathish">
+      <organization/>
+    </author>
+    <date year="2004" month="November" day="22"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DPF-20041122"/>
+</reference>

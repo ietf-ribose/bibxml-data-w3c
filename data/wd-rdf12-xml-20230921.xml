@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rdf12-xml-20230921" target="https://www.w3.org/TR/2023/WD-rdf12-xml-20230921/">
+  <front>
+    <title>RDF 1.2 XML Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <date year="2023" month="September" day="21"/>
+    <workgroup>RDF-star Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf12-xml-20230921"/>
+</reference>

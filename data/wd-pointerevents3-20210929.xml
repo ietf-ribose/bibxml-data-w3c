@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-pointerevents3-20210929" target="https://www.w3.org/TR/2021/WD-pointerevents3-20210929/">
+  <front>
+    <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Navid Zolghadr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Lauke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rick Byers">
+      <organization/>
+    </author>
+    <date year="2021" month="September" day="29"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerevents3-20210929"/>
+</reference>

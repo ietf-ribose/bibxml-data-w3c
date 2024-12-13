@@ -1,0 +1,32 @@
+<reference anchor="W3C.WD-html53-20180206" target="https://www.w3.org/TR/2018/WD-html53-20180206/">
+  <front>
+    <title>HTML 5.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bruce Lawson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patricia Aas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sangwhan Moon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott O'Hara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shwetank Dixit">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Terence Eden">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Xiaoqian Wu">
+      <organization/>
+    </author>
+    <date year="2018" month="February" day="6"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html53-20180206"/>
+</reference>

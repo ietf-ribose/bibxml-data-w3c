@@ -1,0 +1,28 @@
+<reference anchor="W3C.NOTE-NVML-19990806" target="http://www.w3.org/TR/1999/NOTE-NVML-19990806">
+  <front>
+    <title>NaVigation Markup Language (NVML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hirohisa Naito">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hisayuki Horai">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kuniharu Takayama">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Masahito Toriumi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Minoru Sekiguchi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yoshiharu Maeda">
+      <organization/>
+    </author>
+    <date year="1999" month="August" day="6"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-NVML-19990806"/>
+</reference>

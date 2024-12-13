@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-mwbp-wcag-20080122" target="http://www.w3.org/TR/2008/WD-mwbp-wcag-20080122/">
+  <front>
+    <title>Relationship Between Mobile Web Best Practices 1.0 and Web Content Accessibility Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alan Chuter">
+      <organization/>
+    </author>
+    <date year="2008" month="January" day="22"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+    <workgroup>Education and Outreach Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mwbp-wcag-20080122"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-DOM-Bindings-20071017" target="http://www.w3.org/TR/2007/WD-DOM-Bindings-20071017/">
+  <front>
+    <title>Language Bindings for DOM Specifications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <date year="2007" month="October" day="17"/>
+    <workgroup>Web API Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Bindings-20071017"/>
+</reference>

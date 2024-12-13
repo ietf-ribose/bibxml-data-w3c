@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-xquery-update-10-20080314" target="http://www.w3.org/TR/2008/CR-xquery-update-10-20080314/">
+  <front>
+    <title>XQuery Update Facility 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérôme Siméon">
+      <organization/>
+    </author>
+    <date year="2008" month="March" day="14"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xquery-update-10-20080314"/>
+</reference>

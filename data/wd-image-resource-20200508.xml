@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-image-resource-20200508" target="https://www.w3.org/TR/2020/WD-image-resource-20200508/">
+  <front>
+    <title>Image resource</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Gustafson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rayan Kanso">
+      <organization/>
+    </author>
+    <date year="2020" month="May" day="8"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-image-resource-20200508"/>
+</reference>

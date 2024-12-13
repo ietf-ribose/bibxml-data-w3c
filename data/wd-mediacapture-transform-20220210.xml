@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-mediacapture-transform-20220210" target="https://www.w3.org/TR/2022/WD-mediacapture-transform-20220210/">
+  <front>
+    <title>MediaStreamTrack Insertable Media Processing using Streams</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Guido Urdaneta">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Harald Alvestrand">
+      <organization/>
+    </author>
+    <date year="2022" month="February" day="10"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-transform-20220210"/>
+</reference>

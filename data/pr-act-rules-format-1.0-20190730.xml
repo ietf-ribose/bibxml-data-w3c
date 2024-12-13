@@ -1,0 +1,23 @@
+<reference anchor="W3C.PR-act-rules-format-1.0-20190730" target="https://www.w3.org/TR/2019/PR-act-rules-format-1.0-20190730/">
+  <front>
+    <title>Accessibility Conformance Testing (ACT) Rules Format 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mary Jo Mueller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maureen Kraft">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shadi Abou-Zahra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wilco Fiers">
+      <organization/>
+    </author>
+    <date year="2019" month="July" day="30"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-act-rules-format-1.0-20190730"/>
+</reference>

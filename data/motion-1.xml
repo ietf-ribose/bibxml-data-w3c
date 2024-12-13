@@ -1,4 +1,4 @@
-<reference anchor="W3C.motion-1" target="https://www.w3.org/TR/motion-1/">
+<reference anchor="W3C.motion-1" target="http://www.w3.org/TR/motion-1/">
   <front>
     <title>Motion Path Module Level 1</title>
     <author>

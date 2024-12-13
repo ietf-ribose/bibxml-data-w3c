@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-covjson-overview-20170509" target="https://www.w3.org/TR/2017/WD-covjson-overview-20170509/">
+  <front>
+    <title>Overview of the CoverageJSON format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2017" month="May" day="9"/>
+    <workgroup>Spatial Data on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-covjson-overview-20170509"/>
+</reference>

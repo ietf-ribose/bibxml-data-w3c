@@ -1,9 +1,9 @@
-<reference anchor="W3C.exi-c14n" target="https://www.w3.org/TR/exi-c14n/">
+<reference anchor="W3C.exi-c14n" target="http://www.w3.org/TR/exi-c14n/">
   <front>
     <title>Canonical EXI</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="exi-c14n"/>
+  <seriesInfo name="W3C WD" value="exi-c14n"/>
 </reference>

@@ -1,0 +1,25 @@
+<reference anchor="W3C.NOTE-drp-19970825" target="http://www.w3.org/TR/NOTE-drp-19970825">
+  <front>
+    <title>The HTTP Distribution and Replication Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arthur van Hoff">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Payne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Hapner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Milo Medin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Carter">
+      <organization/>
+    </author>
+    <date year="1997" month="August" day="25"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-drp-19970825"/>
+</reference>

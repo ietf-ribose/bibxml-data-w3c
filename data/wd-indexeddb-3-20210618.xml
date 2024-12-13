@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-IndexedDB-3-20210618" target="https://www.w3.org/TR/2021/WD-IndexedDB-3-20210618/">
+  <front>
+    <title>Indexed Database API 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ali Alabbas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <date year="2021" month="June" day="18"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-IndexedDB-3-20210618"/>
+</reference>

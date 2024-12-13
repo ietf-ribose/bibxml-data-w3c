@@ -1,9 +1,9 @@
-<reference anchor="W3C.DOM-Parsing" target="https://www.w3.org/TR/DOM-Parsing/">
+<reference anchor="W3C.DOM-Parsing" target="http://www.w3.org/TR/DOM-Parsing/">
   <front>
     <title>DOM Parsing and Serialization</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C WD" value="DOM-Parsing"/>
+  <seriesInfo name="W3C CR" value="DOM-Parsing"/>
 </reference>

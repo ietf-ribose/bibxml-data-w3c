@@ -1,9 +1,9 @@
-<reference anchor="W3C.annotation-protocol" target="https://www.w3.org/TR/annotation-protocol/">
+<reference anchor="W3C.annotation-protocol" target="http://www.w3.org/TR/annotation-protocol/">
   <front>
     <title>Web Annotation Protocol</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="annotation-protocol"/>
+  <seriesInfo name="W3C WD" value="annotation-protocol"/>
 </reference>

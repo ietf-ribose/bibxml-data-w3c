@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-network-error-logging-1-20180925" target="https://www.w3.org/TR/2018/WD-network-error-logging-1-20180925/">
+  <front>
+    <title>Network Error Logging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alois Reitbauer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arvind Jain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Douglas Creager">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Julia Tuttle">
+      <organization/>
+    </author>
+    <date year="2018" month="September" day="25"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-network-error-logging-1-20180925"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-WOFF-20121011" target="http://www.w3.org/TR/2012/PR-WOFF-20121011/">
+  <front>
+    <title>WOFF File Format 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Erik van Blokland">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Kew">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tal Leming">
+      <organization/>
+    </author>
+    <date year="2012" month="October" day="11"/>
+    <workgroup>Web Fonts Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-WOFF-20121011"/>
+</reference>

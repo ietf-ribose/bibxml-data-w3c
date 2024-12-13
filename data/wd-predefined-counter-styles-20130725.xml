@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-predefined-counter-styles-20130725" target="http://www.w3.org/TR/2013/WD-predefined-counter-styles-20130725/">
+  <front>
+    <title>Predefined Counter Styles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2013" month="July" day="25"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-predefined-counter-styles-20130725"/>
+</reference>

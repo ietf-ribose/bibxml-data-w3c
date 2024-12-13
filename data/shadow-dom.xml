@@ -1,9 +1,9 @@
-<reference anchor="W3C.shadow-dom" target="https://www.w3.org/TR/shadow-dom/">
+<reference anchor="W3C.shadow-dom" target="http://www.w3.org/TR/shadow-dom/">
   <front>
     <title>Shadow DOM</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="shadow-dom"/>
+  <seriesInfo name="W3C WD" value="shadow-dom"/>
 </reference>

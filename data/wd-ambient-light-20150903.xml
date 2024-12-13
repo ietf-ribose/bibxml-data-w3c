@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-ambient-light-20150903" target="http://www.w3.org/TR/2015/WD-ambient-light-20150903/">
+  <front>
+    <title>Ambient Light Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Turner">
+      <organization/>
+    </author>
+    <date year="2015" month="September" day="3"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ambient-light-20150903"/>
+</reference>

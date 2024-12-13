@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-html-longdesc-20141204" target="http://www.w3.org/TR/2014/PR-html-longdesc-20141204/">
+  <front>
+    <title>HTML5 Image Description Extension (longdesc)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Sadecki">
+      <organization/>
+    </author>
+    <date year="2014" month="December" day="4"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-html-longdesc-20141204"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-css-values-3-20150611" target="http://www.w3.org/TR/2015/CR-css-values-3-20150611/">
+  <front>
+    <title>CSS Values and Units Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2015" month="June" day="11"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-values-3-20150611"/>
+</reference>

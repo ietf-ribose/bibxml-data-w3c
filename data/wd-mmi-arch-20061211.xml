@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-mmi-arch-20061211" target="http://www.w3.org/TR/2006/WD-mmi-arch-20061211/">
+  <front>
+    <title>Multimodal Architecture and Interfaces</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Wahbe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Barnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Bodell">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="11"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mmi-arch-20061211"/>
+</reference>

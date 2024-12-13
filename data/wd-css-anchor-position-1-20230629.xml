@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-css-anchor-position-1-20230629" target="https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/">
+  <front>
+    <title>CSS Anchor Positioning</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Kilpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="29"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css-anchor-position-1-20230629"/>
+</reference>

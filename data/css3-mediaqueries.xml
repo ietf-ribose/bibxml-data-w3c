@@ -1,9 +1,9 @@
-<reference anchor="W3C.css3-mediaqueries" target="https://www.w3.org/TR/css3-mediaqueries/">
+<reference anchor="W3C.css3-mediaqueries" target="http://www.w3.org/TR/css3-mediaqueries/">
   <front>
     <title>Media Queries</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="css3-mediaqueries"/>
+  <seriesInfo name="W3C CR" value="css3-mediaqueries"/>
 </reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-presentation-api-20160211" target="http://www.w3.org/TR/2016/WD-presentation-api-20160211/">
+  <front>
+    <title>Presentation API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dominik Röttsches">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Foltz">
+      <organization/>
+    </author>
+    <date year="2016" month="February" day="11"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-presentation-api-20160211"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.css3-writing-modes" target="http://www.w3.org/TR/css3-writing-modes/">
+  <front>
+    <title>CSS Writing Modes Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css3-writing-modes"/>
+</reference>

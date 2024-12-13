@@ -1,4 +1,4 @@
-<reference anchor="W3C.xml-fragid" target="https://www.w3.org/TR/xml-fragid/">
+<reference anchor="W3C.xml-fragid" target="http://www.w3.org/TR/xml-fragid/">
   <front>
     <title>Proposal for XML Fragment Identifier Syntax 0.9</title>
     <author>

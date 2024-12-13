@@ -1,0 +1,23 @@
+<reference anchor="W3C.NOTE-orientation-event-20170530" target="https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/">
+  <front>
+    <title>DeviceOrientation Event Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rich Tibbett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Block">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Volodine">
+      <organization/>
+    </author>
+    <date year="2017" month="May" day="30"/>
+    <workgroup>Geolocation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-orientation-event-20170530"/>
+</reference>

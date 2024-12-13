@@ -1,4 +1,4 @@
-<reference anchor="W3C.qaframe-test" target="https://www.w3.org/TR/qaframe-test/">
+<reference anchor="W3C.qaframe-test" target="http://www.w3.org/TR/qaframe-test/">
   <front>
     <title>QA Framework: Test Guidelines</title>
     <author>

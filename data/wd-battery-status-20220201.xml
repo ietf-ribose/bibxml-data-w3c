@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-battery-status-20220201" target="https://www.w3.org/TR/2022/WD-battery-status-20220201/">
+  <front>
+    <title>Battery Status API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <date year="2022" month="February" day="1"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-battery-status-20220201"/>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-Submission-HDML-spec" target="http://www.w3.org/TR/NOTE-Submission-HDML-spec">
+  <front>
+    <title>Handheld Device Markup Language Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Peter King">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Hyland">
+      <organization/>
+    </author>
+    <date year="1997" month="May" day="9"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-Submission-HDML-spec"/>
+</reference>

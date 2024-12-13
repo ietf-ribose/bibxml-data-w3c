@@ -1,0 +1,19 @@
+<reference anchor="W3C.WD-Content-in-RDF-20080908" target="http://www.w3.org/TR/2008/WD-Content-in-RDF-20080908">
+  <front>
+    <title>Representing Content in RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Carlos A Velasco">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johannes Koch">
+      <organization/>
+    </author>
+    <date year="2008" month="September" day="8"/>
+    <workgroup>Semantic Web Interest Group</workgroup>
+    <workgroup>Protocol for Web Description Resources Working Group</workgroup>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-Content-in-RDF-20080908"/>
+</reference>

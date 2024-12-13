@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-html-media-capture-20100720" target="http://www.w3.org/TR/2010/WD-html-media-capture-20100720/">
+  <front>
+    <title>HTML Media Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dominique Hazaël-Massieux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilkka Oksanen">
+      <organization/>
+    </author>
+    <date year="2010" month="July" day="20"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-media-capture-20100720"/>
+</reference>

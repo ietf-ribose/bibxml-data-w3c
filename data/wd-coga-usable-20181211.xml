@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-coga-usable-20181211" target="https://www.w3.org/TR/2018/WD-coga-usable-20181211/">
+  <front>
+    <title>Making Content Usable for People with Cognitive and Learning Disabilities</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lisa Seeman-Kestenbaum">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2018" month="December" day="11"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-coga-usable-20181211"/>
+</reference>

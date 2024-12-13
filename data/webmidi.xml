@@ -1,4 +1,4 @@
-<reference anchor="W3C.webmidi" target="https://www.w3.org/TR/webmidi/">
+<reference anchor="W3C.webmidi" target="http://www.w3.org/TR/webmidi/">
   <front>
     <title>Web MIDI API</title>
     <author>

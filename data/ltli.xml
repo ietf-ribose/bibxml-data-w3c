@@ -1,4 +1,4 @@
-<reference anchor="W3C.ltli" target="https://www.w3.org/TR/ltli/">
+<reference anchor="W3C.ltli" target="http://www.w3.org/TR/ltli/">
   <front>
     <title>Language Tags and Locale Identifiers for the World Wide Web</title>
     <author>

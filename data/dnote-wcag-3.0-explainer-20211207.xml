@@ -1,0 +1,20 @@
+<reference anchor="W3C.DNOTE-wcag-3.0-explainer-20211207" target="https://www.w3.org/TR/2021/DNOTE-wcag-3.0-explainer-20211207/">
+  <front>
+    <title>Explainer for W3C Accessibility Guidelines (WCAG) 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeanne F Spellman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shawn Lauriat">
+      <organization/>
+    </author>
+    <date year="2021" month="December" day="7"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-wcag-3.0-explainer-20211207"/>
+</reference>

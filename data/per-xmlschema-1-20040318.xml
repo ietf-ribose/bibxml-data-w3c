@@ -1,0 +1,23 @@
+<reference anchor="W3C.PER-xmlschema-1-20040318" target="http://www.w3.org/TR/2004/PER-xmlschema-1-20040318/">
+  <front>
+    <title>XML Schema Part 1: Structures Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Beech">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Murray Maloney">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <date year="2004" month="March" day="18"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xmlschema-1-20040318"/>
+</reference>

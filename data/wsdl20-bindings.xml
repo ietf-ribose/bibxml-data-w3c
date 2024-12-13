@@ -1,0 +1,9 @@
+<reference anchor="W3C.wsdl20-bindings" target="http://www.w3.org/TR/wsdl20-bindings">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0 Part 3: Bindings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="wsdl20-bindings"/>
+</reference>

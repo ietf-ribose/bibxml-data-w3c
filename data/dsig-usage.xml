@@ -1,9 +1,9 @@
-<reference anchor="W3C.DSig-usage" target="https://www.w3.org/TR/DSig-usage/">
+<reference anchor="W3C.DSig-usage" target="http://www.w3.org/TR/DSig-usage/">
   <front>
     <title>Using XML Digital Signatures in the 2006 XML Environment</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="DSig-usage"/>
+  <seriesInfo name="W3C WD" value="DSig-usage"/>
 </reference>

@@ -1,0 +1,32 @@
+<reference anchor="W3C.WD-ws-policy-guidelines-20070330" target="http://www.w3.org/TR/2007/WD-ws-policy-guidelines-20070330">
+  <front>
+    <title>Web Services Policy 1.5 - Guidelines for Policy Assertion Authors</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Asir S. Vedamuthu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maryann Hondo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Prasad Yendluri">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toufic Boubez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ümit Yalçınalp">
+      <organization/>
+    </author>
+    <date year="2007" month="March" day="30"/>
+    <workgroup>Web Services Policy Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-policy-guidelines-20070330"/>
+</reference>

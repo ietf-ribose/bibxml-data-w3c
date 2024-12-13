@@ -1,0 +1,20 @@
+<reference anchor="W3C.PER-xml-stylesheet-20100909" target="http://www.w3.org/TR/2010/PER-xml-stylesheet-20100909">
+  <front>
+    <title>Associating Style Sheets with XML documents 1.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Clark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Pieters">
+      <organization/>
+    </author>
+    <date year="2010" month="September" day="9"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xml-stylesheet-20100909"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-owl11-semantics-20080108" target="http://www.w3.org/TR/2008/WD-owl11-semantics-20080108/">
+  <front>
+    <title>OWL 1.1 Web Ontology Language: Model-Theoretic Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernardo Cuenca Grau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Boris Motik">
+      <organization/>
+    </author>
+    <date year="2008" month="January" day="8"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl11-semantics-20080108"/>
+</reference>

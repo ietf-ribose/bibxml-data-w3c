@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ttml-imsc1.0.1-20170322" target="https://www.w3.org/TR/2017/WD-ttml-imsc1.0.1-20170322/">
+  <front>
+    <title>TTML Profiles for Internet Media Subtitles and Captions 1.0.1 (IMSC1)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Pierre-Anthony Lemieux">
+      <organization/>
+    </author>
+    <date year="2017" month="March" day="22"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ttml-imsc1.0.1-20170322"/>
+</reference>

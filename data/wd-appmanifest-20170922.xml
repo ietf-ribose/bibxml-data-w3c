@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-appmanifest-20170922" target="https://www.w3.org/TR/2017/WD-appmanifest-20170922/">
+  <front>
+    <title>Web App Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rob Dolin">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="22"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20170922"/>
+</reference>

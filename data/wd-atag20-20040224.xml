@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-ATAG20-20040224" target="http://www.w3.org/TR/2004/WD-ATAG20-20040224/">
+  <front>
+    <title>Authoring Tool Accessibility Guidelines 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jutta Treviranus">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt May">
+      <organization/>
+    </author>
+    <date year="2004" month="February" day="24"/>
+    <workgroup>Authoring Tool Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ATAG20-20040224"/>
+</reference>

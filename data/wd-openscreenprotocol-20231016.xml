@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-openscreenprotocol-20231016" target="https://www.w3.org/TR/2023/WD-openscreenprotocol-20231016/">
+  <front>
+    <title>Open Screen Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Foltz">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="16"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-openscreenprotocol-20231016"/>
+</reference>

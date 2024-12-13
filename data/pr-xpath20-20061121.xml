@@ -1,0 +1,32 @@
+<reference anchor="W3C.PR-xpath20-20061121" target="http://www.w3.org/TR/2006/PR-xpath20-20061121/">
+  <front>
+    <title>XML Path Language (XPath) 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jérôme Siméon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary F. Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Boag">
+      <organization/>
+    </author>
+    <date year="2006" month="November" day="21"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xpath20-20061121"/>
+</reference>

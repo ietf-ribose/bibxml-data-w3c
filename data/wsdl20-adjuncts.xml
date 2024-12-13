@@ -1,9 +1,9 @@
-<reference anchor="W3C.wsdl20-adjuncts" target="https://www.w3.org/TR/wsdl20-adjuncts/">
+<reference anchor="W3C.wsdl20-adjuncts" target="http://www.w3.org/TR/wsdl20-adjuncts">
   <front>
     <title>Web Services Description Language (WSDL) Version 2.0 Part 2: Adjuncts</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="wsdl20-adjuncts"/>
+  <seriesInfo name="W3C WD" value="wsdl20-adjuncts"/>
 </reference>

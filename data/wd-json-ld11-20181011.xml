@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-json-ld11-20181011" target="https://www.w3.org/TR/2018/WD-json-ld11-20181011/">
+  <front>
+    <title>JSON-LD 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <date year="2018" month="October" day="11"/>
+    <workgroup>JSON-LD Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-json-ld11-20181011"/>
+</reference>

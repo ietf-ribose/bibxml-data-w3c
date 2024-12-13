@@ -1,0 +1,9 @@
+<reference anchor="W3C.pubsub" target="https://www.w3.org/TR/pubsub/">
+  <front>
+    <title>PubSub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="pubsub"/>
+</reference>

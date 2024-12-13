@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-vocab-odrl-20160721" target="http://www.w3.org/TR/2016/WD-vocab-odrl-20160721/">
+  <front>
+    <title>ODRL Vocabulary &amp; Expression</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Birmingham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Steidl">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mo McRoberts">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stuart Myles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Víctor Rodríguez-Doncel">
+      <organization/>
+    </author>
+    <date year="2016" month="July" day="21"/>
+    <workgroup>Permissions and Obligations Expression Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vocab-odrl-20160721"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-pointerlock-2-20190530" target="https://www.w3.org/TR/2019/WD-pointerlock-2-20190530/">
+  <front>
+    <title>Pointer Lock 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Navid Zolghadr">
+      <organization/>
+    </author>
+    <date year="2019" month="May" day="30"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerlock-2-20190530"/>
+</reference>

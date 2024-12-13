@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-mediaont-api-1.0-20130411" target="http://www.w3.org/TR/2013/WD-mediaont-api-1.0-20130411/">
+  <front>
+    <title>API for Media Resources 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Poppe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florian Stegmaier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Höffernig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Werner Bailer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="WonSuk Lee">
+      <organization/>
+    </author>
+    <date year="2013" month="April" day="11"/>
+    <workgroup>Media Annotations Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediaont-api-1.0-20130411"/>
+</reference>

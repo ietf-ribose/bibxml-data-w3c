@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-trig-20131105" target="http://www.w3.org/TR/2013/CR-trig-20131105/">
+  <front>
+    <title>RDF 1.1 TriG</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Seaborne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Carothers">
+      <organization/>
+    </author>
+    <date year="2013" month="November" day="5"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-trig-20131105"/>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-PICS-cookie-extension-971023.HTML" target="http://www.w3.org/TR/NOTE-PICS-cookie-extension-971023.HTML">
+  <front>
+    <title>PICS Extension for HTTP Cookies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Jaye">
+      <organization/>
+    </author>
+    <date year="1997" month="October" day="23"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-PICS-cookie-extension-971023.HTML"/>
+</reference>

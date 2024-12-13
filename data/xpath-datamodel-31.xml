@@ -1,9 +1,9 @@
-<reference anchor="W3C.xpath-datamodel-31" target="https://www.w3.org/TR/xpath-datamodel-31/">
+<reference anchor="W3C.xpath-datamodel-31" target="http://www.w3.org/TR/xpath-datamodel-31/">
   <front>
     <title>XQuery and XPath Data Model 3.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xpath-datamodel-31"/>
+  <seriesInfo name="W3C WD" value="xpath-datamodel-31"/>
 </reference>

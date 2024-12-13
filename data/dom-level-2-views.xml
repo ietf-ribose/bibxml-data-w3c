@@ -1,4 +1,4 @@
-<reference anchor="W3C.DOM-Level-2-Views" target="https://www.w3.org/TR/DOM-Level-2-Views/">
+<reference anchor="W3C.DOM-Level-2-Views" target="http://www.w3.org/TR/DOM-Level-2-Views">
   <front>
     <title>Document Object Model (DOM) Level 2 Views Specification</title>
     <author>

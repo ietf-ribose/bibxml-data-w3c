@@ -1,9 +1,9 @@
-<reference anchor="W3C.rdfa-syntax" target="https://www.w3.org/TR/rdfa-syntax/">
+<reference anchor="W3C.rdfa-syntax" target="http://www.w3.org/TR/rdfa-syntax">
   <front>
     <title>RDFa in XHTML: Syntax and Processing</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rdfa-syntax"/>
+  <seriesInfo name="W3C WD" value="rdfa-syntax"/>
 </reference>

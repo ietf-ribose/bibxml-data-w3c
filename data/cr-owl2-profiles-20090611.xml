@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-owl2-profiles-20090611" target="http://www.w3.org/TR/2009/CR-owl2-profiles-20090611/">
+  <front>
+    <title>OWL 2 Web Ontology Language Profiles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Achille Fokoue">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bernardo Cuenca Grau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Boris Motik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Carsten Lutz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhe Wu">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="11"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-owl2-profiles-20090611"/>
+</reference>

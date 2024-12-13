@@ -1,9 +1,9 @@
-<reference anchor="W3C.xslt20" target="https://www.w3.org/TR/xslt20/">
+<reference anchor="W3C.xslt20" target="http://www.w3.org/TR/xslt20">
   <front>
-    <title>XSL Transformations (XSLT) Version 2.0 (Second Edition)</title>
+    <title>XSL Transformations (XSLT) Version 2.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xslt20"/>
+  <seriesInfo name="W3C WD" value="xslt20"/>
 </reference>

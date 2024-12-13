@@ -1,0 +1,26 @@
+<reference anchor="W3C.CRD-mediacapture-streams-20230504" target="https://www.w3.org/TR/2023/CRD-mediacapture-streams-20230504/">
+  <front>
+    <title>Media Capture and Streams</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cullen Jennings">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Boström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan-Ivar Bruaroey">
+      <organization/>
+    </author>
+    <author role="editor" fullname="youenn fablet">
+      <organization/>
+    </author>
+    <date year="2023" month="May" day="4"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-mediacapture-streams-20230504"/>
+</reference>

@@ -1,0 +1,44 @@
+<reference anchor="W3C.NOTE-DOM-Requirements-20040226" target="https://www.w3.org/TR/2004/NOTE-DOM-Requirements-20040226/">
+  <front>
+    <title>Document Object Model (DOM) Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Heninger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Angel Diaz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arnaud Le Hors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ben Chang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Davidson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jared Sorensen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Kesselman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lauren Wood">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Champion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ray Whitmer">
+      <organization/>
+    </author>
+    <date year="2004" month="February" day="26"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-DOM-Requirements-20040226"/>
+</reference>

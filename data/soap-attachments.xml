@@ -1,0 +1,9 @@
+<reference anchor="W3C.SOAP-attachments" target="http://www.w3.org/TR/SOAP-attachments">
+  <front>
+    <title>SOAP Messages with Attachments</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="SOAP-attachments"/>
+</reference>

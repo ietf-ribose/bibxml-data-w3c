@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-payment-request-20201203" target="https://www.w3.org/TR/2020/CR-payment-request-20201203/">
+  <front>
+    <title>Payment Request API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Danyao Wang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rouslan Solomakhin">
+      <organization/>
+    </author>
+    <date year="2020" month="December" day="3"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-payment-request-20201203"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.payment-request" target="https://www.w3.org/TR/payment-request/">
+<reference anchor="W3C.payment-request" target="http://www.w3.org/TR/payment-request/">
   <front>
     <title>Payment Request API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="payment-request"/>
+  <seriesInfo name="W3C WD" value="payment-request"/>
 </reference>

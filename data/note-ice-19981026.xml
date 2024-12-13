@@ -1,0 +1,28 @@
+<reference anchor="W3C.NOTE-ice-19981026" target="http://www.w3.org/TR/1998/NOTE-ice-19981026">
+  <front>
+    <title>The Information and Content Exchange (ICE) Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bruce Hunt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Conleth O'Connel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gord Larose">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Laird Popkin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Neil Webber">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rick Levine">
+      <organization/>
+    </author>
+    <date year="1998" month="October" day="26"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ice-19981026"/>
+</reference>

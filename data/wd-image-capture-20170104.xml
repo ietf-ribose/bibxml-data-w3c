@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-image-capture-20170104" target="https://www.w3.org/TR/2017/WD-image-capture-20170104/">
+  <front>
+    <title>MediaStream Image Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Giridhar Mandyam">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Miguel Casas-sanchez">
+      <organization/>
+    </author>
+    <date year="2017" month="January" day="4"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-image-capture-20170104"/>
+</reference>

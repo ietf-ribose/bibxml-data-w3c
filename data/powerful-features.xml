@@ -1,0 +1,9 @@
+<reference anchor="W3C.powerful-features" target="http://www.w3.org/TR/powerful-features/">
+  <front>
+    <title>Secure Contexts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="powerful-features"/>
+</reference>

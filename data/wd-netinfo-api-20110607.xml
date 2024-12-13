@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-netinfo-api-20110607" target="http://www.w3.org/TR/2011/WD-netinfo-api-20110607/">
+  <front>
+    <title>The Network Information API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Suresh Chitturi">
+      <organization/>
+    </author>
+    <date year="2011" month="June" day="7"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-netinfo-api-20110607"/>
+</reference>

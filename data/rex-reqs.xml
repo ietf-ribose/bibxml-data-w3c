@@ -1,4 +1,4 @@
-<reference anchor="W3C.rex-reqs" target="https://www.w3.org/TR/rex-reqs/">
+<reference anchor="W3C.rex-reqs" target="http://www.w3.org/TR/rex-reqs">
   <front>
     <title>Remote Events for XML (REX) Requirements</title>
     <author>

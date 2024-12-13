@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-xml-entity-names-20100211" target="http://www.w3.org/TR/2010/PR-xml-entity-names-20100211/">
+  <front>
+    <title>XML Entity Definitions for Characters</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Ion">
+      <organization/>
+    </author>
+    <date year="2010" month="February" day="11"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xml-entity-names-20100211"/>
+</reference>

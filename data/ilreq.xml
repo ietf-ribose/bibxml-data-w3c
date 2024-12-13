@@ -1,4 +1,4 @@
-<reference anchor="W3C.ilreq" target="https://www.w3.org/TR/ilreq/">
+<reference anchor="W3C.ilreq" target="http://www.w3.org/TR/ilreq/">
   <front>
     <title>Indic Layout Requirements</title>
     <author>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.css4-images" target="http://www.w3.org/TR/css4-images/">
+  <front>
+    <title>CSS Image Values and Replaced Content Module Level 4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css4-images"/>
+</reference>

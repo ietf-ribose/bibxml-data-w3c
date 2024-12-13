@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-social-web-protocols-20170504" target="https://www.w3.org/TR/2017/WD-social-web-protocols-20170504/">
+  <front>
+    <title>Social Web Protocols</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amy Guy">
+      <organization/>
+    </author>
+    <date year="2017" month="May" day="4"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-social-web-protocols-20170504"/>
+</reference>

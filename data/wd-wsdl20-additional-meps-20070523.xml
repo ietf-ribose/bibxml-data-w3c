@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-wsdl20-additional-meps-20070523" target="http://www.w3.org/TR/2007/WD-wsdl20-additional-meps-20070523">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0: Additional MEPs</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amelia A. Lewis">
+      <organization/>
+    </author>
+    <date year="2007" month="May" day="23"/>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wsdl20-additional-meps-20070523"/>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-coga-gap-analysis-20171207" target="https://www.w3.org/TR/2017/WD-coga-gap-analysis-20171207/">
+  <front>
+    <title>Cognitive Accessibility Roadmap and Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lisa Seeman-Kestenbaum">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2017" month="December" day="7"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-coga-gap-analysis-20171207"/>
+</reference>

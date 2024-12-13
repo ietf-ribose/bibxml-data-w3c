@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-exi-measurements-20060718" target="http://www.w3.org/TR/2006/WD-exi-measurements-20060718/">
+  <front>
+    <title>Efficient XML Interchange Measurements Note</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Don Brutzman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Greg White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Williams">
+      <organization/>
+    </author>
+    <date year="2006" month="July" day="18"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-exi-measurements-20060718"/>
+</reference>

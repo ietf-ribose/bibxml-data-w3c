@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-css3-mediaqueries-20090915" target="http://www.w3.org/TR/2009/CR-css3-mediaqueries-20090915/">
+  <front>
+    <title>Media Queries</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Glazman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2009" month="September" day="15"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css3-mediaqueries-20090915"/>
+</reference>

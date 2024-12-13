@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-web-share-20221215" target="https://www.w3.org/TR/2022/PR-web-share-20221215/">
+  <front>
+    <title>Web Share API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Willigers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Giuca">
+      <organization/>
+    </author>
+    <date year="2022" month="December" day="15"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-web-share-20221215"/>
+</reference>

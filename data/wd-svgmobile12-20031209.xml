@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-SVGMobile12-20031209" target="http://www.w3.org/TR/2003/WD-SVGMobile12-20031209/">
+  <front>
+    <title>Mobile SVG Profiles: SVG Tiny and SVG Basic, Version 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Tolga Capin">
+      <organization/>
+    </author>
+    <date year="2003" month="December" day="9"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SVGMobile12-20031209"/>
+</reference>

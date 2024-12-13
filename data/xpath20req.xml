@@ -1,4 +1,4 @@
-<reference anchor="W3C.xpath20req" target="https://www.w3.org/TR/xpath20req/">
+<reference anchor="W3C.xpath20req" target="http://www.w3.org/TR/xpath20req">
   <front>
     <title>XPath Requirements Version 2.0</title>
     <author>

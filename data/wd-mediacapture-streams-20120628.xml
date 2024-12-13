@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-mediacapture-streams-20120628" target="http://www.w3.org/TR/2012/WD-mediacapture-streams-20120628/">
+  <front>
+    <title>Media Capture and Streams</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anant Narayanan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <date year="2012" month="June" day="28"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-streams-20120628"/>
+</reference>

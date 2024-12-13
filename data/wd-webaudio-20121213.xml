@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webaudio-20121213" target="http://www.w3.org/TR/2012/WD-webaudio-20121213/">
+  <front>
+    <title>Web Audio API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Rogers">
+      <organization/>
+    </author>
+    <date year="2012" month="December" day="13"/>
+    <workgroup>Audio Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webaudio-20121213"/>
+</reference>

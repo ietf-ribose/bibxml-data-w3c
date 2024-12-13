@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-sdw-bp-20170216" target="https://www.w3.org/TR/2017/NOTE-sdw-bp-20170216/">
+  <front>
+    <title>Spatial Data on the Web Best Practices</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeremy Tandy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Linda van den Brink">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Payam Barnaghi">
+      <organization/>
+    </author>
+    <date year="2017" month="February" day="16"/>
+    <workgroup>Spatial Data on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-sdw-bp-20170216"/>
+</reference>

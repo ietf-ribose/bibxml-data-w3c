@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-pwp-20151015" target="http://www.w3.org/TR/2015/WD-pwp-20151015/">
+  <front>
+    <title>Portable Web Publications for the Open Web Platform</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Gylling">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tzviya Siegman">
+      <organization/>
+    </author>
+    <date year="2015" month="October" day="15"/>
+    <workgroup>Digital Publishing Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pwp-20151015"/>
+</reference>

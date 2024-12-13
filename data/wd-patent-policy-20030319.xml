@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-patent-policy-20030319" target="http://www.w3.org/TR/2002/WD-patent-policy-20030319">
+  <front>
+    <title>Patent Policy Working Group Royalty-Free Patent
+Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel J. Weitzner">
+      <organization/>
+    </author>
+    <date year="2003" month="March" day="19"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-patent-policy-20030319"/>
+</reference>

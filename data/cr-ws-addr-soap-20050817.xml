@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-ws-addr-soap-20050817" target="http://www.w3.org/TR/2005/CR-ws-addr-soap-20050817">
+  <front>
+    <title>Web Services Addressing 1.0 - SOAP Binding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <date year="2005" month="August" day="17"/>
+    <workgroup>Web Services Addressing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-ws-addr-soap-20050817"/>
+</reference>

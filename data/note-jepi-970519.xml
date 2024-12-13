@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-jepi-970519" target="http://www.w3.org/TR/NOTE-jepi-970519">
+  <front>
+    <title>White Paper: Joint Electronic Payment Initiative</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Dardailler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eui-Suk Chung">
+      <organization/>
+    </author>
+    <date year="1997" month="May" day="19"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-jepi-970519"/>
+</reference>

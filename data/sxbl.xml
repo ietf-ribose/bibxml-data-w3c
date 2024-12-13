@@ -1,4 +1,4 @@
-<reference anchor="W3C.sXBL" target="https://www.w3.org/TR/sXBL/">
+<reference anchor="W3C.sXBL" target="http://www.w3.org/TR/sXBL">
   <front>
     <title>SVG's XML Binding Language (sXBL)</title>
     <author>

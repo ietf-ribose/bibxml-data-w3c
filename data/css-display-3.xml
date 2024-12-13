@@ -1,9 +1,9 @@
-<reference anchor="W3C.css-display-3" target="https://www.w3.org/TR/css-display-3/">
+<reference anchor="W3C.css-display-3" target="http://www.w3.org/TR/css-display-3/">
   <front>
     <title>CSS Display Module Level 3</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="css-display-3"/>
+  <seriesInfo name="W3C WD" value="css-display-3"/>
 </reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.xfa-template" target="http://www.w3.org/1999/05/XFA/xfa-template">
+  <front>
+    <title>XFA-Template</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="xfa-template"/>
+</reference>

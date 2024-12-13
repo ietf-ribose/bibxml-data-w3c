@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-wpub-20180726" target="https://www.w3.org/TR/2018/WD-wpub-20180726/">
+  <front>
+    <title>Web Publications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <date year="2018" month="July" day="26"/>
+    <workgroup>Audiobooks Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wpub-20180726"/>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="W3C.NOTE-P3P-analysis-19991027" target="http://www.w3.org/TR/1999/NOTE-P3P-analysis-19991027">
+  <front>
+    <title>Analysis of P3P and US Patent 5,862,325</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Barry D. Rein">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel J. Weitzner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Garland T. Stephens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry C. Lebowitz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Reagle">
+      <organization/>
+    </author>
+    <date year="1999" month="October" day="27"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-P3P-analysis-19991027"/>
+</reference>

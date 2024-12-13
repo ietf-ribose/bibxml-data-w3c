@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-CCPPexchange" target="http://www.w3.org/TR/NOTE-CCPPexchange">
+  <front>
+    <title>CC/PP exchange protocol based on HTTP Extension Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-CCPPexchange"/>
+</reference>

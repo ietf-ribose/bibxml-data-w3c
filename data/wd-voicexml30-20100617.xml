@@ -1,0 +1,50 @@
+<reference anchor="W3C.WD-voicexml30-20100617" target="http://www.w3.org/TR/2010/WD-voicexml30-20100617/">
+  <front>
+    <title>Voice Extensible Markup Language (VoiceXML) 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Carter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Barnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Rehor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Oshry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Bodell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Milan Young">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Baggia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="RJ Auburn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah Hosn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rahul Akolkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott McGlashan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Xu Yang">
+      <organization/>
+    </author>
+    <date year="2010" month="June" day="17"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-voicexml30-20100617"/>
+</reference>

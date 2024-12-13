@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-touch-events-20111027" target="http://www.w3.org/TR/2011/WD-touch-events-20111027/">
+  <front>
+    <title>Touch Events version 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sangwhan Moon">
+      <organization/>
+    </author>
+    <date year="2011" month="October" day="27"/>
+    <workgroup>Web Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-touch-events-20111027"/>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-XIndirect-20030612" target="http://www.w3.org/TR/2003/NOTE-XIndirect-20030612">
+  <front>
+    <title>XML Indirection Facility</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="W. Eliot Kimber">
+      <organization/>
+    </author>
+    <date year="2003" month="June" day="12"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-XIndirect-20030612"/>
+</reference>

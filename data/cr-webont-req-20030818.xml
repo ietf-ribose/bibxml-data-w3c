@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-webont-req-20030818" target="http://www.w3.org/TR/2003/CR-webont-req-20030818/">
+  <front>
+    <title>OWL Web Ontology Language Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeff Heflin">
+      <organization/>
+    </author>
+    <date year="2003" month="August" day="18"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-webont-req-20030818"/>
+</reference>

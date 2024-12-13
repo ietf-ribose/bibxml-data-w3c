@@ -1,9 +1,9 @@
-<reference anchor="W3C.xkms2-req" target="https://www.w3.org/TR/xkms2-req/">
+<reference anchor="W3C.xkms2-req" target="http://www.w3.org/TR/xkms2-req">
   <front>
-    <title>XML Key Management (XKMS 2.0) Requirements</title>
+    <title>XML Key Management (2.0) Requirements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xkms2-req"/>
+  <seriesInfo name="W3C WD" value="xkms2-req"/>
 </reference>

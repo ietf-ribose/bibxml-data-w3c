@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-xqueryx-31-20161213" target="https://www.w3.org/TR/2016/CR-xqueryx-31-20161213/">
+  <front>
+    <title>XQueryX 3.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Josh Spiegel">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="13"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xqueryx-31-20161213"/>
+</reference>

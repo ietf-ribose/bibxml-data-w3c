@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-annotation-model-20160331" target="http://www.w3.org/TR/2016/WD-annotation-model-20160331/">
+  <front>
+    <title>Web Annotation Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benjamin Young">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Ciccarese">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Sanderson">
+      <organization/>
+    </author>
+    <date year="2016" month="March" day="31"/>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-annotation-model-20160331"/>
+</reference>

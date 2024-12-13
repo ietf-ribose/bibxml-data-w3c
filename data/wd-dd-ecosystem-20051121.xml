@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-dd-ecosystem-20051121" target="http://www.w3.org/TR/2005/WD-dd-ecosystem-20051121">
+  <front>
+    <title>Device Description Ecosystem</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rotan Hanrahan">
+      <organization/>
+    </author>
+    <date year="2005" month="November" day="21"/>
+    <workgroup>Mobile Web Initiative Device Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dd-ecosystem-20051121"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-IndexedDB-2-20170810" target="https://www.w3.org/TR/2017/CR-IndexedDB-2-20170810/">
+  <front>
+    <title>Indexed Database API 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ali Alabbas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <date year="2017" month="August" day="10"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-IndexedDB-2-20170810"/>
+</reference>

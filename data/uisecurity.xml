@@ -1,6 +1,6 @@
-<reference anchor="W3C.UISecurity" target="https://www.w3.org/TR/UISecurity/">
+<reference anchor="W3C.UISecurity" target="http://www.w3.org/TR/UISecurity/">
   <front>
-    <title>User Interface Security and the Visibility API</title>
+    <title>User Interface Security Directives for Content Security Policy</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

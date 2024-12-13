@@ -1,0 +1,9 @@
+<reference anchor="W3C.wsdl" target="http://www.w3.org/TR/wsdl">
+  <front>
+    <title>Web Services Description Language (WSDL) 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="wsdl"/>
+</reference>

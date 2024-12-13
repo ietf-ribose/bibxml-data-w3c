@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-wsdl12-bindings-20020709" target="http://www.w3.org/TR/2002/WD-wsdl12-bindings-20020709">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 1.2:
+Bindings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeffrey Schlimmer">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="9"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wsdl12-bindings-20020709"/>
+</reference>

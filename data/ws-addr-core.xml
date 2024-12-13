@@ -1,9 +1,9 @@
-<reference anchor="W3C.ws-addr-core" target="https://www.w3.org/TR/ws-addr-core/">
+<reference anchor="W3C.ws-addr-core" target="http://www.w3.org/TR/ws-addr-core">
   <front>
     <title>Web Services Addressing 1.0 - Core</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="ws-addr-core"/>
+  <seriesInfo name="W3C WD" value="ws-addr-core"/>
 </reference>

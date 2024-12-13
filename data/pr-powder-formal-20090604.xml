@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-powder-formal-20090604" target="http://www.w3.org/TR/2009/PR-powder-formal-20090604/">
+  <front>
+    <title>Protocol for Web Description Resources (POWDER): Formal Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stasinos Konstantopoulos">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="4"/>
+    <workgroup>Protocol for Web Description Resources Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-powder-formal-20090604"/>
+</reference>

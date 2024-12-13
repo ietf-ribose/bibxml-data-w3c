@@ -1,0 +1,18 @@
+<reference anchor="W3C.PR-xslt-xquery-serialization-31-20170117" target="https://www.w3.org/TR/2017/PR-xslt-xquery-serialization-31-20170117/">
+  <front>
+    <title>XSLT and XQuery Serialization 3.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Coleman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Sperberg-McQueen">
+      <organization/>
+    </author>
+    <date year="2017" month="January" day="17"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xslt-xquery-serialization-31-20170117"/>
+</reference>

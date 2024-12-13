@@ -1,0 +1,9 @@
+<reference anchor="W3C.feature-policy-1" target="https://www.w3.org/TR/feature-policy-1/">
+  <front>
+    <title>Feature Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="feature-policy-1"/>
+</reference>

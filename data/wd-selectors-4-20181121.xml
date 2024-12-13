@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-selectors-4-20181121" target="https://www.w3.org/TR/2018/WD-selectors-4-20181121/">
+  <front>
+    <title>Selectors Level 4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2018" month="November" day="21"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-selectors-4-20181121"/>
+</reference>

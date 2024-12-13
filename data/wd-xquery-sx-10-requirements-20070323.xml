@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-xquery-sx-10-requirements-20070323" target="http://www.w3.org/TR/2007/WD-xquery-sx-10-requirements-20070323">
+  <front>
+    <title>XQuery Scripting Extension 1.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Engovatov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Giorgio Ghelli">
+      <organization/>
+    </author>
+    <date year="2007" month="March" day="23"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-sx-10-requirements-20070323"/>
+</reference>

@@ -1,0 +1,33 @@
+<reference anchor="W3C.WD-web-animations-1-20181011" target="https://www.w3.org/TR/2018/WD-web-animations-1-20181011/">
+  <front>
+    <title>Web Animations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Danilo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brian Birtles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Flack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane Stephens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen McGruer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2018" month="October" day="11"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-animations-1-20181011"/>
+</reference>

@@ -1,0 +1,56 @@
+<reference anchor="W3C.CR-SVG2-20160915" target="https://www.w3.org/TR/2016/CR-SVG2-20160915/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amelia Bellamy-Royds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bogdan Brinza">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brian Birtles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cyril Concolato">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nikos Andronikos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rossen Atanassov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Satoru Takagi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tavmjong Bah">
+      <organization/>
+    </author>
+    <date year="2016" month="September" day="15"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-SVG2-20160915"/>
+</reference>

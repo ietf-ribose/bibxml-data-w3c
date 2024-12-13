@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-web-animations-1-20160913" target="https://www.w3.org/TR/2016/WD-web-animations-1-20160913/">
+  <front>
+    <title>Web Animations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="September" day="13"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-animations-1-20160913"/>
+</reference>

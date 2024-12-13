@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-xmlschema11-2-20090430" target="http://www.w3.org/TR/2009/CR-xmlschema11-2-20090430/">
+  <front>
+    <title>W3C XML Schema Definition Language (XSD) 1.1 Part 2: Datatypes</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="C. M. Sperberg-McQueen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Peterson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shudi Gao">
+      <organization/>
+    </author>
+    <date year="2009" month="April" day="30"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xmlschema11-2-20090430"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-virtual-keyboard-20210824" target="https://www.w3.org/TR/2021/WD-virtual-keyboard-20210824/">
+  <front>
+    <title>VirtualKeyboard API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anupam Snigdha">
+      <organization/>
+    </author>
+    <date year="2021" month="August" day="24"/>
+    <workgroup>Web Editing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-virtual-keyboard-20210824"/>
+</reference>

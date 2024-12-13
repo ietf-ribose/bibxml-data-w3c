@@ -1,0 +1,22 @@
+<reference anchor="W3C.PR-PNG-20030520" target="http://www.w3.org/TR/2003/PR-PNG-20030520/">
+  <front>
+    <title>Portable Network Graphics (PNG) Specification (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam M. Costello">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Glenn Randers-Pehrson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Boutell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Lane">
+      <organization/>
+    </author>
+    <date year="2003" month="May" day="20"/>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-PNG-20030520"/>
+</reference>

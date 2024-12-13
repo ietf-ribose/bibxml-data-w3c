@@ -1,0 +1,20 @@
+<reference anchor="W3C.CRD-vc-json-schema-20231218" target="https://www.w3.org/TR/2023/CRD-vc-json-schema-20231218/">
+  <front>
+    <title>Verifiable Credentials JSON Schema Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andres Uribe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gabe Cohen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Prorock">
+      <organization/>
+    </author>
+    <date year="2023" month="December" day="18"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-vc-json-schema-20231218"/>
+</reference>

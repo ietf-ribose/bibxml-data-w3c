@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-WOFF20ER-20150414" target="http://www.w3.org/TR/2015/WD-WOFF20ER-20150414/">
+  <front>
+    <title>WOFF 2.0 Evaluation Report</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="14"/>
+    <workgroup>Web Fonts Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WOFF20ER-20150414"/>
+</reference>

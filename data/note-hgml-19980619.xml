@@ -1,0 +1,28 @@
+<reference anchor="W3C.NOTE-HGML-19980619" target="http://www.w3.org/TR/1998/NOTE-HGML-19980619">
+  <front>
+    <title>Hyper Graphics Markup Language (HGML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Phippen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Hammac">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Evans">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Neil Lilly">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Reynolds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Furnell">
+      <organization/>
+    </author>
+    <date year="1998" month="June" day="19"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-HGML-19980619"/>
+</reference>

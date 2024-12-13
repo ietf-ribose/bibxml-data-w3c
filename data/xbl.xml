@@ -1,6 +1,6 @@
-<reference anchor="W3C.xbl" target="https://www.w3.org/TR/xbl/">
+<reference anchor="W3C.xbl" target="http://www.w3.org/TR/xbl/">
   <front>
-    <title>XBL 2.0</title>
+    <title>XML Binding Language (XBL) 2.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

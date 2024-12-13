@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-IMPLEMENTING-UAAG20-20100617" target="http://www.w3.org/TR/2010/WD-IMPLEMENTING-UAAG20-20100617/">
+  <front>
+    <title>Implementing UAAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Allan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeanne Spellman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kelly Ford">
+      <organization/>
+    </author>
+    <date year="2010" month="June" day="17"/>
+    <workgroup>User Agent Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-IMPLEMENTING-UAAG20-20100617"/>
+</reference>

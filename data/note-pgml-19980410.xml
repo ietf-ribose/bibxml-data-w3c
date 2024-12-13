@@ -1,0 +1,34 @@
+<reference anchor="W3C.NOTE-PGML-19980410" target="http://www.w3.org/TR/1998/NOTE-PGML-19980410">
+  <front>
+    <title>Precision Graphics Markup Language (PGML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jerry Evans">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevin McCluskey">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Newell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nabeel Al-Shamma">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Cohn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Ayers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roger K. de Bry">
+      <organization/>
+    </author>
+    <date year="1998" month="April" day="10"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-PGML-19980410"/>
+</reference>

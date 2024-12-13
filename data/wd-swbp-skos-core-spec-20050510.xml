@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-swbp-skos-core-spec-20050510" target="http://www.w3.org/TR/2005/WD-swbp-skos-core-spec-20050510">
+  <front>
+    <title>SKOS Core Vocabulary Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alistair Miles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dan Brickley">
+      <organization/>
+    </author>
+    <date year="2005" month="May" day="10"/>
+    <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-skos-core-spec-20050510"/>
+</reference>

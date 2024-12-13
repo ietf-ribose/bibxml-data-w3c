@@ -1,0 +1,32 @@
+<reference anchor="W3C.WD-wpub-20180315" target="https://www.w3.org/TR/2018/WD-wpub-20180315/">
+  <front>
+    <title>Web Publications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Baldur Bjarnason">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Cramer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florian Rivoal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hadrien Gardeur">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timothy Cole">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="15"/>
+    <workgroup>Audiobooks Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wpub-20180315"/>
+</reference>

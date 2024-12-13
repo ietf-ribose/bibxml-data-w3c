@@ -1,0 +1,47 @@
+<reference anchor="W3C.WD-voicexml21-20060915" target="http://www.w3.org/TR/2006/WD-voicexml21-20060915/">
+  <front>
+    <title>Voice Extensible Markup Language (VoiceXML) 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Lee">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brad Porter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Burke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Emily Candell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jerry Carter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ken Rehor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Oshry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Bodell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Baggia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="RJ Auburn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott McGlashan">
+      <organization/>
+    </author>
+    <date year="2006" month="September" day="15"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-voicexml21-20060915"/>
+</reference>

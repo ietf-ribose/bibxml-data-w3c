@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-from-origin-20110721" target="http://www.w3.org/TR/2011/WD-from-origin-20110721/">
+  <front>
+    <title>The From-Origin Header</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <date year="2011" month="July" day="21"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-from-origin-20110721"/>
+</reference>

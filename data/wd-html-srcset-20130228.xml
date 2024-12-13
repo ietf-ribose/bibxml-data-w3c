@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-srcset-20130228" target="http://www.w3.org/TR/2013/WD-html-srcset-20130228/">
+  <front>
+    <title>The srcset attribute</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Edward O'Connor">
+      <organization/>
+    </author>
+    <date year="2013" month="February" day="28"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-srcset-20130228"/>
+</reference>

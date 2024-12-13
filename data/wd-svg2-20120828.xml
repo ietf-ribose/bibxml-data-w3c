@@ -1,0 +1,38 @@
+<reference anchor="W3C.WD-SVG2-20120828" target="http://www.w3.org/TR/2012/WD-SVG2-20120828/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brian Birtles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cyril Concolato">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nikos Andronikos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tavmjong Bah">
+      <organization/>
+    </author>
+    <date year="2012" month="August" day="28"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SVG2-20120828"/>
+</reference>

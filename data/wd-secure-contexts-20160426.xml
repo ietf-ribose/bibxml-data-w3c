@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-secure-contexts-20160426" target="http://www.w3.org/TR/2016/WD-secure-contexts-20160426/">
+  <front>
+    <title>Secure Contexts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2016" month="April" day="26"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-secure-contexts-20160426"/>
+</reference>

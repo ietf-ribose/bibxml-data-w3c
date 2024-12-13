@@ -1,0 +1,15 @@
+<reference anchor="W3C.NOTE-qa-handbook-20041122" target="http://www.w3.org/TR/2004/NOTE-qa-handbook-20041122/">
+  <front>
+    <title>The QA Handbook</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
+    <date year="2004" month="November" day="22"/>
+    <workgroup>Quality Assurance Interest Group</workgroup>
+    <workgroup>Quality Assurance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-qa-handbook-20041122"/>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-webont-req-20030331" target="http://www.w3.org/TR/2003/WD-webont-req-20030331/">
+  <front>
+    <title>Web Ontology Language (OWL) Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeff Heflin">
+      <organization/>
+    </author>
+    <date year="2003" month="March" day="31"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webont-req-20030331"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-rdf-sparql-query-20070614" target="http://www.w3.org/TR/2007/CR-rdf-sparql-query-20070614/">
+  <front>
+    <title>SPARQL Query Language for RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Seaborne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <date year="2007" month="June" day="14"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-rdf-sparql-query-20070614"/>
+</reference>

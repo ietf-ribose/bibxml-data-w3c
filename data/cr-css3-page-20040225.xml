@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-css3-page-20040225" target="http://www.w3.org/TR/2004/CR-css3-page-20040225">
+  <front>
+    <title>CSS3 Paged Media Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jim Bigelow">
+      <organization/>
+    </author>
+    <date year="2004" month="February" day="25"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css3-page-20040225"/>
+</reference>

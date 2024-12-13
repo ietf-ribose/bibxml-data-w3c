@@ -1,9 +1,9 @@
-<reference anchor="W3C.powder-dr" target="https://www.w3.org/TR/powder-dr/">
+<reference anchor="W3C.powder-dr" target="http://www.w3.org/TR/powder-dr">
   <front>
     <title>Protocol for Web Description Resources (POWDER): Description Resources</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="powder-dr"/>
+  <seriesInfo name="W3C WD" value="powder-dr"/>
 </reference>

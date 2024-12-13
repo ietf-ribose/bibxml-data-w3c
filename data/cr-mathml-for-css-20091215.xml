@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-mathml-for-css-20091215" target="http://www.w3.org/TR/2009/CR-mathml-for-css-20091215/">
+  <front>
+    <title>A MathML for CSS Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bruce R. Miller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="George Chavchanidze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick D. F. Ion">
+      <organization/>
+    </author>
+    <date year="2009" month="December" day="15"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-mathml-for-css-20091215"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-did-use-cases-20191204" target="https://www.w3.org/TR/2019/WD-did-use-cases-20191204/">
+  <front>
+    <title>Use Cases and Requirements for Decentralized Identifiers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Joe Andrieu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <date year="2019" month="December" day="4"/>
+    <workgroup>Decentralized Identifier Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-did-use-cases-20191204"/>
+</reference>

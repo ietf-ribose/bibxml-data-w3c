@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-rif-prd-20090703" target="http://www.w3.org/TR/2009/WD-rif-prd-20090703/">
+  <front>
+    <title>RIF Production Rule Dialect</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adrian Paschke">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Christian de Sainte Marie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gary Hallmark">
+      <organization/>
+    </author>
+    <date year="2009" month="July" day="3"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rif-prd-20090703"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-DDR-Simple-API-20080404" target="http://www.w3.org/TR/2008/WD-DDR-Simple-API-20080404/">
+  <front>
+    <title>Device Description Repository Simple API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ignacio Marín">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="José Manuel Cantera Fonseca">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rotan Hanrahan">
+      <organization/>
+    </author>
+    <date year="2008" month="April" day="4"/>
+    <workgroup>Mobile Web Initiative Device Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DDR-Simple-API-20080404"/>
+</reference>

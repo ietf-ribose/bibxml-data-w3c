@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-rdf-plain-literal-20090611" target="http://www.w3.org/TR/2009/CR-rdf-plain-literal-20090611/">
+  <front>
+    <title>rdf:PlainLiteral: A Datatype for RDF Plain Literals</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Axel Polleres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Boris Motik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jie Bao">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter F. Patel-Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sandro Hawke">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="11"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-rdf-plain-literal-20090611"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-SVGMobile12-20040813" target="http://www.w3.org/TR/2004/WD-SVGMobile12-20040813/">
+  <front>
+    <title>Mobile SVG Profile: SVG Tiny, Version 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ola Andersson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tolga Capin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Hardy">
+      <organization/>
+    </author>
+    <date year="2004" month="August" day="13"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SVGMobile12-20040813"/>
+</reference>

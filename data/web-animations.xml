@@ -1,0 +1,9 @@
+<reference anchor="W3C.web-animations" target="http://www.w3.org/TR/web-animations/">
+  <front>
+    <title>Web Animations 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="web-animations"/>
+</reference>

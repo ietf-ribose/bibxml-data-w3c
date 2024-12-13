@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-referrer-policy-20161016" target="https://www.w3.org/TR/2016/WD-referrer-policy-20161016/">
+  <front>
+    <title>Referrer Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="October" day="16"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-referrer-policy-20161016"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.epr" target="https://www.w3.org/TR/epr/">
+<reference anchor="W3C.epr" target="http://www.w3.org/TR/epr/">
   <front>
     <title>Entry Point Regulation</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="epr"/>
+  <seriesInfo name="W3C WD" value="epr"/>
 </reference>

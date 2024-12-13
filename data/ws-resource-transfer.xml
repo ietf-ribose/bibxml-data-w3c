@@ -1,4 +1,4 @@
-<reference anchor="W3C.ws-resource-transfer" target="https://www.w3.org/TR/ws-resource-transfer/">
+<reference anchor="W3C.ws-resource-transfer" target="http://www.w3.org/TR/ws-resource-transfer">
   <front>
     <title>Web Services Resource Transfer (WS-RT)</title>
     <author>

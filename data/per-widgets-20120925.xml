@@ -1,0 +1,14 @@
+<reference anchor="W3C.PER-widgets-20120925" target="http://www.w3.org/TR/2012/PER-widgets-20120925/">
+  <front>
+    <title>Packaged Web Apps (Widgets) - Packaging and XML Configuration (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2012" month="September" day="25"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-widgets-20120925"/>
+</reference>

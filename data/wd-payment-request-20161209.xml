@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-payment-request-20161209" target="https://www.w3.org/TR/2016/WD-payment-request-20161209/">
+  <front>
+    <title>Payment Request API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="December" day="9"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-payment-request-20161209"/>
+</reference>

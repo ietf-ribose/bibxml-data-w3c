@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-powerful-features-20150424" target="http://www.w3.org/TR/2015/WD-powerful-features-20150424/">
+  <front>
+    <title>Privileged Contexts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yan Zhu">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="24"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-powerful-features-20150424"/>
+</reference>

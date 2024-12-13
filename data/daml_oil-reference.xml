@@ -1,0 +1,9 @@
+<reference anchor="W3C.daml+oil-reference" target="http://www.w3.org/TR/daml+oil-reference">
+  <front>
+    <title>DAML+OIL (March 2001) Reference Description</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="daml+oil-reference"/>
+</reference>

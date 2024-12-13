@@ -1,0 +1,9 @@
+<reference anchor="W3C.XIndirect" target="http://www.w3.org/TR/XIndirect">
+  <front>
+    <title>XML Indirection Facility</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="XIndirect"/>
+</reference>

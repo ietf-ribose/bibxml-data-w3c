@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-ws-policy-attach-20060731" target="http://www.w3.org/TR/2006/WD-ws-policy-attach-20060731">
+  <front>
+    <title>Web Services Policy 1.5 - Attachment</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Asir S Vedamuthu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maryann Hondo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Prasad Yendluri">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toufic Boubez">
+      <organization/>
+    </author>
+    <date year="2006" month="July" day="31"/>
+    <workgroup>Web Services Policy Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-policy-attach-20060731"/>
+</reference>

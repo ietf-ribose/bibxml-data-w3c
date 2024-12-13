@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-ldn-20160726" target="http://www.w3.org/TR/2016/WD-ldn-20160726/">
+  <front>
+    <title>Linked Data Notifications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amy Guy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sarven Capadisli">
+      <organization/>
+    </author>
+    <date year="2016" month="July" day="26"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ldn-20160726"/>
+</reference>

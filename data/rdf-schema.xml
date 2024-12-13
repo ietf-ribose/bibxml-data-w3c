@@ -1,9 +1,9 @@
-<reference anchor="W3C.rdf-schema" target="https://www.w3.org/TR/rdf-schema/">
+<reference anchor="W3C.rdf-schema" target="http://www.w3.org/TR/rdf-schema">
   <front>
-    <title>RDF Schema 1.1</title>
+    <title>RDF Vocabulary Description Language 1.0: RDF Schema</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rdf-schema"/>
+  <seriesInfo name="W3C WD" value="rdf-schema"/>
 </reference>

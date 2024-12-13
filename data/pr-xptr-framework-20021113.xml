@@ -1,0 +1,22 @@
+<reference anchor="W3C.PR-xptr-framework-20021113" target="http://www.w3.org/TR/2002/PR-xptr-framework-20021113/">
+  <front>
+    <title>XPointer Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grosso">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="13"/>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xptr-framework-20021113"/>
+</reference>

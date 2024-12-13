@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-pronunciation-use-cases-20190905" target="https://www.w3.org/TR/2019/WD-pronunciation-use-cases-20190905/">
+  <front>
+    <title>Pronunciation Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Irfan Ali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markku Hakkinen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grenier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <date year="2019" month="September" day="5"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pronunciation-use-cases-20190905"/>
+</reference>

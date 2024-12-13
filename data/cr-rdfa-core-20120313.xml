@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-rdfa-core-20120313" target="http://www.w3.org/TR/2012/CR-rdfa-core-20120313/">
+  <front>
+    <title>RDFa Core 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Adida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2012" month="March" day="13"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-rdfa-core-20120313"/>
+</reference>

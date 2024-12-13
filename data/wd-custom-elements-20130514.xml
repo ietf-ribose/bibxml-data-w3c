@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-custom-elements-20130514" target="http://www.w3.org/TR/2013/WD-custom-elements-20130514/">
+  <front>
+    <title>Custom Elements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitri Glazkov">
+      <organization/>
+    </author>
+    <date year="2013" month="May" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-custom-elements-20130514"/>
+</reference>

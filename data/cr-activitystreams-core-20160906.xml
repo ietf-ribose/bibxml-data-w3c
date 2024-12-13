@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-activitystreams-core-20160906" target="https://www.w3.org/TR/2016/CR-activitystreams-core-20160906/">
+  <front>
+    <title>Activity Streams 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Evan Prodromou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Snell">
+      <organization/>
+    </author>
+    <date year="2016" month="September" day="6"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-activitystreams-core-20160906"/>
+</reference>

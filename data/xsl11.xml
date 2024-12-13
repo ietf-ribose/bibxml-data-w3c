@@ -1,9 +1,9 @@
-<reference anchor="W3C.xsl11" target="https://www.w3.org/TR/xsl11/">
+<reference anchor="W3C.xsl11" target="http://www.w3.org/TR/xsl11/">
   <front>
     <title>Extensible Stylesheet Language (XSL) Version 1.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xsl11"/>
+  <seriesInfo name="W3C WD" value="xsl11"/>
 </reference>

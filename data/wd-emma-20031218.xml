@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-emma-20031218" target="http://www.w3.org/TR/2003/WD-emma-20031218/">
+  <front>
+    <title>EMMA: Extensible MultiModal Annotation markup language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Deborah A. Dahl">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roberto Pieraccini">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wu Chou">
+      <organization/>
+    </author>
+    <date year="2003" month="December" day="18"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-emma-20031218"/>
+</reference>

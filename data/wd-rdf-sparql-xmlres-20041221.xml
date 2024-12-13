@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rdf-sparql-XMLres-20041221" target="http://www.w3.org/TR/2004/WD-rdf-sparql-XMLres-20041221/">
+  <front>
+    <title>SPARQL Variable Binding Results XML Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Beckett">
+      <organization/>
+    </author>
+    <date year="2004" month="December" day="21"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-sparql-XMLres-20041221"/>
+</reference>

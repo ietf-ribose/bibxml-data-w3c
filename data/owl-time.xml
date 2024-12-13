@@ -1,9 +1,9 @@
-<reference anchor="W3C.owl-time" target="https://www.w3.org/TR/owl-time/">
+<reference anchor="W3C.owl-time" target="http://www.w3.org/TR/owl-time">
   <front>
     <title>Time Ontology in OWL</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="owl-time"/>
+  <seriesInfo name="W3C WD" value="owl-time"/>
 </reference>

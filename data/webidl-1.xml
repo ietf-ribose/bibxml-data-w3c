@@ -1,9 +1,9 @@
-<reference anchor="W3C.WebIDL-1" target="https://www.w3.org/TR/WebIDL-1/">
+<reference anchor="W3C.WebIDL-1" target="http://www.w3.org/TR/WebIDL-1/">
   <front>
     <title>WebIDL Level 1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="WebIDL-1"/>
+  <seriesInfo name="W3C WD" value="WebIDL-1"/>
 </reference>

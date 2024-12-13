@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-prov-n-20121211" target="http://www.w3.org/TR/2012/CR-prov-n-20121211/">
+  <front>
+    <title>PROV-N: The Provenance Notation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Luc Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Missier">
+      <organization/>
+    </author>
+    <date year="2012" month="December" day="11"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-prov-n-20121211"/>
+</reference>

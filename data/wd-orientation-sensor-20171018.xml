@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-orientation-sensor-20171018" target="https://www.w3.org/TR/2017/WD-orientation-sensor-20171018/">
+  <front>
+    <title>Orientation Sensor</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexander Shalamov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mikhail Pozdnyakov">
+      <organization/>
+    </author>
+    <date year="2017" month="October" day="18"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-orientation-sensor-20171018"/>
+</reference>

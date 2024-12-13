@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xmlschema11-1-20070830" target="http://www.w3.org/TR/2007/WD-xmlschema11-1-20070830/">
+  <front>
+    <title>W3C XML Schema Definition Language (XSDL) 1.1 Part 1: Structures</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Version 1.1">
+      <organization/>
+    </author>
+    <date year="2007" month="August" day="30"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlschema11-1-20070830"/>
+</reference>

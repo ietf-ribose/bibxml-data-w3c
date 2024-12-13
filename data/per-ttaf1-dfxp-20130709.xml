@@ -1,0 +1,14 @@
+<reference anchor="W3C.PER-ttaf1-dfxp-20130709" target="http://www.w3.org/TR/2013/PER-ttaf1-dfxp-20130709/">
+  <front>
+    <title>Timed Text Markup Language (TTML) 1.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <date year="2013" month="July" day="9"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-ttaf1-dfxp-20130709"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-contacts-api-20120712" target="http://www.w3.org/TR/2012/WD-contacts-api-20120712/">
+  <front>
+    <title>Pick Contacts Intent</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Tibbett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="12"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-contacts-api-20120712"/>
+</reference>

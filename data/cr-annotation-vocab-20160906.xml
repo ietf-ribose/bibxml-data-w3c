@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-annotation-vocab-20160906" target="https://www.w3.org/TR/2016/CR-annotation-vocab-20160906/">
+  <front>
+    <title>Web Annotation Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benjamin Young">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Ciccarese">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Sanderson">
+      <organization/>
+    </author>
+    <date year="2016" month="September" day="6"/>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-annotation-vocab-20160906"/>
+</reference>

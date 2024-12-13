@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-grddl-tests-20070328" target="http://www.w3.org/TR/2007/WD-grddl-tests-20070328/">
+  <front>
+    <title>GRDDL Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chimezie Ogbuji">
+      <organization/>
+    </author>
+    <date year="2007" month="March" day="28"/>
+    <workgroup>GRDDL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-grddl-tests-20070328"/>
+</reference>

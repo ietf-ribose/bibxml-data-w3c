@@ -1,0 +1,24 @@
+<reference anchor="W3C.WD-coga-usable-20201211" target="https://www.w3.org/TR/2020/WD-coga-usable-20201211/">
+  <front>
+    <title>Making content usable for people with cognitive and learning disabilities</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lisa Seeman-Horwitz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rachael Bradley Montgomery">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Lee">
+      <organization/>
+    </author>
+    <date year="2020" month="December" day="11"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-coga-usable-20201211"/>
+</reference>

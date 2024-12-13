@@ -1,4 +1,4 @@
-<reference anchor="W3C.compositing-1" target="https://www.w3.org/TR/compositing-1/">
+<reference anchor="W3C.compositing-1" target="http://www.w3.org/TR/compositing-1/">
   <front>
     <title>Compositing and Blending Level 1</title>
     <author>

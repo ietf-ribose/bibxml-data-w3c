@@ -1,0 +1,14 @@
+<reference anchor="W3C.PR-user-timing-2-20190110" target="https://www.w3.org/TR/2019/PR-user-timing-2-20190110/">
+  <front>
+    <title>User Timing Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <date year="2019" month="January" day="10"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-user-timing-2-20190110"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.PR-xml-names11-20031105" target="http://www.w3.org/TR/2003/PR-xml-names11-20031105/">
+  <front>
+    <title>Namespaces in XML 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Layman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Hollander">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Tobin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="5"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xml-names11-20031105"/>
+</reference>

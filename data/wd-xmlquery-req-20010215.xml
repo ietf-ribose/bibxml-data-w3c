@@ -1,0 +1,22 @@
+<reference anchor="W3C.WD-xmlquery-req-20010215" target="http://www.w3.org/TR/2001/WD-xmlquery-req-20010215">
+  <front>
+    <title>XML Query Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Massimo Marchiori">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Fankhauser">
+      <organization/>
+    </author>
+    <date year="2001" month="February" day="15"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlquery-req-20010215"/>
+</reference>

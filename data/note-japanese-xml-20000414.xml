@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-japanese-xml-20000414" target="http://www.w3.org/TR/2000/NOTE-japanese-xml-20000414">
+  <front>
+    <title>XML Japanese Profile</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="MURATA Makoto">
+      <organization/>
+    </author>
+    <date year="2000" month="April" day="14"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-japanese-xml-20000414"/>
+</reference>

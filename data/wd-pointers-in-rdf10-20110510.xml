@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-Pointers-in-RDF10-20110510" target="http://www.w3.org/TR/2011/WD-Pointers-in-RDF10-20110510/">
+  <front>
+    <title>Pointer Methods in RDF 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Carlos Iglesias">
+      <organization/>
+    </author>
+    <date year="2011" month="May" day="10"/>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-Pointers-in-RDF10-20110510"/>
+</reference>

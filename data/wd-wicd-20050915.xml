@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-WICD-20050915" target="http://www.w3.org/TR/2005/WD-WICD-20050915/">
+  <front>
+    <title>Compound Document Framework 1.0 and WICD 1.0 Profiles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Appelquist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timur Mehrvarz">
+      <organization/>
+    </author>
+    <date year="2005" month="September" day="15"/>
+    <workgroup>Compound Document Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WICD-20050915"/>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-chips-20030128" target="http://www.w3.org/TR/2003/NOTE-chips-20030128/">
+  <front>
+    <title>Common HTTP Implementation Problems</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Olivier Théreaux">
+      <organization/>
+    </author>
+    <date year="2003" month="January" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-chips-20030128"/>
+</reference>

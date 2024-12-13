@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-exi-c14n-20180426" target="https://www.w3.org/TR/2018/PR-exi-c14n-20180426/">
+  <front>
+    <title>Canonical EXI</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Käbisch">
+      <organization/>
+    </author>
+    <date year="2018" month="April" day="26"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-exi-c14n-20180426"/>
+</reference>

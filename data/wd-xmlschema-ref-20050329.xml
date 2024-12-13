@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xmlschema-ref-20050329" target="http://www.w3.org/TR/2005/WD-xmlschema-ref-20050329/">
+  <front>
+    <title>XML Schema: Component Designators</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Asir S. Vedamuthu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Holstege">
+      <organization/>
+    </author>
+    <date year="2005" month="March" day="29"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlschema-ref-20050329"/>
+</reference>

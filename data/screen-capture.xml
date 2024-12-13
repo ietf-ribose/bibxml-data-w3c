@@ -1,4 +1,4 @@
-<reference anchor="W3C.screen-capture" target="https://www.w3.org/TR/screen-capture/">
+<reference anchor="W3C.screen-capture" target="http://www.w3.org/TR/screen-capture/">
   <front>
     <title>Screen Capture</title>
     <author>

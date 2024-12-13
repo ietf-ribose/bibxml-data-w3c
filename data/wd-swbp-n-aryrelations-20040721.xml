@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-swbp-n-aryRelations-20040721" target="http://www.w3.org/TR/2004/WD-swbp-n-aryRelations-20040721/">
+  <front>
+    <title>Defining N-ary Relations on the Semantic Web: Use With Individuals</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alan Rector">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Natasha Noy">
+      <organization/>
+    </author>
+    <date year="2004" month="July" day="21"/>
+    <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-n-aryRelations-20040721"/>
+</reference>

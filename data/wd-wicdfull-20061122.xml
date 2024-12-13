@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-WICDFull-20061122" target="http://www.w3.org/TR/2006/WD-WICDFull-20061122/">
+  <front>
+    <title>WICD Full 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Appelquist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Julien Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lasse Pajunen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timur Mehrvarz">
+      <organization/>
+    </author>
+    <date year="2006" month="November" day="22"/>
+    <workgroup>Compound Document Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WICDFull-20061122"/>
+</reference>

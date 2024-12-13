@@ -1,4 +1,4 @@
-<reference anchor="W3C.selection-api" target="https://www.w3.org/TR/selection-api/">
+<reference anchor="W3C.selection-api" target="http://www.w3.org/TR/selection-api/">
   <front>
     <title>Selection API</title>
     <author>

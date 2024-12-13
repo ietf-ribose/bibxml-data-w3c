@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-PICS-Statement-19980601" target="http://www.w3.org/TR/1998/NOTE-PICS-Statement-19980601">
+  <front>
+    <title>Statement on the Intent and Use of PICS: Using PICS Well</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel J. Weitzner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Reagle">
+      <organization/>
+    </author>
+    <date year="1998" month="June" day="1"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-PICS-Statement-19980601"/>
+</reference>

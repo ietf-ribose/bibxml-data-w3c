@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-timesheets-20080110" target="http://www.w3.org/TR/2008/WD-timesheets-20080110/">
+  <front>
+    <title>SMIL Timesheets 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dick Bulterman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pablo Cesar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Petri Vuorimaa">
+      <organization/>
+    </author>
+    <date year="2008" month="January" day="10"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-timesheets-20080110"/>
+</reference>

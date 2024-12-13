@@ -1,0 +1,9 @@
+<reference anchor="W3C.rdf-pics" target="http://www.w3.org/TR/rdf-pics">
+  <front>
+    <title>PICS Rating Vocabularies in XML/RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="rdf-pics"/>
+</reference>

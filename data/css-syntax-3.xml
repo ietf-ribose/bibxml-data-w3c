@@ -1,4 +1,4 @@
-<reference anchor="W3C.css-syntax-3" target="https://www.w3.org/TR/css-syntax-3/">
+<reference anchor="W3C.css-syntax-3" target="http://www.w3.org/TR/css-syntax-3/">
   <front>
     <title>CSS Syntax Module Level 3</title>
     <author>

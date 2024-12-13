@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rdf-sparql-protocol-20050914" target="http://www.w3.org/TR/2005/WD-rdf-sparql-protocol-20050914/">
+  <front>
+    <title>SPARQL Protocol for RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kendall Grant Clark">
+      <organization/>
+    </author>
+    <date year="2005" month="September" day="14"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-sparql-protocol-20050914"/>
+</reference>

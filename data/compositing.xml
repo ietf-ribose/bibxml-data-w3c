@@ -1,0 +1,9 @@
+<reference anchor="W3C.compositing" target="http://www.w3.org/TR/compositing/">
+  <front>
+    <title>Compositing and Blending 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="compositing"/>
+</reference>

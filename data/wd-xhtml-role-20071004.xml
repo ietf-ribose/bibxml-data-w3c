@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-xhtml-role-20071004" target="http://www.w3.org/TR/2007/WD-xhtml-role-20071004">
+  <front>
+    <title>XHTML Role Attribute Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T. V. Raman">
+      <organization/>
+    </author>
+    <date year="2007" month="October" day="4"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-role-20071004"/>
+</reference>

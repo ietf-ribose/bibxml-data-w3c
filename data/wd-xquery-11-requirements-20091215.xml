@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xquery-11-requirements-20091215" target="http://www.w3.org/TR/2009/WD-xquery-11-requirements-20091215/">
+  <front>
+    <title>XQuery 1.1 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Engovatov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <date year="2009" month="December" day="15"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-11-requirements-20091215"/>
+</reference>

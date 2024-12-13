@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-soap12-part1-20021219" target="http://www.w3.org/TR/2002/CR-soap12-part1-20021219">
+  <front>
+    <title>SOAP Version 1.2 Part 1: Messaging Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <date year="2002" month="December" day="19"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-soap12-part1-20021219"/>
+</reference>

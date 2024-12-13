@@ -1,9 +1,9 @@
-<reference anchor="W3C.spec-variability" target="https://www.w3.org/TR/spec-variability/">
+<reference anchor="W3C.spec-variability" target="http://www.w3.org/TR/spec-variability/">
   <front>
     <title>Variability in Specifications</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="spec-variability"/>
+  <seriesInfo name="W3C WD" value="spec-variability"/>
 </reference>

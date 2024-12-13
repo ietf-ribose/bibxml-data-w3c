@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-odrl-model-20170926" target="https://www.w3.org/TR/2017/CR-odrl-model-20170926/">
+  <front>
+    <title>ODRL Information Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Serena Villata">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="26"/>
+    <workgroup>Permissions and Obligations Expression Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-odrl-model-20170926"/>
+</reference>

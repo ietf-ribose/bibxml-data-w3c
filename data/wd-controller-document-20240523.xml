@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-controller-document-20240523" target="https://www.w3.org/TR/2024/WD-controller-document-20240523/">
+  <front>
+    <title>Controller Documents 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="23"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-controller-document-20240523"/>
+</reference>

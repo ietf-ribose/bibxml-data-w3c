@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-sparql12-query-20231020" target="https://www.w3.org/TR/2023/WD-sparql12-query-20231020/">
+  <front>
+    <title>SPARQL 1.2 Query Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Seaborne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregory Williams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Olaf Hartig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruben Taelman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Pellissier Tanon">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="20"/>
+    <workgroup>RDF-star Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sparql12-query-20231020"/>
+</reference>

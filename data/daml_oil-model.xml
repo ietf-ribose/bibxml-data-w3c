@@ -1,0 +1,9 @@
+<reference anchor="W3C.daml+oil-model" target="http://www.w3.org/TR/daml+oil-model">
+  <front>
+    <title>A Model-Theoretic Semantics for DAML+OIL (March 2001)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="daml+oil-model"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.FileAPI" target="https://www.w3.org/TR/FileAPI/">
+<reference anchor="W3C.FileAPI" target="http://www.w3.org/TR/FileAPI/">
   <front>
     <title>File API</title>
     <author>

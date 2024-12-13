@@ -1,9 +1,9 @@
-<reference anchor="W3C.sdw-bp" target="https://www.w3.org/TR/sdw-bp/">
+<reference anchor="W3C.sdw-bp" target="http://www.w3.org/TR/sdw-bp/">
   <front>
     <title>Spatial Data on the Web Best Practices</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="sdw-bp"/>
+  <seriesInfo name="W3C WD" value="sdw-bp"/>
 </reference>

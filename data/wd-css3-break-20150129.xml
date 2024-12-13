@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-css3-break-20150129" target="http://www.w3.org/TR/2015/WD-css3-break-20150129/">
+  <front>
+    <title>CSS Fragmentation Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rossen Atanassov">
+      <organization/>
+    </author>
+    <date year="2015" month="January" day="29"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css3-break-20150129"/>
+</reference>

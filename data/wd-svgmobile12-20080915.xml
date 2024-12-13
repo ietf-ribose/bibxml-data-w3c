@@ -1,0 +1,62 @@
+<reference anchor="W3C.WD-SVGMobile12-20080915" target="http://www.w3.org/TR/2008/WD-SVGMobile12-20080915/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andreas Neumann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Emmons">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Shellshear">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anthony Grasso">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Craig Northway">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nandini Ramani">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ola Andersson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hayman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Hardy">
+      <organization/>
+    </author>
+    <date year="2008" month="September" day="15"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SVGMobile12-20080915"/>
+</reference>

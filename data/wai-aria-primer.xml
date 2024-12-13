@@ -1,4 +1,4 @@
-<reference anchor="W3C.wai-aria-primer" target="https://www.w3.org/TR/wai-aria-primer/">
+<reference anchor="W3C.wai-aria-primer" target="http://www.w3.org/TR/wai-aria-primer/">
   <front>
     <title>WAI-ARIA 1.0 Primer</title>
     <author>

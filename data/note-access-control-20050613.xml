@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-access-control-20050613" target="http://www.w3.org/TR/2005/NOTE-access-control-20050613/">
+  <front>
+    <title>Authorizing Read Access to XML Content Using the &lt;?access-control?&gt; Processing Instruction 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brad Porter">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Oshry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="RJ Auburn">
+      <organization/>
+    </author>
+    <date year="2005" month="June" day="13"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-access-control-20050613"/>
+</reference>

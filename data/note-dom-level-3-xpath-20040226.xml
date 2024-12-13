@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-DOM-Level-3-XPath-20040226" target="https://www.w3.org/TR/2004/NOTE-DOM-Level-3-XPath-20040226/">
+  <front>
+    <title>Document Object Model (DOM) Level 3 XPath Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ray Whitmer">
+      <organization/>
+    </author>
+    <date year="2004" month="February" day="26"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-DOM-Level-3-XPath-20040226"/>
+</reference>

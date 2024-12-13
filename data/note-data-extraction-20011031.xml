@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-data-extraction-20011031" target="http://www.w3.org/TR/2001/NOTE-data-extraction-20011031">
+  <front>
+    <title>DEL - Data Extraction Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eero Lempinen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Harri Saarikoski">
+      <organization/>
+    </author>
+    <date year="2001" month="October" day="31"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-data-extraction-20011031"/>
+</reference>

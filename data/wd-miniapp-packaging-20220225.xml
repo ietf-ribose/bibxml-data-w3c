@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-miniapp-packaging-20220225" target="https://www.w3.org/TR/2022/WD-miniapp-packaging-20220225/">
+  <front>
+    <title>MiniApp Packaging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Zhou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Alvarez-Espinar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Qing An">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tengyuan Zhang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yongjing ZHANG">
+      <organization/>
+    </author>
+    <date year="2022" month="February" day="25"/>
+    <workgroup>MiniApps Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-miniapp-packaging-20220225"/>
+</reference>

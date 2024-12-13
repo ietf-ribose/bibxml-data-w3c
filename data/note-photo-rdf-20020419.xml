@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-photo-rdf-20020419" target="http://www.w3.org/TR/2002/NOTE-photo-rdf-20020419">
+  <front>
+    <title>Describing and retrieving photos using RDF and HTTP</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yves Lafon">
+      <organization/>
+    </author>
+    <date year="2002" month="April" day="19"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-photo-rdf-20020419"/>
+</reference>

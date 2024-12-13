@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-spoken-html-20210518" target="https://www.w3.org/TR/2021/WD-spoken-html-20210518/">
+  <front>
+    <title>Specification for Spoken Presentation in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Irfan Ali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markku Hakkinen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grenier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <date year="2021" month="May" day="18"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-spoken-html-20210518"/>
+</reference>

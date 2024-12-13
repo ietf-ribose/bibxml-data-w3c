@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-poix-19990624" target="http://www.w3.org/1999/06/NOTE-poix-19990624">
+  <front>
+    <title>POIX: Point Of Interest eXchange Language Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hiroyuki Kanemitsu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tomihisa Kamada">
+      <organization/>
+    </author>
+    <date year="1999" month="June" day="24"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-poix-19990624"/>
+</reference>

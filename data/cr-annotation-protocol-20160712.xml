@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-annotation-protocol-20160712" target="http://www.w3.org/TR/2016/CR-annotation-protocol-20160712/">
+  <front>
+    <title>Web Annotation Protocol</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robert Sanderson">
+      <organization/>
+    </author>
+    <date year="2016" month="July" day="12"/>
+    <workgroup>Annotation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-annotation-protocol-20160712"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-hr-time-2-20180301" target="https://www.w3.org/TR/2018/CR-hr-time-2-20180301/">
+  <front>
+    <title>High Resolution Time Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Simonsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="1"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-hr-time-2-20180301"/>
+</reference>

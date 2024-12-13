@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-aria-20151214" target="http://www.w3.org/TR/2015/WD-html-aria-20151214/">
+  <front>
+    <title>ARIA in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <date year="2015" month="December" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-aria-20151214"/>
+</reference>

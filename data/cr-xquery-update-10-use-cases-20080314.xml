@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-xquery-update-10-use-cases-20080314" target="http://www.w3.org/TR/2008/CR-xquery-update-10-use-cases-20080314/">
+  <front>
+    <title>XQuery Update Facility 1.0 Use Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ioana Manolescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <date year="2008" month="March" day="14"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xquery-update-10-use-cases-20080314"/>
+</reference>

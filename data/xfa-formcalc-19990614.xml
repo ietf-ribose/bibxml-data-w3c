@@ -1,0 +1,13 @@
+<reference anchor="W3C.xfa-formcalc-19990614" target="http://www.w3.org/1999/05/XFA/xfa-formcalc-19990614">
+  <front>
+    <title>XFA-FormCalc</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gavin F. McKenzie">
+      <organization/>
+    </author>
+    <date year="1999" month="June" day="14"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="xfa-formcalc-19990614"/>
+</reference>

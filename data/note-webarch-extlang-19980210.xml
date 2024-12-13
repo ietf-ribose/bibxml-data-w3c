@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-webarch-extlang-19980210" target="http://www.w3.org/TR/1998/NOTE-webarch-extlang-19980210">
+  <front>
+    <title> Web Architecture: Extensible Languages </title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Berners-Lee">
+      <organization/>
+    </author>
+    <date year="1998" month="February" day="10"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-webarch-extlang-19980210"/>
+</reference>

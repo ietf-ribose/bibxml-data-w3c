@@ -1,0 +1,9 @@
+<reference anchor="W3C.accname-aam-1.1" target="http://www.w3.org/TR/accname-aam-1.1/">
+  <front>
+    <title>Accessible Name and Description: Computation and API Mappings 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="accname-aam-1.1"/>
+</reference>

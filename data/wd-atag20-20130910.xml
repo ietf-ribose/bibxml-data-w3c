@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-ATAG20-20130910" target="http://www.w3.org/TR/2013/WD-ATAG20-20130910/">
+  <front>
+    <title>Authoring Tool Accessibility Guidelines (ATAG) 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jan Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeanne F Spellman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jutta Treviranus">
+      <organization/>
+    </author>
+    <date year="2013" month="September" day="10"/>
+    <workgroup>Authoring Tool Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ATAG20-20130910"/>
+</reference>

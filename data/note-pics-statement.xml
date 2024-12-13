@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-PICS-Statement" target="http://www.w3.org/TR/NOTE-PICS-Statement">
+  <front>
+    <title>Statement on the Intent and Use of PICS: Using PICS Well</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-PICS-Statement"/>
+</reference>

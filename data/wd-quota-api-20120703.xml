@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-quota-api-20120703" target="http://www.w3.org/TR/2012/WD-quota-api-20120703/">
+  <front>
+    <title>Quota Management API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kinuko Yasuda">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="3"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-quota-api-20120703"/>
+</reference>

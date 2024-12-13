@@ -1,9 +1,9 @@
-<reference anchor="W3C.pointerevents" target="https://www.w3.org/TR/pointerevents/">
+<reference anchor="W3C.pointerevents" target="http://www.w3.org/TR/pointerevents/">
   <front>
     <title>Pointer Events</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="pointerevents"/>
+  <seriesInfo name="W3C CR" value="pointerevents"/>
 </reference>

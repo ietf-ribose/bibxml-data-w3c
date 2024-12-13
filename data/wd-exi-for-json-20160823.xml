@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-exi-for-json-20160823" target="https://www.w3.org/TR/2016/WD-exi-for-json-20160823/">
+  <front>
+    <title>EXI for JSON (EXI4JSON)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Don Brutzman">
+      <organization/>
+    </author>
+    <date year="2016" month="August" day="23"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-exi-for-json-20160823"/>
+</reference>

@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-charcol-20000114" target="http://www.w3.org/TR/2000/NOTE-charcol-20000114">
+  <front>
+    <title>A Notation for Character Collections for the WWW</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Martin J. Dürst">
+      <organization/>
+    </author>
+    <date year="2000" month="January" day="14"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-charcol-20000114"/>
+</reference>

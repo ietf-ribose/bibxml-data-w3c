@@ -1,4 +1,4 @@
-<reference anchor="W3C.powder-voc" target="https://www.w3.org/TR/powder-voc/">
+<reference anchor="W3C.powder-voc" target="http://www.w3.org/TR/powder-voc/">
   <front>
     <title>Protocol for Web Description Resources (POWDER): Web Description Resources (WDR) Vocabulary</title>
     <author>

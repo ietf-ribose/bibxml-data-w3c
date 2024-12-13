@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-mediacapture-fromelement-20150219" target="http://www.w3.org/TR/2015/WD-mediacapture-fromelement-20150219/">
+  <front>
+    <title>Media Capture from DOM Elements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Martin Thomson">
+      <organization/>
+    </author>
+    <date year="2015" month="February" day="19"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-fromelement-20150219"/>
+</reference>

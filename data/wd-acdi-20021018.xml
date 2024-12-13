@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-acdi-20021018" target="http://www.w3.org/TR/2002/WD-acdi-20021018/">
+  <front>
+    <title>Authoring Challenges for Device Independence</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <date year="2002" month="October" day="18"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-acdi-20021018"/>
+</reference>

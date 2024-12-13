@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xquery-update-requirements-20050211" target="http://www.w3.org/TR/2005/WD-xquery-update-requirements-20050211/">
+  <front>
+    <title>XQuery Update Facility Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <date year="2005" month="February" day="11"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-update-requirements-20050211"/>
+</reference>

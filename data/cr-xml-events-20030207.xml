@@ -1,0 +1,19 @@
+<reference anchor="W3C.CR-xml-events-20030207" target="http://www.w3.org/TR/2003/CR-xml-events-20030207">
+  <front>
+    <title>XML Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T. V. Raman">
+      <organization/>
+    </author>
+    <date year="2003" month="February" day="7"/>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xml-events-20030207"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.widgets-reqs" target="https://www.w3.org/TR/widgets-reqs/">
+<reference anchor="W3C.widgets-reqs" target="http://www.w3.org/TR/widgets-reqs/">
   <front>
-    <title>Requirement For Standardizing Widgets</title>
+    <title>Widget Requirements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="widgets-reqs"/>
+  <seriesInfo name="W3C WD" value="widgets-reqs"/>
 </reference>

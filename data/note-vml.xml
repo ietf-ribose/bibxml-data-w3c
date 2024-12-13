@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-VML" target="http://www.w3.org/TR/NOTE-VML">
+  <front>
+    <title>Vector Markup Language (VML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-VML"/>
+</reference>

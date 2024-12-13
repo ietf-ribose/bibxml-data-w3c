@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-rdf-canon-20230609" target="https://www.w3.org/TR/2023/WD-rdf-canon-20230609/">
+  <front>
+    <title>RDF Dataset Canonicalization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Yamamoto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Longley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="9"/>
+    <workgroup>RDF Dataset Canonicalization and Hash Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-canon-20230609"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.data-extraction" target="http://www.w3.org/TR/data-extraction">
+  <front>
+    <title>DEL - Data Extraction Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="data-extraction"/>
+</reference>

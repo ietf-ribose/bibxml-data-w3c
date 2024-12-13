@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-unicode-xml-20070516" target="http://www.w3.org/TR/2007/NOTE-unicode-xml-20070516/">
+  <front>
+    <title>Unicode in XML and other Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Asmus Freytag">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Dürst">
+      <organization/>
+    </author>
+    <date year="2007" month="May" day="16"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-unicode-xml-20070516"/>
+</reference>

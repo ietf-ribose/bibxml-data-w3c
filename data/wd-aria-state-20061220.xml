@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-aria-state-20061220" target="http://www.w3.org/TR/2006/WD-aria-state-20061220/">
+  <front>
+    <title>States and Properties Module for Accessible Rich Internet Applications (WAI-ARIA States and Properties)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lisa Seeman">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="20"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-aria-state-20061220"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.html-polyglot" target="https://www.w3.org/TR/html-polyglot/">
+<reference anchor="W3C.html-polyglot" target="http://www.w3.org/TR/html-polyglot/">
   <front>
     <title>Polyglot Markup: A robust profile of the HTML5 vocabulary</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="html-polyglot"/>
+  <seriesInfo name="W3C CR" value="html-polyglot"/>
 </reference>

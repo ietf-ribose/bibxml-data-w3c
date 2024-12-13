@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-css-snappoints-1-20160329" target="http://www.w3.org/TR/2016/WD-css-snappoints-1-20160329/">
+  <front>
+    <title>CSS Scroll Snap Points Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jacob Rossi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Rakow">
+      <organization/>
+    </author>
+    <date year="2016" month="March" day="29"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css-snappoints-1-20160329"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-rdf-testcases-20030905" target="http://www.w3.org/TR/2003/WD-rdf-testcases-20030905/">
+  <front>
+    <title>RDF Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Beckett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jan Grant">
+      <organization/>
+    </author>
+    <date year="2003" month="September" day="5"/>
+    <workgroup>RDFCore Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-testcases-20030905"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.xptr-xpointer" target="https://www.w3.org/TR/xptr-xpointer/">
+<reference anchor="W3C.xptr-xpointer" target="http://www.w3.org/TR/xptr-xpointer/">
   <front>
     <title>XPointer xpointer() Scheme</title>
     <author>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-mmi-arch-20110125" target="http://www.w3.org/TR/2011/WD-mmi-arch-20110125/">
+  <front>
+    <title>Multimodal Architecture and Interfaces</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Barnett">
+      <organization/>
+    </author>
+    <date year="2011" month="January" day="25"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mmi-arch-20110125"/>
+</reference>

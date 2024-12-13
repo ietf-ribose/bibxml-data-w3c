@@ -1,0 +1,22 @@
+<reference anchor="W3C.NOTE-wsdl-20010315" target="http://www.w3.org/TR/2001/NOTE-wsdl-20010315">
+  <front>
+    <title>Web Services Description Language (WSDL) 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Erik Christensen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Francisco Curbera">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Greg Meredith">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sanjiva Weerawarana">
+      <organization/>
+    </author>
+    <date year="2001" month="March" day="15"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wsdl-20010315"/>
+</reference>

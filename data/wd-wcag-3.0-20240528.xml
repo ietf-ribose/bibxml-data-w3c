@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-wcag-3.0-20240528" target="https://www.w3.org/TR/2024/WD-wcag-3.0-20240528/">
+  <front>
+    <title>W3C Accessibility Guidelines (WCAG) 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alastair Campbell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles Adams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeanne F Spellman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevin White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rachael Bradley Montgomery">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="28"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wcag-3.0-20240528"/>
+</reference>

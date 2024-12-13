@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-prov-o-20120724" target="http://www.w3.org/TR/2012/WD-prov-o-20120724/">
+  <front>
+    <title>PROV-O: The PROV Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Deborah McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Satya Sahoo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timothy Lebo">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="24"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-prov-o-20120724"/>
+</reference>

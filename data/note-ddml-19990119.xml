@@ -1,0 +1,22 @@
+<reference anchor="W3C.NOTE-ddml-19990119" target="http://www.w3.org/TR/1999/NOTE-ddml-19990119">
+  <front>
+    <title>Document Definition Markup Language (DDML) Specification, Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ingo Macherius">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Cowan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ronald Bourret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon St. Laurent">
+      <organization/>
+    </author>
+    <date year="1999" month="January" day="19"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-ddml-19990119"/>
+</reference>

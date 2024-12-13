@@ -1,0 +1,14 @@
+<reference anchor="W3C.CRD-css-box-3-20221103" target="https://www.w3.org/TR/2022/CRD-css-box-3-20221103/">
+  <front>
+    <title>CSS Box Model Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <date year="2022" month="November" day="3"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-css-box-3-20221103"/>
+</reference>

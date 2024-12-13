@@ -1,0 +1,25 @@
+<reference anchor="W3C.WD-soap12-part1-20020626" target="http://www.w3.org/TR/2002/WD-soap12-part1-20020626">
+  <front>
+    <title>SOAP Version 1.2 Part 1: Messaging Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <date year="2002" month="June" day="26"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-soap12-part1-20020626"/>
+</reference>

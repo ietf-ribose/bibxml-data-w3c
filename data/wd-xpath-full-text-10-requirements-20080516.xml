@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-xpath-full-text-10-requirements-20080516" target="http://www.w3.org/TR/2008/WD-xpath-full-text-10-requirements-20080516/">
+  <front>
+    <title>XQuery and XPath Full Text 1.0 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Rys">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pat Case">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Buxton">
+      <organization/>
+    </author>
+    <date year="2008" month="May" day="16"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xpath-full-text-10-requirements-20080516"/>
+</reference>

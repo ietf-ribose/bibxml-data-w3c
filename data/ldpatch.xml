@@ -1,9 +1,9 @@
-<reference anchor="W3C.ldpatch" target="https://www.w3.org/TR/ldpatch/">
+<reference anchor="W3C.ldpatch" target="http://www.w3.org/TR/ldpatch/">
   <front>
     <title>Linked Data Patch Format</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="ldpatch"/>
+  <seriesInfo name="W3C WD" value="ldpatch"/>
 </reference>

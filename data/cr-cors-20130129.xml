@@ -1,0 +1,15 @@
+<reference anchor="W3C.CR-cors-20130129" target="http://www.w3.org/TR/2013/CR-cors-20130129/">
+  <front>
+    <title>Cross-Origin Resource Sharing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <date year="2013" month="January" day="29"/>
+    <workgroup>Web Applications Working Group</workgroup>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-cors-20130129"/>
+</reference>

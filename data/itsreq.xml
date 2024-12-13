@@ -1,4 +1,4 @@
-<reference anchor="W3C.itsreq" target="https://www.w3.org/TR/itsreq/">
+<reference anchor="W3C.itsreq" target="http://www.w3.org/TR/itsreq">
   <front>
     <title>Internationalization and Localization Markup Requirements</title>
     <author>

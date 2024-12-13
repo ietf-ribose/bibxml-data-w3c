@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-CDR-20051219" target="http://www.w3.org/TR/2005/WD-CDR-20051219/">
+  <front>
+    <title>Compound Document by Reference Framework 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Appelquist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lasse Pajunen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Timur Mehrvarz">
+      <organization/>
+    </author>
+    <date year="2005" month="December" day="19"/>
+    <workgroup>Compound Document Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CDR-20051219"/>
+</reference>

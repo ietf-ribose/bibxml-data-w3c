@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-personalization-semantics-help-1.0-20181018" target="https://www.w3.org/TR/2018/WD-personalization-semantics-help-1.0-20181018/">
+  <front>
+    <title>Personalization Help and Support 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles LaPierre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lisa Seeman-Kestenbaum">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <date year="2018" month="October" day="18"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-personalization-semantics-help-1.0-20181018"/>
+</reference>

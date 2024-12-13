@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-mediacapture-streams-20171003" target="https://www.w3.org/TR/2017/CR-mediacapture-streams-20171003/">
+  <front>
+    <title>Media Capture and Streams</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Bergkvist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anant Narayanan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bernard Aboba">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cullen Jennings">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <date year="2017" month="October" day="3"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-mediacapture-streams-20171003"/>
+</reference>

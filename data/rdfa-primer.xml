@@ -1,6 +1,6 @@
-<reference anchor="W3C.rdfa-primer" target="https://www.w3.org/TR/rdfa-primer/">
+<reference anchor="W3C.rdfa-primer" target="http://www.w3.org/TR/rdfa-primer/">
   <front>
-    <title>RDFa 1.1 Primer - Third Edition</title>
+    <title>RDFa 1.1 Primer - Second Edition</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

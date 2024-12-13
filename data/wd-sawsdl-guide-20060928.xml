@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-sawsdl-guide-20060928" target="http://www.w3.org/TR/2006/WD-sawsdl-guide-20060928/">
+  <front>
+    <title>Semantic Annotations for WSDL — Usage Guide</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brahmananda Sapkota">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rama Akkiraju">
+      <organization/>
+    </author>
+    <date year="2006" month="September" day="28"/>
+    <workgroup>Semantic Annotations for WSDL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sawsdl-guide-20060928"/>
+</reference>

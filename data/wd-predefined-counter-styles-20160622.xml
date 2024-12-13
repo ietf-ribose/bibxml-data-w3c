@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-predefined-counter-styles-20160622" target="http://www.w3.org/TR/2016/WD-predefined-counter-styles-20160622/">
+  <front>
+    <title>Custom Counter Styles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="June" day="22"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-predefined-counter-styles-20160622"/>
+</reference>

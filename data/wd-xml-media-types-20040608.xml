@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-xml-media-types-20040608" target="http://www.w3.org/TR/2004/WD-xml-media-types-20040608">
+  <front>
+    <title>Assigning Media Types to Binary Data in XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anish Karmarkar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ümit Yalçınalp">
+      <organization/>
+    </author>
+    <date year="2004" month="June" day="8"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xml-media-types-20040608"/>
+</reference>

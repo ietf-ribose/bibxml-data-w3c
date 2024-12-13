@@ -1,0 +1,26 @@
+<reference anchor="W3C.PR-soap12-part2-20030507" target="http://www.w3.org/TR/2003/PR-soap12-part2-20030507/">
+  <front>
+    <title>SOAP Version 1.2 Part 2: Adjuncts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <date year="2003" month="May" day="7"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-soap12-part2-20030507"/>
+</reference>

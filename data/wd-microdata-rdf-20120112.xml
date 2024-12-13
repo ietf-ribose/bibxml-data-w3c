@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-microdata-rdf-20120112" target="http://www.w3.org/TR/2012/WD-microdata-rdf-20120112/">
+  <front>
+    <title>Microdata to RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <date year="2012" month="January" day="12"/>
+    <workgroup>Semantic Web Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-microdata-rdf-20120112"/>
+</reference>

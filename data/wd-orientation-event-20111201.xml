@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-orientation-event-20111201" target="http://www.w3.org/TR/2011/WD-orientation-event-20111201/">
+  <front>
+    <title>DeviceOrientation Event Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrei Popescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen Block">
+      <organization/>
+    </author>
+    <date year="2011" month="December" day="1"/>
+    <workgroup>Geolocation Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-orientation-event-20111201"/>
+</reference>

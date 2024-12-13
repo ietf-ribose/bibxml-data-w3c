@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-rdfa-in-html-20100304" target="http://www.w3.org/TR/2010/WD-rdfa-in-html-20100304/">
+  <front>
+    <title>HTML+RDFa</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Adida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <date year="2010" month="March" day="4"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdfa-in-html-20100304"/>
+</reference>

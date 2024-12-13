@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-prov-dm-20130312" target="http://www.w3.org/TR/2013/PR-prov-dm-20130312/">
+  <front>
+    <title>PROV-DM: The PROV Data Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Luc Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Missier">
+      <organization/>
+    </author>
+    <date year="2013" month="March" day="12"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-prov-dm-20130312"/>
+</reference>

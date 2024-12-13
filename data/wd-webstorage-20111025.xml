@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webstorage-20111025" target="http://www.w3.org/TR/2011/WD-webstorage-20111025/">
+  <front>
+    <title>Web Storage</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2011" month="October" day="25"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webstorage-20111025"/>
+</reference>

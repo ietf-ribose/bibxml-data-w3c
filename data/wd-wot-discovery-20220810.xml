@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wot-discovery-20220810" target="https://www.w3.org/TR/2022/WD-wot-discovery-20220810/">
+  <front>
+    <title>Web of Things (WoT) Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrea Cimmino">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Farshid Tavakolizadeh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kunihiko Toumura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael McCool">
+      <organization/>
+    </author>
+    <date year="2022" month="August" day="10"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wot-discovery-20220810"/>
+</reference>

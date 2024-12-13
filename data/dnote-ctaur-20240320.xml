@@ -1,0 +1,20 @@
+<reference anchor="W3C.DNOTE-ctaur-20240320" target="https://www.w3.org/TR/2024/DNOTE-ctaur-20240320/">
+  <front>
+    <title>Collaboration Tools Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hollier">
+      <organization/>
+    </author>
+    <date year="2024" month="March" day="20"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-ctaur-20240320"/>
+</reference>

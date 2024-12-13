@@ -1,0 +1,26 @@
+<reference anchor="W3C.DNOTE-saur-20220413" target="https://www.w3.org/TR/2022/DNOTE-saur-20220413/">
+  <front>
+    <title>Synchronization Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hollier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Noble">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="13"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-saur-20220413"/>
+</reference>

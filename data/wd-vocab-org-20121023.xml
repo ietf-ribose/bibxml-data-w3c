@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-vocab-org-20121023" target="http://www.w3.org/TR/2012/WD-vocab-org-20121023/">
+  <front>
+    <title>An organization ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Reynolds">
+      <organization/>
+    </author>
+    <date year="2012" month="October" day="23"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vocab-org-20121023"/>
+</reference>

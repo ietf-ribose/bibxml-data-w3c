@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-scroll-animations-1-20230428" target="https://www.w3.org/TR/2023/WD-scroll-animations-1-20230428/">
+  <front>
+    <title>Scroll-driven Animations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Antoine Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Botond Ballo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brian Birtles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Olga Gerchikov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Flack">
+      <organization/>
+    </author>
+    <date year="2023" month="April" day="28"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-scroll-animations-1-20230428"/>
+</reference>

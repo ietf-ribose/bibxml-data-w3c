@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-mixed-content-20150317" target="http://www.w3.org/TR/2015/CR-mixed-content-20150317/">
+  <front>
+    <title>Mixed Content</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2015" month="March" day="17"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-mixed-content-20150317"/>
+</reference>

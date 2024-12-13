@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-css3-multicol-20110412" target="http://www.w3.org/TR/2011/CR-css3-multicol-20110412">
+  <front>
+    <title>CSS Multi-column Layout Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="12"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css3-multicol-20110412"/>
+</reference>

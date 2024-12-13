@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-pointerevents-20130115" target="http://www.w3.org/TR/2013/WD-pointerevents-20130115/">
+  <front>
+    <title>Pointer Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jacob Rossi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Brubeck">
+      <organization/>
+    </author>
+    <date year="2013" month="January" day="15"/>
+    <workgroup>Pointer Events Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerevents-20130115"/>
+</reference>

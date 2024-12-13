@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-accname-1.1-20180619" target="https://www.w3.org/TR/2018/CR-accname-1.1-20180619/">
+  <front>
+    <title>Accessible Name and Description Computation 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bryan Garaventa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2018" month="June" day="19"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-accname-1.1-20180619"/>
+</reference>

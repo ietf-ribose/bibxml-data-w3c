@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-rdf-sparql-XMLres-20070925" target="http://www.w3.org/TR/2007/CR-rdf-sparql-XMLres-20070925/">
+  <front>
+    <title>SPARQL Query Results XML Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Beckett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeen Broekstra">
+      <organization/>
+    </author>
+    <date year="2007" month="September" day="25"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-rdf-sparql-XMLres-20070925"/>
+</reference>

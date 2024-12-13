@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-swbp-vocab-pub-20080123" target="http://www.w3.org/TR/2008/WD-swbp-vocab-pub-20080123/">
+  <front>
+    <title>Best Practice Recipes for Publishing RDF Vocabularies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Diego Berrueta">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Phipps">
+      <organization/>
+    </author>
+    <date year="2008" month="January" day="23"/>
+    <workgroup>Semantic Web Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-vocab-pub-20080123"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-xslt20-20051103" target="http://www.w3.org/TR/2005/CR-xslt20-20051103/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <date year="2005" month="November" day="3"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xslt20-20051103"/>
+</reference>

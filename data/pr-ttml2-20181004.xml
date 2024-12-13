@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-ttml2-20181004" target="https://www.w3.org/TR/2018/PR-ttml2-20181004/">
+  <front>
+    <title>Timed Text Markup Language 2 (TTML2)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cyril Concolato">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <date year="2018" month="October" day="4"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-ttml2-20181004"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-dpub-aam-1.0-20170606" target="https://www.w3.org/TR/2017/CR-dpub-aam-1.0-20170606/">
+  <front>
+    <title>Digital Publishing Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2017" month="June" day="6"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-dpub-aam-1.0-20170606"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-WebCryptoAPI-20141211" target="http://www.w3.org/TR/2014/CR-WebCryptoAPI-20141211/">
+  <front>
+    <title>Web Cryptography API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryan Sleevi">
+      <organization/>
+    </author>
+    <date year="2014" month="December" day="11"/>
+    <workgroup>Web Cryptography Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-WebCryptoAPI-20141211"/>
+</reference>

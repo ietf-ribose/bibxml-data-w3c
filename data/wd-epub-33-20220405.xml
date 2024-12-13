@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-epub-33-20220405" target="https://www.w3.org/TR/2022/WD-epub-33-20220405/">
+  <front>
+    <title>EPUB 3.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Cramer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="5"/>
+    <workgroup>EPUB 3 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-epub-33-20220405"/>
+</reference>

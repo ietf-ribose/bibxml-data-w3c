@@ -14,6 +14,7 @@
       <organization/>
     </author>
     <date year="2024" month="November" day="27"/>
+    <workgroup>GPU for the Web Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-WGSL-20241127"/>
 </reference>

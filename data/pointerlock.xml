@@ -1,9 +1,9 @@
-<reference anchor="W3C.pointerlock" target="https://www.w3.org/TR/pointerlock/">
+<reference anchor="W3C.pointerlock" target="http://www.w3.org/TR/pointerlock/">
   <front>
     <title>Pointer Lock</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="pointerlock"/>
+  <seriesInfo name="W3C CR" value="pointerlock"/>
 </reference>

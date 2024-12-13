@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-aria-role-20060926" target="http://www.w3.org/TR/2006/WD-aria-role-20060926/">
+  <front>
+    <title>Roles for Accessible Rich Internet Applications (WAI-ARIA Roles)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Lisa Seeman">
+      <organization/>
+    </author>
+    <date year="2006" month="September" day="26"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-aria-role-20060926"/>
+</reference>

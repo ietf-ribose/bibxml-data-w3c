@@ -1,0 +1,38 @@
+<reference anchor="W3C.WD-mediaont-10-20110308" target="http://www.w3.org/TR/2011/WD-mediaont-10-20110308">
+  <front>
+    <title>Ontology for Media Resources 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florian Stegmaier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joakim Söderberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Strassner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thierry Michel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tobias Bürger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Véronique Malaisé">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Werner Bailer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="WonSuk Lee">
+      <organization/>
+    </author>
+    <date year="2011" month="March" day="8"/>
+    <workgroup>Media Annotations Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediaont-10-20110308"/>
+</reference>

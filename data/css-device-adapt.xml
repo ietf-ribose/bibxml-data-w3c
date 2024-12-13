@@ -1,0 +1,9 @@
+<reference anchor="W3C.css-device-adapt" target="http://www.w3.org/TR/css-device-adapt/">
+  <front>
+    <title>CSS Device Adaptation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css-device-adapt"/>
+</reference>

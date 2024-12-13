@@ -1,0 +1,9 @@
+<reference anchor="W3C.owl11-syntax" target="http://www.w3.org/TR/owl11-syntax/">
+  <front>
+    <title>OWL 1.1 Web Ontology Language: Structural Specification and Functional-Style Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="owl11-syntax"/>
+</reference>

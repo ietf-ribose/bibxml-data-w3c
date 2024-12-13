@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-speech-synthesis-20031218" target="http://www.w3.org/TR/2003/CR-speech-synthesis-20031218/">
+  <front>
+    <title>Speech Synthesis Markup Language Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Hunt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark R. Walker">
+      <organization/>
+    </author>
+    <date year="2003" month="December" day="18"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-speech-synthesis-20031218"/>
+</reference>

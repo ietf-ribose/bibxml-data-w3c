@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-DOM-Parsing-20131210" target="http://www.w3.org/TR/2013/WD-DOM-Parsing-20131210/">
+  <front>
+    <title>DOM Parsing and Serialization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2013" month="December" day="10"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Parsing-20131210"/>
+</reference>

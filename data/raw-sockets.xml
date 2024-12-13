@@ -1,0 +1,9 @@
+<reference anchor="W3C.raw-sockets" target="http://www.w3.org/TR/raw-sockets/">
+  <front>
+    <title>Raw Socket API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="raw-sockets"/>
+</reference>

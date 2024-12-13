@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-rdf-syntax-grammar-20140109" target="http://www.w3.org/TR/2014/PER-rdf-syntax-grammar-20140109/">
+  <front>
+    <title>RDF 1.1 XML Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Fabien Gandon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Guus Schreiber">
+      <organization/>
+    </author>
+    <date year="2014" month="January" day="9"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-rdf-syntax-grammar-20140109"/>
+</reference>

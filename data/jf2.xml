@@ -1,9 +1,9 @@
-<reference anchor="W3C.jf2" target="https://www.w3.org/TR/jf2/">
+<reference anchor="W3C.jf2" target="http://www.w3.org/TR/jf2/">
   <front>
     <title>JF2 Post Serialization Format</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="jf2"/>
+  <seriesInfo name="W3C WD" value="jf2"/>
 </reference>

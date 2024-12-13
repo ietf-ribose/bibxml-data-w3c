@@ -1,0 +1,9 @@
+<reference anchor="W3C.vc-jwt" target="https://www.w3.org/TR/vc-jwt/">
+  <front>
+    <title>Securing Verifiable Credentials using JSON Web Tokens</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="vc-jwt"/>
+</reference>

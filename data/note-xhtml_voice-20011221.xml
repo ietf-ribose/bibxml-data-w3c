@@ -1,0 +1,28 @@
+<reference anchor="W3C.NOTE-xhtml+voice-20011221" target="http://www.w3.org/TR/2001/NOTE-xhtml+voice-20011221/">
+  <front>
+    <title>XHTML+Voice Profile 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Cross">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gerald McCobb">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonny Axelsson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Les Wilson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T. V. Raman">
+      <organization/>
+    </author>
+    <date year="2001" month="December" day="21"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xhtml+voice-20011221"/>
+</reference>

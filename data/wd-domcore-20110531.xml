@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-domcore-20110531" target="http://www.w3.org/TR/2011/WD-domcore-20110531/">
+  <front>
+    <title>DOM Core</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ms2ger">
+      <organization/>
+    </author>
+    <date year="2011" month="May" day="31"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-domcore-20110531"/>
+</reference>

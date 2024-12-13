@@ -1,9 +1,9 @@
-<reference anchor="W3C.wsdl20-soap11-binding" target="https://www.w3.org/TR/wsdl20-soap11-binding/">
+<reference anchor="W3C.wsdl20-soap11-binding" target="http://www.w3.org/TR/wsdl20-soap11-binding">
   <front>
     <title>Web Services Description Language (WSDL) Version 2.0 SOAP 1.1 Binding</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="wsdl20-soap11-binding"/>
+  <seriesInfo name="W3C WD" value="wsdl20-soap11-binding"/>
 </reference>

@@ -1,6 +1,6 @@
-<reference anchor="W3C.vcard-rdf" target="https://www.w3.org/TR/vcard-rdf/">
+<reference anchor="W3C.vcard-rdf" target="http://www.w3.org/TR/vcard-rdf">
   <front>
-    <title>vCard Ontology - for describing People and Organizations</title>
+    <title>Representing vCard Objects in RDF/XML</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

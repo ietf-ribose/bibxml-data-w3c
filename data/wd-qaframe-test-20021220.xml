@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-qaframe-test-20021220" target="http://www.w3.org/TR/2002/WD-qaframe-test-20021220/">
+  <front>
+    <title>QA Framework: Test Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitris Dimitriadis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kirill Gavrylyuk">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Skall">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Fawcett">
+      <organization/>
+    </author>
+    <date year="2002" month="December" day="20"/>
+    <workgroup>Quality Assurance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-qaframe-test-20021220"/>
+</reference>

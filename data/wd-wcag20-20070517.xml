@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-WCAG20-20070517" target="http://www.w3.org/TR/2007/WD-WCAG20-20070517/">
+  <front>
+    <title>Web Content Accessibility Guidelines 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Caldwell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregg Vanderheiden">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Loretta Guarino Reid">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2007" month="May" day="17"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WCAG20-20070517"/>
+</reference>

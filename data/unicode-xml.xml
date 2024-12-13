@@ -1,4 +1,4 @@
-<reference anchor="W3C.unicode-xml" target="https://www.w3.org/TR/unicode-xml/">
+<reference anchor="W3C.unicode-xml" target="http://www.w3.org/TR/unicode-xml/">
   <front>
     <title>Unicode in XML and other Markup Languages</title>
     <author>

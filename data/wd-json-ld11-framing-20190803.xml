@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-json-ld11-framing-20190803" target="https://www.w3.org/TR/2019/WD-json-ld11-framing-20190803/">
+  <front>
+    <title>JSON-LD 1.1 Framing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <date year="2019" month="August" day="3"/>
+    <workgroup>JSON-LD Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-json-ld11-framing-20190803"/>
+</reference>

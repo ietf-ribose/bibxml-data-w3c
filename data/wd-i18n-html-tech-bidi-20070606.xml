@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-i18n-html-tech-bidi-20070606" target="http://www.w3.org/TR/2007/WD-i18n-html-tech-bidi-20070606/">
+  <front>
+    <title>Internationalization Best Practices: Handling Right-to-left Scripts in XHTML and HTML Content</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2007" month="June" day="6"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-i18n-html-tech-bidi-20070606"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.XAdES" target="http://www.w3.org/TR/XAdES/">
+  <front>
+    <title>XML Advanced Electronic Signatures (XAdES)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="XAdES"/>
+</reference>

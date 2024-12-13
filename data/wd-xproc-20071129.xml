@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-xproc-20071129" target="http://www.w3.org/TR/2007/WD-xproc-20071129/">
+  <front>
+    <title>XProc: An XML Pipeline Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Milowski">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2007" month="November" day="29"/>
+    <workgroup>XML Processing Model Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xproc-20071129"/>
+</reference>

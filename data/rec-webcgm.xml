@@ -1,6 +1,6 @@
-<reference anchor="W3C.REC-WebCGM" target="https://www.w3.org/TR/REC-WebCGM/">
+<reference anchor="W3C.REC-WebCGM" target="http://www.w3.org/TR/REC-WebCGM">
   <front>
-    <title>WebCGM 1.0 Second Release</title>
+    <title>WebCGM Profile Recommendation</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

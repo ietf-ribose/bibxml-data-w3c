@@ -1,0 +1,9 @@
+<reference anchor="W3C.wsc-xit" target="http://www.w3.org/TR/wsc-xit/">
+  <front>
+    <title>Web Security Context: Experience, Indicators, and Trust</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="wsc-xit"/>
+</reference>

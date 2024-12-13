@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xhtml-print-20030729" target="http://www.w3.org/TR/2003/WD-xhtml-print-20030729">
+  <front>
+    <title>XHTML-Print</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Bigelow">
+      <organization/>
+    </author>
+    <date year="2003" month="July" day="29"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-print-20030729"/>
+</reference>

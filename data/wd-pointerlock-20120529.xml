@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-pointerlock-20120529" target="http://www.w3.org/TR/2012/WD-pointerlock-20120529/">
+  <front>
+    <title>Pointer Lock</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Vincent Scheib">
+      <organization/>
+    </author>
+    <date year="2012" month="May" day="29"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerlock-20120529"/>
+</reference>

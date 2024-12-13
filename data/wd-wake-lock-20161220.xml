@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-wake-lock-20161220" target="https://www.w3.org/TR/2016/WD-wake-lock-20161220/">
+  <front>
+    <title>Wake Lock API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrey Logvinov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilya Bogdanovich">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="20"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wake-lock-20161220"/>
+</reference>

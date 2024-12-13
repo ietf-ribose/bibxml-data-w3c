@@ -1,0 +1,23 @@
+<reference anchor="W3C.NOTE-rdfa-primer-20130822" target="http://www.w3.org/TR/2013/NOTE-rdfa-primer-20130822/">
+  <front>
+    <title>RDFa 1.1 Primer - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Adida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <date year="2013" month="August" day="22"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdfa-primer-20130822"/>
+</reference>

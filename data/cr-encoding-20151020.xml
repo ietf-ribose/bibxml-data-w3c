@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-encoding-20151020" target="http://www.w3.org/TR/2015/CR-encoding-20151020/">
+  <front>
+    <title>Encoding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <date year="2015" month="October" day="20"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-encoding-20151020"/>
+</reference>

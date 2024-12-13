@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-longdesc-20130716" target="http://www.w3.org/TR/2013/WD-html-longdesc-20130716/">
+  <front>
+    <title>HTML5 Image Description Extension (longdesc)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles McCathieNevile">
+      <organization/>
+    </author>
+    <date year="2013" month="July" day="16"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-longdesc-20130716"/>
+</reference>

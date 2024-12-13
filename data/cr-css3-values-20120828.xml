@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-css3-values-20120828" target="http://www.w3.org/TR/2012/CR-css3-values-20120828/">
+  <front>
+    <title>CSS Values and Units Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika J. Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins">
+      <organization/>
+    </author>
+    <date year="2012" month="August" day="28"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css3-values-20120828"/>
+</reference>

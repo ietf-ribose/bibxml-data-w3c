@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-datetime-19980827" target="http://www.w3.org/TR/1998/NOTE-datetime-19980827">
+  <front>
+    <title>Date and Time Formats</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles Wicksteed">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Misha Wolf">
+      <organization/>
+    </author>
+    <date year="1998" month="August" day="27"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-datetime-19980827"/>
+</reference>

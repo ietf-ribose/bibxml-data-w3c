@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-WAPF-REQ-20060821" target="http://www.w3.org/TR/2006/WD-WAPF-REQ-20060821/">
+  <front>
+    <title>Web Applications Packaging Format Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2006" month="August" day="21"/>
+    <workgroup>Web Application Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WAPF-REQ-20060821"/>
+</reference>

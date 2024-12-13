@@ -1,4 +1,4 @@
-<reference anchor="W3C.eme-initdata-webm" target="https://www.w3.org/TR/eme-initdata-webm/">
+<reference anchor="W3C.eme-initdata-webm" target="http://www.w3.org/TR/eme-initdata-webm/">
   <front>
     <title>"webm" Initialization Data Format</title>
     <author>

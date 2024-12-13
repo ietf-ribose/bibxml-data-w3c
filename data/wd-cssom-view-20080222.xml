@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-cssom-view-20080222" target="http://www.w3.org/TR/2008/WD-cssom-view-20080222/">
+  <front>
+    <title>CSSOM View Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <date year="2008" month="February" day="22"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-cssom-view-20080222"/>
+</reference>

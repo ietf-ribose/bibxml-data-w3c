@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-web-alarms-20130205" target="http://www.w3.org/TR/2013/WD-web-alarms-20130205/">
+  <front>
+    <title>Web Alarms API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christophe Dumez">
+      <organization/>
+    </author>
+    <date year="2013" month="February" day="5"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-alarms-20130205"/>
+</reference>

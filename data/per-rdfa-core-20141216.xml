@@ -1,0 +1,23 @@
+<reference anchor="W3C.PER-rdfa-core-20141216" target="http://www.w3.org/TR/2014/PER-rdfa-core-20141216/">
+  <front>
+    <title>RDFa Core 1.1 - Third Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Adida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2014" month="December" day="16"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-rdfa-core-20141216"/>
+</reference>

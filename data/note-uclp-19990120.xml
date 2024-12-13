@@ -1,0 +1,10 @@
+<reference anchor="W3C.NOTE-uclp-19990120" target="http://www.w3.org/TR/1999/NOTE-uclp-19990120">
+  <front>
+    <title>Universal Commerce Language and Protocol (UCLP)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="1999" month="January" day="20"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-uclp-19990120"/>
+</reference>

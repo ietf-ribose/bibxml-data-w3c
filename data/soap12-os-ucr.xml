@@ -1,4 +1,4 @@
-<reference anchor="W3C.soap12-os-ucr" target="https://www.w3.org/TR/soap12-os-ucr/">
+<reference anchor="W3C.soap12-os-ucr" target="http://www.w3.org/TR/soap12-os-ucr/">
   <front>
     <title>SOAP Optimized Serialization Use Cases and Requirements</title>
     <author>

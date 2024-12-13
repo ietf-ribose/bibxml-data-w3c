@@ -1,0 +1,56 @@
+<reference anchor="W3C.WD-SMIL3-20061220" target="http://www.w3.org/TR/2006/WD-SMIL3-20061220/">
+  <front>
+    <title>Synchronized Multimedia Integration Language (SMIL 3.0)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel F. Zucker">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Weck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Melendi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dick Bulterman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hiroshi Kawamura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jack Jansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Julien Quint">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Luiz Fernando Gomes Soares">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marisa DeMeglio">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pablo Cesar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Petri Vuorimaa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Samuel Cruz-Lara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sjoerd Mullender">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thierry Michel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Xabiel García Pañeda">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="20"/>
+    <workgroup>Synchronized Multimedia Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SMIL3-20061220"/>
+</reference>

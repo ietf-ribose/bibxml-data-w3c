@@ -1,9 +1,9 @@
-<reference anchor="W3C.ElementTraversal" target="https://www.w3.org/TR/ElementTraversal/">
+<reference anchor="W3C.ElementTraversal" target="http://www.w3.org/TR/ElementTraversal/">
   <front>
     <title>Element Traversal Specification</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="ElementTraversal"/>
+  <seriesInfo name="W3C WD" value="ElementTraversal"/>
 </reference>

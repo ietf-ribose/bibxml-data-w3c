@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-ddr-core-vocabulary-20071218" target="http://www.w3.org/TR/2007/WD-ddr-core-vocabulary-20071218">
+  <front>
+    <title>Device Description Repository Core Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrea Trasatti">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rotan Hanrahan">
+      <organization/>
+    </author>
+    <date year="2007" month="December" day="18"/>
+    <workgroup>Mobile Web Initiative Device Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ddr-core-vocabulary-20071218"/>
+</reference>

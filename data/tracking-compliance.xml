@@ -1,9 +1,9 @@
-<reference anchor="W3C.tracking-compliance" target="https://www.w3.org/TR/tracking-compliance/">
+<reference anchor="W3C.tracking-compliance" target="http://www.w3.org/TR/tracking-compliance/">
   <front>
     <title>Tracking Compliance and Scope</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="tracking-compliance"/>
+  <seriesInfo name="W3C WD" value="tracking-compliance"/>
 </reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rif-rdf-owl-20090703" target="http://www.w3.org/TR/2009/WD-rif-rdf-owl-20090703/">
+  <front>
+    <title>RIF RDF and OWL Compatibility</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jos De Bruijn">
+      <organization/>
+    </author>
+    <date year="2009" month="July" day="3"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rif-rdf-owl-20090703"/>
+</reference>

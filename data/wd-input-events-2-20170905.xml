@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-input-events-2-20170905" target="https://www.w3.org/TR/2017/WD-input-events-2-20170905/">
+  <front>
+    <title>Input Events Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Peters">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johannes Wilm">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="5"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-input-events-2-20170905"/>
+</reference>

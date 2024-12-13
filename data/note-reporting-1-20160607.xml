@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-reporting-1-20160607" target="http://www.w3.org/TR/2016/NOTE-reporting-1-20160607/">
+  <front>
+    <title>Reporting API 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2016" month="June" day="7"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-reporting-1-20160607"/>
+</reference>

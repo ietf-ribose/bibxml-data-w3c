@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-i18n-glossary-20220121" target="https://www.w3.org/TR/2022/DNOTE-i18n-glossary-20220121/">
+  <front>
+    <title>Internationalization Glossary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2022" month="January" day="21"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-i18n-glossary-20220121"/>
+</reference>

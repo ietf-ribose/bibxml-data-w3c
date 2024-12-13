@@ -1,4 +1,4 @@
-<reference anchor="W3C.SVGPrintPrimer12" target="https://www.w3.org/TR/SVGPrintPrimer12/">
+<reference anchor="W3C.SVGPrintPrimer12" target="http://www.w3.org/TR/SVGPrintPrimer12/">
   <front>
     <title>SVG Print 1.2, Part 1: Primer</title>
     <author>

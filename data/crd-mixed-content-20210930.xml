@@ -1,0 +1,20 @@
+<reference anchor="W3C.CRD-mixed-content-20210930" target="https://www.w3.org/TR/2021/CRD-mixed-content-20210930/">
+  <front>
+    <title>Mixed Content Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Carlos IbarraLopez">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Emily Stark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2021" month="September" day="30"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-mixed-content-20210930"/>
+</reference>

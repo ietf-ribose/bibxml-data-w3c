@@ -1,0 +1,26 @@
+<reference anchor="W3C.CRD-vc-data-model-2.0-20240513" target="https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240513/">
+  <front>
+    <title>Verifiable Credentials Data Model v2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gabe Cohen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ted Thibodeau Jr">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="13"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-vc-data-model-2.0-20240513"/>
+</reference>

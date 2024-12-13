@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-rdfarch" target="http://www.w3.org/TR/NOTE-rdfarch">
+  <front>
+    <title>W3C Data Formats</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdfarch"/>
+</reference>

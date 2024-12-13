@@ -1,9 +1,9 @@
-<reference anchor="W3C.voicexml21" target="https://www.w3.org/TR/voicexml21/">
+<reference anchor="W3C.voicexml21" target="http://www.w3.org/TR/voicexml21/">
   <front>
     <title>Voice Extensible Markup Language (VoiceXML) 2.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="voicexml21"/>
+  <seriesInfo name="W3C WD" value="voicexml21"/>
 </reference>

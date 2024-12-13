@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-swbp-vocab-pub-20060314" target="http://www.w3.org/TR/2006/WD-swbp-vocab-pub-20060314/">
+  <front>
+    <title>Best Practice Recipes for Publishing RDF Vocabularies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alistair Miles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ralph Swick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Baker">
+      <organization/>
+    </author>
+    <date year="2006" month="March" day="14"/>
+    <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-vocab-pub-20060314"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-ws-gloss-20030514" target="http://www.w3.org/TR/2003/WD-ws-gloss-20030514/">
+  <front>
+    <title>Web Services Glossary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Allen Brown">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hugo Haas">
+      <organization/>
+    </author>
+    <date year="2003" month="May" day="14"/>
+    <workgroup>Web Services Architecture Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-gloss-20030514"/>
+</reference>

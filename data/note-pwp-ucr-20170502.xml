@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-pwp-ucr-20170502" target="https://www.w3.org/TR/2017/NOTE-pwp-ucr-20170502/">
+  <front>
+    <title>Web Publications Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Heather Flanagan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Leonard Rosenthol">
+      <organization/>
+    </author>
+    <date year="2017" month="May" day="2"/>
+    <workgroup>Digital Publishing Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-pwp-ucr-20170502"/>
+</reference>

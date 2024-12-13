@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-vc-jwt-20230615" target="https://www.w3.org/TR/2023/WD-vc-jwt-20230615/">
+  <front>
+    <title>Securing Verifiable Credentials using JSON Web Tokens</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Prorock">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Orie Steele">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="15"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vc-jwt-20230615"/>
+</reference>

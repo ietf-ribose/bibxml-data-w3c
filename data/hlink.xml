@@ -1,9 +1,9 @@
-<reference anchor="W3C.hlink" target="https://www.w3.org/TR/hlink/">
+<reference anchor="W3C.hlink" target="http://www.w3.org/TR/hlink/">
   <front>
     <title>HLink</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="hlink"/>
+  <seriesInfo name="W3C WD" value="hlink"/>
 </reference>

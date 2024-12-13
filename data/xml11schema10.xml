@@ -1,4 +1,4 @@
-<reference anchor="W3C.xml11schema10" target="https://www.w3.org/TR/xml11schema10/">
+<reference anchor="W3C.xml11schema10" target="http://www.w3.org/TR/xml11schema10">
   <front>
     <title>Processing XML 1.1 documents with XML Schema 1.0 processors</title>
     <author>

@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-vehicle-data-20150616" target="http://www.w3.org/TR/2015/WD-vehicle-data-20150616/">
+  <front>
+    <title>Vehicle Data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Crofts">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Justin(JongSeon) Park">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevin Gavigan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kevron Rees">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Qing An">
+      <organization/>
+    </author>
+    <author role="editor" fullname="WonSuk Lee">
+      <organization/>
+    </author>
+    <date year="2015" month="June" day="16"/>
+    <workgroup>Automotive Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vehicle-data-20150616"/>
+</reference>

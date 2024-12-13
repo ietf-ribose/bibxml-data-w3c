@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-css-fonts-3-20131003" target="http://www.w3.org/TR/2013/CR-css-fonts-3-20131003/">
+  <front>
+    <title>CSS Fonts Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Daggett">
+      <organization/>
+    </author>
+    <date year="2013" month="October" day="3"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-fonts-3-20131003"/>
+</reference>

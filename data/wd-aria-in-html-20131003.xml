@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-aria-in-html-20131003" target="http://www.w3.org/TR/2013/WD-aria-in-html-20131003/">
+  <front>
+    <title>Using WAI-ARIA in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David MacDonald">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gez Lemon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hans Hillen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <date year="2013" month="October" day="3"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-aria-in-html-20131003"/>
+</reference>

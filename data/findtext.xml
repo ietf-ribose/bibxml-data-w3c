@@ -1,9 +1,9 @@
-<reference anchor="W3C.findtext" target="https://www.w3.org/TR/findtext/">
+<reference anchor="W3C.findtext" target="http://www.w3.org/TR/findtext/">
   <front>
     <title>FindText API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="findtext"/>
+  <seriesInfo name="W3C WD" value="findtext"/>
 </reference>

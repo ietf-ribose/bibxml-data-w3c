@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-media-source-20130415" target="http://www.w3.org/TR/2013/WD-media-source-20130415/">
+  <front>
+    <title>Media Source Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Colwell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Adrian Bateman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <date year="2013" month="April" day="15"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-media-source-20130415"/>
+</reference>

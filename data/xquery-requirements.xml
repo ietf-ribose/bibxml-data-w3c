@@ -1,9 +1,9 @@
-<reference anchor="W3C.xquery-requirements" target="https://www.w3.org/TR/xquery-requirements/">
+<reference anchor="W3C.xquery-requirements" target="http://www.w3.org/TR/xquery-requirements">
   <front>
     <title>XML Query (XQuery) Requirements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xquery-requirements"/>
+  <seriesInfo name="W3C WD" value="xquery-requirements"/>
 </reference>

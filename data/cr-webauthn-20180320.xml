@@ -1,0 +1,38 @@
+<reference anchor="W3C.CR-webauthn-20180320" target="https://www.w3.org/TR/2018/CR-webauthn-20180320/">
+  <front>
+    <title>Web Authentication: An API for accessing Public Key Credentials Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Akshay Kumar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Alexei Czeskis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Balfanz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Emil Lundberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Huakai Liao">
+      <organization/>
+    </author>
+    <author role="editor" fullname="J.C. Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Hodges">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rolf Lindemann">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="20"/>
+    <workgroup>Web Authentication Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-webauthn-20180320"/>
+</reference>

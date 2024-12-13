@@ -1,0 +1,13 @@
+<reference anchor="W3C.WD-tt-af-1-0-req-20030915" target="http://www.w3.org/TR/2003/WD-tt-af-1-0-req-20030915/">
+  <front>
+    <title>Timed Text (TT) Authoring Format 1.0 Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Glenn Adams">
+      <organization/>
+    </author>
+    <date year="2003" month="September" day="15"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-tt-af-1-0-req-20030915"/>
+</reference>

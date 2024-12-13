@@ -1,9 +1,9 @@
-<reference anchor="W3C.MediaAccessEvents" target="https://www.w3.org/TR/MediaAccessEvents/">
+<reference anchor="W3C.MediaAccessEvents" target="http://www.w3.org/TR/MediaAccessEvents/">
   <front>
     <title>Media Access Events</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="MediaAccessEvents"/>
+  <seriesInfo name="W3C WD" value="MediaAccessEvents"/>
 </reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.PER-MathML2-20030804" target="http://www.w3.org/TR/2003/PER-MathML2-20030804/">
+  <front>
+    <title>Mathematical Markup Language (MathML) Version 2.0 (2nd Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Carlisle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nico Poppelier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Ion">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Miner">
+      <organization/>
+    </author>
+    <date year="2003" month="August" day="4"/>
+    <workgroup>Math Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-MathML2-20030804"/>
+</reference>

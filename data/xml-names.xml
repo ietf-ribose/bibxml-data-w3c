@@ -1,9 +1,9 @@
-<reference anchor="W3C.xml-names" target="https://www.w3.org/TR/xml-names/">
+<reference anchor="W3C.xml-names" target="http://www.w3.org/TR/xml-names">
   <front>
     <title>Namespaces in XML 1.0 (Third Edition)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xml-names"/>
+  <seriesInfo name="W3C PER" value="xml-names"/>
 </reference>

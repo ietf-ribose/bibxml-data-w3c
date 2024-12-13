@@ -1,0 +1,9 @@
+<reference anchor="W3C.distributed-tracing" target="https://www.w3.org/TR/distributed-tracing/">
+  <front>
+    <title>Trace Context</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="distributed-tracing"/>
+</reference>

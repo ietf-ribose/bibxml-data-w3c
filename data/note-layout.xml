@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-layout" target="http://www.w3.org/TR/NOTE-layout">
+  <front>
+    <title>Frame-based layout via Style Sheets</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Wium Lie">
+      <organization/>
+    </author>
+    <date year="1996" month="June" day="8"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-layout"/>
+</reference>

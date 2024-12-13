@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-vocab-regorg-20130528" target="http://www.w3.org/TR/2013/NOTE-vocab-regorg-20130528/">
+  <front>
+    <title>Registered Organization Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Agis Papantoniou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marios Meimaris">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <date year="2013" month="May" day="28"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-vocab-regorg-20130528"/>
+</reference>

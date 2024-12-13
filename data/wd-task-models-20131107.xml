@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-task-models-20131107" target="http://www.w3.org/TR/2013/WD-task-models-20131107/">
+  <front>
+    <title>MBUI - Task Models</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Fabio Paternò">
+      <organization/>
+    </author>
+    <date year="2013" month="November" day="7"/>
+    <workgroup>Model-Based User Interfaces Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-task-models-20131107"/>
+</reference>

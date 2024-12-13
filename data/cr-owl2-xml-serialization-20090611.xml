@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-owl2-xml-serialization-20090611" target="http://www.w3.org/TR/2009/CR-owl2-xml-serialization-20090611/">
+  <front>
+    <title>OWL 2 Web Ontology Language XML Serialization</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bijan Parsia">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Boris Motik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Patel-Schneider">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="11"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-owl2-xml-serialization-20090611"/>
+</reference>

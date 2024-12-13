@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xmlquery-full-text-use-cases-20030214" target="http://www.w3.org/TR/2003/WD-xmlquery-full-text-use-cases-20030214/">
+  <front>
+    <title>XQuery and XPath Full-Text Use Cases </title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Pat Case">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sihem Amer-Yahia">
+      <organization/>
+    </author>
+    <date year="2003" month="February" day="14"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlquery-full-text-use-cases-20030214"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-swbp-xsch-datatypes-20050427" target="http://www.w3.org/TR/2005/WD-swbp-xsch-datatypes-20050427">
+  <front>
+    <title>XML Schema Datatypes in RDF and OWL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeff Z. Pan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy J. Carroll">
+      <organization/>
+    </author>
+    <date year="2005" month="April" day="27"/>
+    <workgroup>Semantic Web Best Practices and Deployment Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-swbp-xsch-datatypes-20050427"/>
+</reference>

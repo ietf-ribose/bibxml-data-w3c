@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-ruby-extensions-20131022" target="http://www.w3.org/TR/2013/WD-html-ruby-extensions-20131022/">
+  <front>
+    <title>W3C HTML Ruby Markup Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2013" month="October" day="22"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-ruby-extensions-20131022"/>
+</reference>

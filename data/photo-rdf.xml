@@ -1,0 +1,9 @@
+<reference anchor="W3C.photo-rdf" target="http://www.w3.org/TR/photo-rdf/">
+  <front>
+    <title>Describing and retrieving photos using RDF and HTTP</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="photo-rdf"/>
+</reference>

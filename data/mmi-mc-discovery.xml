@@ -1,9 +1,9 @@
-<reference anchor="W3C.mmi-mc-discovery" target="https://www.w3.org/TR/mmi-mc-discovery/">
+<reference anchor="W3C.mmi-mc-discovery" target="http://www.w3.org/TR/mmi-mc-discovery/">
   <front>
-    <title>Discovery &amp; Registration of Multimodal Modality Components</title>
+    <title>Discovery &amp; Registration of Multimodal Modality Components: State Handling</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="mmi-mc-discovery"/>
+  <seriesInfo name="W3C WD" value="mmi-mc-discovery"/>
 </reference>

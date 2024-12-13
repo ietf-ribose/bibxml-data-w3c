@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-adapt-content-20220609" target="https://www.w3.org/TR/2022/WD-adapt-content-20220609/">
+  <front>
+    <title>WAI-Adapt: Content Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles LaPierre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Foliot">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lisa Seeman-Horwitz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ruoxi Ran">
+      <organization/>
+    </author>
+    <date year="2022" month="June" day="9"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-adapt-content-20220609"/>
+</reference>

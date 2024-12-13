@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-image-capture-20150127" target="http://www.w3.org/TR/2015/WD-image-capture-20150127/">
+  <front>
+    <title>Mediastream Image Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Giridhar Mandyam">
+      <organization/>
+    </author>
+    <date year="2015" month="January" day="27"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-image-capture-20150127"/>
+</reference>

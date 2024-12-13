@@ -1,9 +1,9 @@
-<reference anchor="W3C.task-scheduler" target="https://www.w3.org/TR/task-scheduler/">
+<reference anchor="W3C.task-scheduler" target="http://www.w3.org/TR/task-scheduler/">
   <front>
     <title>Task Scheduler API Specification</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="task-scheduler"/>
+  <seriesInfo name="W3C WD" value="task-scheduler"/>
 </reference>

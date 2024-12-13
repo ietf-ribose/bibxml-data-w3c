@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-workers-20120313" target="http://www.w3.org/TR/2012/WD-workers-20120313/">
+  <front>
+    <title>Web Workers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2012" month="March" day="13"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-workers-20120313"/>
+</reference>

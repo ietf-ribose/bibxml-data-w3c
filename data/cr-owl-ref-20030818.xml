@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-owl-ref-20030818" target="http://www.w3.org/TR/2003/CR-owl-ref-20030818/">
+  <front>
+    <title>OWL Web Ontology Language Reference</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Guus Schreiber">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Dean">
+      <organization/>
+    </author>
+    <date year="2003" month="August" day="18"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-owl-ref-20030818"/>
+</reference>

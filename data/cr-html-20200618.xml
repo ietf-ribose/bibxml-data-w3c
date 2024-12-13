@@ -1,0 +1,11 @@
+<reference anchor="W3C.CR-html-20200618" target="https://www.w3.org/TR/2020/CR-html-20200618/">
+  <front>
+    <title>HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2020" month="June" day="18"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-html-20200618"/>
+</reference>

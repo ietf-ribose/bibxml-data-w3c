@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-activitystreams-core-20141023" target="http://www.w3.org/TR/2014/WD-activitystreams-core-20141023/">
+  <front>
+    <title>Activity Streams 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Snell">
+      <organization/>
+    </author>
+    <date year="2014" month="October" day="23"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-activitystreams-core-20141023"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-performance-timeline-2-20191024" target="https://www.w3.org/TR/2019/WD-performance-timeline-2-20191024/">
+  <front>
+    <title>Performance Timeline Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <date year="2019" month="October" day="24"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-performance-timeline-2-20191024"/>
+</reference>

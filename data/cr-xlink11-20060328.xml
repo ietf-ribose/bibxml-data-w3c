@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-xlink11-20060328" target="http://www.w3.org/TR/2006/CR-xlink11-20060328/">
+  <front>
+    <title>XML Linking Language (XLink) Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Orchard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve DeRose">
+      <organization/>
+    </author>
+    <date year="2006" month="March" day="28"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xlink11-20060328"/>
+</reference>

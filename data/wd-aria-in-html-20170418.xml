@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-aria-in-html-20170418" target="https://www.w3.org/TR/2017/WD-aria-in-html-20170418/">
+  <front>
+    <title>Using ARIA</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David MacDonald">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hans Hillen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <date year="2017" month="April" day="18"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-aria-in-html-20170418"/>
+</reference>

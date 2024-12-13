@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-unicode-xml-20160503" target="http://www.w3.org/TR/2016/NOTE-unicode-xml-20160503/">
+  <front>
+    <title>Unicode in XML and other Markup Languages</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Martin Dürst">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="3"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-unicode-xml-20160503"/>
+</reference>

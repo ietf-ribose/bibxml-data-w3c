@@ -1,9 +1,9 @@
-<reference anchor="W3C.rif-rdf-owl" target="https://www.w3.org/TR/rif-rdf-owl/">
+<reference anchor="W3C.rif-rdf-owl" target="http://www.w3.org/TR/rif-rdf-owl">
   <front>
-    <title>RIF RDF and OWL Compatibility (Second Edition)</title>
+    <title>RIF RDF and OWL Compatibility</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rif-rdf-owl"/>
+  <seriesInfo name="W3C WD" value="rif-rdf-owl"/>
 </reference>

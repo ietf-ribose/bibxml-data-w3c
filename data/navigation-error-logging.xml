@@ -1,0 +1,9 @@
+<reference anchor="W3C.navigation-error-logging" target="http://www.w3.org/TR/navigation-error-logging/">
+  <front>
+    <title>Navigation Error Logging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="navigation-error-logging"/>
+</reference>

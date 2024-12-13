@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-progress-events-20131212" target="http://www.w3.org/TR/2013/PR-progress-events-20131212/">
+  <front>
+    <title>Progress Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles McCathie Nevile">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jungkee Song">
+      <organization/>
+    </author>
+    <date year="2013" month="December" day="12"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-progress-events-20131212"/>
+</reference>

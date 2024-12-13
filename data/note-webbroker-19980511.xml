@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-webbroker-19980511" target="http://www.w3.org/TR/1998/NOTE-webbroker-19980511">
+  <front>
+    <title>WebBroker: Distributed Object Communication on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Tigue">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Lavinder">
+      <organization/>
+    </author>
+    <date year="1998" month="May" day="11"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-webbroker-19980511"/>
+</reference>

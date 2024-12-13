@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-intersection-observer-20170914" target="https://www.w3.org/TR/2017/WD-intersection-observer-20170914/">
+  <front>
+    <title>Intersection Observer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Stefan Zager">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-intersection-observer-20170914"/>
+</reference>

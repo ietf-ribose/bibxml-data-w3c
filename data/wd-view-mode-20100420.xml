@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-view-mode-20100420" target="http://www.w3.org/TR/2010/WD-view-mode-20100420/">
+  <front>
+    <title>View Mode Media Feature</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arve Bersvendsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcin Hanclik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2010" month="April" day="20"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-view-mode-20100420"/>
+</reference>

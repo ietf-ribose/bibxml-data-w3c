@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-ws-addr-soap-20060321" target="http://www.w3.org/TR/2006/PR-ws-addr-soap-20060321">
+  <front>
+    <title>Web Services Addressing 1.0 - SOAP Binding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tony Rogers">
+      <organization/>
+    </author>
+    <date year="2006" month="March" day="21"/>
+    <workgroup>Web Services Addressing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-ws-addr-soap-20060321"/>
+</reference>

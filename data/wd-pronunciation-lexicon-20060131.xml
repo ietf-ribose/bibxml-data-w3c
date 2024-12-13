@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-pronunciation-lexicon-20060131" target="http://www.w3.org/TR/2006/WD-pronunciation-lexicon-20060131/">
+  <front>
+    <title>Pronunciation Lexicon Specification (PLS) Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Paolo Baggia">
+      <organization/>
+    </author>
+    <date year="2006" month="January" day="31"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pronunciation-lexicon-20060131"/>
+</reference>

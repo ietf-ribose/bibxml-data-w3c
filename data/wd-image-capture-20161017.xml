@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-image-capture-20161017" target="https://www.w3.org/TR/2016/WD-image-capture-20161017/">
+  <front>
+    <title>MediaStream Image Capture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="October" day="17"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-image-capture-20161017"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-MediaAccessEvents-20061013" target="http://www.w3.org/TR/2006/WD-MediaAccessEvents-20061013/">
+  <front>
+    <title>Media Access Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jean-Claude Dufourd">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ola Andersson">
+      <organization/>
+    </author>
+    <date year="2006" month="October" day="13"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-MediaAccessEvents-20061013"/>
+</reference>

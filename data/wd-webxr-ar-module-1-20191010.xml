@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-webxr-ar-module-1-20191010" target="https://www.w3.org/TR/2019/WD-webxr-ar-module-1-20191010/">
+  <front>
+    <title>WebXR Augmented Reality Module - Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brandon Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manish Goregaokar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nell Waliczek">
+      <organization/>
+    </author>
+    <date year="2019" month="October" day="10"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxr-ar-module-1-20191010"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.xmlschema-patterns" target="https://www.w3.org/TR/xmlschema-patterns/">
+<reference anchor="W3C.xmlschema-patterns" target="http://www.w3.org/TR/xmlschema-patterns">
   <front>
     <title>Basic XML Schema Patterns for Databinding Version 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="xmlschema-patterns"/>
+  <seriesInfo name="W3C WD" value="xmlschema-patterns"/>
 </reference>

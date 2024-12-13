@@ -1,4 +1,4 @@
-<reference anchor="W3C.xlink2rdf" target="https://www.w3.org/TR/xlink2rdf/">
+<reference anchor="W3C.xlink2rdf" target="http://www.w3.org/TR/xlink2rdf/">
   <front>
     <title>Harvesting RDF Statements from XLinks</title>
     <author>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.its2req" target="https://www.w3.org/TR/its2req/">
+<reference anchor="W3C.its2req" target="http://www.w3.org/TR/its2req/">
   <front>
     <title>Requirements for Internationalization Tag Set (ITS) 2.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="its2req"/>
+  <seriesInfo name="W3C WD" value="its2req"/>
 </reference>

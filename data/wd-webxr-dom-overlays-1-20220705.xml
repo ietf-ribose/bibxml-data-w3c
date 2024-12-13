@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webxr-dom-overlays-1-20220705" target="https://www.w3.org/TR/2022/WD-webxr-dom-overlays-1-20220705/">
+  <front>
+    <title>WebXR DOM Overlays Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Klaus Weidner">
+      <organization/>
+    </author>
+    <date year="2022" month="July" day="5"/>
+    <workgroup>Immersive Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webxr-dom-overlays-1-20220705"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.xlink11" target="https://www.w3.org/TR/xlink11/">
+<reference anchor="W3C.xlink11" target="http://www.w3.org/TR/xlink11/">
   <front>
     <title>XML Linking Language (XLink) Version 1.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xlink11"/>
+  <seriesInfo name="W3C WD" value="xlink11"/>
 </reference>

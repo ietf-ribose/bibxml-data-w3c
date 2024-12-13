@@ -1,0 +1,31 @@
+<reference anchor="W3C.WD-font-970721" target="http://www.w3.org/TR/WD-font-970721">
+  <front>
+    <title>Web Fonts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brad Chase">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chuck Rowe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Meltzer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Håkon Lie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Stevahn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Zilles">
+      <organization/>
+    </author>
+    <date year="1997" month="July" day="21"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-font-970721"/>
+</reference>

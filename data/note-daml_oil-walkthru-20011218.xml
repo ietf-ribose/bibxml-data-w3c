@@ -1,0 +1,28 @@
+<reference anchor="W3C.NOTE-daml+oil-walkthru-20011218" target="http://www.w3.org/TR/2001/NOTE-daml+oil-walkthru-20011218/">
+  <front>
+    <title>Annotated DAML+OIL Ontology Markup</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Connolly">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Deborah L. McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frank van Harmelen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lynn Andrea Stein">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter F. Patel-Schneider">
+      <organization/>
+    </author>
+    <date year="2001" month="December" day="18"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-daml+oil-walkthru-20011218"/>
+</reference>

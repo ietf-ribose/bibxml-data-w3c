@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-exi-20091208" target="http://www.w3.org/TR/2009/CR-exi-20091208/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Format 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
+    <date year="2009" month="December" day="8"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-exi-20091208"/>
+</reference>

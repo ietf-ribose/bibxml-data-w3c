@@ -1,0 +1,18 @@
+<reference anchor="W3C.WD-matrix-20130919" target="http://www.w3.org/TR/2013/WD-matrix-20130919/">
+  <front>
+    <title>DOMMatrix interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rik Cabanier">
+      <organization/>
+    </author>
+    <date year="2013" month="September" day="19"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-matrix-20130919"/>
+</reference>

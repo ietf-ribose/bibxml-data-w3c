@@ -1,9 +1,9 @@
-<reference anchor="W3C.dd-landscape" target="https://www.w3.org/TR/dd-landscape/">
+<reference anchor="W3C.dd-landscape" target="http://www.w3.org/TR/dd-landscape">
   <front>
-    <title>Device Description Landscape 1.0</title>
+    <title>Device Description Landscape</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="dd-landscape"/>
+  <seriesInfo name="W3C WD" value="dd-landscape"/>
 </reference>

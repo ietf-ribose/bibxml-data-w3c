@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-polyglot-20120329" target="http://www.w3.org/TR/2012/WD-html-polyglot-20120329/">
+  <front>
+    <title>Polyglot Markup: HTML-Compatible XHTML Documents</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eliot Graff">
+      <organization/>
+    </author>
+    <date year="2012" month="March" day="29"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-polyglot-20120329"/>
+</reference>

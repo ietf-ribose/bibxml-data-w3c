@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-UISecurity-20140318" target="http://www.w3.org/TR/2014/WD-UISecurity-20140318/">
+  <front>
+    <title>User Interface Security Directives for Content Security Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brad Hill">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Huang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Giorgio Maone">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tobias Gondrom">
+      <organization/>
+    </author>
+    <date year="2014" month="March" day="18"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-UISecurity-20140318"/>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-ldpatch-20150303" target="http://www.w3.org/TR/2015/CR-ldpatch-20150303/">
+  <front>
+    <title>Linked Data Patch Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexandre Bertails">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrei Sambra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pierre-Antoine Champin">
+      <organization/>
+    </author>
+    <date year="2015" month="March" day="3"/>
+    <workgroup>Linked Data Platform Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-ldpatch-20150303"/>
+</reference>

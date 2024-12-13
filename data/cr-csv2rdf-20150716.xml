@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-csv2rdf-20150716" target="http://www.w3.org/TR/2015/CR-csv2rdf-20150716/">
+  <front>
+    <title>Generating RDF from Tabular Data on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy Tandy">
+      <organization/>
+    </author>
+    <date year="2015" month="July" day="16"/>
+    <workgroup>CSV on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-csv2rdf-20150716"/>
+</reference>

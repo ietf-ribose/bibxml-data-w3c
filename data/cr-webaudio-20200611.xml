@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-webaudio-20200611" target="https://www.w3.org/TR/2020/CR-webaudio-20200611/">
+  <front>
+    <title>Web Audio API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hongchan Choi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Adenot">
+      <organization/>
+    </author>
+    <date year="2020" month="June" day="11"/>
+    <workgroup>Audio Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-webaudio-20200611"/>
+</reference>

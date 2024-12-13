@@ -1,4 +1,4 @@
-<reference anchor="W3C.DOM-Level-3-AS" target="https://www.w3.org/TR/DOM-Level-3-AS/">
+<reference anchor="W3C.DOM-Level-3-AS" target="http://www.w3.org/TR/DOM-Level-3-AS">
   <front>
     <title>Document Object Model (DOM) Level 3 Abstract Schemas Specification</title>
     <author>

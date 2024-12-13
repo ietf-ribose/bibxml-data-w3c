@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wsdl12-20030611" target="http://www.w3.org/TR/2003/WD-wsdl12-20030611">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 1.2 Part 1: Core Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jean-Jacques Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roberto Chinnici">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sanjiva Weerawarana">
+      <organization/>
+    </author>
+    <date year="2003" month="June" day="11"/>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wsdl12-20030611"/>
+</reference>

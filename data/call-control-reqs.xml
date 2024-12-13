@@ -1,4 +1,4 @@
-<reference anchor="W3C.call-control-reqs" target="https://www.w3.org/TR/call-control-reqs/">
+<reference anchor="W3C.call-control-reqs" target="http://www.w3.org/TR/call-control-reqs/">
   <front>
     <title>Call Control Requirements in a Voice Browser Framework</title>
     <author>

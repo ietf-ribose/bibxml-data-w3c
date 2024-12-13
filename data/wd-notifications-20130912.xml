@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-notifications-20130912" target="http://www.w3.org/TR/2013/WD-notifications-20130912/">
+  <front>
+    <title>Web Notifications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Gregg">
+      <organization/>
+    </author>
+    <date year="2013" month="September" day="12"/>
+    <workgroup>Web Notification Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-notifications-20130912"/>
+</reference>

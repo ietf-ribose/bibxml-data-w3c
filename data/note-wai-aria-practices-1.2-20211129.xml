@@ -1,0 +1,26 @@
+<reference anchor="W3C.NOTE-wai-aria-practices-1.2-20211129" target="https://www.w3.org/TR/2021/NOTE-wai-aria-practices-1.2-20211129/">
+  <front>
+    <title>WAI-ARIA Authoring Practices 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="JaEun Jemma Ku">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Nurthen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew King">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zoë Bijl">
+      <organization/>
+    </author>
+    <date year="2021" month="November" day="29"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wai-aria-practices-1.2-20211129"/>
+</reference>

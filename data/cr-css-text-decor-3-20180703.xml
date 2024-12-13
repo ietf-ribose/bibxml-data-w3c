@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-css-text-decor-3-20180703" target="https://www.w3.org/TR/2018/CR-css-text-decor-3-20180703/">
+  <front>
+    <title>CSS Text Decoration Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Koji Ishii">
+      <organization/>
+    </author>
+    <date year="2018" month="July" day="3"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-text-decor-3-20180703"/>
+</reference>

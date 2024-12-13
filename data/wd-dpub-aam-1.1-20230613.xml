@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-dpub-aam-1.1-20230613" target="https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20230613/">
+  <front>
+    <title>Digital Publishing Accessibility API Mappings 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Matt Garrish">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tzviya Siegman">
+      <organization/>
+    </author>
+    <date year="2023" month="June" day="13"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dpub-aam-1.1-20230613"/>
+</reference>

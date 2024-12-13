@@ -1,0 +1,29 @@
+<reference anchor="W3C.DNOTE-remote-meetings-20220517" target="https://www.w3.org/TR/2022/DNOTE-remote-meetings-20220517/">
+  <front>
+    <title>Accessibility of Remote Meetings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Judy Brewer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Hollier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Noble">
+      <organization/>
+    </author>
+    <date year="2022" month="May" day="17"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-remote-meetings-20220517"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.WICDMobile" target="https://www.w3.org/TR/WICDMobile/">
+<reference anchor="W3C.WICDMobile" target="http://www.w3.org/TR/WICDMobile/">
   <front>
     <title>WICD Mobile 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="WICDMobile"/>
+  <seriesInfo name="W3C WD" value="WICDMobile"/>
 </reference>

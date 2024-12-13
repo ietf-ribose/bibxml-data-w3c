@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-encoding-20140128" target="http://www.w3.org/TR/2014/WD-encoding-20140128/">
+  <front>
+    <title>Encoding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshua Bell">
+      <organization/>
+    </author>
+    <date year="2014" month="January" day="28"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-encoding-20140128"/>
+</reference>

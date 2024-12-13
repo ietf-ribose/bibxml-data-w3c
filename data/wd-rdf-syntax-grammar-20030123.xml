@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rdf-syntax-grammar-20030123" target="http://www.w3.org/TR/2003/WD-rdf-syntax-grammar-20030123">
+  <front>
+    <title>RDF/XML Syntax Specification (Revised)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Beckett">
+      <organization/>
+    </author>
+    <date year="2003" month="January" day="23"/>
+    <workgroup>RDFCore Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-syntax-grammar-20030123"/>
+</reference>

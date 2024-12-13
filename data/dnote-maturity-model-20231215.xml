@@ -1,0 +1,20 @@
+<reference anchor="W3C.DNOTE-maturity-model-20231215" target="https://www.w3.org/TR/2023/DNOTE-maturity-model-20231215/">
+  <front>
+    <title>Accessibility Maturity Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles LaPierre">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Fazio">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <date year="2023" month="December" day="15"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-maturity-model-20231215"/>
+</reference>

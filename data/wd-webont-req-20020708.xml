@@ -1,0 +1,19 @@
+<reference anchor="W3C.WD-webont-req-20020708" target="http://www.w3.org/TR/2002/WD-webont-req-20020708/">
+  <front>
+    <title>Requirements for a Web Ontology Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeff Heflin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Dale">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raphael Volz">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="8"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webont-req-20020708"/>
+</reference>

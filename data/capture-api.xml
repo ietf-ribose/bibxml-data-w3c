@@ -1,0 +1,9 @@
+<reference anchor="W3C.capture-api" target="http://www.w3.org/TR/capture-api/">
+  <front>
+    <title>The Capture API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="capture-api"/>
+</reference>

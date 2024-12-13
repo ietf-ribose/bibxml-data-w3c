@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-manifest-app-info-20200804" target="https://www.w3.org/TR/2020/NOTE-manifest-app-info-20200804/">
+  <front>
+    <title>Web App Manifest - Application Information</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Gustafson">
+      <organization/>
+    </author>
+    <date year="2020" month="August" day="4"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-manifest-app-info-20200804"/>
+</reference>

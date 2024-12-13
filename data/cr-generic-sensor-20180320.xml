@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-generic-sensor-20180320" target="https://www.w3.org/TR/2018/CR-generic-sensor-20180320/">
+  <front>
+    <title>Generic Sensor API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexander Shalamov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mikhail Pozdnyakov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rick Waldron">
+      <organization/>
+    </author>
+    <date year="2018" month="March" day="20"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-generic-sensor-20180320"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.css3-fonts" target="https://www.w3.org/TR/css3-fonts/">
+<reference anchor="W3C.css3-fonts" target="http://www.w3.org/TR/css3-fonts/">
   <front>
-    <title>CSS3 module: Web Fonts</title>
+    <title>CSS Fonts Module Level 3</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="css3-fonts"/>
+  <seriesInfo name="W3C WD" value="css3-fonts"/>
 </reference>

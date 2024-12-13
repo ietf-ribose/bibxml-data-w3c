@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webmidi-20131126" target="http://www.w3.org/TR/2013/WD-webmidi-20131126/">
+  <front>
+    <title>Web MIDI API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Wilson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jussi Kalliokoski">
+      <organization/>
+    </author>
+    <date year="2013" month="November" day="26"/>
+    <workgroup>Audio Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webmidi-20131126"/>
+</reference>

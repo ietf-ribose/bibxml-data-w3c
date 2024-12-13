@@ -1,0 +1,38 @@
+<reference anchor="W3C.WD-core-aam-1.2-20191218" target="https://www.w3.org/TR/2019/WD-core-aam-1.2-20191218/">
+  <front>
+    <title>Core Accessibility API Mappings 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Leventhal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Alexander Surkov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andi Snow-Weaver">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Craig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Scheuhammer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Melanie Richards">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2019" month="December" day="18"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-core-aam-1.2-20191218"/>
+</reference>

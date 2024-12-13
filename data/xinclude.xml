@@ -1,9 +1,9 @@
-<reference anchor="W3C.xinclude" target="https://www.w3.org/TR/xinclude/">
+<reference anchor="W3C.xinclude" target="http://www.w3.org/TR/xinclude/">
   <front>
     <title>XML Inclusions (XInclude) Version 1.0 (Second Edition)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xinclude"/>
+  <seriesInfo name="W3C CR" value="xinclude"/>
 </reference>

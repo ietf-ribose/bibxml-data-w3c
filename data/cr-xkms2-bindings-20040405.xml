@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-xkms2-bindings-20040405" target="http://www.w3.org/TR/2004/CR-xkms2-bindings-20040405/">
+  <front>
+    <title>XML Key Management Specification (XKMS 2.0) Bindings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Phillip Hallam-Baker">
+      <organization/>
+    </author>
+    <date year="2004" month="April" day="5"/>
+    <workgroup>XML Key Management Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xkms2-bindings-20040405"/>
+</reference>

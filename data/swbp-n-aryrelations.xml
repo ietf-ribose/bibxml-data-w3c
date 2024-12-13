@@ -1,9 +1,9 @@
-<reference anchor="W3C.swbp-n-aryRelations" target="https://www.w3.org/TR/swbp-n-aryRelations/">
+<reference anchor="W3C.swbp-n-aryRelations" target="http://www.w3.org/TR/swbp-n-aryRelations">
   <front>
-    <title>Defining N-ary Relations on the Semantic Web</title>
+    <title>Defining N-ary Relations on the Semantic Web: Use With Individuals</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="swbp-n-aryRelations"/>
+  <seriesInfo name="W3C WD" value="swbp-n-aryRelations"/>
 </reference>

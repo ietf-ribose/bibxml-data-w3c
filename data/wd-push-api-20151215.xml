@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-push-api-20151215" target="http://www.w3.org/TR/2015/WD-push-api-20151215/">
+  <front>
+    <title>Push API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bryan Sullivan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eduardo Fullea">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Thomson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael van Ouwerkerk">
+      <organization/>
+    </author>
+    <date year="2015" month="December" day="15"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-push-api-20151215"/>
+</reference>

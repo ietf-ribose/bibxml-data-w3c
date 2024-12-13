@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-wasm-web-api-2-20220419" target="https://www.w3.org/TR/2022/WD-wasm-web-api-2-20220419/">
+  <front>
+    <title>WebAssembly Web API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname=". Ms2ger">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="19"/>
+    <workgroup>WebAssembly Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wasm-web-api-2-20220419"/>
+</reference>

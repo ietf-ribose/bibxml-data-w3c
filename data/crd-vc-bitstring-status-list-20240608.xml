@@ -1,0 +1,23 @@
+<reference anchor="W3C.CRD-vc-bitstring-status-list-20240608" target="https://www.w3.org/TR/2024/CRD-vc-bitstring-status-list-20240608/">
+  <front>
+    <title>Bitstring Status List v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Longley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mahmoud Alkhraishi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Prorock">
+      <organization/>
+    </author>
+    <date year="2024" month="June" day="8"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-vc-bitstring-status-list-20240608"/>
+</reference>

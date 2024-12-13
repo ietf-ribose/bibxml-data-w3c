@@ -1,0 +1,41 @@
+<reference anchor="W3C.PR-mediaont-10-20111129" target="http://www.w3.org/TR/2011/PR-mediaont-10-20111129/">
+  <front>
+    <title>Ontology for Media Resources 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florian Stegmaier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joakim Söderberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Strassner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pierre-Antoine Champin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thierry Michel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tobias Bürger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Véronique Malaisé">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Werner Bailer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="WonSuk Lee">
+      <organization/>
+    </author>
+    <date year="2011" month="November" day="29"/>
+    <workgroup>Media Annotations Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-mediaont-10-20111129"/>
+</reference>

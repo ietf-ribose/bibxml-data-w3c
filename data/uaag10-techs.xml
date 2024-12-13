@@ -1,9 +1,10 @@
-<reference anchor="W3C.UAAG10-TECHS" target="https://www.w3.org/TR/UAAG10-TECHS/">
+<reference anchor="W3C.UAAG10-TECHS" target="http://www.w3.org/TR/UAAG10-TECHS/">
   <front>
-    <title>Techniques for User Agent Accessibility Guidelines 1.0</title>
+    <title>Techniques for User Agent Accessibility Guidelines
+1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="UAAG10-TECHS"/>
+  <seriesInfo name="W3C WD" value="UAAG10-TECHS"/>
 </reference>

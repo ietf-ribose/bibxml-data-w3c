@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-audiobooks-20190620" target="https://www.w3.org/TR/2019/WD-audiobooks-20190620/">
+  <front>
+    <title>Audiobook Profile for Web Publications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Wendy Reid">
+      <organization/>
+    </author>
+    <date year="2019" month="June" day="20"/>
+    <workgroup>Audiobooks Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-audiobooks-20190620"/>
+</reference>

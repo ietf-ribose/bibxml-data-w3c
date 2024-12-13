@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-miniapp-addressing-20240131" target="https://www.w3.org/TR/2024/WD-miniapp-addressing-20240131/">
+  <front>
+    <title>MiniApp Addressing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Zhou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Qian Liu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tengyuan Zhang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="shuo wang">
+      <organization/>
+    </author>
+    <date year="2024" month="January" day="31"/>
+    <workgroup>MiniApps Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-miniapp-addressing-20240131"/>
+</reference>

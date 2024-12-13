@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-ws-soap-assertions-20100608" target="http://www.w3.org/TR/2010/WD-ws-soap-assertions-20100608">
+  <front>
+    <title>Web Services SOAP Assertions (WS-SOAPAssertions)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Davis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Katy Warr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wu Chou">
+      <organization/>
+    </author>
+    <date year="2010" month="June" day="8"/>
+    <workgroup>Web Services Resource Access Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-soap-assertions-20100608"/>
+</reference>

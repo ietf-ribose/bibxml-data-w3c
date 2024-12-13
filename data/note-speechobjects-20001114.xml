@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-speechobjects-20001114" target="http://www.w3.org/TR/2000/NOTE-speechobjects-20001114">
+  <front>
+    <title>SpeechObjects Specification V1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <date year="2000" month="November" day="14"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-speechobjects-20001114"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.PR-SRI-20160510" target="http://www.w3.org/TR/2016/PR-SRI-20160510/">
+  <front>
+    <title>Subresource Integrity</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Devdatta Akhawe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Francois Marier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederik Braun">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joel Weinberger">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="10"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-SRI-20160510"/>
+</reference>

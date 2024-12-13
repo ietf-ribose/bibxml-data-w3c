@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-beacon-20160629" target="http://www.w3.org/TR/2016/WD-beacon-20160629/">
+  <front>
+    <title>Beacon</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="June" day="29"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-beacon-20160629"/>
+</reference>

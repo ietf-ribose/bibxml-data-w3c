@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-rif-ucr-20060323" target="http://www.w3.org/TR/2006/WD-rif-ucr-20060323/">
+  <front>
+    <title>RIF Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Allen Ginsberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Hirtle">
+      <organization/>
+    </author>
+    <date year="2006" month="March" day="23"/>
+    <workgroup>RIF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rif-ucr-20060323"/>
+</reference>

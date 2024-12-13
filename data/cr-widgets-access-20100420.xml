@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-widgets-access-20100420" target="http://www.w3.org/TR/2010/CR-widgets-access-20100420/">
+  <front>
+    <title>Widget Access Request Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2010" month="April" day="20"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-widgets-access-20100420"/>
+</reference>

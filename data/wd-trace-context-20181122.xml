@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-trace-context-20181122" target="https://www.w3.org/TR/2018/WD-trace-context-20181122/">
+  <front>
+    <title>Trace Context</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alois Reitbauer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Morgan McLean">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sergey Kanzhelev">
+      <organization/>
+    </author>
+    <date year="2018" month="November" day="22"/>
+    <workgroup>Distributed Tracing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-trace-context-20181122"/>
+</reference>

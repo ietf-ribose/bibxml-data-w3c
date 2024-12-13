@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-rdf-sparql-XMLres-20121108" target="http://www.w3.org/TR/2012/PER-rdf-sparql-XMLres-20121108/">
+  <front>
+    <title>SPARQL Query Results XML Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Beckett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeen Broekstra">
+      <organization/>
+    </author>
+    <date year="2012" month="November" day="8"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-rdf-sparql-XMLres-20121108"/>
+</reference>

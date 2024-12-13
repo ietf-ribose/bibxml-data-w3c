@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-media-source-2-20231010" target="https://www.w3.org/TR/2023/WD-media-source-2-20231010/">
+  <front>
+    <title>Media Source Extensions™</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jean-Yves Avenard">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew Wolenetz">
+      <organization/>
+    </author>
+    <date year="2023" month="October" day="10"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-media-source-2-20231010"/>
+</reference>

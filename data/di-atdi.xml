@@ -1,9 +1,9 @@
-<reference anchor="W3C.di-atdi" target="https://www.w3.org/TR/di-atdi/">
+<reference anchor="W3C.di-atdi" target="http://www.w3.org/TR/di-atdi/">
   <front>
     <title>Authoring Techniques for Device Independence</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="di-atdi"/>
+  <seriesInfo name="W3C WD" value="di-atdi"/>
 </reference>

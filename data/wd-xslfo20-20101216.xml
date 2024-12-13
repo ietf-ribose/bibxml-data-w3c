@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xslfo20-20101216" target="http://www.w3.org/TR/2010/WD-xslfo20-20101216/">
+  <front>
+    <title>Design Notes for Extensible Stylesheet Language (XSL) 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Liam R E Quin">
+      <organization/>
+    </author>
+    <date year="2010" month="December" day="16"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xslfo20-20101216"/>
+</reference>

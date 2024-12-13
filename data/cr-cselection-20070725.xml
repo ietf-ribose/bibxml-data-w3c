@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-cselection-20070725" target="http://www.w3.org/TR/2007/CR-cselection-20070725/">
+  <front>
+    <title>Content Selection for Device Independence (DISelect) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <date year="2007" month="July" day="25"/>
+    <workgroup>Ubiquitous Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-cselection-20070725"/>
+</reference>

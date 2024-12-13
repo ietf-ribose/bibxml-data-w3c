@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-css-mobile-20020725" target="http://www.w3.org/TR/2002/CR-css-mobile-20020725">
+  <front>
+    <title>CSS Mobile Profile 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Doug Dominiak">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Stark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tapas Roy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ted Wugofski">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="25"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-mobile-20020725"/>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-wot-architecture-20191106" target="https://www.w3.org/TR/2019/CR-wot-architecture-20191106/">
+  <front>
+    <title>Web of Things (WoT) Architecture</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kunihiko Toumura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthias Kovatsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Lagally">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ryuichi Matsukura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Toru Kawaguchi">
+      <organization/>
+    </author>
+    <date year="2019" month="November" day="6"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-wot-architecture-20191106"/>
+</reference>

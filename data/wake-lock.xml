@@ -1,0 +1,9 @@
+<reference anchor="W3C.wake-lock" target="http://www.w3.org/TR/wake-lock/">
+  <front>
+    <title>Wake Lock API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="wake-lock"/>
+</reference>

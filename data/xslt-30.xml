@@ -1,9 +1,9 @@
-<reference anchor="W3C.xslt-30" target="https://www.w3.org/TR/xslt-30/">
+<reference anchor="W3C.xslt-30" target="http://www.w3.org/TR/xslt-30/">
   <front>
     <title>XSL Transformations (XSLT) Version 3.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xslt-30"/>
+  <seriesInfo name="W3C WD" value="xslt-30"/>
 </reference>

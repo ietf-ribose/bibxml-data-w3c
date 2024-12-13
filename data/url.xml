@@ -1,0 +1,9 @@
+<reference anchor="W3C.url" target="http://www.w3.org/TR/url/">
+  <front>
+    <title>URL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="url"/>
+</reference>

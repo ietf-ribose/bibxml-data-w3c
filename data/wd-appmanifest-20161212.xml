@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-appmanifest-20161212" target="https://www.w3.org/TR/2016/WD-appmanifest-20161212/">
+  <front>
+    <title>Web App Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="December" day="12"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20161212"/>
+</reference>

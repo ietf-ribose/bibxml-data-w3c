@@ -1,4 +1,4 @@
-<reference anchor="W3C.xsl11-req" target="https://www.w3.org/TR/xsl11-req/">
+<reference anchor="W3C.xsl11-req" target="http://www.w3.org/TR/xsl11-req">
   <front>
     <title>Extensible Stylesheet Language (XSL) Version 1.1 Requirements</title>
     <author>

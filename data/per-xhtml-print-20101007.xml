@@ -1,0 +1,14 @@
+<reference anchor="W3C.PER-xhtml-print-20101007" target="http://www.w3.org/TR/2010/PER-xhtml-print-20101007/">
+  <front>
+    <title>XHTML-Print - Second Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2010" month="October" day="7"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xhtml-print-20101007"/>
+</reference>

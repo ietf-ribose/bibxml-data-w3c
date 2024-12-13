@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-publishing-linking-20120918" target="http://www.w3.org/TR/2012/WD-publishing-linking-20120918/">
+  <front>
+    <title>Publishing and Linking on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Appelquist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeni Tennison">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Larry Masinter">
+      <organization/>
+    </author>
+    <date year="2012" month="September" day="18"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-publishing-linking-20120918"/>
+</reference>

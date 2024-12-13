@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-screen-orientation-20181214" target="https://www.w3.org/TR/2018/WD-screen-orientation-20181214/">
+  <front>
+    <title>The Screen Orientation API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <date year="2018" month="December" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-screen-orientation-20181214"/>
+</reference>

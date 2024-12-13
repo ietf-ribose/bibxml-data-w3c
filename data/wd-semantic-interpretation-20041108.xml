@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-semantic-interpretation-20041108" target="http://www.w3.org/TR/2004/WD-semantic-interpretation-20041108/">
+  <front>
+    <title>Semantic Interpretation for Speech Recognition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Luc Van Tichelen">
+      <organization/>
+    </author>
+    <date year="2004" month="November" day="8"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-semantic-interpretation-20041108"/>
+</reference>

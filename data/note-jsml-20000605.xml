@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-jsml-20000605" target="http://www.w3.org/TR/2000/NOTE-jsml-20000605">
+  <front>
+    <title>JSpeech Markup Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Hunt">
+      <organization/>
+    </author>
+    <date year="2000" month="June" day="5"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-jsml-20000605"/>
+</reference>

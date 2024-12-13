@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-2dcontext-20140821" target="http://www.w3.org/TR/2014/CR-2dcontext-20140821/">
+  <front>
+    <title>HTML Canvas 2D Context</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jay Munro">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rik Cabanier">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Wiltzius">
+      <organization/>
+    </author>
+    <date year="2014" month="August" day="21"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-2dcontext-20140821"/>
+</reference>

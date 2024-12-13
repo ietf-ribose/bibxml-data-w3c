@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-odrl-model-20170223" target="https://www.w3.org/TR/2017/WD-odrl-model-20170223/">
+  <front>
+    <title>ODRL Information Model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Serena Villata">
+      <organization/>
+    </author>
+    <date year="2017" month="February" day="23"/>
+    <workgroup>Permissions and Obligations Expression Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-odrl-model-20170223"/>
+</reference>

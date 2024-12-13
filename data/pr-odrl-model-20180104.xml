@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-odrl-model-20180104" target="https://www.w3.org/TR/2018/PR-odrl-model-20180104/">
+  <front>
+    <title>ODRL Information Model 2.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Serena Villata">
+      <organization/>
+    </author>
+    <date year="2018" month="January" day="4"/>
+    <workgroup>Permissions and Obligations Expression Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-odrl-model-20180104"/>
+</reference>

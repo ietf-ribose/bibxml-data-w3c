@@ -1,9 +1,9 @@
-<reference anchor="W3C.vocab-duv" target="https://www.w3.org/TR/vocab-duv/">
+<reference anchor="W3C.vocab-duv" target="http://www.w3.org/TR/vocab-duv/">
   <front>
     <title>Data on the Web Best Practices: Dataset Usage Vocabulary</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="vocab-duv"/>
+  <seriesInfo name="W3C WD" value="vocab-duv"/>
 </reference>

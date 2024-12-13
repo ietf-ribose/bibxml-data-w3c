@@ -1,0 +1,9 @@
+<reference anchor="W3C.rdfa-in-html" target="http://www.w3.org/TR/rdfa-in-html/">
+  <front>
+    <title>HTML+RDFa 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="rdfa-in-html"/>
+</reference>

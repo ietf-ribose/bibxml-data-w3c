@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-performance-timeline-2-20181030" target="https://www.w3.org/TR/2018/WD-performance-timeline-2-20181030/">
+  <front>
+    <title>Performance Timeline Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
+    <date year="2018" month="October" day="30"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-performance-timeline-2-20181030"/>
+</reference>

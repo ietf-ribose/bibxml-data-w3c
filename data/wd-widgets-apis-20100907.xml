@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-widgets-apis-20100907" target="http://www.w3.org/TR/2010/WD-widgets-apis-20100907/">
+  <front>
+    <title>The Widget Interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arve Bersvendsen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2010" month="September" day="7"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-widgets-apis-20100907"/>
+</reference>

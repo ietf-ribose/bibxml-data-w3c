@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-mediasession-20210504" target="https://www.w3.org/TR/2021/WD-mediasession-20210504/">
+  <front>
+    <title>Media Session Standard</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Becca Hughes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <date year="2021" month="May" day="4"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediasession-20210504"/>
+</reference>

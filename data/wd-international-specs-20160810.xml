@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-international-specs-20160810" target="https://www.w3.org/TR/2016/WD-international-specs-20160810/">
+  <front>
+    <title>Internationalization Best Practices for Spec Developers</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="August" day="10"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-international-specs-20160810"/>
+</reference>

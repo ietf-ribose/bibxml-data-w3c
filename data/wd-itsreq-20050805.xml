@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-itsreq-20050805" target="http://www.w3.org/TR/2005/WD-itsreq-20050805">
+  <front>
+    <title>Internationalization and Localization Markup Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Yves Savourel">
+      <organization/>
+    </author>
+    <date year="2005" month="August" day="5"/>
+    <workgroup>ITS Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-itsreq-20050805"/>
+</reference>

@@ -8,6 +8,7 @@
       <organization/>
     </author>
     <date year="2024" month="August" day="20"/>
+    <workgroup>Federated Identity Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-fedcm-1-20240820"/>
 </reference>

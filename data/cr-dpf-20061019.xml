@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-DPF-20061019" target="http://www.w3.org/TR/2006/CR-DPF-20061019">
+  <front>
+    <title>Delivery Context: Interfaces (DCI) Accessing Static and Dynamic Properties</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Raggett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Keith Waters">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Womer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Max Froumentin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rafah A. Hosn">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sailesh Sathish">
+      <organization/>
+    </author>
+    <date year="2006" month="October" day="19"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-DPF-20061019"/>
+</reference>

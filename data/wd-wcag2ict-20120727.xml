@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-wcag2ict-20120727" target="http://www.w3.org/TR/2012/WD-wcag2ict-20120727/">
+  <front>
+    <title>Applying WCAG 2.0 to Non-Web Information and Communications Technologies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andi Snow-Weaver">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shadi Abou-Zahra">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="27"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wcag2ict-20120727"/>
+</reference>

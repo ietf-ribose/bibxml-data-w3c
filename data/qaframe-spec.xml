@@ -1,9 +1,9 @@
-<reference anchor="W3C.qaframe-spec" target="https://www.w3.org/TR/qaframe-spec/">
+<reference anchor="W3C.qaframe-spec" target="http://www.w3.org/TR/qaframe-spec/">
   <front>
     <title>QA Framework: Specification Guidelines</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="qaframe-spec"/>
+  <seriesInfo name="W3C WD" value="qaframe-spec"/>
 </reference>

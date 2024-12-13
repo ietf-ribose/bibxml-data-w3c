@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-view-mode-20110811" target="http://www.w3.org/TR/2011/PR-view-mode-20110811/">
+  <front>
+    <title>The 'view-mode' Media Feature</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <date year="2011" month="August" day="11"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-view-mode-20110811"/>
+</reference>

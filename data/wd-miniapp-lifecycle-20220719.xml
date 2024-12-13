@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-miniapp-lifecycle-20220719" target="https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20220719/">
+  <front>
+    <title>MiniApp Lifecycle</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Haoyang Xu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Qing An">
+      <organization/>
+    </author>
+    <date year="2022" month="July" day="19"/>
+    <workgroup>MiniApps Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-miniapp-lifecycle-20220719"/>
+</reference>

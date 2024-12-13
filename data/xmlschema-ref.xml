@@ -1,9 +1,9 @@
-<reference anchor="W3C.xmlschema-ref" target="https://www.w3.org/TR/xmlschema-ref/">
+<reference anchor="W3C.xmlschema-ref" target="http://www.w3.org/TR/xmlschema-ref/">
   <front>
     <title>W3C XML Schema Definition Language (XSD): Component Designators</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="xmlschema-ref"/>
+  <seriesInfo name="W3C WD" value="xmlschema-ref"/>
 </reference>

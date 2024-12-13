@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-vocab-ssn-20170711" target="https://www.w3.org/TR/2017/CR-vocab-ssn-20170711/">
+  <front>
+    <title>Semantic Sensor Network Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Armin Haller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Danh Le Phuoc">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kerry Taylor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Krzysztof Janowicz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Maxime Lefrançois">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Cox">
+      <organization/>
+    </author>
+    <date year="2017" month="July" day="11"/>
+    <workgroup>Spatial Data on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-vocab-ssn-20170711"/>
+</reference>

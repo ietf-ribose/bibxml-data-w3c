@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-wai-aria-1.1-20160317" target="http://www.w3.org/TR/2016/WD-wai-aria-1.1-20160317/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Craig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2016" month="March" day="17"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-1.1-20160317"/>
+</reference>

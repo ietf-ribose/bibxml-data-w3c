@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-webdriver1-20180426" target="https://www.w3.org/TR/2018/PR-webdriver1-20180426/">
+  <front>
+    <title>WebDriver</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Burns">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Stewart">
+      <organization/>
+    </author>
+    <date year="2018" month="April" day="26"/>
+    <workgroup>Browser Testing and Tools Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-webdriver1-20180426"/>
+</reference>

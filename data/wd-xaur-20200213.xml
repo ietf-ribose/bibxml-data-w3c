@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-xaur-20200213" target="https://www.w3.org/TR/2020/WD-xaur-20200213/">
+  <front>
+    <title>XR Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2020" month="February" day="13"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xaur-20200213"/>
+</reference>

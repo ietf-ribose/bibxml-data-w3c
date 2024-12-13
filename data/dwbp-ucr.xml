@@ -1,9 +1,9 @@
-<reference anchor="W3C.dwbp-ucr" target="https://www.w3.org/TR/dwbp-ucr/">
+<reference anchor="W3C.dwbp-ucr" target="http://www.w3.org/TR/dwbp-ucr/">
   <front>
     <title>Data on the Web Best Practices Use Cases &amp; Requirements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="dwbp-ucr"/>
+  <seriesInfo name="W3C WD" value="dwbp-ucr"/>
 </reference>

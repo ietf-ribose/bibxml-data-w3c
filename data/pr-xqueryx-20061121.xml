@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-xqueryx-20061121" target="http://www.w3.org/TR/2006/PR-xqueryx-20061121">
+  <front>
+    <title>XML Syntax for XQuery 1.0 (XQueryX)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Subramanian Muralidhar">
+      <organization/>
+    </author>
+    <date year="2006" month="November" day="21"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xqueryx-20061121"/>
+</reference>

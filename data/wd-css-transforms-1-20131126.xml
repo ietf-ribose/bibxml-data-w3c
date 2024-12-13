@@ -1,0 +1,24 @@
+<reference anchor="W3C.WD-css-transforms-1-20131126" target="http://www.w3.org/TR/2013/WD-css-transforms-1-20131126/">
+  <front>
+    <title>CSS Transforms Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Schulze">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Fraser">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Theresa O'Connor">
+      <organization/>
+    </author>
+    <date year="2013" month="November" day="26"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css-transforms-1-20131126"/>
+</reference>

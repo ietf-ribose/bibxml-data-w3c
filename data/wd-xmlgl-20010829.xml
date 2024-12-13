@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-xmlgl-20010829" target="http://www.w3.org/TR/2001/WD-xmlgl-20010829">
+  <front>
+    <title>XML Accessibility Guidelines</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Dardailler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean B. Palmer">
+      <organization/>
+    </author>
+    <date year="2001" month="August" day="29"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlgl-20010829"/>
+</reference>

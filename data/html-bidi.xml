@@ -1,9 +1,9 @@
-<reference anchor="W3C.html-bidi" target="https://www.w3.org/TR/html-bidi/">
+<reference anchor="W3C.html-bidi" target="http://www.w3.org/TR/html-bidi/">
   <front>
-    <title>Additional Requirements for Bidi in HTML &amp; CSS</title>
+    <title>Additional Requirements for Bidi in HTML</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="html-bidi"/>
+  <seriesInfo name="W3C WD" value="html-bidi"/>
 </reference>

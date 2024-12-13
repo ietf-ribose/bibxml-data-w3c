@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-permissions-20150407" target="http://www.w3.org/TR/2015/WD-permissions-20150407/">
+  <front>
+    <title>The Permissions API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <date year="2015" month="April" day="7"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-permissions-20150407"/>
+</reference>

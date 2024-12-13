@@ -1,0 +1,19 @@
+<reference anchor="W3C.NOTE-dt4dtd-20000113" target="http://www.w3.org/TR/2000/NOTE-dt4dtd-20000113">
+  <front>
+    <title>Datatypes for DTDs (DT4DTD) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles F. Goldfarb">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lee Buck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Prescod">
+      <organization/>
+    </author>
+    <date year="2000" month="January" day="13"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-dt4dtd-20000113"/>
+</reference>

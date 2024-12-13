@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-odrl-20020919" target="http://www.w3.org/TR/2002/NOTE-odrl-20020919/">
+  <front>
+    <title>Open Digital Rights Language (ODRL) Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Renato Iannella">
+      <organization/>
+    </author>
+    <date year="2002" month="September" day="19"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-odrl-20020919"/>
+</reference>

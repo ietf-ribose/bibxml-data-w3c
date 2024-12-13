@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-vibration-20120508" target="http://www.w3.org/TR/2012/CR-vibration-20120508/">
+  <front>
+    <title>Vibration API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2012" month="May" day="8"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-vibration-20120508"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-navigation-timing-20101026" target="http://www.w3.org/TR/2010/WD-navigation-timing-20101026/">
+  <front>
+    <title>Navigation Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
+    <date year="2010" month="October" day="26"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-navigation-timing-20101026"/>
+</reference>

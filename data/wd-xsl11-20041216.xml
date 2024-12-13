@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xsl11-20041216" target="http://www.w3.org/TR/2004/WD-xsl11-20041216/">
+  <front>
+    <title>Extensible Stylesheet Language (XSL) Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <date year="2004" month="December" day="16"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xsl11-20041216"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.ttml2" target="https://www.w3.org/TR/ttml2/">
+<reference anchor="W3C.ttml2" target="http://www.w3.org/TR/ttml2/">
   <front>
-    <title>Timed Text Markup Language 2 (TTML2) (2nd Edition)</title>
+    <title>Timed Text Markup Language 2 (TTML2)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="ttml2"/>
+  <seriesInfo name="W3C WD" value="ttml2"/>
 </reference>

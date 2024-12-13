@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-appmanifest-20131217" target="http://www.w3.org/TR/2013/WD-appmanifest-20131217/">
+  <front>
+    <title>Manifest for web apps and bookmarks</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2013" month="December" day="17"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20131217"/>
+</reference>

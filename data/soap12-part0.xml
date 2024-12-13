@@ -1,9 +1,9 @@
-<reference anchor="W3C.soap12-part0" target="https://www.w3.org/TR/soap12-part0/">
+<reference anchor="W3C.soap12-part0" target="http://www.w3.org/TR/soap12-part0/">
   <front>
     <title>SOAP Version 1.2 Part 0: Primer (Second Edition)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="soap12-part0"/>
+  <seriesInfo name="W3C WD" value="soap12-part0"/>
 </reference>

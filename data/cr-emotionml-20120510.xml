@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-emotionml-20120510" target="http://www.w3.org/TR/2012/CR-emotionml-20120510/">
+  <front>
+    <title>Emotion Markup Language (EmotionML) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marc Schröder">
+      <organization/>
+    </author>
+    <date year="2012" month="May" day="10"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-emotionml-20120510"/>
+</reference>

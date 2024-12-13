@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-ttml-imsc1.2-20200324" target="https://www.w3.org/TR/2020/CR-ttml-imsc1.2-20200324/">
+  <front>
+    <title>TTML Profiles for Internet Media Subtitles and Captions 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Pierre-Anthony Lemieux">
+      <organization/>
+    </author>
+    <date year="2020" month="March" day="24"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-ttml-imsc1.2-20200324"/>
+</reference>

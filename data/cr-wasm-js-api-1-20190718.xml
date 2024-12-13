@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-wasm-js-api-1-20190718" target="https://www.w3.org/TR/2019/CR-wasm-js-api-1-20190718/">
+  <front>
+    <title>WebAssembly JavaScript Interface</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Ehrenberg">
+      <organization/>
+    </author>
+    <date year="2019" month="July" day="18"/>
+    <workgroup>WebAssembly Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-wasm-js-api-1-20190718"/>
+</reference>

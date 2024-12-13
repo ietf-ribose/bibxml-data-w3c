@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-html-polyglot-20131022" target="http://www.w3.org/TR/2013/WD-html-polyglot-20131022/">
+  <front>
+    <title>Polyglot Markup: A robust profile of the HTML5 vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eliot Graff">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Leif Halvard Silli">
+      <organization/>
+    </author>
+    <date year="2013" month="October" day="22"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-polyglot-20131022"/>
+</reference>

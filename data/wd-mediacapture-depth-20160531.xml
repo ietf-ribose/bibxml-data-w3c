@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-mediacapture-depth-20160531" target="http://www.w3.org/TR/2016/WD-mediacapture-depth-20160531/">
+  <front>
+    <title>Media Capture Depth Stream Extensions</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="May" day="31"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mediacapture-depth-20160531"/>
+</reference>

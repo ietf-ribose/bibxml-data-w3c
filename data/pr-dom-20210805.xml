@@ -1,0 +1,11 @@
+<reference anchor="W3C.PR-DOM-20210805" target="https://www.w3.org/TR/2021/PR-DOM-20210805/">
+  <front>
+    <title>DOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2021" month="August" day="5"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-DOM-20210805"/>
+</reference>

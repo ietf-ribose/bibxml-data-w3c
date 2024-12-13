@@ -1,9 +1,9 @@
-<reference anchor="W3C.html-imports" target="https://www.w3.org/TR/html-imports/">
+<reference anchor="W3C.html-imports" target="http://www.w3.org/TR/html-imports/">
   <front>
     <title>HTML Imports</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C technicalReport" value="html-imports"/>
+  <seriesInfo name="W3C WD" value="html-imports"/>
 </reference>

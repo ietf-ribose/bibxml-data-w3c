@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-server-timing-20220421" target="https://www.w3.org/TR/2022/WD-server-timing-20220421/">
+  <front>
+    <title>Server Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Charles Vazac">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <date year="2022" month="April" day="21"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-server-timing-20220421"/>
+</reference>

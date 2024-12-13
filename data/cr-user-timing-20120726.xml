@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-user-timing-20120726" target="http://www.w3.org/TR/2012/CR-user-timing-20120726/">
+  <front>
+    <title>User Timing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anderson Quach">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiheng Wang">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="26"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-user-timing-20120726"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-vocab-data-cube-20120405" target="http://www.w3.org/TR/2012/WD-vocab-data-cube-20120405/">
+  <front>
+    <title>The RDF Data Cube Vocabulary</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Reynolds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Cyganiak">
+      <organization/>
+    </author>
+    <date year="2012" month="April" day="5"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vocab-data-cube-20120405"/>
+</reference>

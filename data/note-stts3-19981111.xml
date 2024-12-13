@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-STTS3-19981111" target="http://www.w3.org/TR/1998/NOTE-STTS3-19981111">
+  <front>
+    <title>Simple Tree Transformation Sheets 3 (STTS3)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Glazman">
+      <organization/>
+    </author>
+    <date year="1998" month="November" day="11"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-STTS3-19981111"/>
+</reference>

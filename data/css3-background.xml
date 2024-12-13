@@ -1,0 +1,9 @@
+<reference anchor="W3C.css3-background" target="http://www.w3.org/TR/css3-background/">
+  <front>
+    <title>CSS Backgrounds and Borders Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css3-background"/>
+</reference>

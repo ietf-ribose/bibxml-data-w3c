@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-rdb-direct-mapping-20110920" target="http://www.w3.org/TR/2011/WD-rdb-direct-mapping-20110920/">
+  <front>
+    <title>A Direct Mapping of Relational Data to RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexandre Bertails">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Juan Sequeda">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcelo Arenas">
+      <organization/>
+    </author>
+    <date year="2011" month="September" day="20"/>
+    <workgroup>RDB2RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdb-direct-mapping-20110920"/>
+</reference>

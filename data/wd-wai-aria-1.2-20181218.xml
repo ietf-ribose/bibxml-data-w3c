@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-wai-aria-1.2-20181218" target="https://www.w3.org/TR/2018/WD-wai-aria-1.2-20181218/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) 1.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James Craig">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Nurthen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2018" month="December" day="18"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-1.2-20181218"/>
+</reference>

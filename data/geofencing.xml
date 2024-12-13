@@ -1,9 +1,9 @@
-<reference anchor="W3C.geofencing" target="https://www.w3.org/TR/geofencing/">
+<reference anchor="W3C.geofencing" target="http://www.w3.org/TR/geofencing/">
   <front>
     <title>Geofencing API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="geofencing"/>
+  <seriesInfo name="W3C WD" value="geofencing"/>
 </reference>

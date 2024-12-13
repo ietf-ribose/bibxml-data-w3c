@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-webmachinelearning-ethics-20230811" target="https://www.w3.org/TR/2023/DNOTE-webmachinelearning-ethics-20230811/">
+  <front>
+    <title>Ethical Principles for Web Machine Learning</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2023" month="August" day="11"/>
+    <workgroup>Web Machine Learning Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-webmachinelearning-ethics-20230811"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-media-accessibility-reqs-20120103" target="http://www.w3.org/TR/2012/WD-media-accessibility-reqs-20120103/">
+  <front>
+    <title>Media Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2012" month="January" day="3"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-media-accessibility-reqs-20120103"/>
+</reference>

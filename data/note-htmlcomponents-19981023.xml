@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-HTMLComponents-19981023" target="http://www.w3.org/TR/1998/NOTE-HTMLComponents-19981023">
+  <front>
+    <title>HTML Components</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Wilson">
+      <organization/>
+    </author>
+    <date year="1998" month="October" day="23"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-HTMLComponents-19981023"/>
+</reference>

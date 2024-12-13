@@ -1,4 +1,4 @@
-<reference anchor="W3C.xml-id-req" target="https://www.w3.org/TR/xml-id-req/">
+<reference anchor="W3C.xml-id-req" target="http://www.w3.org/TR/xml-id-req">
   <front>
     <title>xml:id Requirements</title>
     <author>

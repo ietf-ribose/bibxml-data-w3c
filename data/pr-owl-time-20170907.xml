@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-owl-time-20170907" target="https://www.w3.org/TR/2017/PR-owl-time-20170907/">
+  <front>
+    <title>Time Ontology in OWL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Little">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Cox">
+      <organization/>
+    </author>
+    <date year="2017" month="September" day="7"/>
+    <workgroup>Spatial Data on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-owl-time-20170907"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-aria-20170313" target="https://www.w3.org/TR/2017/WD-html-aria-20170313/">
+  <front>
+    <title>ARIA in HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <date year="2017" month="March" day="13"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-aria-20170313"/>
+</reference>

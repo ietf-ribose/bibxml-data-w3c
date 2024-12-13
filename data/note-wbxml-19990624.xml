@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-wbxml-19990624" target="http://www.w3.org/1999/06/NOTE-wbxml-19990624">
+  <front>
+    <title>WAP Binary XML Content Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bashar Jano">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bruce Martin">
+      <organization/>
+    </author>
+    <date year="1999" month="June" day="24"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wbxml-19990624"/>
+</reference>

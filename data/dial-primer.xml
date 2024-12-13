@@ -1,9 +1,9 @@
-<reference anchor="W3C.dial-primer" target="https://www.w3.org/TR/dial-primer/">
+<reference anchor="W3C.dial-primer" target="http://www.w3.org/TR/dial-primer/">
   <front>
     <title>DIAL Part 0: Primer</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="dial-primer"/>
+  <seriesInfo name="W3C WD" value="dial-primer"/>
 </reference>

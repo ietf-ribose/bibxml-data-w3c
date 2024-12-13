@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-css3-conditional-20130404" target="https://www.w3.org/TR/2013/CR-css3-conditional-20130404/">
+  <front>
+    <title>CSS Conditional Rules Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Baron">
+      <organization/>
+    </author>
+    <date year="2013" month="April" day="4"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css3-conditional-20130404"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.di-gloss" target="https://www.w3.org/TR/di-gloss/">
+<reference anchor="W3C.di-gloss" target="http://www.w3.org/TR/di-gloss/">
   <front>
     <title>Glossary of Terms for Device Independence</title>
     <author>

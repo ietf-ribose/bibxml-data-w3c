@@ -1,9 +1,9 @@
-<reference anchor="W3C.DOM-Level-3-XPath" target="https://www.w3.org/TR/DOM-Level-3-XPath/">
+<reference anchor="W3C.DOM-Level-3-XPath" target="http://www.w3.org/TR/DOM-Level-3-XPath/">
   <front>
     <title>Document Object Model (DOM) Level 3 XPath Specification</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="DOM-Level-3-XPath"/>
+  <seriesInfo name="W3C WD" value="DOM-Level-3-XPath"/>
 </reference>

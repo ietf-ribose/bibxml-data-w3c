@@ -1,0 +1,26 @@
+<reference anchor="W3C.CR-xpath-datamodel-20060608" target="http://www.w3.org/TR/2006/CR-xpath-datamodel-20060608/">
+  <front>
+    <title>XQuery 1.0 and XPath 2.0 Data Model (XDM)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marton Nagy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernández">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2006" month="June" day="8"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xpath-datamodel-20060608"/>
+</reference>

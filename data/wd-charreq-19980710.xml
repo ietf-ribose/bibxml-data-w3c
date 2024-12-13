@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-charreq-19980710" target="http://www.w3.org/TR/1998/WD-charreq-19980710">
+  <front>
+    <title>Requirements for String Identity Matching and String Indexing</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Martin J. Dürst">
+      <organization/>
+    </author>
+    <date year="1998" month="July" day="10"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-charreq-19980710"/>
+</reference>

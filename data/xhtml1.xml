@@ -1,4 +1,4 @@
-<reference anchor="W3C.xhtml1" target="https://www.w3.org/TR/xhtml1/">
+<reference anchor="W3C.xhtml1" target="http://www.w3.org/TR/xhtml1">
   <front>
     <title>XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)</title>
     <author>

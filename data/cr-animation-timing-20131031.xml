@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-animation-timing-20131031" target="http://www.w3.org/TR/2013/CR-animation-timing-20131031/">
+  <front>
+    <title>Timing control for script-based animations</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Robinson">
+      <organization/>
+    </author>
+    <date year="2013" month="October" day="31"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-animation-timing-20131031"/>
+</reference>

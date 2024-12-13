@@ -1,0 +1,9 @@
+<reference anchor="W3C.css3-box" target="http://www.w3.org/TR/css3-box">
+  <front>
+    <title>CSS basic box model</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css3-box"/>
+</reference>

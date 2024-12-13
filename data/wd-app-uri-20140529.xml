@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-app-uri-20140529" target="http://www.w3.org/TR/2014/WD-app-uri-20140529/">
+  <front>
+    <title>The app: URL Scheme</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2014" month="May" day="29"/>
+    <workgroup>System Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-app-uri-20140529"/>
+</reference>

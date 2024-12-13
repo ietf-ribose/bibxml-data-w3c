@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-media-source-2-20210930" target="https://www.w3.org/TR/2021/WD-media-source-2-20210930/">
+  <front>
+    <title>Media Source Extensions™</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mark Watson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew Wolenetz">
+      <organization/>
+    </author>
+    <date year="2021" month="September" day="30"/>
+    <workgroup>Media Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-media-source-2-20210930"/>
+</reference>

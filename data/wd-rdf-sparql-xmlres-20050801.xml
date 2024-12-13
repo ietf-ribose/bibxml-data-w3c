@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-rdf-sparql-XMLres-20050801" target="http://www.w3.org/TR/2005/WD-rdf-sparql-XMLres-20050801/">
+  <front>
+    <title>SPARQL Query Results XML Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dave Beckett">
+      <organization/>
+    </author>
+    <date year="2005" month="August" day="1"/>
+    <workgroup>SPARQL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-sparql-XMLres-20050801"/>
+</reference>

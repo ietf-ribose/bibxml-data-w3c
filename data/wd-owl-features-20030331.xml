@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-owl-features-20030331" target="http://www.w3.org/TR/2003/WD-owl-features-20030331/">
+  <front>
+    <title>OWL Web Ontology Language Overview</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Deborah L. McGuinness">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frank van Harmelen">
+      <organization/>
+    </author>
+    <date year="2003" month="March" day="31"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl-features-20030331"/>
+</reference>

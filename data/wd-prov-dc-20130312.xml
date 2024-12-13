@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-prov-dc-20130312" target="http://www.w3.org/TR/2013/WD-prov-dc-20130312/">
+  <front>
+    <title>Dublin Core to PROV Mapping</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Garijo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kai Eckert">
+      <organization/>
+    </author>
+    <date year="2013" month="March" day="12"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-prov-dc-20130312"/>
+</reference>

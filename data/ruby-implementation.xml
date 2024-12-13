@@ -1,0 +1,9 @@
+<reference anchor="W3C.ruby-implementation" target="http://www.w3.org/TR/ruby-implementation/">
+  <front>
+    <title>Implementing the Ruby Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="ruby-implementation"/>
+</reference>

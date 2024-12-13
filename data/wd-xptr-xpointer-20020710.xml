@@ -1,0 +1,19 @@
+<reference anchor="W3C.WD-xptr-xpointer-20020710" target="http://www.w3.org/TR/2002/WD-xptr-xpointer-20020710/">
+  <front>
+    <title>XPointer xpointer() Scheme</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ron Daniel Jr.">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven DeRose">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="10"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xptr-xpointer-20020710"/>
+</reference>

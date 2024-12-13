@@ -1,0 +1,26 @@
+<reference anchor="W3C.PR-xhtml-modularization-20080611" target="http://www.w3.org/TR/2008/PR-xhtml-modularization-20080611">
+  <front>
+    <title>XHTML™ Modularization 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Austin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Birbeck">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Subramanian Peruvemba">
+      <organization/>
+    </author>
+    <date year="2008" month="June" day="11"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-xhtml-modularization-20080611"/>
+</reference>

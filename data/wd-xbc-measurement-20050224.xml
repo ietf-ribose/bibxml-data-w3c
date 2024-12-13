@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xbc-measurement-20050224" target="http://www.w3.org/TR/2005/WD-xbc-measurement-20050224/">
+  <front>
+    <title>XML Binary Characterization Measurement Methodologies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Peter Haggar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stephen D. Williams">
+      <organization/>
+    </author>
+    <date year="2005" month="February" day="24"/>
+    <workgroup>XML Binary Characterization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xbc-measurement-20050224"/>
+</reference>

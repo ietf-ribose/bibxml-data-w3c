@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-i18n-html-tech-bidi-20090908" target="http://www.w3.org/TR/2009/NOTE-i18n-html-tech-bidi-20090908/">
+  <front>
+    <title>Authoring HTML: Handling Right-to-left Scripts</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2009" month="September" day="8"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-i18n-html-tech-bidi-20090908"/>
+</reference>

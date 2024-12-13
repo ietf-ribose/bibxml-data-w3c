@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-its-20051122" target="http://www.w3.org/TR/2005/WD-its-20051122/">
+  <front>
+    <title>Internationalization Tag Set (ITS)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christian Lieske">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <date year="2005" month="November" day="22"/>
+    <workgroup>ITS Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-its-20051122"/>
+</reference>

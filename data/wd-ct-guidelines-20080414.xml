@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ct-guidelines-20080414" target="http://www.w3.org/TR/2008/WD-ct-guidelines-20080414/">
+  <front>
+    <title>Content Transformation Guidelines 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <date year="2008" month="April" day="14"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ct-guidelines-20080414"/>
+</reference>

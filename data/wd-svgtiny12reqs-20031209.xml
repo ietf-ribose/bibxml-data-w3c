@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-SVGTiny12Reqs-20031209" target="http://www.w3.org/TR/2003/WD-SVGTiny12Reqs-20031209/">
+  <front>
+    <title>SVG Tiny Version 1.2 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <date year="2003" month="December" day="9"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-SVGTiny12Reqs-20031209"/>
+</reference>

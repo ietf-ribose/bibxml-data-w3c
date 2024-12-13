@@ -1,0 +1,9 @@
+<reference anchor="W3C.SVG-access" target="http://www.w3.org/TR/SVG-access/">
+  <front>
+    <title>Accessibility Features of SVG</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="SVG-access"/>
+</reference>

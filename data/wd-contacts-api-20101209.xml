@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-contacts-api-20101209" target="http://www.w3.org/TR/2010/WD-contacts-api-20101209/">
+  <front>
+    <title>Contacts API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Tibbett">
+      <organization/>
+    </author>
+    <date year="2010" month="December" day="9"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-contacts-api-20101209"/>
+</reference>

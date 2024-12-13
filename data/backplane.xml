@@ -1,4 +1,4 @@
-<reference anchor="W3C.backplane" target="https://www.w3.org/TR/backplane/">
+<reference anchor="W3C.backplane" target="http://www.w3.org/TR/backplane">
   <front>
     <title>Rich Web Application Backplane</title>
     <author>

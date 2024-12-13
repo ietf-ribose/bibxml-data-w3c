@@ -1,0 +1,26 @@
+<reference anchor="W3C.PR-widgets-digsig-20110811" target="http://www.w3.org/TR/2011/PR-widgets-digsig-20110811/">
+  <front>
+    <title>XML Digital Signatures for Widgets</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Priestley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paddy Byers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Stuart Knightley">
+      <organization/>
+    </author>
+    <date year="2011" month="August" day="11"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-widgets-digsig-20110811"/>
+</reference>

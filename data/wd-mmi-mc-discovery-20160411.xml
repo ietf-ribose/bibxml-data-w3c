@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-mmi-mc-discovery-20160411" target="http://www.w3.org/TR/2016/WD-mmi-mc-discovery-20160411/">
+  <front>
+    <title>Discovery &amp; Registration of Multimodal Modality Components: State Handling</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="B Helena RODRIGUEZ">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Deborah Dahl">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Barnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kazuyuki Ashimura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nagesh Kharidi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raj Tumuluri">
+      <organization/>
+    </author>
+    <date year="2016" month="April" day="11"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mmi-mc-discovery-20160411"/>
+</reference>

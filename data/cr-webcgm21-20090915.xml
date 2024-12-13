@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-webcgm21-20090915" target="http://www.w3.org/TR/2009/CR-webcgm21-20090915/">
+  <front>
+    <title>WebCGM 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benoit Bezaire">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lofton Henderson">
+      <organization/>
+    </author>
+    <date year="2009" month="September" day="15"/>
+    <workgroup>WebCGM Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-webcgm21-20090915"/>
+</reference>

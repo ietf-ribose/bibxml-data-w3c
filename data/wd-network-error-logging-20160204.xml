@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-network-error-logging-20160204" target="http://www.w3.org/TR/2016/WD-network-error-logging-20160204/">
+  <front>
+    <title>Network Error Logging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alois Reitbauer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arvind Jain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jatinder Mann">
+      <organization/>
+    </author>
+    <date year="2016" month="February" day="4"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-network-error-logging-20160204"/>
+</reference>

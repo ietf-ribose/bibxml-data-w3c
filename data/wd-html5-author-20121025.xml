@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-html5-author-20121025" target="http://www.w3.org/TR/2012/WD-html5-author-20121025/">
+  <front>
+    <title>HTML5: Edition for Web Authors</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Edward O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erika Doyle Navara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Silvia Pfeiffer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2012" month="October" day="25"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html5-author-20121025"/>
+</reference>

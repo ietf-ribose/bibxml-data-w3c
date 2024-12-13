@@ -1,6 +1,6 @@
-<reference anchor="W3C.screen-orientation" target="https://www.w3.org/TR/screen-orientation/">
+<reference anchor="W3C.screen-orientation" target="http://www.w3.org/TR/screen-orientation/">
   <front>
-    <title>Screen Orientation</title>
+    <title>The Screen Orientation API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

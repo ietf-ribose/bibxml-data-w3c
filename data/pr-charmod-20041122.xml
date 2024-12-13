@@ -1,0 +1,26 @@
+<reference anchor="W3C.PR-charmod-20041122" target="http://www.w3.org/TR/2004/PR-charmod-20041122/">
+  <front>
+    <title>Character Model for the World Wide Web 1.0: Fundamentals</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="François Yergeau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin J. Dürst">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Misha Wolf">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tex Texin">
+      <organization/>
+    </author>
+    <date year="2004" month="November" day="22"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-charmod-20041122"/>
+</reference>

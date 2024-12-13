@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-role-attribute-20110113" target="http://www.w3.org/TR/2011/WD-role-attribute-20110113/">
+  <front>
+    <title>Role Attribute 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2011" month="January" day="13"/>
+    <workgroup>Protocols and Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-role-attribute-20110113"/>
+</reference>

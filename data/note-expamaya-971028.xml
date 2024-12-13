@@ -1,0 +1,13 @@
+<reference anchor="W3C.NOTE-expamaya-971028" target="http://www.w3.org/TR/NOTE-expamaya-971028">
+  <front>
+    <title>Amaya Testbed Environments: the Java and ILU versions of Amaya</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Veillard">
+      <organization/>
+    </author>
+    <date year="1997" month="October" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-expamaya-971028"/>
+</reference>

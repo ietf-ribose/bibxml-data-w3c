@@ -1,0 +1,9 @@
+<reference anchor="W3C.WD-sgml-lex" target="http://www.w3.org/TR/WD-sgml-lex">
+  <front>
+    <title>A Lexical Analyzer for HTML and Basic SGML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-sgml-lex"/>
+</reference>

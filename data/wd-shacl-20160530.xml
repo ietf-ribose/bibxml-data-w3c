@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-shacl-20160530" target="http://www.w3.org/TR/2016/WD-shacl-20160530/">
+  <front>
+    <title>Shapes Constraint Language (SHACL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitris Kontokostas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Holger Knublauch">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="30"/>
+    <workgroup>RDF Data Shapes Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-shacl-20160530"/>
+</reference>

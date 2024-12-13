@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-speech-synthesis11-20090827" target="http://www.w3.org/TR/2009/CR-speech-synthesis11-20090827/">
+  <front>
+    <title>Speech Synthesis Markup Language (SSML) Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel C. Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhi Wei Shuang">
+      <organization/>
+    </author>
+    <date year="2009" month="August" day="27"/>
+    <workgroup>Voice Browser Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-speech-synthesis11-20090827"/>
+</reference>

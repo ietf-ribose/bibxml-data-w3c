@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-wsdl20-soap11-binding-20060327" target="http://www.w3.org/TR/2006/WD-wsdl20-soap11-binding-20060327">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0 SOAP 1.1 Binding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Asir S. Vedamuthu">
+      <organization/>
+    </author>
+    <date year="2006" month="March" day="27"/>
+    <workgroup>Web Services Description Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wsdl20-soap11-binding-20060327"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.css-lists-3" target="https://www.w3.org/TR/css-lists-3/">
+<reference anchor="W3C.css-lists-3" target="http://www.w3.org/TR/css-lists-3/">
   <front>
     <title>CSS Lists and Counters Module Level 3</title>
     <author>

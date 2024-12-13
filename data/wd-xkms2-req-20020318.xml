@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-xkms2-req-20020318" target="http://www.w3.org/TR/2002/WD-xkms2-req-20020318">
+  <front>
+    <title>XML Key Management (2.0) Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mike Just">
+      <organization/>
+    </author>
+    <date year="2002" month="March" day="18"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xkms2-req-20020318"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.webauthn" target="http://www.w3.org/TR/webauthn/">
+  <front>
+    <title>Web Authentication: A Web API for accessing scoped credentials</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="webauthn"/>
+</reference>

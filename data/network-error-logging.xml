@@ -1,4 +1,4 @@
-<reference anchor="W3C.network-error-logging" target="https://www.w3.org/TR/network-error-logging/">
+<reference anchor="W3C.network-error-logging" target="http://www.w3.org/TR/network-error-logging/">
   <front>
     <title>Network Error Logging</title>
     <author>

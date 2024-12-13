@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-vocab-dcat-20131217" target="http://www.w3.org/TR/2013/PR-vocab-dcat-20131217/">
+  <front>
+    <title>Data Catalog Vocabulary (DCAT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Fadi Maali">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Erickson">
+      <organization/>
+    </author>
+    <date year="2013" month="December" day="17"/>
+    <workgroup>Government Linked Data Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-vocab-dcat-20131217"/>
+</reference>

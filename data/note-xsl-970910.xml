@@ -1,0 +1,34 @@
+<reference anchor="W3C.NOTE-XSL-970910" target="http://www.w3.org/TR/NOTE-XSL-970910">
+  <front>
+    <title>A Proposal for XSL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anders Berglund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Nicol">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Istvan Cseri">
+      <organization/>
+    </author>
+    <author role="editor" fullname="James Clark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jean Paoli">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul Grosso">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sharon Adler">
+      <organization/>
+    </author>
+    <date year="1997" month="August" day="27"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-XSL-970910"/>
+</reference>

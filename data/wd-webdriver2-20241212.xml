@@ -11,6 +11,7 @@
       <organization/>
     </author>
     <date year="2024" month="December" day="12"/>
+    <workgroup>Browser Testing and Tools Working Group</workgroup>
   </front>
   <seriesInfo name="W3C WD" value="WD-webdriver2-20241212"/>
 </reference>

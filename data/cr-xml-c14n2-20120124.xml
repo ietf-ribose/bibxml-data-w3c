@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-xml-c14n2-20120124" target="http://www.w3.org/TR/2012/CR-xml-c14n2-20120124/">
+  <front>
+    <title>Canonical XML Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Glenn Marcy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pratik Datta">
+      <organization/>
+    </author>
+    <date year="2012" month="January" day="24"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xml-c14n2-20120124"/>
+</reference>

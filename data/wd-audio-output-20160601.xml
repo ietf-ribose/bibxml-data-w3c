@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-audio-output-20160601" target="http://www.w3.org/TR/2016/WD-audio-output-20160601/">
+  <front>
+    <title>Audio Output Devices API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="June" day="1"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-audio-output-20160601"/>
+</reference>

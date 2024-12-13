@@ -1,9 +1,9 @@
-<reference anchor="W3C.html5" target="https://www.w3.org/TR/html5/">
+<reference anchor="W3C.html5" target="http://www.w3.org/TR/html5/">
   <front>
     <title>HTML5</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="html5"/>
+  <seriesInfo name="W3C WD" value="html5"/>
 </reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-post-type-discovery-20170301" target="https://www.w3.org/TR/2017/WD-post-type-discovery-20170301/">
+  <front>
+    <title>Post Type Discovery</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2017" month="March" day="1"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-post-type-discovery-20170301"/>
+</reference>

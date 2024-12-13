@@ -1,4 +1,4 @@
-<reference anchor="W3C.gamepad" target="https://www.w3.org/TR/gamepad/">
+<reference anchor="W3C.gamepad" target="http://www.w3.org/TR/gamepad/">
   <front>
     <title>Gamepad</title>
     <author>

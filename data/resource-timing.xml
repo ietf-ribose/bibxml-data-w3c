@@ -1,6 +1,6 @@
-<reference anchor="W3C.resource-timing" target="https://www.w3.org/TR/resource-timing/">
+<reference anchor="W3C.resource-timing" target="http://www.w3.org/TR/resource-timing/">
   <front>
-    <title>Resource Timing</title>
+    <title>Resource Timing Level 1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

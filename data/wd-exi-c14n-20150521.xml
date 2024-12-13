@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-exi-c14n-20150521" target="http://www.w3.org/TR/2015/WD-exi-c14n-20150521/">
+  <front>
+    <title>Canonical EXI</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Käbisch">
+      <organization/>
+    </author>
+    <date year="2015" month="May" day="21"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-exi-c14n-20150521"/>
+</reference>

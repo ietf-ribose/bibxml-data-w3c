@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-mmi-framework-20021202" target="http://www.w3.org/TR/2002/NOTE-mmi-framework-20021202/">
+  <front>
+    <title>W3C Multimodal Interaction Framework</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="James A. Larson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T.V. Raman">
+      <organization/>
+    </author>
+    <date year="2002" month="December" day="2"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mmi-framework-20021202"/>
+</reference>

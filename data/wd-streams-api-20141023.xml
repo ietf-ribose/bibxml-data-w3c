@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-streams-api-20141023" target="http://www.w3.org/TR/2014/WD-streams-api-20141023/">
+  <front>
+    <title>Streams API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Feras Moussa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takeshi Yoshino">
+      <organization/>
+    </author>
+    <date year="2014" month="October" day="23"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-streams-api-20141023"/>
+</reference>

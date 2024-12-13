@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-owl-test-20030818" target="http://www.w3.org/TR/2003/CR-owl-test-20030818/">
+  <front>
+    <title>OWL Web Ontology Language Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeremy J. Carroll">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jos De Roo">
+      <organization/>
+    </author>
+    <date year="2003" month="August" day="18"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-owl-test-20030818"/>
+</reference>

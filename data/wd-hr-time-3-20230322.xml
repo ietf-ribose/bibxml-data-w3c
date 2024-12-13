@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-hr-time-3-20230322" target="https://www.w3.org/TR/2023/WD-hr-time-3-20230322/">
+  <front>
+    <title>High Resolution Time</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Yoav Weiss">
+      <organization/>
+    </author>
+    <date year="2023" month="March" day="22"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-hr-time-3-20230322"/>
+</reference>

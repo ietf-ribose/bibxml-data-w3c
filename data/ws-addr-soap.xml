@@ -1,9 +1,9 @@
-<reference anchor="W3C.ws-addr-soap" target="https://www.w3.org/TR/ws-addr-soap/">
+<reference anchor="W3C.ws-addr-soap" target="http://www.w3.org/TR/ws-addr-soap">
   <front>
     <title>Web Services Addressing 1.0 - SOAP Binding</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="ws-addr-soap"/>
+  <seriesInfo name="W3C WD" value="ws-addr-soap"/>
 </reference>

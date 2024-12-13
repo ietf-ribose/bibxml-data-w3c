@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-rdf-pics-20000327" target="http://www.w3.org/TR/2000/NOTE-rdf-pics-20000327">
+  <front>
+    <title>PICS Rating Vocabularies in XML/RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dan Brickley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ralph R. Swick">
+      <organization/>
+    </author>
+    <date year="2000" month="March" day="27"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-rdf-pics-20000327"/>
+</reference>

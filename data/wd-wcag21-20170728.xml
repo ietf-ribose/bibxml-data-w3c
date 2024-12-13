@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-WCAG21-20170728" target="https://www.w3.org/TR/2017/WD-WCAG21-20170728/">
+  <front>
+    <title>Web Content Accessibility Guidelines (WCAG) 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Kirkpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2017" month="July" day="28"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WCAG21-20170728"/>
+</reference>

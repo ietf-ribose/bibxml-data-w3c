@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-widgets-digsig-20090625" target="http://www.w3.org/TR/2009/CR-widgets-digsig-20090625/">
+  <front>
+    <title>Widgets 1.0: Digital Signatures</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Priestley">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="25"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-widgets-digsig-20090625"/>
+</reference>

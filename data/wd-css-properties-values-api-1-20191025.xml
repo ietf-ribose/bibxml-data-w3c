@@ -1,0 +1,27 @@
+<reference anchor="W3C.WD-css-properties-values-api-1-20191025" target="https://www.w3.org/TR/2019/WD-css-properties-values-api-1-20191025/">
+  <front>
+    <title>CSS Properties and Values API Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alan Stearns">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Glazman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Greg Whitworth">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane Stephens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2019" month="October" day="25"/>
+    <workgroup>Technical Architecture Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css-properties-values-api-1-20191025"/>
+</reference>

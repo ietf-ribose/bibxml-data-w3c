@@ -1,0 +1,9 @@
+<reference anchor="W3C.xslt-xquery-serialization-11" target="http://www.w3.org/TR/xslt-xquery-serialization-11/">
+  <front>
+    <title>XSLT and XQuery Serialization 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xslt-xquery-serialization-11"/>
+</reference>

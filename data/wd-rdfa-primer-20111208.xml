@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-rdfa-primer-20111208" target="http://www.w3.org/TR/2011/WD-rdfa-primer-20111208/">
+  <front>
+    <title>RDFa 1.1 Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ben Adida">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <date year="2011" month="December" day="8"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdfa-primer-20111208"/>
+</reference>

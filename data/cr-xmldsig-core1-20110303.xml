@@ -1,0 +1,32 @@
+<reference anchor="W3C.CR-xmldsig-core1-20110303" target="http://www.w3.org/TR/2011/CR-xmldsig-core1-20110303/">
+  <front>
+    <title>XML Signature Syntax and Processing Version 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Solo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Donald Eastlake">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Reagle">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kelvin Yiu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Magnus Nyström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Thomas Roessler">
+      <organization/>
+    </author>
+    <date year="2011" month="March" day="3"/>
+    <workgroup>XML Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xmldsig-core1-20110303"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.sawsdl" target="https://www.w3.org/TR/sawsdl/">
+<reference anchor="W3C.sawsdl" target="http://www.w3.org/TR/sawsdl/">
   <front>
     <title>Semantic Annotations for WSDL and XML Schema</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="sawsdl"/>
+  <seriesInfo name="W3C WD" value="sawsdl"/>
 </reference>

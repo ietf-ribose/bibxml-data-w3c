@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-FileAPI-20181106" target="https://www.w3.org/TR/2018/WD-FileAPI-20181106/">
+  <front>
+    <title>File API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arun Ranganathan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marijn Kruisselbrink">
+      <organization/>
+    </author>
+    <date year="2018" month="November" day="6"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-FileAPI-20181106"/>
+</reference>

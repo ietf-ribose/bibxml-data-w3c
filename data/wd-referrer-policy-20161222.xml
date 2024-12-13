@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-referrer-policy-20161222" target="https://www.w3.org/TR/2016/WD-referrer-policy-20161222/">
+  <front>
+    <title>Referrer Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Emily Stark">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jochen Eisinger">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="22"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-referrer-policy-20161222"/>
+</reference>

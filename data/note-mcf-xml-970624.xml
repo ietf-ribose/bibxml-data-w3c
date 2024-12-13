@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-MCF-XML-970624" target="http://www.w3.org/TR/NOTE-MCF-XML-970624">
+  <front>
+    <title>Meta Content Framework using XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ramanathan V. Guha">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
+    <date year="1997" month="June" day="24"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-MCF-XML-970624"/>
+</reference>

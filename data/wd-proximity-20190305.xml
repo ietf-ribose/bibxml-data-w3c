@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-proximity-20190305" target="https://www.w3.org/TR/2019/WD-proximity-20190305/">
+  <front>
+    <title>Proximity Sensor</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rijubrata Bhaumik">
+      <organization/>
+    </author>
+    <date year="2019" month="March" day="5"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-proximity-20190305"/>
+</reference>

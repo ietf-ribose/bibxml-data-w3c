@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-clreq-gap-20210614" target="https://www.w3.org/TR/2021/WD-clreq-gap-20210614/">
+  <front>
+    <title>Chinese Layout Gap Analysis</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Fuqiao Xue">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2021" month="June" day="14"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-clreq-gap-20210614"/>
+</reference>

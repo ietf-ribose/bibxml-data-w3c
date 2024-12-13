@@ -1,9 +1,9 @@
-<reference anchor="W3C.dwbp" target="https://www.w3.org/TR/dwbp/">
+<reference anchor="W3C.dwbp" target="http://www.w3.org/TR/dwbp/">
   <front>
     <title>Data on the Web Best Practices</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="dwbp"/>
+  <seriesInfo name="W3C WD" value="dwbp"/>
 </reference>

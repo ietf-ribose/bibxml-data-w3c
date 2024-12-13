@@ -1,9 +1,9 @@
-<reference anchor="W3C.css-cascade-4" target="https://www.w3.org/TR/css-cascade-4/">
+<reference anchor="W3C.css-cascade-4" target="http://www.w3.org/TR/css-cascade-4/">
   <front>
     <title>CSS Cascading and Inheritance Level 4</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="css-cascade-4"/>
+  <seriesInfo name="W3C WD" value="css-cascade-4"/>
 </reference>

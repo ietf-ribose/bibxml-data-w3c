@@ -1,9 +1,9 @@
-<reference anchor="W3C.html-longdesc" target="https://www.w3.org/TR/html-longdesc/">
+<reference anchor="W3C.html-longdesc" target="http://www.w3.org/TR/html-longdesc/">
   <front>
     <title>HTML5 Image Description Extension (longdesc)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="html-longdesc"/>
+  <seriesInfo name="W3C WD" value="html-longdesc"/>
 </reference>

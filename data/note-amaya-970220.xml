@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-amaya-970220" target="http://www.w3.org/TR/NOTE-amaya-970220">
+  <front>
+    <title>An Introduction to Amaya</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Irène Vatton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Vincent Quint">
+      <organization/>
+    </author>
+    <date year="1997" month="February" day="20"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-amaya-970220"/>
+</reference>

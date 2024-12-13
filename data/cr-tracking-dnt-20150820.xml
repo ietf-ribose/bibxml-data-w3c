@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-tracking-dnt-20150820" target="http://www.w3.org/TR/2015/CR-tracking-dnt-20150820/">
+  <front>
+    <title>Tracking Preference Expression (DNT)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Singer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roy Fielding">
+      <organization/>
+    </author>
+    <date year="2015" month="August" day="20"/>
+    <workgroup>Tracking Protection Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-tracking-dnt-20150820"/>
+</reference>

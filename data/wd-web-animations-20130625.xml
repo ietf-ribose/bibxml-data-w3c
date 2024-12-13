@@ -1,0 +1,27 @@
+<reference anchor="W3C.WD-web-animations-20130625" target="http://www.w3.org/TR/2013/WD-web-animations-20130625/">
+  <front>
+    <title>Web Animations 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Danilo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brian Birtles">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dmitry Baranovskiy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane Stephens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2013" month="June" day="25"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-web-animations-20130625"/>
+</reference>

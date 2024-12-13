@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-XMLHttpRequest-20060619" target="http://www.w3.org/TR/2006/WD-XMLHttpRequest-20060619/">
+  <front>
+    <title>The XMLHttpRequest Object</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <date year="2006" month="June" day="19"/>
+    <workgroup>Web API Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-XMLHttpRequest-20060619"/>
+</reference>

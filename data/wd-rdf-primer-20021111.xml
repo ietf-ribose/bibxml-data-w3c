@@ -1,0 +1,16 @@
+<reference anchor="W3C.WD-rdf-primer-20021111" target="http://www.w3.org/TR/2002/WD-rdf-primer-20021111/">
+  <front>
+    <title>RDF Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Miller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frank Manola">
+      <organization/>
+    </author>
+    <date year="2002" month="November" day="11"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdf-primer-20021111"/>
+</reference>

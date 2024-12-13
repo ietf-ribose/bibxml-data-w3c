@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-css-scroll-snap-1-20171214" target="https://www.w3.org/TR/2017/CR-css-scroll-snap-1-20171214/">
+  <front>
+    <title>CSS Scroll Snap Module Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jacob Rossi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matt Rakow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tab Atkins Jr.">
+      <organization/>
+    </author>
+    <date year="2017" month="December" day="14"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-css-scroll-snap-1-20171214"/>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-SAC-20000728" target="http://www.w3.org/TR/2000/NOTE-SAC-20000728">
+  <front>
+    <title>SAC: Simple API for CSS</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bert Bos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <date year="2000" month="July" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SAC-20000728"/>
+</reference>

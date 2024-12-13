@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-ws-cdl-10-20040427" target="http://www.w3.org/TR/2004/WD-ws-cdl-10-20040427/">
+  <front>
+    <title>Web Services Choreography Description Language Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Burdett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Greg Ritzinger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nickolas Kavantzas">
+      <organization/>
+    </author>
+    <date year="2004" month="April" day="27"/>
+    <workgroup>Web Services Choreography Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-cdl-10-20040427"/>
+</reference>

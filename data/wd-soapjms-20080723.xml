@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-soapjms-20080723" target="http://www.w3.org/TR/2008/WD-soapjms-20080723">
+  <front>
+    <title>SOAP over Java Message Service 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Bhakti Mehta">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Easton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <date year="2008" month="July" day="23"/>
+    <workgroup>SOAP-JMS Binding Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-soapjms-20080723"/>
+</reference>

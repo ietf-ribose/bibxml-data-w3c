@@ -1,0 +1,9 @@
+<reference anchor="W3C.WebData" target="http://www.w3.org/1999/04/WebData">
+  <front>
+    <title>Web Architecture: Describing and Exchanging Data</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="WebData"/>
+</reference>

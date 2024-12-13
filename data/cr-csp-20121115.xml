@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-CSP-20121115" target="http://www.w3.org/TR/2012/CR-CSP-20121115/">
+  <front>
+    <title>Content Security Policy 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Barth">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Brandon Sterne">
+      <organization/>
+    </author>
+    <date year="2012" month="November" day="15"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-CSP-20121115"/>
+</reference>

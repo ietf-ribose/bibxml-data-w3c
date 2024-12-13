@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-csp-cookies-20151215" target="http://www.w3.org/TR/2015/WD-csp-cookies-20151215/">
+  <front>
+    <title>Content Security Policy: Cookie Controls</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2015" month="December" day="15"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-csp-cookies-20151215"/>
+</reference>

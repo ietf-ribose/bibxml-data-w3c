@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-widgets-updates-20081007" target="http://www.w3.org/TR/2008/WD-widgets-updates-20081007/">
+  <front>
+    <title>Widgets 1.0: Updates</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2008" month="October" day="7"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-widgets-updates-20081007"/>
+</reference>

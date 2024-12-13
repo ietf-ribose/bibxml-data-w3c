@@ -1,4 +1,4 @@
-<reference anchor="W3C.exi-evaluation" target="https://www.w3.org/TR/exi-evaluation/">
+<reference anchor="W3C.exi-evaluation" target="http://www.w3.org/TR/exi-evaluation">
   <front>
     <title>Efficient XML Interchange Evaluation</title>
     <author>

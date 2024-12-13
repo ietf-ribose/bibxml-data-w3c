@@ -1,6 +1,6 @@
-<reference anchor="W3C.fingerprinting-guidance" target="https://www.w3.org/TR/fingerprinting-guidance/">
+<reference anchor="W3C.fingerprinting-guidance" target="http://www.w3.org/TR/fingerprinting-guidance/">
   <front>
-    <title>Mitigating Browser Fingerprinting in Web Specifications</title>
+    <title>Fingerprinting Guidance for Web Specification Authors (Draft)</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

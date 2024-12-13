@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-css3-page-19990928" target="http://www.w3.org/TR/1999/WD-css3-page-19990928">
+  <front>
+    <title>Paged Media Properties for CSS3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robert Stevahn">
+      <organization/>
+    </author>
+    <date year="1999" month="September" day="28"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css3-page-19990928"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.css-tv" target="https://www.w3.org/TR/css-tv/">
+<reference anchor="W3C.css-tv" target="http://www.w3.org/TR/css-tv">
   <front>
     <title>CSS TV Profile 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="css-tv"/>
+  <seriesInfo name="W3C CR" value="css-tv"/>
 </reference>

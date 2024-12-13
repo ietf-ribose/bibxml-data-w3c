@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-pics-ng-metadata" target="http://www.w3.org/TR/NOTE-pics-ng-metadata">
+  <front>
+    <title>PICS-NG Metadata Model and Label Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-pics-ng-metadata"/>
+</reference>

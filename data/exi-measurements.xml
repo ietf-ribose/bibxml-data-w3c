@@ -1,4 +1,4 @@
-<reference anchor="W3C.exi-measurements" target="https://www.w3.org/TR/exi-measurements/">
+<reference anchor="W3C.exi-measurements" target="http://www.w3.org/TR/exi-measurements/">
   <front>
     <title>Efficient XML Interchange Measurements Note</title>
     <author>

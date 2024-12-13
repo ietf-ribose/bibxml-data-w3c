@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-xml11-20021015" target="http://www.w3.org/TR/2002/CR-xml11-20021015">
+  <front>
+    <title>Extensible Markup Language (XML) 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Cowan">
+      <organization/>
+    </author>
+    <date year="2002" month="October" day="15"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xml11-20021015"/>
+</reference>

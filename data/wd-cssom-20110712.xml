@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-cssom-20110712" target="http://www.w3.org/TR/2011/WD-cssom-20110712/">
+  <front>
+    <title>CSSOM</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <date year="2011" month="July" day="12"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-cssom-20110712"/>
+</reference>

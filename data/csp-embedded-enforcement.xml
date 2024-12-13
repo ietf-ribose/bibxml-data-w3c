@@ -1,4 +1,4 @@
-<reference anchor="W3C.csp-embedded-enforcement" target="https://www.w3.org/TR/csp-embedded-enforcement/">
+<reference anchor="W3C.csp-embedded-enforcement" target="http://www.w3.org/TR/csp-embedded-enforcement/">
   <front>
     <title>Content Security Policy: Embedded Enforcement</title>
     <author>

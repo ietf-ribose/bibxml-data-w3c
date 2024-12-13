@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-widgets-20081222" target="http://www.w3.org/TR/2008/WD-widgets-20081222/">
+  <front>
+    <title>Widgets 1.0: Packaging and Configuration</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2008" month="December" day="22"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-widgets-20081222"/>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="W3C.CR-xpath-31-20161213" target="https://www.w3.org/TR/2016/CR-xpath-31-20161213/">
+  <front>
+    <title>XML Path Language (XPath) 3.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Josh Spiegel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Dyck">
+      <organization/>
+    </author>
+    <date year="2016" month="December" day="13"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xpath-31-20161213"/>
+</reference>

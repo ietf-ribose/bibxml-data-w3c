@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-appmanifest-20180129" target="https://www.w3.org/TR/2018/WD-appmanifest-20180129/">
+  <front>
+    <title>Web App Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kenneth Christiansen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mounir Lamouri">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rob Dolin">
+      <organization/>
+    </author>
+    <date year="2018" month="January" day="29"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-appmanifest-20180129"/>
+</reference>

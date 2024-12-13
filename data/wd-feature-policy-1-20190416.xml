@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-feature-policy-1-20190416" target="https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/">
+  <front>
+    <title>Feature Policy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Clelland">
+      <organization/>
+    </author>
+    <date year="2019" month="April" day="16"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-feature-policy-1-20190416"/>
+</reference>

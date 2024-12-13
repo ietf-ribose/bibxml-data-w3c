@@ -1,0 +1,20 @@
+<reference anchor="W3C.CR-owl-semantics-20030818" target="http://www.w3.org/TR/2003/CR-owl-semantics-20030818/">
+  <front>
+    <title>OWL Web Ontology Language Semantics and Abstract Syntax</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Hayes">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter F. Patel-Schneider">
+      <organization/>
+    </author>
+    <date year="2003" month="August" day="18"/>
+    <workgroup>Web-Ontology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-owl-semantics-20030818"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-adlm-lreq-20240530" target="https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240530/">
+  <front>
+    <title>Adlam Layout Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="30"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-adlm-lreq-20240530"/>
+</reference>

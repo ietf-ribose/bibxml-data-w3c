@@ -1,0 +1,9 @@
+<reference anchor="W3C.web-alarms" target="http://www.w3.org/TR/web-alarms/">
+  <front>
+    <title>Web Alarms API Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="web-alarms"/>
+</reference>

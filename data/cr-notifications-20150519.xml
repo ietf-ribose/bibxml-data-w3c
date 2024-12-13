@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-notifications-20150519" target="http://www.w3.org/TR/2015/CR-notifications-20150519/">
+  <front>
+    <title>Web Notifications</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Gregg">
+      <organization/>
+    </author>
+    <date year="2015" month="May" day="19"/>
+    <workgroup>Web Notification Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-notifications-20150519"/>
+</reference>

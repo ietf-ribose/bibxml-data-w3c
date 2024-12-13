@@ -1,4 +1,4 @@
-<reference anchor="W3C.css-content-3" target="https://www.w3.org/TR/css-content-3/">
+<reference anchor="W3C.css-content-3" target="http://www.w3.org/TR/css-content-3/">
   <front>
     <title>CSS Generated Content Module Level 3</title>
     <author>

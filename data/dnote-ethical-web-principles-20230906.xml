@@ -1,0 +1,20 @@
+<reference anchor="W3C.DNOTE-ethical-web-principles-20230906" target="https://www.w3.org/TR/2023/DNOTE-ethical-web-principles-20230906/">
+  <front>
+    <title>W3C TAG Ethical Web Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amy Guy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Appelquist">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hadley Beeman">
+      <organization/>
+    </author>
+    <date year="2023" month="September" day="6"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-ethical-web-principles-20230906"/>
+</reference>

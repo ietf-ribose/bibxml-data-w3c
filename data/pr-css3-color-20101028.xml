@@ -1,0 +1,20 @@
+<reference anchor="W3C.PR-css3-color-20101028" target="http://www.w3.org/TR/2010/PR-css3-color-20101028">
+  <front>
+    <title>CSS Color Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="L. David Baron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2010" month="October" day="28"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-css3-color-20101028"/>
+</reference>

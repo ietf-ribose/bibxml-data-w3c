@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-wake-lock-20160803" target="https://www.w3.org/TR/2016/WD-wake-lock-20160803/">
+  <front>
+    <title>Wake Lock API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="August" day="3"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wake-lock-20160803"/>
+</reference>

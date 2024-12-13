@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-ws-event-descriptions-20100805" target="http://www.w3.org/TR/2010/WD-ws-event-descriptions-20100805">
+  <front>
+    <title>Web Services Event Descriptions (WS-EventDescriptions)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Davis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Katy Warr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wu Chou">
+      <organization/>
+    </author>
+    <date year="2010" month="August" day="5"/>
+    <workgroup>Web Services Resource Access Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-event-descriptions-20100805"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-CSP3-20181015" target="https://www.w3.org/TR/2018/WD-CSP3-20181015/">
+  <front>
+    <title>Content Security Policy Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Mike West">
+      <organization/>
+    </author>
+    <date year="2018" month="October" day="15"/>
+    <workgroup>Web Application Security Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CSP3-20181015"/>
+</reference>

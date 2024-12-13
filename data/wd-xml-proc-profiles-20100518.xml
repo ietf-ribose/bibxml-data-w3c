@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-xml-proc-profiles-20100518" target="http://www.w3.org/TR/2010/WD-xml-proc-profiles-20100518/">
+  <front>
+    <title>XML processor profiles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2010" month="May" day="18"/>
+    <workgroup>XML Processing Model Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xml-proc-profiles-20100518"/>
+</reference>

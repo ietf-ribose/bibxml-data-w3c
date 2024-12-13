@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-streamproc-20111215" target="http://www.w3.org/TR/2011/WD-streamproc-20111215/">
+  <front>
+    <title>MediaStream Processing API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Robert O'Callahan">
+      <organization/>
+    </author>
+    <date year="2011" month="December" day="15"/>
+    <workgroup>Audio Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-streamproc-20111215"/>
+</reference>

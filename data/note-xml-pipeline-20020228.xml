@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-xml-pipeline-20020228" target="http://www.w3.org/TR/2002/NOTE-xml-pipeline-20020228/">
+  <front>
+    <title>XML Pipeline Definition Language Version 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eve Maler">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2002" month="February" day="28"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xml-pipeline-20020228"/>
+</reference>

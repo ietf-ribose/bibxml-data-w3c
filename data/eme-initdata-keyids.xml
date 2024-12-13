@@ -1,4 +1,4 @@
-<reference anchor="W3C.eme-initdata-keyids" target="https://www.w3.org/TR/eme-initdata-keyids/">
+<reference anchor="W3C.eme-initdata-keyids" target="http://www.w3.org/TR/eme-initdata-keyids/">
   <front>
     <title>"keyids" Initialization Data Format</title>
     <author>

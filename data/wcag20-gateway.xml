@@ -1,0 +1,9 @@
+<reference anchor="W3C.WCAG20-GATEWAY" target="http://www.w3.org/TR/WCAG20-GATEWAY/">
+  <front>
+    <title>Gateway to Techniques for WCAG 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="WCAG20-GATEWAY"/>
+</reference>

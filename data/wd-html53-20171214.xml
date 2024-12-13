@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-html53-20171214" target="https://www.w3.org/TR/2017/WD-html53-20171214/">
+  <front>
+    <title>HTML 5.3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2017" month="December" day="14"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html53-20171214"/>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="W3C.WD-xhtml2-20030131" target="http://www.w3.org/TR/2003/WD-xhtml2-20030131">
+  <front>
+    <title>XHTML 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ann Navarro">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Beth Epperson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonny Axelsson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <date year="2003" month="January" day="31"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml2-20030131"/>
+</reference>

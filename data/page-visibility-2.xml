@@ -1,9 +1,9 @@
-<reference anchor="W3C.page-visibility-2" target="https://www.w3.org/TR/page-visibility-2/">
+<reference anchor="W3C.page-visibility-2" target="http://www.w3.org/TR/page-visibility-2/">
   <front>
-    <title>Page Visibility Level 2</title>
+    <title>Page Visibility 2</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C technicalReport" value="page-visibility-2"/>
+  <seriesInfo name="W3C WD" value="page-visibility-2"/>
 </reference>

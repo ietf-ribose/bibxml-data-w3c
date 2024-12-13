@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-verifiable-claims-data-model-20190208" target="https://www.w3.org/TR/2019/WD-verifiable-claims-data-model-20190208/">
+  <front>
+    <title>Verifiable Credentials Data Model 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Burnett">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Longley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gregg Kellogg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <date year="2019" month="February" day="8"/>
+    <workgroup>Verifiable Credentials Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-verifiable-claims-data-model-20190208"/>
+</reference>

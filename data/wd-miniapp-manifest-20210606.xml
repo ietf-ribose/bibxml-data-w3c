@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-miniapp-manifest-20210606" target="https://www.w3.org/TR/2021/WD-miniapp-manifest-20210606/">
+  <front>
+    <title>MiniApp Manifest</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Martin Alvarez-Espinar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shouren Lan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Xiaofeng Zhang">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yongjing ZHANG">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zhiqiang Yu">
+      <organization/>
+    </author>
+    <date year="2021" month="June" day="6"/>
+    <workgroup>MiniApps Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-miniapp-manifest-20210606"/>
+</reference>

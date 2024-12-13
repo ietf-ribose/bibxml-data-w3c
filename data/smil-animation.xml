@@ -1,4 +1,4 @@
-<reference anchor="W3C.smil-animation" target="https://www.w3.org/TR/smil-animation/">
+<reference anchor="W3C.smil-animation" target="http://www.w3.org/TR/smil-animation/">
   <front>
     <title>SMIL Animation</title>
     <author>

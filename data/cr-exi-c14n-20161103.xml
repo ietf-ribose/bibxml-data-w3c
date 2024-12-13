@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-exi-c14n-20161103" target="https://www.w3.org/TR/2016/CR-exi-c14n-20161103/">
+  <front>
+    <title>Canonical EXI</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Käbisch">
+      <organization/>
+    </author>
+    <date year="2016" month="November" day="3"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-exi-c14n-20161103"/>
+</reference>

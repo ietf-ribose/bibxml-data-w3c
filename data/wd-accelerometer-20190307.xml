@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-accelerometer-20190307" target="https://www.w3.org/TR/2019/WD-accelerometer-20190307/">
+  <front>
+    <title>Accelerometer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2019" month="March" day="7"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-accelerometer-20190307"/>
+</reference>

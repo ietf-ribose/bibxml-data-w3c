@@ -1,0 +1,29 @@
+<reference anchor="W3C.PR-core-aam-1.1-20171102" target="https://www.w3.org/TR/2017/PR-core-aam-1.1-20171102/">
+  <front>
+    <title>Core Accessibility API Mappings 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Leventhal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andi Snow-Weaver">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joanmarie Diggs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joseph Scheuhammer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2017" month="November" day="2"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-core-aam-1.1-20171102"/>
+</reference>

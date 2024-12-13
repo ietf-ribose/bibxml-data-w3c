@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-XMLHttpRequest-20140130" target="http://www.w3.org/TR/2014/WD-XMLHttpRequest-20140130/">
+  <front>
+    <title>XMLHttpRequest Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hallvord Steen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Julian Aubourg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jungkee Song">
+      <organization/>
+    </author>
+    <date year="2014" month="January" day="30"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-XMLHttpRequest-20140130"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ws-i18n-req-20031217" target="http://www.w3.org/TR/2003/WD-ws-i18n-req-20031217/">
+  <front>
+    <title>Requirements for the Internationalization of Web Services</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <date year="2003" month="December" day="17"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-i18n-req-20031217"/>
+</reference>

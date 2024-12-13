@@ -1,9 +1,9 @@
-<reference anchor="W3C.SVG2" target="https://www.w3.org/TR/SVG2/">
+<reference anchor="W3C.SVG2" target="http://www.w3.org/TR/SVG2/">
   <front>
     <title>Scalable Vector Graphics (SVG) 2</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="SVG2"/>
+  <seriesInfo name="W3C WD" value="SVG2"/>
 </reference>

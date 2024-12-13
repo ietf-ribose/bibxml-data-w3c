@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-mwabp-20100713" target="http://www.w3.org/TR/2010/WD-mwabp-20100713/">
+  <front>
+    <title>Mobile Web Application Best Practices</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Adam Connors">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Bryan Sullivan">
+      <organization/>
+    </author>
+    <date year="2010" month="July" day="13"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mwabp-20100713"/>
+</reference>

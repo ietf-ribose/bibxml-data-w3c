@@ -1,0 +1,9 @@
+<reference anchor="W3C.wsdl20-patterns" target="http://www.w3.org/TR/wsdl20-patterns">
+  <front>
+    <title>Web Services Description Language (WSDL) Version 2.0 Part 2: Message Exchange Patterns</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="wsdl20-patterns"/>
+</reference>

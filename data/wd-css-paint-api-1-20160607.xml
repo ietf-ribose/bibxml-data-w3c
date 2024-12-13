@@ -1,0 +1,21 @@
+<reference anchor="W3C.WD-css-paint-api-1-20160607" target="http://www.w3.org/TR/2016/WD-css-paint-api-1-20160607/">
+  <front>
+    <title>CSS Painting API Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Kilpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane Stephens">
+      <organization/>
+    </author>
+    <date year="2016" month="June" day="7"/>
+    <workgroup>Technical Architecture Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css-paint-api-1-20160607"/>
+</reference>

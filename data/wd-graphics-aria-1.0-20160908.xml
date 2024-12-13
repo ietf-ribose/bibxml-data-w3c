@@ -1,0 +1,12 @@
+<reference anchor="W3C.WD-graphics-aria-1.0-20160908" target="https://www.w3.org/TR/2016/WD-graphics-aria-1.0-20160908/">
+  <front>
+    <title>WAI-ARIA Graphics Module</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="September" day="8"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-graphics-aria-1.0-20160908"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-media-frags-20110317" target="http://www.w3.org/TR/2011/WD-media-frags-20110317">
+  <front>
+    <title>Media Fragments URI 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Davy Van Deursen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Mannens">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raphaël Troncy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Silvia Pfeiffer">
+      <organization/>
+    </author>
+    <date year="2011" month="March" day="17"/>
+    <workgroup>Media Fragments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-media-frags-20110317"/>
+</reference>

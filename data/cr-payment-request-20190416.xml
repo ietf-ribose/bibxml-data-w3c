@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-payment-request-20190416" target="https://www.w3.org/TR/2019/CR-payment-request-20190416/">
+  <front>
+    <title>Payment Request API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Domenic Denicola">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rouslan Solomakhin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roy McElmurry">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zach Koch">
+      <organization/>
+    </author>
+    <date year="2019" month="April" day="16"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-payment-request-20190416"/>
+</reference>

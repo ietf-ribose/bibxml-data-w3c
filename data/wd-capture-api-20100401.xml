@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-capture-api-20100401" target="http://www.w3.org/TR/2010/WD-capture-api-20100401/">
+  <front>
+    <title>The Capture API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dzung D Tran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ilkka Oksanen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ingmar Kliche">
+      <organization/>
+    </author>
+    <date year="2010" month="April" day="1"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-capture-api-20100401"/>
+</reference>

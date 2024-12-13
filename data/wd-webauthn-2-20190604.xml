@@ -1,0 +1,35 @@
+<reference anchor="W3C.WD-webauthn-2-20190604" target="https://www.w3.org/TR/2019/WD-webauthn-2-20190604/">
+  <front>
+    <title>Web Authentication:An API for accessing Public Key Credentials Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Akshay Kumar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Alexei Czeskis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dirk Balfanz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Emil Lundberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="J.C. Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeff Hodges">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rolf Lindemann">
+      <organization/>
+    </author>
+    <date year="2019" month="June" day="4"/>
+    <workgroup>Web Authentication Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webauthn-2-20190604"/>
+</reference>

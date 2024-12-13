@@ -1,0 +1,9 @@
+<reference anchor="W3C.xpath-21" target="http://www.w3.org/TR/xpath-21/">
+  <front>
+    <title>XML Path Language (XPath) 2.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xpath-21"/>
+</reference>

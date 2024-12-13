@@ -1,9 +1,9 @@
-<reference anchor="W3C.mediacapture-streams" target="https://www.w3.org/TR/mediacapture-streams/">
+<reference anchor="W3C.mediacapture-streams" target="http://www.w3.org/TR/mediacapture-streams/">
   <front>
     <title>Media Capture and Streams</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C CR" value="mediacapture-streams"/>
+  <seriesInfo name="W3C WD" value="mediacapture-streams"/>
 </reference>

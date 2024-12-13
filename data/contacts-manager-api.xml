@@ -1,9 +1,9 @@
-<reference anchor="W3C.contacts-manager-api" target="https://www.w3.org/TR/contacts-manager-api/">
+<reference anchor="W3C.contacts-manager-api" target="http://www.w3.org/TR/contacts-manager-api/">
   <front>
     <title>Contacts Manager API</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="contacts-manager-api"/>
+  <seriesInfo name="W3C WD" value="contacts-manager-api"/>
 </reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.css-print" target="https://www.w3.org/TR/css-print/">
+<reference anchor="W3C.css-print" target="http://www.w3.org/TR/css-print">
   <front>
     <title>CSS Print Profile</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="css-print"/>
+  <seriesInfo name="W3C WD" value="css-print"/>
 </reference>

@@ -1,6 +1,6 @@
-<reference anchor="W3C.SVGTiny12Reqs" target="https://www.w3.org/TR/SVGTiny12Reqs/">
+<reference anchor="W3C.SVGTiny12Reqs" target="http://www.w3.org/TR/SVGTiny12Reqs">
   <front>
-    <title>SVGT 1.2 Requirements</title>
+    <title>SVG Tiny Version 1.2 Requirements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>

@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-its2req-20120524" target="http://www.w3.org/TR/2012/WD-its2req-20120524/">
+  <front>
+    <title>Requirements for Internationalization Tag Set (ITS) 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Arle Lommel">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Felix Sasaki">
+      <organization/>
+    </author>
+    <date year="2012" month="May" day="24"/>
+    <workgroup>MultilingualWeb-LT Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-its2req-20120524"/>
+</reference>

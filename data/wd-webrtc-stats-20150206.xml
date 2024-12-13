@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-webrtc-stats-20150206" target="http://www.w3.org/TR/2015/WD-webrtc-stats-20150206/">
+  <front>
+    <title>Identifiers for WebRTC's Statistics API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Harald Alvestrand">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Varun Singh">
+      <organization/>
+    </author>
+    <date year="2015" month="February" day="6"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webrtc-stats-20150206"/>
+</reference>

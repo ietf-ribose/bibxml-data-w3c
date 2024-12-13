@@ -1,9 +1,9 @@
-<reference anchor="W3C.rdf-concepts" target="https://www.w3.org/TR/rdf-concepts/">
+<reference anchor="W3C.rdf-concepts" target="http://www.w3.org/TR/rdf-concepts/">
   <front>
     <title>Resource Description Framework (RDF): Concepts and Abstract Syntax</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="rdf-concepts"/>
+  <seriesInfo name="W3C WD" value="rdf-concepts"/>
 </reference>

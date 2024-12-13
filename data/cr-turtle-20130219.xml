@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-turtle-20130219" target="http://www.w3.org/TR/2013/CR-turtle-20130219/">
+  <front>
+    <title>Turtle</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Gavin Carothers">
+      <organization/>
+    </author>
+    <date year="2013" month="February" day="19"/>
+    <workgroup>RDF Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-turtle-20130219"/>
+</reference>

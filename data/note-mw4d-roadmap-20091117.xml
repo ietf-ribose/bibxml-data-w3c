@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-mw4d-roadmap-20091117" target="http://www.w3.org/TR/2009/NOTE-mw4d-roadmap-20091117/">
+  <front>
+    <title>Mobile Web for Social Development Roadmap</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Stéphane Boyera">
+      <organization/>
+    </author>
+    <date year="2009" month="November" day="17"/>
+    <workgroup>MW4D Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-mw4d-roadmap-20091117"/>
+</reference>

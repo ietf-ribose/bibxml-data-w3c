@@ -1,0 +1,34 @@
+<reference anchor="W3C.NOTE-SOX-19990730" target="http://www.w3.org/1999/07/NOTE-SOX-19990730">
+  <front>
+    <title>Schema for Object-oriented XML 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Davidson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lloyd">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jari Koistinen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kelly Schwarzhof">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew Fuchs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mette Hedin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mudita Jain">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Murray Maloney">
+      <organization/>
+    </author>
+    <date year="1999" month="July" day="30"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SOX-19990730"/>
+</reference>

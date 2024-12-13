@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-hlink-20020913" target="http://www.w3.org/TR/2002/WD-hlink-20020913/">
+  <front>
+    <title>HLink: Link recognition for the XHTML Family</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steven Pemberton">
+      <organization/>
+    </author>
+    <date year="2002" month="September" day="13"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-hlink-20020913"/>
+</reference>

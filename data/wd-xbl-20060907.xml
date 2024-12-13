@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xbl-20060907" target="http://www.w3.org/TR/2006/WD-xbl-20060907/">
+  <front>
+    <title>XML Binding Language (XBL) 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2006" month="September" day="7"/>
+    <workgroup>Web Application Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xbl-20060907"/>
+</reference>

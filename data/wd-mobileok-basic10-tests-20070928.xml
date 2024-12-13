@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-mobileOK-basic10-tests-20070928" target="http://www.w3.org/TR/2007/WD-mobileOK-basic10-tests-20070928/">
+  <front>
+    <title>W3C mobileOK Basic Tests 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jo Rabin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sean Owen">
+      <organization/>
+    </author>
+    <date year="2007" month="September" day="28"/>
+    <workgroup>Mobile Web Best Practices Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-mobileOK-basic10-tests-20070928"/>
+</reference>

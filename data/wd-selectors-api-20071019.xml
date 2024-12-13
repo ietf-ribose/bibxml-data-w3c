@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-selectors-api-20071019" target="http://www.w3.org/TR/2007/WD-selectors-api-20071019/">
+  <front>
+    <title>Selectors API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anne van Kesteren">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lachlan Hunt">
+      <organization/>
+    </author>
+    <date year="2007" month="October" day="19"/>
+    <workgroup>Web API Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-selectors-api-20071019"/>
+</reference>

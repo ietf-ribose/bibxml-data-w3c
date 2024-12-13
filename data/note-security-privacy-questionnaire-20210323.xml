@@ -1,0 +1,18 @@
+<reference anchor="W3C.NOTE-security-privacy-questionnaire-20210323" target="https://www.w3.org/TR/2021/NOTE-security-privacy-questionnaire-20210323/">
+  <front>
+    <title>Self-Review Questionnaire: Security and Privacy</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Peter Snyder">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Theresa O'Connor">
+      <organization/>
+    </author>
+    <date year="2021" month="March" day="23"/>
+    <workgroup>Technical Architecture Group</workgroup>
+    <workgroup>Privacy Interest Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-security-privacy-questionnaire-20210323"/>
+</reference>

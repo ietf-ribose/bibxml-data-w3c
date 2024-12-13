@@ -1,0 +1,26 @@
+<reference anchor="W3C.PER-xml-names-20090806" target="http://www.w3.org/TR/2009/PER-xml-names-20090806/">
+  <front>
+    <title>Namespaces in XML 1.0 (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andrew Layman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Hollander">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henry S. Thompson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Tobin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Bray">
+      <organization/>
+    </author>
+    <date year="2009" month="August" day="6"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xml-names-20090806"/>
+</reference>

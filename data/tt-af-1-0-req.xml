@@ -1,0 +1,9 @@
+<reference anchor="W3C.tt-af-1-0-req" target="http://www.w3.org/TR/tt-af-1-0-req">
+  <front>
+    <title>Timed Text (TT) Authoring Format 1.0 Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="tt-af-1-0-req"/>
+</reference>

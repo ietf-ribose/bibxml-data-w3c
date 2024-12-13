@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-xhtml-m12n-schema-20021209" target="http://www.w3.org/TR/2002/WD-xhtml-m12n-schema-20021209">
+  <front>
+    <title>Modularization of XHTML in XML Schema</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Austin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Masayasu Ishikawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <date year="2002" month="December" day="9"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-m12n-schema-20021209"/>
+</reference>

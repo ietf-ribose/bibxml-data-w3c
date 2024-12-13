@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ElementTraversal-20080303" target="http://www.w3.org/TR/2008/WD-ElementTraversal-20080303/">
+  <front>
+    <title>Element Traversal Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <date year="2008" month="March" day="3"/>
+    <workgroup>Web API Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ElementTraversal-20080303"/>
+</reference>

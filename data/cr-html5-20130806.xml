@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-html5-20130806" target="http://www.w3.org/TR/2013/CR-html5-20130806/">
+  <front>
+    <title>HTML5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Edward O'Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erika Doyle Navara">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robin Berjon">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Silvia Pfeiffer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2013" month="August" day="6"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-html5-20130806"/>
+</reference>

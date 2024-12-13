@@ -1,9 +1,9 @@
-<reference anchor="W3C.eventsource" target="https://www.w3.org/TR/eventsource/">
+<reference anchor="W3C.eventsource" target="http://www.w3.org/TR/eventsource/">
   <front>
     <title>Server-Sent Events</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="eventsource"/>
+  <seriesInfo name="W3C CR" value="eventsource"/>
 </reference>

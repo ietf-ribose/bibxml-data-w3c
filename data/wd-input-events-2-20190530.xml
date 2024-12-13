@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-input-events-2-20190530" target="https://www.w3.org/TR/2019/WD-input-events-2-20190530/">
+  <front>
+    <title>Input Events Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Johannes Wilm">
+      <organization/>
+    </author>
+    <date year="2019" month="May" day="30"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-input-events-2-20190530"/>
+</reference>

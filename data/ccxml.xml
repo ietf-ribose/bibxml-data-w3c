@@ -1,9 +1,9 @@
-<reference anchor="W3C.ccxml" target="https://www.w3.org/TR/ccxml/">
+<reference anchor="W3C.ccxml" target="http://www.w3.org/TR/ccxml/">
   <front>
     <title>Voice Browser Call Control: CCXML Version 1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="ccxml"/>
+  <seriesInfo name="W3C WD" value="ccxml"/>
 </reference>

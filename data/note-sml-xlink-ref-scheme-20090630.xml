@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-sml-xlink-ref-scheme-20090630" target="http://www.w3.org/TR/2009/NOTE-sml-xlink-ref-scheme-20090630">
+  <front>
+    <title>The SML XLink Reference Scheme</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Len Charest">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Pratul Dublish">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="30"/>
+    <workgroup>Service Modeling Language</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-sml-xlink-ref-scheme-20090630"/>
+</reference>

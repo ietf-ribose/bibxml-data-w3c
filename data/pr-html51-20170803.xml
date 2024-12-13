@@ -1,0 +1,23 @@
+<reference anchor="W3C.PR-html51-20170803" target="https://www.w3.org/TR/2017/PR-html51-20170803/">
+  <front>
+    <title>HTML 5.1 2nd Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alex Danilo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Arron Eicholz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Steve Faulkner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2017" month="August" day="3"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-html51-20170803"/>
+</reference>

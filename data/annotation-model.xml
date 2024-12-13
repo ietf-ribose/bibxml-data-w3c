@@ -1,9 +1,9 @@
-<reference anchor="W3C.annotation-model" target="https://www.w3.org/TR/annotation-model/">
+<reference anchor="W3C.annotation-model" target="http://www.w3.org/TR/annotation-model/">
   <front>
     <title>Web Annotation Data Model</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="annotation-model"/>
+  <seriesInfo name="W3C WD" value="annotation-model"/>
 </reference>

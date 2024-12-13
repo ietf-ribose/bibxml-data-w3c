@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-battery-status-20111129" target="http://www.w3.org/TR/2011/WD-battery-status-20111129/">
+  <front>
+    <title>Battery Status API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2011" month="November" day="29"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-battery-status-20111129"/>
+</reference>

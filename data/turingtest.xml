@@ -1,9 +1,9 @@
-<reference anchor="W3C.turingtest" target="https://www.w3.org/TR/turingtest/">
+<reference anchor="W3C.turingtest" target="http://www.w3.org/TR/turingtest">
   <front>
-    <title>Inaccessibility of CAPTCHA</title>
+    <title>Inaccessibility of Visually-Oriented Anti-Robot Tests</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="turingtest"/>
+  <seriesInfo name="W3C WD" value="turingtest"/>
 </reference>

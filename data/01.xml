@@ -1,0 +1,16 @@
+<reference anchor="W3C.01" target="http://www.w3.org/1999/04/Editing/01">
+  <front>
+    <title>Editing the Web: Detecting the Lost Update Problem Using Unreserved Checkout</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel LaLiberte">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Frystyk Nielsen">
+      <organization/>
+    </author>
+    <date year="1999" month="May" day="10"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="01"/>
+</reference>

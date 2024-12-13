@@ -1,0 +1,9 @@
+<reference anchor="W3C.patent-practice" target="http://www.w3.org/TR/patent-practice">
+  <front>
+    <title>Current Patent Practice</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="patent-practice"/>
+</reference>

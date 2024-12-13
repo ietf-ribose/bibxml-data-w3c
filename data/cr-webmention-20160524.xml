@@ -1,0 +1,14 @@
+<reference anchor="W3C.CR-webmention-20160524" target="http://www.w3.org/TR/2016/CR-webmention-20160524/">
+  <front>
+    <title>Webmention</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Aaron Parecki">
+      <organization/>
+    </author>
+    <date year="2016" month="May" day="24"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-webmention-20160524"/>
+</reference>

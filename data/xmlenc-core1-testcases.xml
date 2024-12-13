@@ -1,0 +1,9 @@
+<reference anchor="W3C.xmlenc-core1-testcases" target="http://www.w3.org/TR/xmlenc-core1-testcases/">
+  <front>
+    <title>Test cases for XML Encryption 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="xmlenc-core1-testcases"/>
+</reference>

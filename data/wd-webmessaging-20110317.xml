@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webmessaging-20110317" target="http://www.w3.org/TR/2011/WD-webmessaging-20110317/">
+  <front>
+    <title>HTML5 Web Messaging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2011" month="March" day="17"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webmessaging-20110317"/>
+</reference>

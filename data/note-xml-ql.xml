@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-xml-ql" target="http://www.w3.org/TR/NOTE-xml-ql">
+  <front>
+    <title>XML-QL: A Query Language for XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xml-ql"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.DOM-Requirements" target="https://www.w3.org/TR/DOM-Requirements/">
+<reference anchor="W3C.DOM-Requirements" target="http://www.w3.org/TR/DOM-Requirements/">
   <front>
     <title>Document Object Model (DOM) Requirements</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="DOM-Requirements"/>
+  <seriesInfo name="W3C WD" value="DOM-Requirements"/>
 </reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-activitypub-20170509" target="https://www.w3.org/TR/2017/CR-activitypub-20170509/">
+  <front>
+    <title>ActivityPub</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christopher Webber">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jessica Tallon">
+      <organization/>
+    </author>
+    <date year="2017" month="May" day="9"/>
+    <workgroup>Social Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-activitypub-20170509"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.exi-primer" target="https://www.w3.org/TR/exi-primer/">
+<reference anchor="W3C.exi-primer" target="http://www.w3.org/TR/exi-primer/">
   <front>
     <title>Efficient XML Interchange (EXI) Primer</title>
     <author>

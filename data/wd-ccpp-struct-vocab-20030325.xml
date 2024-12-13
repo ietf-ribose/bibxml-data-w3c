@@ -1,0 +1,33 @@
+<reference anchor="W3C.WD-CCPP-struct-vocab-20030325" target="http://www.w3.org/TR/2003/WD-CCPP-struct-vocab-20030325/">
+  <front>
+    <title>Composite Capability/Preference Profiles (CC/PP): Structure
+and Vocabularies</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Woodrow">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Franklin Reynolds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Graham Klyne">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Hidetaka Ohto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johan Hjelm">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Luu Tran">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark H. Butler">
+      <organization/>
+    </author>
+    <date year="2003" month="March" day="25"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-CCPP-struct-vocab-20030325"/>
+</reference>

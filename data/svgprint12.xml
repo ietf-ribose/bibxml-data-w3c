@@ -1,4 +1,4 @@
-<reference anchor="W3C.SVGPrint12" target="https://www.w3.org/TR/SVGPrint12/">
+<reference anchor="W3C.SVGPrint12" target="http://www.w3.org/TR/SVGPrint12/">
   <front>
     <title>SVG Print 1.2, Part 2: Language</title>
     <author>

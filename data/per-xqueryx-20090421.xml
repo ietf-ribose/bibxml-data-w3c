@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-xqueryx-20090421" target="http://www.w3.org/TR/2009/PER-xqueryx-20090421">
+  <front>
+    <title>XML Syntax for XQuery 1.0 (XQueryX) (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jim Melton">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Subramanian Muralidhar">
+      <organization/>
+    </author>
+    <date year="2009" month="April" day="21"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xqueryx-20090421"/>
+</reference>

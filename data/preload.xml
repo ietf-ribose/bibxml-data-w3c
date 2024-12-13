@@ -1,9 +1,9 @@
-<reference anchor="W3C.preload" target="https://www.w3.org/TR/preload/">
+<reference anchor="W3C.preload" target="http://www.w3.org/TR/preload/">
   <front>
     <title>Preload</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C technicalReport" value="preload"/>
+  <seriesInfo name="W3C WD" value="preload"/>
 </reference>

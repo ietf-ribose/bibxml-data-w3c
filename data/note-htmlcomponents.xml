@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-HTMLComponents" target="http://www.w3.org/TR/NOTE-HTMLComponents">
+  <front>
+    <title>HTML Components</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-HTMLComponents"/>
+</reference>

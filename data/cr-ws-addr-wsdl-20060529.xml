@@ -1,0 +1,23 @@
+<reference anchor="W3C.CR-ws-addr-wsdl-20060529" target="http://www.w3.org/TR/2006/CR-ws-addr-wsdl-20060529">
+  <front>
+    <title>Web Services Addressing 1.0 - WSDL Binding</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marc Hadley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Gudgin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tony Rogers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ümit Yalçinalp">
+      <organization/>
+    </author>
+    <date year="2006" month="May" day="29"/>
+    <workgroup>Web Services Addressing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-ws-addr-wsdl-20060529"/>
+</reference>

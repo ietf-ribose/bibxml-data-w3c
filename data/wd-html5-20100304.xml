@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-html5-20100304" target="http://www.w3.org/TR/2010/WD-html5-20100304/">
+  <front>
+    <title>HTML5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Hyatt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <date year="2010" month="March" day="4"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html5-20100304"/>
+</reference>

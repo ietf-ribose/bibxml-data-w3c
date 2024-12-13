@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-trace-context-2-20220929" target="https://www.w3.org/TR/2022/WD-trace-context-2-20220929/">
+  <front>
+    <title>Trace Context Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Dyla">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sergey Kanzhelev">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Yuri Shkuro">
+      <organization/>
+    </author>
+    <date year="2022" month="September" day="29"/>
+    <workgroup>Distributed Tracing Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-trace-context-2-20220929"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.CR-owl-time-20200326" target="https://www.w3.org/TR/2020/CR-owl-time-20200326/">
+  <front>
+    <title>Time Ontology in OWL</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Chris Little">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Simon Cox">
+      <organization/>
+    </author>
+    <date year="2020" month="March" day="26"/>
+    <workgroup>Spatial Data on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-owl-time-20200326"/>
+</reference>

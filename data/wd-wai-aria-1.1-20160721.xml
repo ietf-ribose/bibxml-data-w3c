@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-wai-aria-1.1-20160721" target="http://www.w3.org/TR/2016/WD-wai-aria-1.1-20160721/">
+  <front>
+    <title>Accessible Rich Internet Applications (WAI-ARIA) 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="July" day="21"/>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-wai-aria-1.1-20160721"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-dx-prof-20181218" target="https://www.w3.org/TR/2018/WD-dx-prof-20181218/">
+  <front>
+    <title>The Profiles Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Nicholas Car">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rob Atkinson">
+      <organization/>
+    </author>
+    <date year="2018" month="December" day="18"/>
+    <workgroup>Dataset Exchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dx-prof-20181218"/>
+</reference>

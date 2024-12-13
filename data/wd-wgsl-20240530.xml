@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-WGSL-20240530" target="https://www.w3.org/TR/2024/WD-WGSL-20240530/">
+  <front>
+    <title>WebGPU Shading Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alan Baker">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Neto">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mehmet Oguz Derin">
+      <organization/>
+    </author>
+    <date year="2024" month="May" day="30"/>
+    <workgroup>GPU for the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WGSL-20240530"/>
+</reference>

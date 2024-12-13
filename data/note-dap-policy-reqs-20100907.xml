@@ -1,0 +1,23 @@
+<reference anchor="W3C.NOTE-dap-policy-reqs-20100907" target="http://www.w3.org/TR/2010/NOTE-dap-policy-reqs-20100907/">
+  <front>
+    <title>Device API Access Control Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Rogers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Laura Arribas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paddy Byers">
+      <organization/>
+    </author>
+    <date year="2010" month="September" day="7"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-dap-policy-reqs-20100907"/>
+</reference>

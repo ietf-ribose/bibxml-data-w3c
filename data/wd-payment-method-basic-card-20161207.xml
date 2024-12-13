@@ -1,0 +1,11 @@
+<reference anchor="W3C.WD-payment-method-basic-card-20161207" target="https://www.w3.org/TR/2016/WD-payment-method-basic-card-20161207/">
+  <front>
+    <title>Basic Card Payment</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <date year="2016" month="December" day="7"/>
+    <workgroup>Web Payments Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-payment-method-basic-card-20161207"/>
+</reference>

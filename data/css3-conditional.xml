@@ -1,0 +1,9 @@
+<reference anchor="W3C.css3-conditional" target="https://www.w3.org/TR/css3-conditional/">
+  <front>
+    <title>CSS Conditional Rules Module Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C CR" value="css3-conditional"/>
+</reference>

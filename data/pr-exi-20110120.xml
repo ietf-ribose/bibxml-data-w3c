@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-exi-20110120" target="http://www.w3.org/TR/2011/PR-exi-20110120/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Format 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Schneider">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Takuki Kamiya">
+      <organization/>
+    </author>
+    <date year="2011" month="January" day="20"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-exi-20110120"/>
+</reference>

@@ -1,0 +1,9 @@
+<reference anchor="W3C.daml+oil-axioms" target="http://www.w3.org/TR/daml+oil-axioms">
+  <front>
+    <title>An Axiomatic Semantics for RDF, RDF-S, and DAML+OIL (March 2001)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="daml+oil-axioms"/>
+</reference>

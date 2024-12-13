@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-shacl-abstract-syntax-20160825" target="https://www.w3.org/TR/2016/WD-shacl-abstract-syntax-20160825/">
+  <front>
+    <title>SHACL Core Abstract Syntax and Semantics</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Eric Prud'hommeaux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Karen Coyle">
+      <organization/>
+    </author>
+    <date year="2016" month="August" day="25"/>
+    <workgroup>RDF Data Shapes Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-shacl-abstract-syntax-20160825"/>
+</reference>

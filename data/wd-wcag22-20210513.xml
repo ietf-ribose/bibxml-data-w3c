@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-WCAG22-20210513" target="https://www.w3.org/TR/2021/WD-WCAG22-20210513/">
+  <front>
+    <title>Web Content Accessibility Guidelines (WCAG) 2.2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alastair Campbell">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Andrew Kirkpatrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Charles Adams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Rachael Bradley Montgomery">
+      <organization/>
+    </author>
+    <date year="2021" month="May" day="13"/>
+    <workgroup>Accessibility Guidelines Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WCAG22-20210513"/>
+</reference>

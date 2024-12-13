@@ -1,0 +1,15 @@
+<reference anchor="W3C.WD-worklets-1-20200908" target="https://www.w3.org/TR/2020/WD-worklets-1-20200908/">
+  <front>
+    <title>Worklets Level 1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Kilpatrick">
+      <organization/>
+    </author>
+    <date year="2020" month="September" day="8"/>
+    <workgroup>Technical Architecture Group</workgroup>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-worklets-1-20200908"/>
+</reference>

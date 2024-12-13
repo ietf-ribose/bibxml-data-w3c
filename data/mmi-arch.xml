@@ -1,9 +1,9 @@
-<reference anchor="W3C.mmi-arch" target="https://www.w3.org/TR/mmi-arch/">
+<reference anchor="W3C.mmi-arch" target="http://www.w3.org/TR/mmi-arch/">
   <front>
     <title>Multimodal Architecture and Interfaces</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="mmi-arch"/>
+  <seriesInfo name="W3C WD" value="mmi-arch"/>
 </reference>

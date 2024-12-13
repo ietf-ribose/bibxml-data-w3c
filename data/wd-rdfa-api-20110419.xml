@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-rdfa-api-20110419" target="http://www.w3.org/TR/2011/WD-rdfa-api-20110419/">
+  <front>
+    <title>RDFa API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benjamin Adrian">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="19"/>
+    <workgroup>RDFa Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-rdfa-api-20110419"/>
+</reference>

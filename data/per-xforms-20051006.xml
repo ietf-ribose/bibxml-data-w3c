@@ -1,0 +1,23 @@
+<reference anchor="W3C.PER-xforms-20051006" target="http://www.w3.org/TR/2005/PER-xforms-20051006/">
+  <front>
+    <title>XForms 1.0 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="David Landwehr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John M. Boyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <author role="editor" fullname="T. V. Raman">
+      <organization/>
+    </author>
+    <date year="2005" month="October" day="6"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xforms-20051006"/>
+</reference>

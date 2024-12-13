@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-powder-test-20090604" target="http://www.w3.org/TR/2009/NOTE-powder-test-20090604/">
+  <front>
+    <title>Protocol for Web Description Resources (POWDER): Test Suite</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Antonis Kukurikos">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Phil Archer">
+      <organization/>
+    </author>
+    <date year="2009" month="June" day="4"/>
+    <workgroup>Protocol for Web Description Resources Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-powder-test-20090604"/>
+</reference>

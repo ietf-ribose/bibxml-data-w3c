@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-ws-transfer-20090317" target="http://www.w3.org/TR/2009/WD-ws-transfer-20090317">
+  <front>
+    <title>Web Services Transfer (WS-Transfer)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Davis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Katy Warr">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wu Chou">
+      <organization/>
+    </author>
+    <date year="2009" month="March" day="17"/>
+    <workgroup>Web Services Resource Access Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ws-transfer-20090317"/>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-xforms-11-req-20040611" target="http://www.w3.org/TR/2004/NOTE-xforms-11-req-20040611/">
+  <front>
+    <title>XForms 1.1 Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <date year="2004" month="June" day="11"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xforms-11-req-20040611"/>
+</reference>

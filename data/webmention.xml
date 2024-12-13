@@ -1,9 +1,9 @@
-<reference anchor="W3C.webmention" target="https://www.w3.org/TR/webmention/">
+<reference anchor="W3C.webmention" target="http://www.w3.org/TR/webmention/">
   <front>
     <title>Webmention</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="webmention"/>
+  <seriesInfo name="W3C WD" value="webmention"/>
 </reference>

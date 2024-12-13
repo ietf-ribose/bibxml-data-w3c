@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-dap-policy-reqs-20110118" target="http://www.w3.org/TR/2011/WD-dap-policy-reqs-20110118/">
+  <front>
+    <title>Device API Access Control Use Cases and Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dominique Hazaël-Massieux">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Frederick Hirsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Laura Arribas">
+      <organization/>
+    </author>
+    <date year="2011" month="January" day="18"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dap-policy-reqs-20110118"/>
+</reference>

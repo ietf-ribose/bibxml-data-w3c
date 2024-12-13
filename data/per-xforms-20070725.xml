@@ -1,0 +1,14 @@
+<reference anchor="W3C.PER-xforms-20070725" target="http://www.w3.org/TR/2007/PER-xforms-20070725/">
+  <front>
+    <title>XForms 1.0 (Third Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="John Boyer">
+      <organization/>
+    </author>
+    <date year="2007" month="July" day="25"/>
+    <workgroup>Forms Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xforms-20070725"/>
+</reference>

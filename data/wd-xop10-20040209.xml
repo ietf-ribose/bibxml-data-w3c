@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-xop10-20040209" target="http://www.w3.org/TR/2004/WD-xop10-20040209/">
+  <front>
+    <title>XML-binary Optimized Packaging</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Hervé Ruellan">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mark Nottingham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Noah Mendelsohn">
+      <organization/>
+    </author>
+    <date year="2004" month="February" day="9"/>
+    <workgroup>XML Protocol Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xop10-20040209"/>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-xquery-requirements-20031112" target="http://www.w3.org/TR/2003/WD-xquery-requirements-20031112">
+  <front>
+    <title>XML Query (XQuery) Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Don Chamberlin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Robie">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Massimo Marchiori">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Fankhauser">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="12"/>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xquery-requirements-20031112"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-owl2-test-20081008" target="http://www.w3.org/TR/2008/WD-owl2-test-20081008/">
+  <front>
+    <title>OWL 2 Web Ontology Language:Conformance and Test Cases</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Horrocks">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Smith">
+      <organization/>
+    </author>
+    <date year="2008" month="October" day="8"/>
+    <workgroup>OWL Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-owl2-test-20081008"/>
+</reference>

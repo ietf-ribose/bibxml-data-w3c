@@ -1,0 +1,25 @@
+<reference anchor="W3C.NOTE-xml-ql-19980819" target="http://www.w3.org/TR/1998/NOTE-xml-ql-19980819">
+  <front>
+    <title>XML-QL: A Query Language for XML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alin Deutsch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Alon Levy">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dan Suciu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniela Florescu">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Mary Fernandez">
+      <organization/>
+    </author>
+    <date year="1998" month="August" day="19"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xml-ql-19980819"/>
+</reference>

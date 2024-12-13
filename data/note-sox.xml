@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-SOX" target="http://www.w3.org/TR/NOTE-SOX">
+  <front>
+    <title>Schema for Object-oriented XML 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-SOX"/>
+</reference>

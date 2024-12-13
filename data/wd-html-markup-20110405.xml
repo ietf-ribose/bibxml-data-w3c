@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html-markup-20110405" target="http://www.w3.org/TR/2011/WD-html-markup-20110405/">
+  <front>
+    <title>HTML: The Markup Language Reference</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Smith">
+      <organization/>
+    </author>
+    <date year="2011" month="April" day="5"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html-markup-20110405"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.ssml11reqs" target="https://www.w3.org/TR/ssml11reqs/">
+<reference anchor="W3C.ssml11reqs" target="http://www.w3.org/TR/ssml11reqs/">
   <front>
     <title>Speech Synthesis Markup Language Version 1.1 Requirements</title>
     <author>

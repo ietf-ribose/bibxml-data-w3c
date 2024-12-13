@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-xmlschema11-2-20040716" target="http://www.w3.org/TR/2004/WD-xmlschema11-2-20040716/">
+  <front>
+    <title>XML Schema 1.1 Part 2: Datatypes</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ashok Malhotra">
+      <organization/>
+    </author>
+    <author role="editor" fullname="David Peterson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paul V. Biron">
+      <organization/>
+    </author>
+    <date year="2004" month="July" day="16"/>
+    <workgroup>XML Schema Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xmlschema11-2-20040716"/>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="W3C.WD-xhtml-modularization-20060705" target="http://www.w3.org/TR/2006/WD-xhtml-modularization-20060705">
+  <front>
+    <title>XHTML™ Modularization 1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Frank Boumphrey">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Murray Altheim">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sam Dooley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Sebastian Schnitzenbaumer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Shane McCarron">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ted Wugofski">
+      <organization/>
+    </author>
+    <date year="2006" month="July" day="5"/>
+    <workgroup>XHTML2 Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xhtml-modularization-20060705"/>
+</reference>

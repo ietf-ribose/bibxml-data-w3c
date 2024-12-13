@@ -1,9 +1,9 @@
-<reference anchor="W3C.xptr-element" target="https://www.w3.org/TR/xptr-element/">
+<reference anchor="W3C.xptr-element" target="http://www.w3.org/TR/xptr-element/">
   <front>
     <title>XPointer element() Scheme</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="xptr-element"/>
+  <seriesInfo name="W3C PR" value="xptr-element"/>
 </reference>

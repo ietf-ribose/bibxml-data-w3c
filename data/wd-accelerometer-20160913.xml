@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-accelerometer-20160913" target="https://www.w3.org/TR/2016/WD-accelerometer-20160913/">
+  <front>
+    <title>Accelerometer Sensor</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Alexander Shalamov">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Anssi Kostiainen">
+      <organization/>
+    </author>
+    <date year="2016" month="September" day="13"/>
+    <workgroup>Devices and Sensors Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-accelerometer-20160913"/>
+</reference>

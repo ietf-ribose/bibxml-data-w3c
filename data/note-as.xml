@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-AS" target="http://www.w3.org/TR/NOTE-AS">
+  <front>
+    <title>Action Sheets: A Modular Way of Defining Behavior for XML and HTML</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-AS"/>
+</reference>

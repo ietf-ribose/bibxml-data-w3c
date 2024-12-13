@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-csv2json-20151117" target="http://www.w3.org/TR/2015/PR-csv2json-20151117/">
+  <front>
+    <title>Generating JSON from Tabular Data on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ivan Herman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jeremy Tandy">
+      <organization/>
+    </author>
+    <date year="2015" month="November" day="17"/>
+    <workgroup>CSV on the Web Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-csv2json-20151117"/>
+</reference>

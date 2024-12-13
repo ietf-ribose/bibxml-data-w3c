@@ -1,0 +1,15 @@
+<reference anchor="W3C.CR-xslt-xquery-serialization-30-20130328" target="http://www.w3.org/TR/2013/CR-xslt-xquery-serialization-30-20130328/">
+  <front>
+    <title>XSLT and XQuery Serialization 3.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Henry Zongaro">
+      <organization/>
+    </author>
+    <date year="2013" month="March" day="28"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+    <workgroup>XML Query Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-xslt-xquery-serialization-30-20130328"/>
+</reference>

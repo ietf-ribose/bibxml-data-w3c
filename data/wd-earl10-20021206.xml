@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-EARL10-20021206" target="http://www.w3.org/TR/2002/WD-EARL10-20021206/">
+  <front>
+    <title>Evaluation and Report Language (EARL) 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Sean B. Palmer">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Wendy Chisholm">
+      <organization/>
+    </author>
+    <date year="2002" month="December" day="6"/>
+    <workgroup>Evaluation and Repair Tools Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-EARL10-20021206"/>
+</reference>

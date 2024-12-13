@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-vsso-core-20220303" target="https://www.w3.org/TR/2022/WD-vsso-core-20220303/">
+  <front>
+    <title>VSSo Core: Vehicle Signal Specification Core Ontology</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Benjamin Klotz">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Wilms">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Raphaël Troncy">
+      <organization/>
+    </author>
+    <date year="2022" month="March" day="3"/>
+    <workgroup>Automotive Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-vsso-core-20220303"/>
+</reference>

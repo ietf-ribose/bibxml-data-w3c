@@ -1,0 +1,17 @@
+<reference anchor="W3C.PR-webarch-20041105" target="http://www.w3.org/TR/2004/PR-webarch-20041105/">
+  <front>
+    <title>Architecture of the World Wide Web, First Edition</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ian Jacobs">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Norman Walsh">
+      <organization/>
+    </author>
+    <date year="2004" month="November" day="5"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-webarch-20041105"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-user-timing-3-20190305" target="https://www.w3.org/TR/2019/WD-user-timing-3-20190305/">
+  <front>
+    <title>User Timing Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Ilya Grigorik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nicolas Pena Moreno">
+      <organization/>
+    </author>
+    <date year="2019" month="March" day="5"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-user-timing-3-20190305"/>
+</reference>

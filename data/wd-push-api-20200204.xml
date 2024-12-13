@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-push-api-20200204" target="https://www.w3.org/TR/2020/WD-push-api-20200204/">
+  <front>
+    <title>Push API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Martin Thomson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Beverloo">
+      <organization/>
+    </author>
+    <date year="2020" month="February" day="4"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-push-api-20200204"/>
+</reference>

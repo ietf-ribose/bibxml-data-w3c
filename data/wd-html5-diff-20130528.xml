@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-html5-diff-20130528" target="http://www.w3.org/TR/2013/WD-html5-diff-20130528/">
+  <front>
+    <title>Differences from HTML4</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Simon Pieters">
+      <organization/>
+    </author>
+    <date year="2013" month="May" day="28"/>
+    <workgroup>HTML Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-html5-diff-20130528"/>
+</reference>

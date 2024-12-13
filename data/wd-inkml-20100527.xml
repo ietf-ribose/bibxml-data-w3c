@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-InkML-20100527" target="http://www.w3.org/TR/2010/WD-InkML-20100527/">
+  <front>
+    <title>Ink Markup Language (InkML)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Stephen M. Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Underhill">
+      <organization/>
+    </author>
+    <date year="2010" month="May" day="27"/>
+    <workgroup>Multimodal Interaction Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-InkML-20100527"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-uievents-20210916" target="https://www.w3.org/TR/2021/WD-uievents-20210916/">
+  <front>
+    <title>UI Events</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Gary Kacmarcik">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Travis Leithead">
+      <organization/>
+    </author>
+    <date year="2021" month="September" day="16"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-uievents-20210916"/>
+</reference>

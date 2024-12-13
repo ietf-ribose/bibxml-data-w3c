@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-xslt20-20031112" target="http://www.w3.org/TR/2003/WD-xslt20-20031112/">
+  <front>
+    <title>XSL Transformations (XSLT) Version 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Michael Kay">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="12"/>
+    <workgroup>Extensible Stylesheet Language Family</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-xslt20-20031112"/>
+</reference>

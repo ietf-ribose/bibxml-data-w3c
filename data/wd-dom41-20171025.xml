@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-dom41-20171025" target="https://www.w3.org/TR/2017/WD-dom41-20171025/">
+  <front>
+    <title>W3C DOM 4.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Yongsheng Zhu">
+      <organization/>
+    </author>
+    <date year="2017" month="October" day="25"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-dom41-20171025"/>
+</reference>

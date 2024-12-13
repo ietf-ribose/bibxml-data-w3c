@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-webvtt1-20151208" target="http://www.w3.org/TR/2015/WD-webvtt1-20151208/">
+  <front>
+    <title>WebVTT: The Web Video Text Tracks Format</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Simon Pieters">
+      <organization/>
+    </author>
+    <date year="2015" month="December" day="8"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webvtt1-20151208"/>
+</reference>

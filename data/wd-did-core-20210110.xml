@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-did-core-20210110" target="https://www.w3.org/TR/2021/WD-did-core-20210110/">
+  <front>
+    <title>Decentralized Identifiers (DIDs) v1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Christopher Allen">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dave Longley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Drummond Reed">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Markus Sabadello">
+      <organization/>
+    </author>
+    <date year="2021" month="January" day="10"/>
+    <workgroup>Decentralized Identifier Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-did-core-20210110"/>
+</reference>

@@ -1,9 +1,9 @@
-<reference anchor="W3C.WOFF20ER" target="https://www.w3.org/TR/WOFF20ER/">
+<reference anchor="W3C.WOFF20ER" target="http://www.w3.org/TR/WOFF20ER/">
   <front>
     <title>WOFF 2.0 Evaluation Report</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="WOFF20ER"/>
+  <seriesInfo name="W3C WD" value="WOFF20ER"/>
 </reference>

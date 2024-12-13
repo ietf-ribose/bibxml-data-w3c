@@ -1,0 +1,17 @@
+<reference anchor="W3C.PER-xmlbase-20061220" target="http://www.w3.org/TR/2006/PER-xmlbase-20061220/">
+  <front>
+    <title>XML Base (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jonathan Marsh">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Tobin">
+      <organization/>
+    </author>
+    <date year="2006" month="December" day="20"/>
+    <workgroup>XML Core Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PER" value="PER-xmlbase-20061220"/>
+</reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.arabic-math" target="https://www.w3.org/TR/arabic-math/">
+<reference anchor="W3C.arabic-math" target="http://www.w3.org/TR/arabic-math/">
   <front>
     <title>Arabic mathematical notation</title>
     <author>

@@ -1,0 +1,29 @@
+<reference anchor="W3C.CR-selectors-3-20180130" target="https://www.w3.org/TR/2018/CR-selectors-3-20180130/">
+  <front>
+    <title>Selectors Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Glazman">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Ian Hickson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="John Williams">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Peter Linss">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tantek Çelik">
+      <organization/>
+    </author>
+    <date year="2018" month="January" day="30"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CR-selectors-3-20180130"/>
+</reference>

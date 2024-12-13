@@ -1,0 +1,20 @@
+<reference anchor="W3C.CRD-webrtc-stats-20201201" target="https://www.w3.org/TR/2020/CRD-webrtc-stats-20201201/">
+  <front>
+    <title>Identifiers for WebRTC's Statistics API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Harald Alvestrand">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Henrik Boström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Varun Singh">
+      <organization/>
+    </author>
+    <date year="2020" month="December" day="1"/>
+    <workgroup>Web Real-Time Communications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-webrtc-stats-20201201"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-shacl-20170202" target="https://www.w3.org/TR/2017/WD-shacl-20170202/">
+  <front>
+    <title>Shapes Constraint Language (SHACL)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dimitris Kontokostas">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Holger Knublauch">
+      <organization/>
+    </author>
+    <date year="2017" month="February" day="2"/>
+    <workgroup>RDF Data Shapes Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-shacl-20170202"/>
+</reference>

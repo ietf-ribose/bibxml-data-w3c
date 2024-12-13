@@ -1,0 +1,41 @@
+<reference anchor="W3C.PR-SVG11-20110609" target="http://www.w3.org/TR/2011/PR-SVG11-20110609/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) 1.1 (Second Edition)</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Anthony Grasso">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Cameron McCormack">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Chris Lilley">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Dean Jackson">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Erik Dahlström">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jon Ferraiolo">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jonathan Watt">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jun Fujisawa">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Patrick Dengler">
+      <organization/>
+    </author>
+    <date year="2011" month="June" day="9"/>
+    <workgroup>SVG Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C PR" value="PR-SVG11-20110609"/>
+</reference>

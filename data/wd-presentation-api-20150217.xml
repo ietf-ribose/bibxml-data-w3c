@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-presentation-api-20150217" target="http://www.w3.org/TR/2015/WD-presentation-api-20150217/">
+  <front>
+    <title>Presentation API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dominik Röttsches">
+      <organization/>
+    </author>
+    <date year="2015" month="February" day="17"/>
+    <workgroup>Second Screen Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-presentation-api-20150217"/>
+</reference>

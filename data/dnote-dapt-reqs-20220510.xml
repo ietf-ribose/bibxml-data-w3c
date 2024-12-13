@@ -1,0 +1,17 @@
+<reference anchor="W3C.DNOTE-dapt-reqs-20220510" target="https://www.w3.org/TR/2022/DNOTE-dapt-reqs-20220510/">
+  <front>
+    <title>DAPT Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cyril Concolato">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Nigel Megitt">
+      <organization/>
+    </author>
+    <date year="2022" month="May" day="10"/>
+    <workgroup>Timed Text Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-dapt-reqs-20220510"/>
+</reference>

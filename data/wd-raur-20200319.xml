@@ -1,0 +1,23 @@
+<reference anchor="W3C.WD-raur-20200319" target="https://www.w3.org/TR/2020/WD-raur-20200319/">
+  <front>
+    <title>RTC Accessibility User Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Janina Sajka">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Jason White">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Joshue O Connor">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Cooper">
+      <organization/>
+    </author>
+    <date year="2020" month="March" day="19"/>
+    <workgroup>Accessible Platform Architectures</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-raur-20200319"/>
+</reference>

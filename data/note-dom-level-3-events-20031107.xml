@@ -1,0 +1,17 @@
+<reference anchor="W3C.NOTE-DOM-Level-3-Events-20031107" target="http://www.w3.org/TR/2003/NOTE-DOM-Level-3-Events-20031107">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Events Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Philippe Le Hégaret">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tom Pixley">
+      <organization/>
+    </author>
+    <date year="2003" month="November" day="7"/>
+    <workgroup>Web Hypertext Application Technology Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-DOM-Level-3-Events-20031107"/>
+</reference>

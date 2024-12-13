@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-exi-primer-20091208" target="http://www.w3.org/TR/2009/WD-exi-primer-20091208/">
+  <front>
+    <title>Efficient XML Interchange (EXI) Primer</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Santiago Pericas-Geertsen">
+      <organization/>
+    </author>
+    <date year="2009" month="December" day="8"/>
+    <workgroup>Efficient Extensible Interchange Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-exi-primer-20091208"/>
+</reference>

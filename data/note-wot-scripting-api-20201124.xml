@@ -1,0 +1,26 @@
+<reference anchor="W3C.NOTE-wot-scripting-api-20201124" target="https://www.w3.org/TR/2020/NOTE-wot-scripting-api-20201124/">
+  <front>
+    <title>Web of Things (WoT) Scripting API</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Cristiano Aguzzi">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Daniel Peintner">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johannes Hund">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Kazuaki Nimura">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Zoltan Kis">
+      <organization/>
+    </author>
+    <date year="2020" month="November" day="24"/>
+    <workgroup>Web of Things Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-wot-scripting-api-20201124"/>
+</reference>

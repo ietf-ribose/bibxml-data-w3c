@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-prov-dm-20111018" target="http://www.w3.org/TR/2011/WD-prov-dm-20111018/">
+  <front>
+    <title>The PROV Data Model and Abstract Syntax Notation</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Luc Moreau">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Paolo Missier">
+      <organization/>
+    </author>
+    <date year="2011" month="October" day="18"/>
+    <workgroup>Provenance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-prov-dm-20111018"/>
+</reference>

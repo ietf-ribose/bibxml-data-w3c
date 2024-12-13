@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-cselection-xaf-20061010" target="http://www.w3.org/TR/2006/WD-cselection-xaf-20061010/">
+  <front>
+    <title>Delivery Context: XPath Access Functions 1.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Rhys Lewis">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Roland Merrick">
+      <organization/>
+    </author>
+    <date year="2006" month="October" day="10"/>
+    <workgroup>Device Independence Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-cselection-xaf-20061010"/>
+</reference>

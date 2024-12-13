@@ -1,9 +1,9 @@
-<reference anchor="W3C.html-aapi" target="https://www.w3.org/TR/html-aapi/">
+<reference anchor="W3C.html-aapi" target="http://www.w3.org/TR/html-aapi/">
   <front>
     <title>HTML to Platform Accessibility APIs Implementation Guide</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C NOTE" value="html-aapi"/>
+  <seriesInfo name="W3C WD" value="html-aapi"/>
 </reference>

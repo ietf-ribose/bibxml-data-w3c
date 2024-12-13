@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-DOM-Level-3-LS-20020725" target="http://www.w3.org/TR/2002/WD-DOM-Level-3-LS-20020725">
+  <front>
+    <title>Document Object Model (DOM) Level 3 Load and Save
+Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Andy Heninger">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Johnny Stenback">
+      <organization/>
+    </author>
+    <date year="2002" month="July" day="25"/>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-DOM-Level-3-LS-20020725"/>
+</reference>

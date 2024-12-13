@@ -1,9 +1,9 @@
-<reference anchor="W3C.vocab-ssn" target="https://www.w3.org/TR/vocab-ssn/">
+<reference anchor="W3C.vocab-ssn" target="http://www.w3.org/TR/vocab-ssn/">
   <front>
     <title>Semantic Sensor Network Ontology</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
   </front>
-  <seriesInfo name="W3C REC" value="vocab-ssn"/>
+  <seriesInfo name="W3C WD" value="vocab-ssn"/>
 </reference>

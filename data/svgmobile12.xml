@@ -1,0 +1,9 @@
+<reference anchor="W3C.SVGMobile12" target="http://www.w3.org/TR/SVGMobile12/">
+  <front>
+    <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="SVGMobile12"/>
+</reference>

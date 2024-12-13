@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-gamepad-20181109" target="https://www.w3.org/TR/2018/WD-gamepad-20181109/">
+  <front>
+    <title>Gamepad</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Brandon Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Scott Graham">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Theodore Mielczarek">
+      <organization/>
+    </author>
+    <date year="2018" month="November" day="9"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-gamepad-20181109"/>
+</reference>

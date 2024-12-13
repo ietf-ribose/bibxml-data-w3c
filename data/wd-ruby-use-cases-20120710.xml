@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-ruby-use-cases-20120710" target="http://www.w3.org/TR/2012/WD-ruby-use-cases-20120710/">
+  <front>
+    <title>Use Cases &amp; Exploratory Approaches for Ruby Markup</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Richard Ishida">
+      <organization/>
+    </author>
+    <date year="2012" month="July" day="10"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-ruby-use-cases-20120710"/>
+</reference>

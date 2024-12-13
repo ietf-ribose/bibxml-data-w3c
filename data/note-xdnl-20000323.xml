@@ -1,0 +1,16 @@
+<reference anchor="W3C.NOTE-xdnl-20000323" target="http://www.w3.org/TR/2000/NOTE-xdnl-20000323">
+  <front>
+    <title>XML Document Navigation Language</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Kazuhisa Manabe">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Naoko Ito">
+      <organization/>
+    </author>
+    <date year="2000" month="March" day="23"/>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-xdnl-20000323"/>
+</reference>

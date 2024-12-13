@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-pointerlock-2-20161122" target="https://www.w3.org/TR/2016/WD-pointerlock-2-20161122/">
+  <front>
+    <title>Pointer Lock 2.0</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Vincent Scheib">
+      <organization/>
+    </author>
+    <date year="2016" month="November" day="22"/>
+    <workgroup>Web Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-pointerlock-2-20161122"/>
+</reference>

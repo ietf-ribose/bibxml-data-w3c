@@ -1,0 +1,14 @@
+<reference anchor="W3C.WD-WAPF-REQ-20061109" target="http://www.w3.org/TR/2006/WD-WAPF-REQ-20061109/">
+  <front>
+    <title>Client-Side Web Applications (Widgets) Requirements</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Marcos Caceres">
+      <organization/>
+    </author>
+    <date year="2006" month="November" day="9"/>
+    <workgroup>Web Application Formats Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-WAPF-REQ-20061109"/>
+</reference>

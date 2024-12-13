@@ -1,0 +1,9 @@
+<reference anchor="W3C.HTTP-in-RDF" target="http://www.w3.org/TR/HTTP-in-RDF/">
+  <front>
+    <title>HTTP Vocabulary in RDF</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="HTTP-in-RDF"/>
+</reference>

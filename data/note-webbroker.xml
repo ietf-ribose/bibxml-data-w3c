@@ -1,0 +1,9 @@
+<reference anchor="W3C.NOTE-webbroker" target="http://www.w3.org/TR/1998/NOTE-webbroker">
+  <front>
+    <title>WebBroker: Distributed Object Communication on the Web</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-webbroker"/>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="W3C.WD-graphics-aam-1.0-20160908" target="https://www.w3.org/TR/2016/WD-graphics-aam-1.0-20160908/">
+  <front>
+    <title>Graphics Accessibility API Mappings</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Amelia Bellamy-Royds">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Doug Schepers">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Fred Esch">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Richard Schwerdtfeger">
+      <organization/>
+    </author>
+    <date year="2016" month="September" day="8"/>
+    <workgroup>SVG Working Group</workgroup>
+    <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-graphics-aam-1.0-20160908"/>
+</reference>
