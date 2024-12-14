@@ -1,11 +1,8 @@
-<reference anchor="W3C.CRD-vc-di-eddsa-20241208" target="https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20241208/">
+<reference anchor="W3C.CRD-vc-di-ecdsa-20241213" target="https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20241213/">
   <front>
-    <title>Data Integrity EdDSA Cryptosuites v1.0</title>
+    <title>Data Integrity ECDSA Cryptosuites v1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
-    </author>
-    <author role="editor" fullname="Dmitri Zagidulin">
-      <organization/>
     </author>
     <author role="editor" fullname="Greg Bernstein">
       <organization/>
@@ -13,11 +10,14 @@
     <author role="editor" fullname="Manu Sporny">
       <organization/>
     </author>
+    <author role="editor" fullname="Martin Reed">
+      <organization/>
+    </author>
     <author role="editor" fullname="Sebastian Crane">
       <organization/>
     </author>
-    <date year="2024" month="December" day="8"/>
+    <date year="2024" month="December" day="13"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-vc-di-eddsa-20241208"/>
+  <seriesInfo name="W3C CR" value="CRD-vc-di-ecdsa-20241213"/>
 </reference>
