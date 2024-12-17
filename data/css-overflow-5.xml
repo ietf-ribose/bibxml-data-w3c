@@ -1,0 +1,9 @@
+<reference anchor="W3C.css-overflow-5" target="https://www.w3.org/TR/css-overflow-5/">
+  <front>
+    <title>CSS Overflow Module Level 5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css-overflow-5"/>
+</reference>

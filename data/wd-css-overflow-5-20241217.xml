@@ -1,0 +1,20 @@
+<reference anchor="W3C.WD-css-overflow-5-20241217" target="https://www.w3.org/TR/2024/WD-css-overflow-5-20241217/">
+  <front>
+    <title>CSS Overflow Module Level 5</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Elika Etemad">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Florian Rivoal">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Robert Flack">
+      <organization/>
+    </author>
+    <date year="2024" month="December" day="17"/>
+    <workgroup>Cascading Style Sheets Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-css-overflow-5-20241217"/>
+</reference>
