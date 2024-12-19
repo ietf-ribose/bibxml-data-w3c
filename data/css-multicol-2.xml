@@ -1,0 +1,9 @@
+<reference anchor="W3C.css-multicol-2" target="https://www.w3.org/TR/css-multicol-2/">
+  <front>
+    <title>CSS Multi-column Layout Module Level 2</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="css-multicol-2"/>
+</reference>
