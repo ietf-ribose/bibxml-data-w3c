@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-sparql12-federated-query-20241113" target="https://www.w3.org/TR/2024/WD-sparql12-federated-query-20241113/">
+<reference anchor="W3C.WD-sparql12-service-description-20241219" target="https://www.w3.org/TR/2024/WD-sparql12-service-description-20241219/">
   <front>
-    <title>SPARQL 1.2 Federated Query</title>
+    <title>SPARQL 1.2 Service Description</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Ruben Taelman">
       <organization/>
     </author>
-    <date year="2024" month="November" day="13"/>
+    <date year="2024" month="December" day="19"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-sparql12-federated-query-20241113"/>
+  <seriesInfo name="W3C WD" value="WD-sparql12-service-description-20241219"/>
 </reference>

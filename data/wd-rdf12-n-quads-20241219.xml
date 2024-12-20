@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-rdf12-trig-20241107" target="https://www.w3.org/TR/2024/WD-rdf12-trig-20241107/">
+<reference anchor="W3C.WD-rdf12-n-quads-20241219" target="https://www.w3.org/TR/2024/WD-rdf12-n-quads-20241219/">
   <front>
-    <title>RDF 1.2 TriG</title>
+    <title>RDF 1.2 N-Quads</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2024" month="November" day="7"/>
+    <date year="2024" month="December" day="19"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-trig-20241107"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-n-quads-20241219"/>
 </reference>
