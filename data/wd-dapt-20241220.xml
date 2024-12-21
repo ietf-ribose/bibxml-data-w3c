@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-dapt-20241210" target="https://www.w3.org/TR/2024/WD-dapt-20241210/">
+<reference anchor="W3C.WD-dapt-20241220" target="https://www.w3.org/TR/2024/WD-dapt-20241220/">
   <front>
     <title>Dubbing and Audio description Profiles of TTML2</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Nigel Megitt">
       <organization/>
     </author>
-    <date year="2024" month="December" day="10"/>
+    <date year="2024" month="December" day="20"/>
     <workgroup>Timed Text Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-dapt-20241210"/>
+  <seriesInfo name="W3C WD" value="WD-dapt-20241220"/>
 </reference>

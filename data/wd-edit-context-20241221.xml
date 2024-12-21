@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-edit-context-20241217" target="https://www.w3.org/TR/2024/WD-edit-context-20241217/">
+<reference anchor="W3C.WD-edit-context-20241221" target="https://www.w3.org/TR/2024/WD-edit-context-20241221/">
   <front>
     <title>EditContext API</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="alex keng">
       <organization/>
     </author>
-    <date year="2024" month="December" day="17"/>
+    <date year="2024" month="December" day="21"/>
     <workgroup>Web Editing Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-edit-context-20241217"/>
+  <seriesInfo name="W3C WD" value="WD-edit-context-20241221"/>
 </reference>
