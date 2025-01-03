@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-did-extensions-20241227" target="https://www.w3.org/TR/2024/NOTE-did-extensions-20241227/">
+<reference anchor="W3C.NOTE-did-extensions-20250102" target="https://www.w3.org/TR/2025/NOTE-did-extensions-20250102/">
   <front>
     <title>Decentralized Identifier Extensions</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Markus Sabadello">
       <organization/>
     </author>
-    <date year="2024" month="December" day="27"/>
+    <date year="2025" month="January" day="2"/>
     <workgroup>Decentralized Identifier Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-did-extensions-20241227"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-did-extensions-20250102"/>
 </reference>
