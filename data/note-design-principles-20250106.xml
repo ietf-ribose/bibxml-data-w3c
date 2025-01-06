@@ -1,0 +1,20 @@
+<reference anchor="W3C.NOTE-design-principles-20250106" target="https://www.w3.org/TR/2025/NOTE-design-principles-20250106/">
+  <front>
+    <title>Web Platform Design Principles</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Jeffrey Yasskin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Lea Verou">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Martin Thomson">
+      <organization/>
+    </author>
+    <date year="2025" month="January" day="6"/>
+    <workgroup>Technical Architecture Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-design-principles-20250106"/>
+</reference>
