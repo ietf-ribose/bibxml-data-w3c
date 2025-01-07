@@ -1,0 +1,9 @@
+<reference anchor="W3C.string-search" target="https://www.w3.org/TR/string-search/">
+  <front>
+    <title>String Searching</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C NOTE" value="string-search"/>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="W3C.DNOTE-string-search-20250107" target="https://www.w3.org/TR/2025/DNOTE-string-search-20250107/">
+  <front>
+    <title>String Searching</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <date year="2025" month="January" day="7"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="DNOTE-string-search-20250107"/>
+</reference>
