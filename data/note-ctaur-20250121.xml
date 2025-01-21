@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-ctaur-20240710" target="https://www.w3.org/TR/2024/DNOTE-ctaur-20240710/">
+<reference anchor="W3C.NOTE-ctaur-20250121" target="https://www.w3.org/TR/2025/NOTE-ctaur-20250121/">
   <front>
     <title>Collaboration Tools Accessibility User Requirements</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Scott Hollier">
       <organization/>
     </author>
-    <date year="2024" month="July" day="10"/>
+    <date year="2025" month="January" day="21"/>
     <workgroup>Accessible Platform Architectures</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-ctaur-20240710"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-ctaur-20250121"/>
 </reference>

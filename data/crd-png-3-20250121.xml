@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-png-3-20240718" target="https://www.w3.org/TR/2024/CRD-png-3-20240718/">
+<reference anchor="W3C.CRD-png-3-20250121" target="https://www.w3.org/TR/2025/CRD-png-3-20250121/">
   <front>
     <title>Portable Network Graphics (PNG) Specification (Third Edition)</title>
     <author>
@@ -10,6 +10,9 @@
     <author role="editor" fullname="Chris Lilley">
       <organization/>
     </author>
+    <author role="editor" fullname="Chris Needham">
+      <organization/>
+    </author>
     <author role="editor" fullname="Chris Seeger">
       <organization/>
     </author>
@@ -19,8 +22,11 @@
     <author role="editor" fullname="Pierre-Anthony Lemieux">
       <organization/>
     </author>
-    <date year="2024" month="July" day="18"/>
+    <author role="editor" fullname="Simon Thompson">
+      <organization/>
+    </author>
+    <date year="2025" month="January" day="21"/>
     <workgroup>Portable Network Graphics (PNG) Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-png-3-20240718"/>
+  <seriesInfo name="W3C CR" value="CRD-png-3-20250121"/>
 </reference>
