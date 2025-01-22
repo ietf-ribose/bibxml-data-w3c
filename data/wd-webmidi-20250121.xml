@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webmidi-20250114" target="https://www.w3.org/TR/2025/WD-webmidi-20250114/">
+<reference anchor="W3C.WD-webmidi-20250121" target="https://www.w3.org/TR/2025/WD-webmidi-20250121/">
   <front>
     <title>Web MIDI API</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Michael Wilson">
       <organization/>
     </author>
-    <date year="2025" month="January" day="14"/>
+    <date year="2025" month="January" day="21"/>
     <workgroup>Audio Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webmidi-20250114"/>
+  <seriesInfo name="W3C WD" value="WD-webmidi-20250121"/>
 </reference>
