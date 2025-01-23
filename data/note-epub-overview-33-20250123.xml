@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-epub-overview-33-20250121" target="https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250121/">
+<reference anchor="W3C.NOTE-epub-overview-33-20250123" target="https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250123/">
   <front>
     <title>EPUB 3 Overview</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Matt Garrish">
       <organization/>
     </author>
-    <date year="2025" month="January" day="21"/>
+    <date year="2025" month="January" day="23"/>
     <workgroup>Publishing Maintenance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-epub-overview-33-20250121"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-epub-overview-33-20250123"/>
 </reference>
