@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-khmr-gap-20240710" target="https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240710/">
+<reference anchor="W3C.DNOTE-khmr-gap-20250124" target="https://www.w3.org/TR/2025/DNOTE-khmr-gap-20250124/">
   <front>
     <title>Khmer Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="July" day="10"/>
+    <date year="2025" month="January" day="24"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-khmr-gap-20240710"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-khmr-gap-20250124"/>
 </reference>
