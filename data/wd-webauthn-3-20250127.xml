@@ -1,0 +1,26 @@
+<reference anchor="W3C.WD-webauthn-3-20250127" target="https://www.w3.org/TR/2025/WD-webauthn-3-20250127/">
+  <front>
+    <title>Web Authentication: An API for accessing Public Key Credentials - Level 3</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Akshay Kumar">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Emil Lundberg">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Matthew Miller">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Michael Jones">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Tim Cappalli">
+      <organization/>
+    </author>
+    <date year="2025" month="January" day="27"/>
+    <workgroup>Web Authentication Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-webauthn-3-20250127"/>
+</reference>

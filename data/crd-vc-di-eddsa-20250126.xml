@@ -1,26 +1,26 @@
-<reference anchor="W3C.CRD-vc-data-model-2.0-20250123" target="https://www.w3.org/TR/2025/CRD-vc-data-model-2.0-20250123/">
+<reference anchor="W3C.CRD-vc-di-eddsa-20250126" target="https://www.w3.org/TR/2025/CRD-vc-di-eddsa-20250126/">
   <front>
-    <title>Verifiable Credentials Data Model v2.0</title>
+    <title>Data Integrity EdDSA Cryptosuites v1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
-    <author role="editor" fullname="Gabe Cohen">
+    <author role="editor" fullname="Dmitri Zagidulin">
       <organization/>
     </author>
-    <author role="editor" fullname="Ivan Herman">
+    <author role="editor" fullname="Greg Bernstein">
       <organization/>
     </author>
     <author role="editor" fullname="Manu Sporny">
       <organization/>
     </author>
-    <author role="editor" fullname="Michael Jones">
+    <author role="editor" fullname="Sebastian Crane">
       <organization/>
     </author>
     <author role="editor" fullname="Ted Thibodeau Jr">
       <organization/>
     </author>
-    <date year="2025" month="January" day="23"/>
+    <date year="2025" month="January" day="26"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-vc-data-model-2.0-20250123"/>
+  <seriesInfo name="W3C CR" value="CRD-vc-di-eddsa-20250126"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-controller-document-20250120" target="https://www.w3.org/TR/2025/WD-controller-document-20250120/">
+<reference anchor="W3C.WD-controller-document-20250126" target="https://www.w3.org/TR/2025/WD-controller-document-20250126/">
   <front>
     <title>Controlled Identifiers (CIDs) v1.0</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Michael Jones">
       <organization/>
     </author>
-    <date year="2025" month="January" day="20"/>
+    <date year="2025" month="January" day="26"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-controller-document-20250120"/>
+  <seriesInfo name="W3C WD" value="WD-controller-document-20250126"/>
 </reference>
