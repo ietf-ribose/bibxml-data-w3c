@@ -1,0 +1,9 @@
+<reference anchor="W3C.did-1.1" target="https://www.w3.org/TR/did-1.1/">
+  <front>
+    <title>Decentralized Identifiers (DIDs) v1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+  </front>
+  <seriesInfo name="W3C WD" value="did-1.1"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="W3C.WD-did-1.1-20250128" target="https://www.w3.org/TR/2025/WD-did-1.1-20250128/">
+  <front>
+    <title>Decentralized Identifiers (DIDs) v1.1</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Dmitri Zagidulin">
+      <organization/>
+    </author>
+    <author role="editor" fullname="Manu Sporny">
+      <organization/>
+    </author>
+    <date year="2025" month="January" day="28"/>
+    <workgroup>Decentralized Identifier Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C WD" value="WD-did-1.1-20250128"/>
+</reference>
