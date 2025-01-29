@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-wasm-js-api-2-20250124" target="https://www.w3.org/TR/2025/CRD-wasm-js-api-2-20250124/">
+<reference anchor="W3C.CRD-wasm-js-api-2-20250128" target="https://www.w3.org/TR/2025/CRD-wasm-js-api-2-20250128/">
   <front>
     <title>WebAssembly JavaScript Interface</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname=". Ms2ger">
       <organization/>
     </author>
-    <date year="2025" month="January" day="24"/>
+    <date year="2025" month="January" day="28"/>
     <workgroup>WebAssembly Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-wasm-js-api-2-20250124"/>
+  <seriesInfo name="W3C CR" value="CRD-wasm-js-api-2-20250128"/>
 </reference>
