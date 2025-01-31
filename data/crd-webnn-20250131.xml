@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-webnn-20250129" target="https://www.w3.org/TR/2025/CRD-webnn-20250129/">
+<reference anchor="W3C.CRD-webnn-20250131" target="https://www.w3.org/TR/2025/CRD-webnn-20250131/">
   <front>
     <title>Web Neural Network API</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Ningxin Hu">
       <organization/>
     </author>
-    <date year="2025" month="January" day="29"/>
+    <date year="2025" month="January" day="31"/>
     <workgroup>Web Machine Learning Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-webnn-20250129"/>
+  <seriesInfo name="W3C CR" value="CRD-webnn-20250131"/>
 </reference>

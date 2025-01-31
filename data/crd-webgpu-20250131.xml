@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-webgpu-20250116" target="https://www.w3.org/TR/2025/CRD-webgpu-20250116/">
+<reference anchor="W3C.CRD-webgpu-20250131" target="https://www.w3.org/TR/2025/CRD-webgpu-20250131/">
   <front>
     <title>WebGPU</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Kai Ninomiya">
       <organization/>
     </author>
-    <date year="2025" month="January" day="16"/>
+    <date year="2025" month="January" day="31"/>
     <workgroup>GPU for the Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-webgpu-20250116"/>
+  <seriesInfo name="W3C CR" value="CRD-webgpu-20250131"/>
 </reference>
