@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-network-error-logging-20250203" target="https://www.w3.org/TR/2025/WD-network-error-logging-20250203/">
+<reference anchor="W3C.WD-network-error-logging-20250205" target="https://www.w3.org/TR/2025/WD-network-error-logging-20250205/">
   <front>
     <title>Network Error Logging</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Ian Clelland">
       <organization/>
     </author>
-    <date year="2025" month="February" day="3"/>
+    <date year="2025" month="February" day="5"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-network-error-logging-20250203"/>
+  <seriesInfo name="W3C WD" value="WD-network-error-logging-20250205"/>
 </reference>
