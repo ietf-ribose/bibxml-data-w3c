@@ -1,6 +1,6 @@
-<reference anchor="W3C.CR-cid-1.0-20250130" target="https://www.w3.org/TR/2025/CR-cid-1.0-20250130/">
+<reference anchor="W3C.CRD-cid-1.0-20250207" target="https://www.w3.org/TR/2025/CRD-cid-1.0-20250207/">
   <front>
-    <title>Controlled Identifiers (CIDs) v1.0</title>
+    <title>Controlled Identifiers v1.0</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Michael Jones">
       <organization/>
     </author>
-    <date year="2025" month="January" day="30"/>
+    <date year="2025" month="February" day="7"/>
     <workgroup>Verifiable Credentials Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CR-cid-1.0-20250130"/>
+  <seriesInfo name="W3C CR" value="CRD-cid-1.0-20250207"/>
 </reference>

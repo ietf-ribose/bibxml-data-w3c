@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-did-resolution-20250122" target="https://www.w3.org/TR/2025/WD-did-resolution-20250122/">
+<reference anchor="W3C.WD-did-resolution-20250206" target="https://www.w3.org/TR/2025/WD-did-resolution-20250206/">
   <front>
     <title>Decentralized Identifier Resolution (DID Resolution) v0.3</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Markus Sabadello">
       <organization/>
     </author>
-    <date year="2025" month="January" day="22"/>
+    <date year="2025" month="February" day="6"/>
     <workgroup>Decentralized Identifier Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-did-resolution-20250122"/>
+  <seriesInfo name="W3C WD" value="WD-did-resolution-20250206"/>
 </reference>

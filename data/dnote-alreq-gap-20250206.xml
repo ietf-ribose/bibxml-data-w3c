@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-alreq-gap-20250117" target="https://www.w3.org/TR/2025/DNOTE-alreq-gap-20250117/">
+<reference anchor="W3C.DNOTE-alreq-gap-20250206" target="https://www.w3.org/TR/2025/DNOTE-alreq-gap-20250206/">
   <front>
     <title>Arabic Script Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2025" month="January" day="17"/>
+    <date year="2025" month="February" day="6"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-alreq-gap-20250117"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-alreq-gap-20250206"/>
 </reference>
