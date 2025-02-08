@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-WGSL-20250124" target="https://www.w3.org/TR/2025/CRD-WGSL-20250124/">
+<reference anchor="W3C.CRD-WGSL-20250207" target="https://www.w3.org/TR/2025/CRD-WGSL-20250207/">
   <front>
     <title>WebGPU Shading Language</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Mehmet Oguz Derin">
       <organization/>
     </author>
-    <date year="2025" month="January" day="24"/>
+    <date year="2025" month="February" day="7"/>
     <workgroup>GPU for the Web Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-WGSL-20250124"/>
+  <seriesInfo name="W3C CR" value="CRD-WGSL-20250207"/>
 </reference>

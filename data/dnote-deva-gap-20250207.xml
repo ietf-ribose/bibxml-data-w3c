@@ -1,4 +1,4 @@
-<reference anchor="W3C.DNOTE-deva-gap-20240920" target="https://www.w3.org/TR/2024/DNOTE-deva-gap-20240920/">
+<reference anchor="W3C.DNOTE-deva-gap-20250207" target="https://www.w3.org/TR/2025/DNOTE-deva-gap-20250207/">
   <front>
     <title>Devanagari Gap Analysis</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="September" day="20"/>
+    <date year="2025" month="February" day="7"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="DNOTE-deva-gap-20240920"/>
+  <seriesInfo name="W3C NOTE" value="DNOTE-deva-gap-20250207"/>
 </reference>
