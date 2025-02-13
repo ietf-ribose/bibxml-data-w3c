@@ -1,6 +1,6 @@
-<reference anchor="W3C.WD-magnetometer-20241008" target="https://www.w3.org/TR/2024/WD-magnetometer-20241008/">
+<reference anchor="W3C.WD-proximity-20250212" target="https://www.w3.org/TR/2025/WD-proximity-20250212/">
   <front>
-    <title>Magnetometer</title>
+    <title>Proximity Sensor</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Rijubrata Bhaumik">
       <organization/>
     </author>
-    <date year="2024" month="October" day="8"/>
+    <date year="2025" month="February" day="12"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-magnetometer-20241008"/>
+  <seriesInfo name="W3C WD" value="WD-proximity-20250212"/>
 </reference>

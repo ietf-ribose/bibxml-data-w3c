@@ -1,11 +1,8 @@
-<reference anchor="W3C.WD-webcodecs-20250129" target="https://www.w3.org/TR/2025/WD-webcodecs-20250129/">
+<reference anchor="W3C.WD-webcodecs-20250212" target="https://www.w3.org/TR/2025/WD-webcodecs-20250212/">
   <front>
     <title>WebCodecs</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
-    </author>
-    <author role="editor" fullname="Bernard Aboba">
-      <organization/>
     </author>
     <author role="editor" fullname="Eugene Zemtsov">
       <organization/>
@@ -13,8 +10,8 @@
     <author role="editor" fullname="Paul Adenot">
       <organization/>
     </author>
-    <date year="2025" month="January" day="29"/>
+    <date year="2025" month="February" day="12"/>
     <workgroup>Media Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webcodecs-20250129"/>
+  <seriesInfo name="W3C WD" value="WD-webcodecs-20250212"/>
 </reference>

@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-accelerometer-20241009" target="https://www.w3.org/TR/2024/CRD-accelerometer-20241009/">
+<reference anchor="W3C.CRD-accelerometer-20250212" target="https://www.w3.org/TR/2025/CRD-accelerometer-20250212/">
   <front>
     <title>Accelerometer</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Anssi Kostiainen">
       <organization/>
     </author>
-    <date year="2024" month="October" day="9"/>
+    <date year="2025" month="February" day="12"/>
     <workgroup>Devices and Sensors Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-accelerometer-20241009"/>
+  <seriesInfo name="W3C CR" value="CRD-accelerometer-20250212"/>
 </reference>

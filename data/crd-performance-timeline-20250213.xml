@@ -1,0 +1,14 @@
+<reference anchor="W3C.CRD-performance-timeline-20250213" target="https://www.w3.org/TR/2025/CRD-performance-timeline-20250213/">
+  <front>
+    <title>Performance Timeline</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Nicolas Pena Moreno">
+      <organization/>
+    </author>
+    <date year="2025" month="February" day="13"/>
+    <workgroup>Web Performance Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C CR" value="CRD-performance-timeline-20250213"/>
+</reference>
