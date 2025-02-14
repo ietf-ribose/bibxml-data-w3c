@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-screen-capture-20250124" target="https://www.w3.org/TR/2025/WD-screen-capture-20250124/">
+<reference anchor="W3C.WD-screen-capture-20250213" target="https://www.w3.org/TR/2025/WD-screen-capture-20250213/">
   <front>
     <title>Screen Capture</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Jan-Ivar Bruaroey">
       <organization/>
     </author>
-    <date year="2025" month="January" day="24"/>
+    <date year="2025" month="February" day="13"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-screen-capture-20250124"/>
+  <seriesInfo name="W3C WD" value="WD-screen-capture-20250213"/>
 </reference>

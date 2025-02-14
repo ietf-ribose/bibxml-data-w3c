@@ -1,4 +1,4 @@
-<reference anchor="W3C.NOTE-international-specs-20241017" target="https://www.w3.org/TR/2024/NOTE-international-specs-20241017/">
+<reference anchor="W3C.NOTE-international-specs-20250213" target="https://www.w3.org/TR/2025/NOTE-international-specs-20250213/">
   <front>
     <title>Internationalization Best Practices for Spec Developers</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Richard Ishida">
       <organization/>
     </author>
-    <date year="2024" month="October" day="17"/>
+    <date year="2025" month="February" day="13"/>
     <workgroup>Internationalization Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C NOTE" value="NOTE-international-specs-20241017"/>
+  <seriesInfo name="W3C NOTE" value="NOTE-international-specs-20250213"/>
 </reference>
