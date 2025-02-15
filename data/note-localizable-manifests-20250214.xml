@@ -1,0 +1,14 @@
+<reference anchor="W3C.NOTE-localizable-manifests-20250214" target="https://www.w3.org/TR/2025/NOTE-localizable-manifests-20250214/">
+  <front>
+    <title>Developing Localizable Manifests</title>
+    <author>
+      <organization abbrev="W3C">W3C</organization>
+    </author>
+    <author role="editor" fullname="Addison Phillips">
+      <organization/>
+    </author>
+    <date year="2025" month="February" day="14"/>
+    <workgroup>Internationalization Working Group</workgroup>
+  </front>
+  <seriesInfo name="W3C NOTE" value="NOTE-localizable-manifests-20250214"/>
+</reference>
