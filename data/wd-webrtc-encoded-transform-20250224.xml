@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webrtc-encoded-transform-20250213" target="https://www.w3.org/TR/2025/WD-webrtc-encoded-transform-20250213/">
+<reference anchor="W3C.WD-webrtc-encoded-transform-20250224" target="https://www.w3.org/TR/2025/WD-webrtc-encoded-transform-20250224/">
   <front>
     <title>WebRTC Encoded Transform</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="youenn fablet">
       <organization/>
     </author>
-    <date year="2025" month="February" day="13"/>
+    <date year="2025" month="February" day="24"/>
     <workgroup>Web Real-Time Communications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webrtc-encoded-transform-20250213"/>
+  <seriesInfo name="W3C WD" value="WD-webrtc-encoded-transform-20250224"/>
 </reference>
