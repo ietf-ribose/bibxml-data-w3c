@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-event-timing-20240819" target="https://www.w3.org/TR/2024/WD-event-timing-20240819/">
+<reference anchor="W3C.WD-event-timing-20250224" target="https://www.w3.org/TR/2025/WD-event-timing-20250224/">
   <front>
     <title>Event Timing API</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Tim Dresser">
       <organization/>
     </author>
-    <date year="2024" month="August" day="19"/>
+    <date year="2025" month="February" day="24"/>
     <workgroup>Web Performance Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-event-timing-20240819"/>
+  <seriesInfo name="W3C WD" value="WD-event-timing-20250224"/>
 </reference>
