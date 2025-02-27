@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-webdriver-bidi-20250225" target="https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/">
+<reference anchor="W3C.WD-webdriver-bidi-20250227" target="https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/">
   <front>
     <title>WebDriver BiDi</title>
     <author>
@@ -13,8 +13,8 @@
     <author role="editor" fullname="Maksim Sadym">
       <organization/>
     </author>
-    <date year="2025" month="February" day="25"/>
+    <date year="2025" month="February" day="27"/>
     <workgroup>Browser Testing and Tools Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-webdriver-bidi-20250225"/>
+  <seriesInfo name="W3C WD" value="WD-webdriver-bidi-20250227"/>
 </reference>

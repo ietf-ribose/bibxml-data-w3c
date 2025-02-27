@@ -1,4 +1,4 @@
-<reference anchor="W3C.WD-rdf12-xml-20250201" target="https://www.w3.org/TR/2025/WD-rdf12-xml-20250201/">
+<reference anchor="W3C.WD-rdf12-xml-20250226" target="https://www.w3.org/TR/2025/WD-rdf12-xml-20250226/">
   <front>
     <title>RDF 1.2 XML Syntax</title>
     <author>
@@ -7,8 +7,8 @@
     <author role="editor" fullname="Gregg Kellogg">
       <organization/>
     </author>
-    <date year="2025" month="February" day="1"/>
+    <date year="2025" month="February" day="26"/>
     <workgroup>RDF-star Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C WD" value="WD-rdf12-xml-20250201"/>
+  <seriesInfo name="W3C WD" value="WD-rdf12-xml-20250226"/>
 </reference>

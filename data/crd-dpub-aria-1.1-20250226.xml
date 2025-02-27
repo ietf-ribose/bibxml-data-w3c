@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-dpub-aria-1.1-20250225" target="https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250225/">
+<reference anchor="W3C.CRD-dpub-aria-1.1-20250226" target="https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250226/">
   <front>
     <title>Digital Publishing WAI-ARIA Module 1.1</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Tzviya Siegman">
       <organization/>
     </author>
-    <date year="2025" month="February" day="25"/>
+    <date year="2025" month="February" day="26"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-dpub-aria-1.1-20250225"/>
+  <seriesInfo name="W3C CR" value="CRD-dpub-aria-1.1-20250226"/>
 </reference>
