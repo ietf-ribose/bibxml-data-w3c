@@ -1,4 +1,4 @@
-<reference anchor="W3C.CRD-dpub-aam-1.1-20240621" target="https://www.w3.org/TR/2024/CRD-dpub-aam-1.1-20240621/">
+<reference anchor="W3C.CRD-dpub-aam-1.1-20250228" target="https://www.w3.org/TR/2025/CRD-dpub-aam-1.1-20250228/">
   <front>
     <title>Digital Publishing Accessibility API Mappings 1.1</title>
     <author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Tzviya Siegman">
       <organization/>
     </author>
-    <date year="2024" month="June" day="21"/>
+    <date year="2025" month="February" day="28"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-dpub-aam-1.1-20240621"/>
+  <seriesInfo name="W3C CR" value="CRD-dpub-aam-1.1-20250228"/>
 </reference>
