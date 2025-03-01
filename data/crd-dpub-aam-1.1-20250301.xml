@@ -1,6 +1,6 @@
-<reference anchor="W3C.CRD-dpub-aria-1.1-20250226" target="https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250226/">
+<reference anchor="W3C.CRD-dpub-aam-1.1-20250301" target="https://www.w3.org/TR/2025/CRD-dpub-aam-1.1-20250301/">
   <front>
-    <title>Digital Publishing WAI-ARIA Module 1.1</title>
+    <title>Digital Publishing Accessibility API Mappings 1.1</title>
     <author>
       <organization abbrev="W3C">W3C</organization>
     </author>
@@ -10,8 +10,8 @@
     <author role="editor" fullname="Tzviya Siegman">
       <organization/>
     </author>
-    <date year="2025" month="February" day="26"/>
+    <date year="2025" month="March" day="1"/>
     <workgroup>Accessible Rich Internet Applications Working Group</workgroup>
   </front>
-  <seriesInfo name="W3C CR" value="CRD-dpub-aria-1.1-20250226"/>
+  <seriesInfo name="W3C CR" value="CRD-dpub-aam-1.1-20250301"/>
 </reference>
